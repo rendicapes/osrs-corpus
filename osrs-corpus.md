@@ -1,0 +1,468 @@
+# OSRS Signal — last 24h
+
+2026-08-18 19:54 UTC · 107 findings after merging duplicates (from 139 raw hits)
+
+## Vanished — removed or deleted after posting  (1)
+
+- **🗑 vanished from reddit — deleted by the author — Is not only UX whoever thinks this kind of implementations of restrictions is just turning a switch off or on have to be the most **
+  - vanished · 2h ago · XtremeLeecher · +4 more posts on this incident · score 39
+  - matched: vanished, bug
+  - same incident (vanished, for some reason, runescape classic, walked away), also reported as:
+    - 🗑 vanished from reddit — removed (deleted) — Being poor is the most fun you can have in t
+    - 🗑 vanished from reddit — removed (deleted) — My Account is in Limbo
+    - 🗑 vanished from reddit — deleted by the author — It’s been here since RuneScape classic. 
+    - 🗑 vanished from reddit — deleted by the author — I enjoy playing an IM adjacent style but
+  - https://www.reddit.com/r/2007scape/comments/1vqndmv/i_sincerely_hope_jagex_is_not_considering_of/p46soj2/
+  - captured before it went:
+    > Is not only UX whoever thinks this kind of implementations of restrictions is just turning a switch off or on have to be the most naive person ever to exis The sheer amount of developing, beta testing and QA to ensure that all this doesnt permeate to other areas or that bug arises because someone locked themselves to a single chunk but also selected ironman but also is a 1 def pure Honestly...
+
+## Active bug notices (wiki)  (2)
+
+- **🐛 active bug notice added — Legends' Quest**
+  - bugs · 2h ago · score 42
+  - matched: new bug notice
+  - notice: Attempting to take the gem back after it has been placed on the stalagmites can cause it to be lost forever.
+  - https://oldschool.runescape.wiki/w/Legends'_Quest
+- **🐛 active bug notice added — Fletching knife**
+  - wiki, bugs · 23h ago · seen 2x · score 42
+  - matched: new bug notice
+  - https://oldschool.runescape.wiki/w/Fletching_knife
+
+## Bugs & exploits  (19)
+
+- **fyi the 2007 point and click adventure game is older than that, I started playing rs2 in 01, and classic is older still, that's just the year 'old school' was built on bc that was **
+  - comment · 1h ago · Cascadiaaaaaa · score 37
+  - matched: rollback, classic
+  - https://www.reddit.com/r/2007scape/comments/1vrqrxn/still_in_2026/p4gvtwb/
+- **Log in bugged**
+  - search · 13h ago · Dark-K · score 43
+  - matched: [question], bugged, glitch
+  - https://www.reddit.com/r/2007scape/comments/1vrh4yg/log_in_bugged/
+- **Vampyre Kraken bug - bounty tasks not improving dragon metal sheet drop rate? Requesting more data!**
+  - r/2007scape, r/ironscape · 16h ago · Such-Struggle-7515 · seen 2x · score 34
+  - matched: bug, bugged, drop rate
+  - https://www.reddit.com/r/2007scape/comments/1vrdass/vampyre_kraken_bug_bounty_tasks_not_improving/
+- **Remaining membership not displaying my full year.**
+  - r/2007scape · 20h ago · Atrimon7 · score 28
+  - matched: [question], bug, anyone else having
+  - https://www.reddit.com/r/2007scape/comments/1vr7y25/remaining_membership_not_displaying_my_full_year/
+- **▶ The Falador Massacre... RuneScape&#39;s Most Infamous Day (6/6/6) #osrs #runescape**
+  - youtube · 7h ago · Sama OSRS · seen 2x · score 19
+  - matched: bug
+  - https://www.youtube.com/watch?v=r5RESIpHkTc
+- **Ardougne castle chest elite clue bugged?**
+  - r/2007scape · 3h ago · TongaKiller · score 17
+  - matched: [question], bugged
+  - https://www.reddit.com/r/2007scape/comments/1vrtq2x/ardougne_castle_chest_elite_clue_bugged/
+- **Using Entangle on The Whisperer broken?**
+  - search · 14h ago · RsKevin · score 17
+  - matched: [question], bug
+  - https://www.reddit.com/r/2007scape/comments/1vrfnng/using_entangle_on_the_whisperer_broken/
+- **What does this red symbol mean?**
+  - search · 19h ago · MilkxCookies2 · score 17
+  - matched: [question], bug
+  - https://www.reddit.com/r/2007scape/comments/1vr91te/what_does_this_red_symbol_mean/
+- **See and maybe I'm a sucker, but based on Mod North's comments, it sounds as though even their investors are generally on board for the long term, but only time will tell. Interesti**
+  - comment · 21m ago · 0bscure0ne · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vr8mkx/why_bot_include_the_option_too_expensive/p4h9tou/
+- **Your title to the post is has mobile development stopped. Despite them explicitly mentioning MES multiple times over the last year, and specifically mentioning a fix in the pipelin**
+  - comment · 58m ago · boforbojack · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vri6om/has_mobile_development_stopped/p4h1kjn/
+- **there is also the bugged elite clue step where you have to talk to the dwarf on fossil island, Jardric. If you have two elite clue scrolls and one is Jardric, if you drop Jardric a**
+  - comment · 1h ago · EuphPagle · score 13
+  - matched: bugged
+  - https://www.reddit.com/r/2007scape/comments/1vrv4vo/whats_one_leagues_item_you_want_to_come_to_the/p4gof93/
+- **Mine are average of 12min :( My pb is like 9min 45seconds lol. TBH I didn’t even think 50 attack would be possible but sounds like you get it done. Nice! And yeah, apparently not t**
+  - comment · 2h ago · ScikPK · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vrg97v/log_from_14754_phosanis_nightmare_rank_2_phosanis/p4glzvy/
+- **That's not supposed to happen. Hope this helps**
+  - comment · 20h ago · RichardFarter · score 13
+  - matched: not supposed to
+  - https://www.reddit.com/r/2007scape/comments/1vr7y25/remaining_membership_not_displaying_my_full_year/p4bhkia/
+- **Because Jagex employees are the only ones who can have client-side issues?.. Just wanted to know if this is a common bug or if it's a "just my unlucky self" issue. I also searched **
+  - comment · 20h ago · Atrimon7 · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vr7y25/remaining_membership_not_displaying_my_full_year/p4bgdsh/
+- **I agree, I am currently 3.7k dry no uniques delves 1-7. Submitted a bug report we'll see what they say.**
+  - comment · 20h ago · Trickst3rgod · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vf7i7l/doom_drop_rates_are_bugged/p4beay1/
+- **Oh true! Forgot about TOA. Yeah, no reason 33% shouldn't work in that case.**
+  - comment · 21h ago · InnuendOwO · score 13
+  - matched: shouldn't work
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4b4nxa/
+- **Absolutely agree. The crux of what I think the general issue is, is that the mechanics are uniquely wonky and provide an opportunity to exploit to those who don’t know. Personally,**
+  - comment · 21h ago · IndividualPlay3 · score 13
+  - matched: exploit
+  - https://www.reddit.com/r/2007scape/comments/1vr5bnc/i_dont_understand_the_logic_behind_teleblock/p4b16py/
+- **The amount of people that act like being 3x dry is a bug amazes me.**
+  - comment · 21h ago · Fuck_Your_Cat_Post · score 13
+  - matched: bug
+  - https://www.reddit.com/r/ironscape/comments/1vr621q/i_was_told_this_boss_has_two_unique_drops/p4b142l/
+- **It’s a spec weapon, it’s not like it was game breaking **
+  - comment · 23h ago · Business-Bus-9439 · score 13
+  - matched: game breaking
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4ajsu3/
+
+## Jagex & J-Mod  (1)
+
+- **If Mod Ash guaranteed you this loot for 1k kills. Would you lock it in? Or roll the dice on better RNG?**
+  - r/ironscape · 15h ago · No_Historian7509 · score 15
+  - matched: mod ash
+  - https://www.reddit.com/r/ironscape/comments/1vrf958/if_mod_ash_guaranteed_you_this_loot_for_1k_kills/
+
+## Mechanics & wiki corrections  (84)
+
+- **>You aren't teleporting you are walking through a door? Do I just have to sit here and wait 5 minutes for it to go away? It's so ferox isn't a way for people doing callisto and rev**
+  - comment · 21h ago · Pretend-Dot3557 · +4 more posts on this incident · score 36
+  - matched: can't be attacked, splashing
+  - same incident (can't be attacked, splashing, logout timer), also reported as:
+    - The problem is you have content creators like Theoatrix who use the term “AFK” all the tim
+    - All combat skills have several afk methods Magic has splashing All of woodcutting can be a
+    - \>it's always had a colloquial meaning of low intensity. Nope. That's where most of the co
+    - I’d say realistically there’s only a select few afk activities you can do while deep focus
+  - https://www.reddit.com/r/2007scape/comments/1vr5bnc/i_dont_understand_the_logic_behind_teleblock/p4b4od8/
+- **I was pissed when I got an eternal gem but it's honestly such a nice teleport item. As someone who uses task storage a lot it's also super nice to be able to teleport directly to a**
+  - comment · 23h ago · charredgrass · score 36
+  - matched: task storage, unstore
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4aibuc/
+- **Tick eating has been in OSRS since release.**
+  - comment · 22h ago · Springstof · score 32
+  - matched: tick eating
+  - https://www.reddit.com/r/2007scape/comments/1vr3cf6/16_years_ago_these_were_considered_max_hits_how/p4amvf7/
+- **That’s why food keeps getting introduced. Shark used to be the best food and there was nothing to tick-eat. Better food = more max health. Tick eating means faster recovery after a**
+  - comment · 23h ago · RheagarTargaryen · score 32
+  - matched: tick eating
+  - https://www.reddit.com/r/2007scape/comments/1vr3cf6/16_years_ago_these_were_considered_max_hits_how/p4afe2k/
+- **I do not. Each hit they do is another poison splat on the map. I didn't use them on my main either. Just death charge and demonbane. The thralls seriously pollute the floor a TON a**
+  - comment · 1h ago · Skullchaos · score 24
+  - matched: thralls, demonbane
+  - https://www.reddit.com/r/ironscape/comments/1vrtqcz/green_logged_doom_this_morning_thinking_of/p4gy2fn/
+- **Go to the official world lol, strength through numbers. Regen bracelet, hp cape and a shield. Don't think I've ever eaten there.**
+  - comment · 1h ago · rastaman1994 · score 24
+  - matched: regen bracelet
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4gw8gb/
+- **Yeah lmao. Hp cape and regen bracelet and you’re good **
+  - comment · 1h ago · LePwnz0rs · score 24
+  - matched: regen bracelet
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4gv5mi/
+- **I personally dont see a reason for BP at GWD or any point in slayer over a bowfa, bowfa let's u red x at gwd and use blood magic or sang staff to heal off creeps, and rosewood coul**
+  - comment · 1h ago · TurtleBrainMelt · score 24
+  - matched: red x
+  - https://www.reddit.com/r/ironscape/comments/1vrsvt8/the_biggest_bs_on_ironman_mode_is_anti_venom/p4gq0kd/
+- **I used haddock + blood spells for SOTE. They overheal +10, so not as good as brews but I really don't like the phoenix necklace method and I enjoy deep sea trawling **
+  - comment · 1h ago · ColorWheelOfFortune · score 24
+  - matched: phoenix necklace, overheal
+  - https://www.reddit.com/r/ironscape/comments/1vref9e/topic_of_the_day_unusual_grinds/p4gnb16/
+- **Tormented demons gear?**
+  - r/ironscape · 22h ago · nathanscott9323 · score 28
+  - matched: [question], thralls, demonbane
+  - https://www.reddit.com/r/ironscape/comments/1vr5cpu/tormented_demons_gear/
+- **Earlier in the progression, but IMO antifire potions are also weirdly restricted for what they do and how they are valued in the overall game economy. Green dragons are so far ahea**
+  - comment · 34m ago · ApothecaryAlyth · score 20
+  - matched: safespot
+  - https://www.reddit.com/r/ironscape/comments/1vrsvt8/the_biggest_bs_on_ironman_mode_is_anti_venom/p4h71h7/
+- **That shouldn't be an issue anymore, at least it wasn't last year when I did it. Also, in case you want to do it on mobile or it still doesn't work for you on PC, you can use an ite**
+  - comment · 1h ago · doom_chicken2 · score 20
+  - matched: pathing
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4gzjo0/
+- **You can do that? I thought they intentionally botched your pathing if you clicked the altar from the bank. I tried this back when extended render distances were relatively new. **
+  - comment · 1h ago · Unfair_Awareness7502 · score 20
+  - matched: pathing
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4grc43/
+- **Downgrade bandos to blood moon and get an extra 25M. Buy a lance for 48M. Get 95 slayer and a hydra task, send alchemical hydra (easy on mobile), cash flow solved. Can also send Vo**
+  - comment · 2h ago · DoctorKynes · score 24
+  - matched: scorching bow, emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vrvsi8/nally_or_emberlight/p4gh0qq/
+- **CMV: Bronzeman Mode Should Keep Skilling Requirements**
+  - r/2007scape · 5h ago · IIcarusII · score 24
+  - matched: flinch, chaos elemental
+  - https://www.reddit.com/r/2007scape/comments/1vrqlg5/cmv_bronzeman_mode_should_keep_skilling/
+- **>The synapse weapons are really all situational. I agree in general, but you are taking it too far, they still have some uses, especially for their price. >ScoBow is used for its r**
+  - comment · 20h ago · OrganicAirport2218 · score 24
+  - matched: demonbane, emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4baq0p/
+- **D knives into morg javelin. Used dark Bow for spec until unlocked morg javelin. Just wore mixed hide boots. I stacked a dragon throwing axe spec on top. Also sometimes would bring **
+  - comment · 21h ago · Ryantacular · +4 more posts on this incident · score 24
+  - matched: javelin, stacked
+  - same incident (stacked, max hit), also reported as:
+    - Crazy sire log
+    - I have mixed feelings. I do get worried about max hit power creep. I think it creates weir
+    - Look at accessing the shop as the reward , and by the time you get there you’ll be stacked
+    - At like 500k bloods and 300k souls stacked up right now. Idk feels pretty chill to me, but
+  - https://www.reddit.com/r/2007scape/comments/1via5we/account_build/p4b7qso/
+- **They'd be using alts to restock themselves and heal other , spec restore **
+  - comment · 21h ago · rabidai · score 24
+  - matched: heal other
+  - https://www.reddit.com/r/2007scape/comments/1vqz0wj/decided_to_check_the_araxscores_what_the_fuck/p4b66th/
+- **Sail to port sarim, takes about 45 seconds. Deposit cargo with crewmate. Run up to the guys who take you to karamja and deposit fish and barrel contents at the deposit box next to **
+  - comment · 22h ago · -Distinction · score 24
+  - matched: cargo, shipwright
+  - https://www.reddit.com/r/ironscape/comments/1vr0rag/i_can_afk_gem_crab_810_hours_per_day_at_work_is/p4aw1ut/
+- **Ring of suffering is bis at any content that does chip damage **
+  - comment · 22h ago · BlockIron · score 24
+  - matched: ring of suffering
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4avhwl/
+- **they kinda are in bis some ways tho, no? especially for non end-gamers. feels like each account absolutely needs two synapses which isn’t insignificant. and even their non-bis use **
+  - comment · 22h ago · egghuor · score 24
+  - matched: demonbane, emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4ash98/
+- **Wintertodt was the best thing they could have done to firemaking. They realized it was a bullshit useless skill so they added a really easy minigame that gives like 250k exp/hr, gi**
+  - comment · 7m ago · rotorain · score 17
+  - matched: can't remove it, wintertodt
+  - https://www.reddit.com/r/2007scape/comments/1vrz8r8/what_did_you_guys_do_when_you_finally_hit_base_54/p4hd21y/
+- **I heard Mod Husky talk about how they thought a lot about how salvaging would be the way to get loot while also being the best afk option. They were hesitant about that, but decide**
+  - comment · 28m ago · monsoy · score 17
+  - matched: got stuck, fishing trawler
+  - https://www.reddit.com/r/2007scape/comments/1vry1dv/whats_the_reason_of_sailing_fish_being_so_reliant/p4h8a4l/
+- **Bronzeman mode and Ironman limitations**
+  - r/2007scape · 58m ago · binley · score 16
+  - matched: [question], accept aid
+  - https://www.reddit.com/r/2007scape/comments/1vryg12/bronzeman_mode_and_ironman_limitations/
+- **Does the strange creature during secrets of the north not have an air weakness? The wiki says no but phantom muspah does so it seem like it should.**
+  - r/2007scape · 1h ago · Infinite_Worker_7562 · score 16
+  - matched: [question], wiki says
+  - https://www.reddit.com/r/2007scape/comments/1vrxvt8/does_the_strange_creature_during_secrets_of_the/
+- **Even places like dagannoth kings, I’ll click a mid-south tile from the safe spot for Rex and run west into supreme, then south to my target tile. Better awareness from early agilit**
+  - comment · 22h ago · troubledanddoubled · score 20
+  - matched: safe spot
+  - https://www.reddit.com/r/2007scape/comments/1vqzreu/hot_take_agility_training_should_be_reworked_to/p4arcb5/
+- **Nally or emberlight**
+  - r/2007scape · 2h ago · Boring_Childhood_270 · score 16
+  - matched: [question], emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vrvsi8/nally_or_emberlight/
+- **Wanting to learn Barbarian assault**
+  - r/2007scape · 4h ago · madmichael95 · score 16
+  - matched: [question], barbarian assault
+  - https://www.reddit.com/r/2007scape/comments/1vrsn9c/wanting_to_learn_barbarian_assault/
+- **If I were to give my next enhanced to a fellow GIM, what item/grind should I trade it for?**
+  - r/ironscape · 5h ago · skyguy13 · score 16
+  - matched: [question], scorching bow
+  - https://www.reddit.com/r/ironscape/comments/1vrrbrj/if_i_were_to_give_my_next_enhanced_to_a_fellow/
+- **> You can't remove it without ruining the pedal You can certainly replace it with another switch if you have the electronics know-how. The switch it uses isn't magical, it's just a**
+  - comment · 22m ago · zClarkinator · score 12
+  - matched: can't remove it
+  - https://www.reddit.com/r/2007scape/comments/1vroz8y/non_clicky_foot_pedel/p4h9mf2/
+- **I mean it is a nebulous unofficial mode that has been around for 7+ years with countless different interpretations. Ironing out what ruleset we are going to designate as ‘official’**
+  - comment · 24m ago · UnluckyNate · score 12
+  - matched: ruleset
+  - https://www.reddit.com/r/2007scape/comments/1vryg12/bronzeman_mode_and_ironman_limitations/p4h9c7a/
+- **You just need to put detached camera on and the click position doesn’t change no matter what. Then click away in whatever rhythm you desire**
+  - comment · 39m ago · SuperSpod · score 12
+  - matched: detached camera
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4h5ps4/
+- **let me try to list the actual AFK activities that i can think of. (by afk i mean that after setting up, you could walk downstairs, get a cup of water, hit the bathroom and your cha**
+  - comment · 1h ago · Trainer149 · score 12
+  - matched: goading potion
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4h0f1q/
+- **Fishing from your boat is afk now. Sharks and anglers can be afk for more than 10 min now and they can be stored in the cargo hold.**
+  - comment · 1h ago · Afexodus · score 12
+  - matched: cargo
+  - https://www.reddit.com/r/2007scape/comments/1vrwit0/i_was_told_this_zeah_runecrafting_was_supposed_to/p4gz6vi/
+- **Go into settings turn off edge zones and check gesture swipes as well. Possible Jagex simply made it so the controls go into a "safe area"**
+  - comment · 1h ago · loudrogue · score 12
+  - matched: safe area
+  - https://www.reddit.com/r/2007scape/comments/1vrva10/osrs_mobile_layout/p4gttl5/
+- **Cant boost elite clue scroll?**
+  - r/osrs · 1h ago · __Zer0__ · score 12
+  - matched: not boostable
+  - https://www.reddit.com/r/osrs/comments/1vrx1ze/cant_boost_elite_clue_scroll/
+- **How did you only use one of them for thieving? Did you manually open coin pouches? I've never done ardy knight thieving before & considering returning this pedel for one with more **
+  - comment · 1h ago · matt-girard15 · score 12
+  - matched: coin pouches
+  - https://www.reddit.com/r/2007scape/comments/1vroz8y/non_clicky_foot_pedel/p4gmzl6/
+- **crying to keep existing content the same including near-universally hated or unused content is considerably worse**
+  - comment · 2h ago · Eldritch_Chemistry · score 12
+  - matched: unused content
+  - https://www.reddit.com/r/2007scape/comments/1vrnqrv/is_it_me_or_is_the_grinding_becoming_too_easy/p4glt4u/
+- **Next youre gonna say the new afk angler spot isnt afk enough because the fish dont go directly into the cargo hold**
+  - comment · 2h ago · OwMyCandle · score 12
+  - matched: cargo
+  - https://www.reddit.com/r/2007scape/comments/1vrubtd/bloodhound_letvek/p4gku6w/
+- **They're tied to the staff which has lore, it + the orbs come from the island of Ashihama which is where the nightmare came from originally. So yeah it kinda makes sense since the n**
+  - comment · 2h ago · DankestRuneScaper · score 12
+  - matched: ashihama
+  - https://www.reddit.com/r/2007scape/comments/1vrs09w/can_this_happen_before_raids_4_please/p4gku2p/
+- **Something to bear in mind with the Emberlight is that it's far more costly to revert than the other synapse weapons. That is, if you revert the Emberlight back to a synapse you los**
+  - comment · 2h ago · Max--RS · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vrvsi8/nally_or_emberlight/p4gh70o/
+- **I would actually consider Scobo over emberlight, you can do TDs with arclight + scobo, as well as free unlimited zammy kills with scobo specs + lightbearer, and you get access to a**
+  - comment · 2h ago · kriandria · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vrvsi8/nally_or_emberlight/p4ggn4w/
+- **Melee camp Zulrah with chally, Vard, Duke for the 1st phase (Emberlight is better when he speeds up his slams) it’s also great for Colo **
+  - comment · 2h ago · SublimeUndead · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/ironscape/comments/1vqxyns/nox_hally_finally_done/p4gdyyy/
+- **Cure me + veng + spellbook swap + tele to house is better for Zulrah anyway compared to chugging anti’s. **
+  - comment · 2h ago · Boner4Stoners · score 12
+  - matched: spellbook swap
+  - https://www.reddit.com/r/ironscape/comments/1vrsvt8/the_biggest_bs_on_ironman_mode_is_anti_venom/p4gbgit/
+- **Got my account back after a year!**
+  - r/2007scape · 3h ago · DavNasty- · score 12
+  - matched: tutorial island
+  - https://www.reddit.com/r/2007scape/comments/1vrubx4/got_my_account_back_after_a_year/
+- **interest4ed in skiller clan**
+  - r/2007scape · 5h ago · ColdMail2625 · score 12
+  - matched: partner slayer
+  - https://www.reddit.com/r/2007scape/comments/1vrqvnd/interest4ed_in_skiller_clan/
+- **Why cant we play OSRS and RS3 on the same account at the same time?**
+  - r/2007scape · 8h ago · pepeconnor · score 12
+  - matched: on rs3
+  - https://www.reddit.com/r/2007scape/comments/1vrmnzx/why_cant_we_play_osrs_and_rs3_on_the_same_account/
+- **Raids 4 item prices**
+  - r/2007scape · 8h ago · Shot-Advance-4665 · score 12
+  - matched: first week
+  - https://www.reddit.com/r/2007scape/comments/1vrm5i6/raids_4_item_prices/
+- **To whoever designed Barbarian Assault..**
+  - r/2007scape · 10h ago · NebulaCartographer · score 12
+  - matched: barbarian assault
+  - https://www.reddit.com/r/2007scape/comments/1vrk2jn/to_whoever_designed_barbarian_assault/
+- **I think it's quite no brainer. Having 99 hp and defense will make every aspect of the game more cozy. Idk if people train it there, but 99 magic also will increase your magic defen**
+  - comment · 20h ago · TofuPython · score 12
+  - matched: magic defense
+  - https://www.reddit.com/r/ironscape/comments/1vr0rag/i_can_afk_gem_crab_810_hours_per_day_at_work_is/p4bhmo9/
+- **You can fish at sea and the fishing spots don’t move , so for anglerfish for example you are afk however long it takes to get an inventory. You can stand next to the cargo hold so **
+  - comment · 20h ago · maverick935 · score 12
+  - matched: cargo
+  - https://www.reddit.com/r/2007scape/comments/1vqjxkp/have_a_question_about_the_game_or_the_subreddit/p4bgjeg/
+- **I really like magic skill cape for spellbook swap **
+  - comment · 20h ago · YaquiWay · score 12
+  - matched: spellbook swap
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4bg42b/
+- **They've made several static spots in the ocean that you can fish off your ship to catch the fish, and they are storable in your cargo hold. The spots don't disappear so you can afk**
+  - comment · 20h ago · Charizard_YRs · score 12
+  - matched: cargo
+  - https://www.reddit.com/r/2007scape/comments/1vqjxkp/have_a_question_about_the_game_or_the_subreddit/p4bfiln/
+- **Another issue is people like you don’t even know about risk fighting, NH staking, or BH or how active those places are. When Reddit hears “PVP”, all they think is deep wildy pking **
+  - comment · 20h ago · ScikPK · score 12
+  - matched: staking
+  - https://www.reddit.com/r/2007scape/comments/1vr5zdy/pvp_is_going_to_die_because_of_reddits_antipvp/p4bfc9n/
+- **Player vs. Player is different than PKing. My post is about PVP (fair fights with fair rules where both parties want to fight each other… like BH, PVP world GE, Edge, risking, NH s**
+  - comment · 20h ago · ScikPK · score 12
+  - matched: staking
+  - https://www.reddit.com/r/2007scape/comments/1vr5zdy/pvp_is_going_to_die_because_of_reddits_antipvp/p4bdlbk/
+- **Brotherman just use what you want and play around with it. All this calc bs is just new age min/maxing. You don't always need to have the most cracked out builds, those are just a **
+  - comment · 21h ago · tnerb253 · score 12
+  - matched: scorching bow
+  - https://www.reddit.com/r/ironscape/comments/1vr5cpu/tormented_demons_gear/p4b4vf8/
+- **Suggestion: raid 4 reward - coin pouch**
+  - r/2007scape · 21h ago · beans9222 · score 12
+  - matched: coin pouch
+  - https://www.reddit.com/r/2007scape/comments/1vr6mm8/suggestion_raid_4_reward_coin_pouch/
+- **You mean telegrab room surely**
+  - comment · 21h ago · ImpliedHorizon · score 12
+  - matched: telegrab
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4b0oal/
+- **I got stuck in a mine cart during Forgettable Tale**
+  - r/osrs · 21h ago · ubiquetouss · score 12
+  - matched: got stuck
+  - https://www.reddit.com/r/osrs/comments/1vr6fa2/i_got_stuck_in_a_mine_cart_during_forgettable_tale/
+- **If we assume that he's getting the *Grandmaster* speed time of 90 seconds on *every kill*, that's still 4 hours of Araxxor every day. And that doesn't include banking or Turael ski**
+  - comment · 22h ago · BigBossOssium · score 12
+  - matched: block list
+  - https://www.reddit.com/r/2007scape/comments/1vqz0wj/decided_to_check_the_araxscores_what_the_fuck/p4axy46/
+- **Nechs are burst tasks. They’re one of the best tasks in terms of xp/hr, they profit gp even when buying ice barrage runes (which you should use asap). I’ve killed nearly 7000 of th**
+  - comment · 22h ago · TruthAffectionate595 · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/ironscape/comments/1vr5cpu/tormented_demons_gear/p4axuyg/
+- **You made it to a safe zone. The PKer lost. Womp womp. That's how it should be anyways. Crazy how many advantages Jagex gives PKers over people literally not even geared or prepared**
+  - comment · 22h ago · macnar · +4 more in this thread on the same terms · score 12
+  - matched: safe zone
+  - https://www.reddit.com/r/2007scape/comments/1vr5bnc/i_dont_understand_the_logic_behind_teleblock/p4awnkw/
+- **You could use whip it's not too bad but I recommend doing catacombs slayer tasks until you're close to fully infused for making emberlight. grind is not too bad **
+  - comment · 22h ago · vashhoney · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/ironscape/comments/1vr5cpu/tormented_demons_gear/p4as83z/
+- **I dont understand the logic behind Teleblock preventing you from entering Ferrox Enclave**
+  - r/2007scape · 22h ago · dmfuller · score 12
+  - matched: safe area
+  - https://www.reddit.com/r/2007scape/comments/1vr5bnc/i_dont_understand_the_logic_behind_teleblock/
+- **I think they feel bad on ice demon in cox. I always used to take them to 3 spec down ice demon it felt so satisfying, now I have to bring emberlight which just feels boring.**
+  - comment · 22h ago · Shimexas · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4aq62j/
+- **Wtf 26mil ranged, that isn't normal I'm 92 slayer and 97 mage 97 range. 93/97/93 melees And I did an okay amount of crabbing honestly. But really only trained mage via bursting sla**
+  - comment · 22h ago · GodSPAMit · score 12
+  - matched: bones to peaches
+  - https://www.reddit.com/r/ironscape/comments/1vr0rag/i_can_afk_gem_crab_810_hours_per_day_at_work_is/p4ano4r/
+- **So I agree that telegrab is easy to unlock. But it still takes more effort than simply getting the sailing req and hunter level. Thus why I distinct it, and the issue I have is tha**
+  - comment · 22h ago · Jikued · score 12
+  - matched: telegrab
+  - https://www.reddit.com/r/2007scape/comments/1vr46ta/does_anyone_else_find_it_odd_that_the_lower_level/p4amam8/
+- **I don't understand this high level/low level distinction you're making. It requires the same hunter level whether your telegrabbing or not. Telegrab is only 33 mage, barely a requi**
+  - comment · 23h ago · CivicInk · score 12
+  - matched: telegrab
+  - https://www.reddit.com/r/2007scape/comments/1vr46ta/does_anyone_else_find_it_odd_that_the_lower_level/p4aksou/
+- **Tick eat those range hits friend. **
+  - comment · 23h ago · TheGreenRiverDiddler · +2 more in this thread on the same terms · score 12
+  - matched: tick eat
+  - https://www.reddit.com/r/2007scape/comments/1vqp68r/the_zulrah_experience/p4akbux/
+- **I've always hated the argument for 2 reasons. 1: if that's what I wanna do, that's what a wanna do. I could also be not logged in, why not get the afk xp? 2: higher combat makes sl**
+  - comment · 23h ago · dusksloth · score 12
+  - matched: not logged
+  - https://www.reddit.com/r/ironscape/comments/1vr0rag/i_can_afk_gem_crab_810_hours_per_day_at_work_is/p4ajfwm/
+- **No but if I’m running a emberlight/scobow/purging staff against demons, do I swap to burning claws for the spec, or just use the synapse weapon specs? **
+  - comment · 23h ago · Troll_Tactics · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4aj01n/
+- **So nice for hunter rumours to have all the bones auto buried without taking up an inventory slot.**
+  - comment · 23h ago · rubbishindividual · score 12
+  - matched: inventory slot
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4aiwjv/
+- **My issue isn't that the cattleprod method is slower its rather inconsistency in effort between the methods. The issue I have is that the telekinetic grab method reduces it to "clic**
+  - comment · 23h ago · Jikued · +2 more in this thread on the same terms · score 12
+  - matched: telekinetic grab
+  - https://www.reddit.com/r/2007scape/comments/1vr46ta/does_anyone_else_find_it_odd_that_the_lower_level/p4aiwbl/
+- **karams, chocolate bombs and purple sweets have been in the game for decades, i guess people just didn't know**
+  - comment · 23h ago · welcomefiend · score 12
+  - matched: purple sweets
+  - https://www.reddit.com/r/2007scape/comments/1vr3cf6/16_years_ago_these_were_considered_max_hits_how/p4airns/
+- **They are good against normal enemies but excel against demonic enemies. In many cases I’d take them over dds due to their burn damage.**
+  - comment · 23h ago · pancakes_n_petrichor · +2 more in this thread on the same terms · score 12
+  - matched: burn damage
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4ahyki/
+- **Does anyone else find it odd that the "lower level" method of goat hunting is more effort and click intensive?**
+  - r/2007scape · 23h ago · Jikued · score 12
+  - matched: telekinetic grab
+  - https://www.reddit.com/r/2007scape/comments/1vr46ta/does_anyone_else_find_it_odd_that_the_lower_level/
+- **But against demons I want to be using demonbane specs **
+  - comment · 23h ago · Troll_Tactics · +5 more in this thread on the same terms · score 12
+  - matched: demonbane
+  - https://www.reddit.com/r/2007scape/comments/1vr3say/popular_take_return_burning_claws_spec_back_to_30/p4ahrsz/
+- **That's still an insane KD ratio, I got way more stupid deaths during some longer sessions / bad days lol. Hopefully you get blessed soon. What worked for me was randomly find Settl**
+  - comment · 23h ago · ModSwoon · score 12
+  - matched: worked for me
+  - https://www.reddit.com/r/ironscape/comments/1vqzdhq/lord_i_have_seen_what_you_have_done_for_others/p4afap1/
+- **I'm taking any of magus, lb or RotG over suffering here. The defense bonus doesn't really matter at a boss where you're hitting the pool/totem every kill anyway without having to e**
+  - comment · 23h ago · rubbishindividual · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4aej1o/
+- **yea i ended up breaking my emberlight down just for the contract. luckily had 20 shards and 30ish dark totems in my bank for after i finished it. **
+  - comment · 23h ago · toozeetouoz · score 12
+  - matched: emberlight
+  - https://www.reddit.com/r/ironscape/comments/1vr250z/extra_synapse/p4ad439/
+- **Using demonbane weapons the Str Ammy is better for me at 99 Str **
+  - comment · 23h ago · RyukenSaab · score 12
+  - matched: demonbane
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4acr2d/
+- **Cow boss on a f2p world**
+  - comment · 23h ago · extremeasaurus · score 12
+  - matched: f2p world
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4aahx2/
+- **Is it when you can dock at Musa Point and deposit all your cargo with one click? (I’m asking, I haven’t tried yet).**
+  - comment · 23h ago · deadlylegacy · score 12
+  - matched: cargo
+  - https://www.reddit.com/r/ironscape/comments/1vr0rag/i_can_afk_gem_crab_810_hours_per_day_at_work_is/p4a9z1q/
+- **People have run sims on this and the strength amulet is almost always better than a glory just for the dps increase -> timesave over running a glory on tasks where you are praying **
+  - comment · 23h ago · aidanhoff · score 12
+  - matched: overheads
+  - https://www.reddit.com/r/ironscape/comments/1vr29ct/which_piece_of_gear_doesnt_get_the_recognition_it/p4a8s3j/
+
+---
+
+Not included: 931 findings older than 24h. Widen with `__osrs.report(48)` in the console.
