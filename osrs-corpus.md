@@ -1,243 +1,263 @@
 # OSRS Signal — last 24h
 
-2026-08-20 12:08 UTC · 54 findings after merging duplicates (from 68 raw hits)
+2026-08-20 13:04 UTC · 59 findings after merging duplicates (from 73 raw hits)
 
 ## Active bug notices (wiki)  (6)
 
 - **🐛 active bug notice added — Alry the Angler's Angling Accessories**
-  - bugs · 4h ago · score 42
+  - bugs · 5h ago · score 42
   - matched: new bug notice
   - notice: This is currently bugged and the barbarian rod does not show up.
   - https://oldschool.runescape.wiki/w/Alry_the_Angler's_Angling_Accessories
 - **🐛 active bug notice added — Mayor of Catherby**
-  - bugs · 5h ago · seen 2x · score 42
+  - bugs · 6h ago · seen 2x · score 42
   - matched: new bug notice
   - notice: If the mayor of Catherby is banked, it is considered lost. When getting a replacement, the banked one is replaced with the new mayor.
   - https://oldschool.runescape.wiki/w/Mayor_of_Catherby
 - **🐛 active bug notice added — Crystal of Echoes**
-  - bugs · 7h ago · seen 2x · score 42
+  - bugs · 8h ago · seen 2x · score 42
   - matched: new bug notice
   - notice: The crystal currently cannot store a value above 127 for Hitpoints, even if the player is overhealed beyond it. This is due to the value stored by the crystal being represented by 7 bits.
   - https://oldschool.runescape.wiki/w/Crystal_of_Echoes
 - **🐛 active bug notice added — Medallion of the Deep**
-  - bugs · 7h ago · seen 2x · score 42
+  - bugs · 8h ago · seen 2x · score 42
   - matched: new bug notice
   - notice: The medallion cannot currently be reclaimed when stored in the STASH.
   - https://oldschool.runescape.wiki/w/Medallion_of_the_Deep
 - **🐛 active bug notice added — Trident of the Seas (e)**
-  - bugs · 7h ago · seen 2x · score 42
+  - bugs · 8h ago · seen 2x · score 42
   - matched: new bug notice
   - notice: Attempting to fully charge a trident will consume the runes and coins without granting charges.
   - https://oldschool.runescape.wiki/w/Trident_of_the_Seas_(e)
 - **✔ bug notice removed — Golden needle — may be a silent fix worth testing**
-  - bugs · 7h ago · score 26
+  - bugs · 8h ago · score 26
   - matched: bug notice cleared
   - https://oldschool.runescape.wiki/w/Golden_needle
 
-## Bugs & exploits  (12)
+## Bugs & exploits  (13)
 
 - **I didn't even mention the guy, wild assumption that I'm not happy he didn't get screwed. My comment was explicitly regarding everyone gassing up Jagex in the comments for fixing 1 **
-  - comment · 7h ago · ApprehensiveSeagull6 · score 25
+  - comment · 8h ago · ApprehensiveSeagull6 · score 25
   - matched: rollback
   - https://www.reddit.com/r/2007scape/comments/1vs69u8/i_got_my_imbued_heart_back_thank_you_jmods/p4ri0hr/
 - **Lost items are still bugged**
-  - search · 17h ago · twosmaltos · score 25
+  - search · 18h ago · twosmaltos · score 25
   - matched: bugged, kept on death
   - https://www.reddit.com/r/2007scape/comments/1vsvh76/lost_items_are_still_bugged/
 - **Can’t open the official client because of files on my laptop that are there, but aren’t there… F windows 11 and F reddit for making me retry this a 3rd time in 5 minutes!**
-  - r/osrs · 21h ago · Fiend4BlueDream · score 24
+  - r/osrs · 22h ago · Fiend4BlueDream · score 24
   - matched: glitch, for some reason
   - https://www.reddit.com/r/osrs/comments/1vsnwiz/cant_open_the_official_client_because_of_files_on/
 - **Possible GIM storage bug**
-  - search · 15h ago · DepressedStaffMan · score 18
+  - search · 16h ago · DepressedStaffMan · score 18
   - matched: bug, release day
   - https://www.reddit.com/r/2007scape/comments/1vsyrw0/possible_gim_storage_bug/
+- **I get a suspicious feeling this change wasn’t intentional. Do you have a source that this change was intended?**
+  - comment · 42m ago · Warmonster9 · score 13
+  - matched: intended?
+  - https://www.reddit.com/r/2007scape/comments/1vt3twl/banshees_maybe_others_currently_drop_noted_2x/p4t6ew0/
 - **If they can give back items lost due to world reboots then they should take away HC status for the lucky ones who died and got rolled back ! **
-  - comment · 30m ago · Revolutionary_Desk99 · score 13
+  - comment · 1h ago · Revolutionary_Desk99 · score 13
   - matched: rolled back
   - https://www.reddit.com/r/2007scape/comments/1vs69u8/i_got_my_imbued_heart_back_thank_you_jmods/p4sypez/
 - **He eats bugs everyone **
-  - comment · 1h ago · RyukzReign · score 13
+  - comment · 2h ago · RyukzReign · score 13
   - matched: bugs
   - https://www.reddit.com/r/2007scape/comments/1vslix3/anyone_testing_the_lantern_at_zmi/p4sqm48/
 - **I took pictures because I myself thought I was reading something wrong lmao. “Is there anything else I can help you with today?” I submitted a bug report and you deleted my account**
-  - comment · 6h ago · KelticCeltic · +2 more in this thread on the same terms · score 13
+  - comment · 7h ago · KelticCeltic · +2 more in this thread on the same terms · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/p4rrsyy/
 - **For the record, I don’t think you’re wrong, and I think your explanation is sufficient and it would’ve died there. Instead what you see is what happened — and to be fair the bot to**
-  - comment · 6h ago · KelticCeltic · score 13
+  - comment · 7h ago · KelticCeltic · score 13
   - matched: exploited
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/p4rmfc8/
 - **Weird rounding bug with runecrafting**
-  - r/2007scape · 11h ago · WaveDashSpeedKick · score 13
+  - r/2007scape · 12h ago · WaveDashSpeedKick · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vt44px/weird_rounding_bug_with_runecrafting/
 - **another god damn bug! C'mon jagex, we're up to finding 2 a day at this rate!**
-  - x · 11h ago · @Emzlisle · score 13
+  - x · 12h ago · @Emzlisle · score 13
   - matched: bug, gate:named
   - https://x.com/Emzlisle/status/2090231267526611282
 - **How is my 15 year old account name offensive? What is happening? I just wanted to report a bug.**
-  - r/2007scape · 12h ago · KelticCeltic · score 13
+  - r/2007scape · 13h ago · KelticCeltic · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/
 - **seriously thinking of quitting this mode, constant bugs and relics not working, I am not having fun at all, and it's making me not trust the @RuneScape dev team at all. @JagexYuey **
-  - x · 17h ago · @Emzlisle · score 13
+  - x · 18h ago · @Emzlisle · score 13
   - matched: bugs, gate:named
   - https://x.com/Emzlisle/status/2090146124468273423
 
-## Jagex & J-Mod  (4)
+## Jagex & J-Mod  (3)
 
 - **🟣 32 J-Mod replies — How is my 15 year old account name offensive? What is happening? I just wanted to report a**
-  - comment · 3h ago · JagexJelly · score 30
+  - comment · 4h ago · JagexJelly · score 30
   - matched: J-Mod
   - https://www.reddit.com/comments/1vt2dxt
 - **🟣 27 J-Mod replies — Haven't played Runescape in decades - any guides I can follow?**
-  - comment · 4h ago · JagexSarnie · score 30
+  - comment · 5h ago · JagexSarnie · score 30
   - matched: J-Mod
   - https://www.reddit.com/comments/1vt2hej
 - **🟣 31 J-Mod replies — Just died to triple jad in the inferno**
-  - comment · 4h ago · JagexSarnie · score 30
+  - comment · 5h ago · JagexSarnie · score 30
   - matched: J-Mod
   - https://www.reddit.com/comments/1vtcisp
-- **Well done Jagex, the Birdhouse changes were EXTREMELY needed**
-  - r/2007scape · 23h ago · crinklepant · score 15
-  - matched: integrity
-  - https://www.reddit.com/r/2007scape/comments/1vskls1/well_done_jagex_the_birdhouse_changes_were/
 
 ## "You can do this" finds  (1)
 
 - **Just learn to tick eat it. You can still dd with the team but tick eat in case you get trolled. Not that hard to learn, just look for his head bobbing **
-  - comment · 6h ago · Emotional_Permit5845 · score 23
+  - comment · 7h ago · Emotional_Permit5845 · score 23
   - matched: you can still, tick eat
   - https://www.reddit.com/r/2007scape/comments/1vta7hc/soteseg_large_red_ball_nerf/p4rm7hl/
 
-## Mechanics & wiki corrections  (31)
+## Mechanics & wiki corrections  (36)
 
 - **Lizardman Shaman Changes?**
-  - r/2007scape · 9h ago · hanalister6969 · score 40
+  - r/2007scape · 10h ago · hanalister6969 · score 40
   - matched: safe spot, pathing
   - https://www.reddit.com/r/2007scape/comments/1vt784l/lizardman_shaman_changes/
 - **That's just how the game works. The multicannon, for example, calls utility functions to find targets and check line of sight, as another example. Although my assumptions for how t**
-  - comment · 5h ago · nty · score 32
+  - comment · 6h ago · nty · score 32
   - matched: line of sight
   - https://www.reddit.com/r/2007scape/comments/1vsxmuk/did_anything_really_change_with_venator_bow/p4ruenm/
+- **Tbow, Masori (f), and blowpipe with dragon darts for ranged is generally going to be your best bet. Avas, anguish, and barrows gloves should be good for the other slots. If you don**
+  - comment · 49m ago · yahboiyeezy · score 22
+  - matched: echo boots, ring of suffering
+  - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4t53t3/
 - **Its like vibe coding for efficient pathing, I genuinely dont get it. Most of the time its not even close or competitive to the best methods/routes.**
-  - comment · 12m ago · Jackbob7 · score 20
+  - comment · 1h ago · Jackbob7 · score 20
   - matched: pathing
   - https://www.reddit.com/r/ironscape/comments/1vtfzf4/psa_if_you_are_low_on_gold_for_construction/p4t1uep/
 - **You will go through some RNG checks like pet rolls, like Mining (kind of your only way of getting Bolts). Then there is the matter of supplies. Can't do Grubby chests for supplies,**
-  - comment · 7h ago · HeroinHare · score 23
+  - comment · 8h ago · HeroinHare · score 23
   - matched: for some reason, smuggle
   - https://www.reddit.com/r/2007scape/comments/1vt8kvz/2_clog_infernal_cape/p4rh07b/
-- **No. What I said was, let’s say months have passed since you used the trick to smuggle out the circle, if you then find yourself annoyed at the game from blocking you access to cert**
-  - comment · 1h ago · acouplethreetimes · score 17
-  - matched: smuggle, chaos elemental
-  - https://www.reddit.com/r/2007scape/comments/1vsofc0/hows_this_guy_all_black_also_what_about_the_blue/p4sm60p/
 - **Cooks assistant, Sheep Shearer, Varrock museum quest, Children of the Sun, witches house, waterfall, Fairytale part I and start part II, HAM questline until I get bone crossbow the**
-  - comment · 5h ago · ongojongo · score 20
+  - comment · 6h ago · ongojongo · score 20
   - matched: safespot
   - https://www.reddit.com/r/ironscape/comments/1vt5jcv/its_your_first_24_hours_as_an_ironman_what_do_you/p4rub2t/
 - **Elder custodians**
-  - r/2007scape · 14h ago · Tasty_Unit_5683 · score 20
+  - r/2007scape · 15h ago · Tasty_Unit_5683 · score 20
   - matched: safe spot
   - https://www.reddit.com/r/2007scape/comments/1vt0h4b/elder_custodians/
 - **✎ Mastering Mixology — no longer needs herblore requirement**
-  - wiki · 10h ago · Roo092 · score 19
+  - wiki · 11h ago · Roo092 · score 19
   - matched: behaviour edit
   - https://oldschool.runescape.wiki/w/Mastering_Mixology
 - **I know that when you have a Manticore on the left and a Shaman on the right behind north pillar and you click the Shaman, because the Manticore moves slower you had to stall 1 tick**
-  - comment · 4h ago · xaitv · score 18
+  - comment · 5h ago · xaitv · score 18
   - matched: stall, manticore
   - https://www.reddit.com/r/2007scape/comments/1vsxmuk/did_anything_really_change_with_venator_bow/p4s27u2/
 - **Haven't played Runescape in decades - any guides I can follow?**
-  - r/2007scape · 12h ago · Titan_AC · score 18
+  - r/2007scape · 13h ago · Titan_AC · score 18
   - matched: J-Mod reply · no bug content, tutorial island
   - https://www.reddit.com/r/2007scape/comments/1vt2hej/havent_played_runescape_in_decades_any_guides_i/
 - **Spudworks: DMM All Stars Finale**
-  - r/2007scape · 57s ago · JagexSarnie · score 14
+  - r/2007scape · 56m ago · JagexSarnie · score 14
   - matched: J-Mod · no bug content
   - https://www.reddit.com/r/2007scape/comments/1vthnpq/spudworks_dmm_all_stars_finale/
+- **No. What I said was, let’s say months have passed since you used the trick to smuggle out the circle, if you then find yourself annoyed at the game from blocking you access to cert**
+  - comment · 2h ago · acouplethreetimes · score 17
+  - matched: smuggle, chaos elemental
+  - https://www.reddit.com/r/2007scape/comments/1vsofc0/hows_this_guy_all_black_also_what_about_the_blue/p4sm60p/
 - **Lantern breakdown - blisterwood offers 750 bonus blood runes per hour over redwood**
-  - r/2007scape · 12h ago · WaveDashSpeedKick · score 16
+  - r/2007scape · 13h ago · WaveDashSpeedKick · score 16
   - matched: tick perfect, doesn't stack
   - https://www.reddit.com/r/2007scape/comments/1vt3eje/lantern_breakdown_blisterwood_offers_750_bonus/
+- **I verified pearls dropped to the ground, so I assumed tench would work the same. Looks like someone updated the wiki to note this too!**
+  - comment · 34s ago · Lizzardsizzle · score 12
+  - matched: dropped to the ground
+  - https://www.reddit.com/r/2007scape/comments/1vth5m2/gold_tench_drops_on_the_ground_aerial_fishing/p4teizq/
+- **You aren’t taking another switch for the max, but for the accuracy. Splashing on nibblers can be harshly punishing, especially if you have a slow solve. **
+  - comment · 8m ago · Away_Bodybuilder_997 · score 12
+  - matched: splashing
+  - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4td0oo/
+- **My setup is max mage with shadow Melee: full blood moon, fang, nox hally Range: full crystal + bowfa + blowpipe If you have gp left, I’d get soul reaper axe, ayak, then Oathplate **
+  - comment · 19m ago · Yourmotor · score 12
+  - matched: soul reaper axe
+  - https://www.reddit.com/r/2007scape/comments/1vtibrr/returning_from_break_got_25b_to_get_gear_back/p4tapzr/
+- **This is exactly a case of why you should take things with a grain of salt. More mage switches in inferno isn't for accuracy, it's to up your chances of 1 shotting nibblers. Serious**
+  - comment · 47m ago · iBrowseAtStarbucks · score 12
+  - matched: negative attack bonus
+  - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4t5jo4/
 - **Somewhere around 2022 you'd shit yourself laughing from my drunk ToB run with some buddies one night. He got stuck in webs and instead of attacking the webs I veng'd him as he died**
-  - comment · 15m ago · PeopleWatching92 · score 12
+  - comment · 1h ago · PeopleWatching92 · score 12
   - matched: got stuck
   - https://www.reddit.com/r/2007scape/comments/1vqdel3/does_anyone_look_at_the_name_and_cb_lvl_of_almost/p4t19c5/
 - **anguish, masori f, echo boots, conf gaunt, and a blowpipe. you probably will need a cheap mage top like ahrims since youre learning and will be barrage a lot of stuff for health. f**
-  - comment · 18m ago · KocoLocoa · score 12
+  - comment · 1h ago · KocoLocoa · score 12
   - matched: echo boots
   - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4t0rc0/
 - **I think the wilderness should be an absolute free for all as it is now. But for BH, it could be worth some kind of a tier system or having a BH world that has something like LMS eq**
-  - comment · 38m ago · rainyengineer · score 12
+  - comment · 1h ago · rainyengineer · score 12
   - matched: stacked
   - https://www.reddit.com/r/2007scape/comments/1vtfte6/do_you_think_simple_low_risk_pvp_could_ever/p4sxdst/
 - **I really hope they get these right. Sailing combat has so much potential to be really unique and interesting with the movement mechanics/strafeing, ability to target different thin**
-  - comment · 39m ago · Blackxp · score 12
+  - comment · 1h ago · Blackxp · score 12
   - matched: environmental damage
   - https://www.reddit.com/r/2007scape/comments/1vstp1s/revisiting_pirate_encounters/p4sxcx5/
 - **No we absolutely will not. Third Age alone would theoretically take 25+ years at 24 hours a day with peak efficiency. The issue isn’t 90% of the log, it’s the final 10%. You do rea**
-  - comment · 48m ago · bar901 · score 12
+  - comment · 1h ago · bar901 · score 12
   - matched: third age
   - https://www.reddit.com/r/2007scape/comments/1vtgduc/should_jagex_reward_players_for_finishing_the/p4svuro/
 - **you still put kingdom on herbs and the overflow on teaks/mahogs OR pure teaks it is plenty still**
   - comment · 1h ago · loopuleasa · score 12
   - matched: overflow
   - https://www.reddit.com/r/ironscape/comments/1vtfzf4/psa_if_you_are_low_on_gold_for_construction/p4stnop/
+- **Just died to triple jad in the inferno**
+  - r/2007scape · 5h ago · vergetto · score 13
+  - matched: J-Mod reply · no bug content
+  - https://www.reddit.com/r/2007scape/comments/1vtcisp/just_died_to_triple_jad_in_the_inferno/
 - **Need 95 to get them zesty zealot robes brother. Need 99 to have a matching cape for your pyromancer outfit for whenever the netherlands play football, just to name a few **
-  - comment · 1h ago · DrakenbalZetpil · score 12
+  - comment · 2h ago · DrakenbalZetpil · score 12
   - matched: pyromancer
   - https://www.reddit.com/r/2007scape/comments/1vtg0qb/what_is_the_hunter_skill_for/p4st54k/
 - **It feeds into other skills. Ranging ammo, herbs, furs for Crafting, butterflies, etc **
-  - comment · 1h ago · Jalieus · +2 more in this thread on the same terms · score 12
+  - comment · 2h ago · Jalieus · +2 more in this thread on the same terms · score 12
   - matched: butterflies
   - https://www.reddit.com/r/2007scape/comments/1vtg0qb/what_is_the_hunter_skill_for/p4srvqv/
 - **Are they not uncommon from totems? Wiki says 1/55 for 2-3 roots. How many offerings are you getting per hour? **
-  - comment · 1h ago · Devan- · score 12
+  - comment · 2h ago · Devan- · score 12
   - matched: wiki says
   - https://www.reddit.com/r/2007scape/comments/1vtf8yr/antivenoms/p4sr7aq/
 - **That’s fair. Personally I wish you could block a subset of hunts, e.g butterflies. I play a lot on mobile and trying to tap those tiny little bastards as they flap around is an abs**
-  - comment · 1h ago · WarspitesGuns · score 12
+  - comment · 2h ago · WarspitesGuns · score 12
   - matched: butterflies
   - https://www.reddit.com/r/2007scape/comments/1vtchip/hunter_rumours_are_really_well_made/p4smvhn/
-- **Just died to triple jad in the inferno**
-  - r/2007scape · 4h ago · vergetto · score 13
-  - matched: J-Mod reply · no bug content
-  - https://www.reddit.com/r/2007scape/comments/1vtcisp/just_died_to_triple_jad_in_the_inferno/
 - **Lmao, no. Raids are group content by design. The main restriction for irons is to not be able to trade by any means, and to not get boosted like GWD tanking, which is no longer pos**
-  - comment · 2h ago · HeroinHare · score 12
+  - comment · 3h ago · HeroinHare · score 12
   - matched: no longer possible
   - https://www.reddit.com/r/2007scape/comments/1vtdvia/restrict_irons_to_solo_only_in_the_fractured/p4secq2/
 - **Banking in between houses is a xp waste, there is a big chance you will always have a few planks left before you got to restock. So might as well lose 2 spots for more efficient tp**
-  - comment · 4h ago · Comfortable_Diet1497 · score 12
+  - comment · 5h ago · Comfortable_Diet1497 · score 12
   - matched: banking in
   - https://www.reddit.com/r/ironscape/comments/1vta4k2/mahogany_homes_efficiency/p4rzv6y/
 - **Think that's faster than spellbook swap TP? I'd lose two inv spaces. I genuinely don't know. May do this for a while and any good small efficiency decisions I make now could be a n**
-  - comment · 6h ago · Degenerate_Game · +2 more in this thread on the same terms · score 12
+  - comment · 7h ago · Degenerate_Game · +2 more in this thread on the same terms · score 12
   - matched: spellbook swap
   - https://www.reddit.com/r/ironscape/comments/1vta4k2/mahogany_homes_efficiency/p4rp3l8/
 - **So we should change mechanics of an entire raid cuz you don’t know how to tick eat?**
-  - comment · 6h ago · Legitimate_Fun1983 · +4 more in this thread on the same terms · score 12
+  - comment · 7h ago · Legitimate_Fun1983 · +4 more in this thread on the same terms · score 12
   - matched: tick eat
   - https://www.reddit.com/r/2007scape/comments/1vta7hc/soteseg_large_red_ball_nerf/p4rlwr0/
 - **Mahogany Homes Efficiency**
-  - r/ironscape · 6h ago · Degenerate_Game · score 12
+  - r/ironscape · 7h ago · Degenerate_Game · score 12
   - matched: spellbook swap
   - https://www.reddit.com/r/ironscape/comments/1vta4k2/mahogany_homes_efficiency/
 - **Xp waste. My main's done a lot of slayer tasks where I've run out of the room and back to reset aggro and walked away for five minutes. It adds up really nicely.**
-  - comment · 7h ago · neon_lines · score 12
+  - comment · 8h ago · neon_lines · score 12
   - matched: walked away
   - https://www.reddit.com/r/2007scape/comments/1vskqdv/just_saw_a_maxxed_zuk_helmer_doing_the_salty/p4rjvmk/
 - **Which is why I asked them to clarify and make sure it was working as intended — that was the entire intent. Jmods can feel free to pull The chat and verify so long as they don’t do**
-  - comment · 7h ago · KelticCeltic · score 12
+  - comment · 8h ago · KelticCeltic · score 12
   - matched: not logged
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/p4rgmeg/
 - **Shooting stars, redwoods, amethyst, blast furnace pump, gem crab, karambwams, splashing. Hope that’s a good list to start you off.**
-  - comment · 8h ago · Savings-Coast-3890 · score 12
+  - comment · 9h ago · Savings-Coast-3890 · score 12
   - matched: splashing
   - https://www.reddit.com/r/ironscape/comments/1vt7u9n/what_are_good_grinds_to_do_at_work/p4r5sfg/
 
 ---
 
-Not included: 1001 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1002 findings older than 24h. Widen with `__osrs.report(48)` in the console.
