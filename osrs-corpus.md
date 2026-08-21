@@ -1,24 +1,24 @@
 # OSRS Signal — last 24h
 
-2026-08-21 10:32 UTC · 177 findings after merging duplicates (from 236 raw hits)
+2026-08-21 11:28 UTC · 184 findings after merging duplicates (from 246 raw hits)
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — deleted by the author — step around pillar to the left praying mage. let ranger pull up, step back around and kill ranger, staying on the corner tile so t**
-  - comment, vanished · 19h ago · highcarlos · seen 2x · score 40
+  - comment, vanished · 20h ago · highcarlos · seen 2x · score 40
   - matched: vanished, corner tile
   - https://www.reddit.com/r/2007scape/comments/1vtl6h6/learning_inferno_what_do_i_do_here/p4tyhrf/
   - captured before it went:
     > step around pillar to the left praying mage. let ranger pull up, step back around and kill ranger, staying on the corner tile so the blob on the mage side cant see you
 
-## Bugs & exploits  (56)
+## Bugs & exploits  (60)
 
 - **what was the game breaking bug? Google brings up plenty of small glitches, and not sure where to look for this. **
-  - comment · 16h ago · Mylife212 · score 39
+  - comment · 17h ago · Mylife212 · score 39
   - matched: bug, glitches
   - https://www.reddit.com/r/2007scape/comments/1vtpty0/runescape_classic_possibly_being_rereleased_by/p4v7h92/
 - **✎ Alry the Angler's Angling Accessories — Reword bug**
-  - wiki · 4h ago · Coopermor · score 28
+  - wiki · 5h ago · Coopermor · score 28
   - matched: bug edit
   - https://oldschool.runescape.wiki/w/Alry_the_Angler's_Angling_Accessories
 - **This is currently listed as a bug on the wiki, so prob not intended.**
@@ -26,111 +26,131 @@
   - matched: bug, not intended
   - https://www.reddit.com/r/2007scape/comments/1vu64my/medallion_of_the_deep_retrieval/p4ypivm/
 - **They’re old glitches from around when construction first came out and there wasn’t as much to do in runescape so there was a large bug abuse community. Many still work/are performe**
-  - comment · 14h ago · Dj_Bleezy · score 26
+  - comment · 15h ago · Dj_Bleezy · score 26
   - matched: bug, glitches
   - https://www.reddit.com/r/2007scape/comments/1vs76g8/how_is_he_holding_is_scythe_like_that/p4w1g9i/
 - **It was 99% bots online and there was a game breaking bug that wasnt worth the dev time to patch it.**
-  - comment · 16h ago · Mysandwichok · score 26
+  - comment · 17h ago · Mysandwichok · score 26
   - matched: bug, game breaking
   - https://www.reddit.com/r/2007scape/comments/1vtpty0/runescape_classic_possibly_being_rereleased_by/p4v637i/
 - **i like the visuals every once in a while but last time i tried it there were a decent amount of bugs, like unclickable orbs at yama for example. i made a few bug reports and was ba**
-  - comment · 17h ago · fish_ · score 26
+  - comment · 18h ago · fish_ · score 26
   - matched: bug, bugs
   - https://www.reddit.com/r/2007scape/comments/1vtllej/consensus_on_hdos/p4uw8m4/
 - **This happened to one of my clan mates who got a virtus robe top right before the rollback a couple days ago, and his claim was denied 😕 He’s not an Ironman but I know that drop me**
-  - comment · 4h ago · HotsauceOSRS · score 25
+  - comment · 5h ago · HotsauceOSRS · score 25
   - matched: rollback
   - https://www.reddit.com/r/2007scape/comments/1vs69u8/i_got_my_imbued_heart_back_thank_you_jmods/p4yynbe/
 - **You're going to run out of your way to order at the bar at quite a few places and drain your energy because of it. It'll probably be better not to hit the bars, especially early wh**
-  - comment · 20h ago · FallingOffAgain1776 · score 25
+  - comment · 21h ago · FallingOffAgain1776 · score 25
   - matched: unintended, purple sweets
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4tt0g6/
 - **Medallion of the Deep - retrieval**
-  - r/2007scape · 6h ago · IL_Bgentyl · score 23
+  - r/2007scape · 7h ago · IL_Bgentyl · score 23
   - matched: is this intended
   - https://www.reddit.com/r/2007scape/comments/1vu64my/medallion_of_the_deep_retrieval/
 - **Gravestone bug**
-  - r/2007scape · 7h ago · NxG_Smokey · score 23
+  - r/2007scape · 8h ago · NxG_Smokey · score 23
   - matched: bug, gravestone
   - https://www.reddit.com/r/2007scape/comments/1vu4hte/gravestone_bug/
 - **▶ Odablock LOST BECAUSE OF A GLITCH!?!?**
-  - youtube · 22h ago · Clipping World · score 19
+  - youtube · 23h ago · Clipping World · score 19
   - matched: glitch
   - https://www.youtube.com/watch?v=eZ4_xTQFW6w
 - **900kc with only 4 total rolls on the unique table (magus and 1 ingot luckily). I think Jagex bugged his drop table**
-  - comment · 10h ago · horridmistake · score 18
+  - comment · 11h ago · horridmistake · score 18
   - matched: bugged, drop table
   - https://www.reddit.com/r/ironscape/comments/1vtv8pl/those_who_grinded_sra_was_it_worth_it/p4xh9v7/
 - **Tiger Shark Loot Bugged**
-  - r/2007scape · 14h ago · Inevitable_Dance_268 · score 18
+  - r/2007scape · 15h ago · Inevitable_Dance_268 · score 18
   - matched: bugged, drop table
   - https://www.reddit.com/r/2007scape/comments/1vttl7n/tiger_shark_loot_bugged/
 - **Back in my day if you died in gwd u lost all your shit cus u wernt making it back or getting kc in time. Youd at best get to stand outside the door and watch as your items disappea**
-  - comment · 18h ago · mouses555 · score 18
+  - comment · 19h ago · mouses555 · score 18
   - matched: items disappeared, the void
   - https://www.reddit.com/r/ironscape/comments/1vtno0e/okay_ill_say_it_dying_in_gwd_is_fucking_dumb/p4ujzcx/
 - **Lol, the word "***between***" is doing a lot of heavy lifting in your argument. Bronzeman is as close to a main as you can get without explicitly being one. A decent number of 'mai**
-  - comment · 19h ago · ApprehensiveSeagull6 · score 18
+  - comment · 20h ago · ApprehensiveSeagull6 · score 18
   - matched: exploit, mega rare
   - https://www.reddit.com/r/2007scape/comments/1vng7z8/poor_mains_vs_bronzemen_as_currently_proposed/p4u8hre/
+- **Well guess what they still can crazy huh and now it won't have the added the trouble of bug fixing and needing to be thought about every update **
+  - comment · 4m ago · Random_Redittor8874 · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vud4vq/bronzeman_failed_the_polls/p505vp0/
+- **it would have cost hundreds of hours of development time with all the bugs **
+  - comment · 5m ago · DM_ME_UR_PUBES · +2 more in this thread on the same terms · score 13
+  - matched: bugs
+  - https://www.reddit.com/r/2007scape/comments/1vud4vq/bronzeman_failed_the_polls/p505t4n/
+- **I voted no because it seems like a very niche mode that will take a ton of work to implement, and very few people will benefit from or use it. Think about it, they have to literall**
+  - comment · 9m ago · CosmosSunSailor · score 13
+  - matched: bugs
+  - https://www.reddit.com/r/2007scape/comments/1vud66u/bronzeman_postpoll_update/p5053eb/
+- **In this case it literally does not. Maybe a tiny amount to bug fix in the future. But they said they had it pretty much ready.**
+  - comment · 10m ago · Nick543b · score 13
+  - matched: bug
+  - https://www.reddit.com/r/2007scape/comments/1vud4vq/bronzeman_failed_the_polls/p504y02/
+- **I'm sure there would be bugs to work out and future updates. I know those are minor but I still would prefer that attention elsewhere**
+  - comment · 12m ago · yum_butt · score 13
+  - matched: bugs
+  - https://www.reddit.com/r/2007scape/comments/1vud63f/bronzeman_failing_is_sad/p504r2v/
 - **Please add a feature to buy a flask of energy and it's just whiskey and you black out and wake up with full energy afterwards. It's a great feature for the bars all over the place **
   - comment · 1h ago · RAWRpup · score 13
   - matched: black screen
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4zqj7x/
 - **Did submit a bug report as well, but I have to say my hopes are not high.**
-  - comment · 1h ago · PsychologicalBomb9 · score 13
+  - comment · 2h ago · PsychologicalBomb9 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vttii1/perdu_stole_my_ornament_kit/p4zok7f/
 - **They’ve got to be bugged it’s so common **
-  - comment · 4h ago · potatomaster4000 · score 13
+  - comment · 5h ago · potatomaster4000 · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vu6vij/mod_ash_said_his_osrs_hot_take_was_that_jagex/p4z1xu0/
 - **its relatively new bug i made that stash and got a spare like 2 weeks ago**
-  - comment · 4h ago · shadow15746 · score 13
+  - comment · 5h ago · shadow15746 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vu64my/medallion_of_the_deep_retrieval/p4yzfjx/
 - **Sailing has been out for nearly an entire year now without even a Jmod comment on this. Idk if I would call it a 'bug' at this point.**
-  - comment · 4h ago · Queeb_the_Dweeb · score 13
+  - comment · 5h ago · Queeb_the_Dweeb · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vu64my/medallion_of_the_deep_retrieval/p4yxo35/
 - **Yh weapon switched 1tick too soon, it should still cancel out the attack imo. Happened to me few times as well, idk if its a bug or some weird coding**
-  - comment · 5h ago · dogwater3341 · score 13
+  - comment · 6h ago · dogwater3341 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vu6tms/getting_dragged_at_maggot_king/p4ywo5z/
 - **Looks like a flying grub attack delay bug where you attacked both right grub but swapped to melee weapon before firing ur bowfa on the second one so the target (second right grub) **
-  - comment · 5h ago · Vizionz4K · score 13
+  - comment · 6h ago · Vizionz4K · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vu6tms/getting_dragged_at_maggot_king/p4yv0nr/
 - **Wrath Runes in Loot Tracker?**
-  - r/2007scape · 5h ago · ccmelo · score 13
+  - r/2007scape · 6h ago · ccmelo · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vu6nge/wrath_runes_in_loot_tracker/
 - **Anyone else notice the magic lantern bonus not working with Aether runes? Is that intended?**
-  - comment · 8h ago · Dat__ · score 13
+  - comment · 9h ago · Dat__ · score 13
   - matched: intended?
   - https://www.reddit.com/r/2007scape/comments/1vtb1nl/have_a_question_about_the_game_or_the_subreddit/p4xzbm2/
 - **Bounty Hunter has had to be reworked several times due to exploits from the PvP community. LMS has had a botting problem (which part of the game hasn't, it's not unique to PvP), So**
-  - comment · 9h ago · Haunting_Carrot9761 · score 13
+  - comment · 10h ago · Haunting_Carrot9761 · score 13
   - matched: exploits
   - https://www.reddit.com/r/2007scape/comments/1vskjat/wildy_expansion_when/p4xrd33/
 - **No. The run energy changes they already made are good. People forget that you're not supposed to be able to run all the time. **
-  - comment · 9h ago · TrevTalksRS · score 13
+  - comment · 10h ago · TrevTalksRS · score 13
   - matched: not supposed to
   - https://www.reddit.com/r/2007scape/comments/1vty33d/i_feel_like_its_time_for_jagex_to_bite_the_bullet/p4xqewx/
 - **There's a bug which has been documented causing dead space to expand. Mod blossom has acknowledged it in the osrsmobile subreddit. [https://www.reddit.com/r/OSRSMobile/comments/1vs**
-  - comment · 9h ago · ArrgsMax · score 13
+  - comment · 10h ago · ArrgsMax · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vu0f3l/did_something_change_on_mobile/p4xlol3/
 - **Bug: Chivalry not showing up with filtered prayers like mystic vigor and deadeye.**
-  - r/2007scape · 11h ago · Flashy_Card_8242 · score 13
+  - r/2007scape · 12h ago · Flashy_Card_8242 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vtzhhm/bug_chivalry_not_showing_up_with_filtered_prayers/
 - **To maintain some fun fantasy, make them little bugs called “electromites” (electrolytes) where they speak a weird language but extend their own limbs for your character to eat in o**
-  - comment · 11h ago · TheyCallMeBueller · score 13
+  - comment · 12h ago · TheyCallMeBueller · score 13
   - matched: bugs
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4x4eqz/
 - **There’s a tbow inside of the nylo room too but I guess that’s not a reference to the glitch **
-  - comment · 11h ago · holodex777 · score 13
+  - comment · 12h ago · holodex777 · score 13
   - matched: glitch
   - https://www.reddit.com/r/2007scape/comments/1vtumu5/every_twisted_bow_glitch_reference_i_could_find/p4x00gx/
 - **If it was intended to be done that way the devs would make it so you can perma practice every encounter. It’s not supposed to be that you can practice the hard parts before getting**
@@ -138,27 +158,27 @@
   - matched: not supposed to
   - https://www.reddit.com/r/2007scape/comments/1vtl6h6/learning_inferno_what_do_i_do_here/p4wydr7/
 - **Jagex said the other day to do a bug report on lost items, since your support ticket got closed. **
-  - comment · 12h ago · therealyardsard · score 13
+  - comment · 13h ago · therealyardsard · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vttii1/perdu_stole_my_ornament_kit/p4wpxfa/
 - **Must be a glitch**
-  - comment · 13h ago · Strong-Parsley3201 · score 13
+  - comment · 14h ago · Strong-Parsley3201 · score 13
   - matched: glitch
   - https://www.reddit.com/r/2007scape/comments/1vtvo8e/account_hijacked_drained/p4wjauz/
 - **It’s a Reddit glitch, zoom in and out of the pic**
-  - comment · 14h ago · Littledickbigspoon · score 13
+  - comment · 15h ago · Littledickbigspoon · score 13
   - matched: glitch
   - https://www.reddit.com/r/ironscape/comments/1vtu50r/lf_iron_only_clan/p4w56yr/
 - **Made a free tool to randomly roll balanced options for our clan's Boss of the Week and send them to Discord**
-  - r/2007scape · 14h ago · Gurgen · score 13
+  - r/2007scape · 15h ago · Gurgen · score 13
   - matched: bugs
   - https://www.reddit.com/r/2007scape/comments/1vtts1l/made_a_free_tool_to_randomly_roll_balanced/
 - **Why did I read it like business to business Bug sharks**
-  - comment · 14h ago · krmort · score 13
+  - comment · 15h ago · krmort · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vtqzm3/b2b_big_sharks/p4vxoou/
 - **I did this calculation last night: avg yield with attas + secateurs has gone from around 54 to 33 post nerf, so no I don't think it's bugged and yes it's quite a significant nerf. **
-  - comment · 14h ago · rubberturtle · score 13
+  - comment · 15h ago · rubberturtle · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vtpvvn/corals_nerfed_too_hard_or_is_it_bugged/p4vxbar/
 - **Perdu stole my ornament kit**
@@ -166,105 +186,102 @@
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vttii1/perdu_stole_my_ornament_kit/
 - **No, you shouldn't be able to kill a boss right away, this is OSRS not some mobile game.**
-  - comment · 15h ago · March31st2021 · score 13
+  - comment · 16h ago · March31st2021 · score 13
   - matched: shouldn't be able
   - https://www.reddit.com/r/2007scape/comments/1vtt340/idea_for_a_boss_people_can_kill_right_off_of/p4vu2jh/
 - **Just a load of horseshit lol. He communicates a lot with people in lvl 3 / 10hp discords for help with theory crafting. Those communities don't gatekeep much at all other a select **
-  - comment · 16h ago · No_Usual_572 · score 13
+  - comment · 17h ago · No_Usual_572 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vtofng/passed_a_poll_on_april_16_2026_can_we_add_this/p4vh1vx/
 - **It wasn't supposed to, and didn't originally. It was changed because players complained.**
-  - comment · 16h ago · AuroraDorealis · score 13
+  - comment · 17h ago · AuroraDorealis · score 13
   - matched: wasn't supposed to
   - https://www.reddit.com/r/2007scape/comments/1vtol44/if_npc_contact_can_be_renamed_astral_contact_as_a/p4vg63m/
 - **I think it was the crystal chest that was bugged, it would get stuck open so you couldn’t use your crystal keys to get loot. It would remain stuck until a server reboot.**
-  - comment · 16h ago · youtocin · score 13
+  - comment · 17h ago · youtocin · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vtpty0/runescape_classic_possibly_being_rereleased_by/p4v8pl9/
 - **Something to do with opening a chest in one of the main quest lines. Someone bugged it to where the chest remained open for everybody before they got to receive the items they need**
-  - comment · 16h ago · haiimroo · score 13
+  - comment · 17h ago · haiimroo · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vtpty0/runescape_classic_possibly_being_rereleased_by/p4v84w3/
 - **Corals nerfed too hard or is it bugged?**
-  - r/2007scape · 17h ago · bone_mallet · score 13
+  - r/2007scape · 18h ago · bone_mallet · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vtpvvn/corals_nerfed_too_hard_or_is_it_bugged/
 - **"I was just standing here, trying to report a bug" "...AND SO I PULL OUT MY GUN!" **
-  - comment · 17h ago · Milan-28 · score 13
+  - comment · 18h ago · Milan-28 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/p4uxpgy/
 - **Thanks for the reply. I beat the boss several days ago on attempt 96. Only have awakened laviaton and yama scrolls to go. I think now that the playerbase is allowing attacks so fas**
-  - comment · 17h ago · Tennhunter33 · score 13
+  - comment · 18h ago · Tennhunter33 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vlnw2b/draken_issues_still_unpatched/p4uul1a/
 - **Remember Hunter now stacks you furs which is bug for crafting at the new Golems. Its essentially 1k XP per fur. **
-  - comment · 19h ago · Jayksie · score 13
+  - comment · 20h ago · Jayksie · score 13
   - matched: bug
   - https://www.reddit.com/r/ironscape/comments/1vt3ts7/early_game_supply_rush_wintertodt_v_tempoross_v/p4u9s4x/
 - **First birdhouse run after the update. Recieved one nest.**
-  - r/2007scape · 19h ago · MAGlCIAN · score 13
+  - r/2007scape · 20h ago · MAGlCIAN · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vtmbt4/first_birdhouse_run_after_the_update_recieved_one/
 - **Ban waves are to prevent further anti cheating methods being exploited. That’s how it has always worked. Once the bot owners figure out how they’re being detected, they then work a**
-  - comment · 19h ago · MistukoSan · score 13
+  - comment · 20h ago · MistukoSan · score 13
   - matched: exploited
   - https://www.reddit.com/r/2007scape/comments/1vtjjsq/late_to_the_party_regarding_price_hike_but/p4u4xzx/
 - **Which scenario actually seems more likely: 1. The login error occurs because the old login process is antiquated, poorly coded, and no longer receiving updates. 2. Jagex intentiona**
-  - comment · 19h ago · MorseCo · score 13
+  - comment · 20h ago · MorseCo · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vsxqgq/too_many_login_attempts/p4u1ulz/
 - **The droprate seems quite high. Im assuming some sort of oversight because i shouldnt be able to get a full invent of energies in 7 mins 😆 **
-  - comment · 20h ago · iSleek · score 13
+  - comment · 21h ago · iSleek · score 13
   - matched: shouldnt be able
   - https://www.reddit.com/r/2007scape/comments/1vsord7/did_crawling_hands_drop_table_get_changed/p4tug25/
 - **Never allow extracting monetary value out of the Death's Coffer. It is very prone to exploitation, as GE values of many items can be artificially inflated and converted into GP val**
-  - comment · 20h ago · Vador_ · score 13
+  - comment · 21h ago · Vador_ · score 13
   - matched: exploit
   - https://www.reddit.com/r/2007scape/comments/1vtjvng/low_risk_pvp_worlds/p4tos57/
 - **What’s crazy is this same thing happened to me like 20 years ago after I reported a bug on mtg online lmao, mods be trippin**
-  - comment · 21h ago · X_OttersAreCute_X · score 13
+  - comment · 22h ago · X_OttersAreCute_X · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/p4tf3n6/
 - **I get a suspicious feeling this change wasn’t intentional. Do you have a source that this change was intended?**
-  - comment · 22h ago · Warmonster9 · score 13
+  - comment · 23h ago · Warmonster9 · score 13
   - matched: intended?
   - https://www.reddit.com/r/2007scape/comments/1vt3twl/banshees_maybe_others_currently_drop_noted_2x/p4t6ew0/
 - **If they can give back items lost due to world reboots then they should take away HC status for the lucky ones who died and got rolled back ! **
-  - comment · 22h ago · Revolutionary_Desk99 · score 13
+  - comment · 23h ago · Revolutionary_Desk99 · score 13
   - matched: rolled back
   - https://www.reddit.com/r/2007scape/comments/1vs69u8/i_got_my_imbued_heart_back_thank_you_jmods/p4sypez/
-- **He eats bugs everyone **
-  - comment · 23h ago · RyukzReign · score 13
-  - matched: bugs
-  - https://www.reddit.com/r/2007scape/comments/1vslix3/anyone_testing_the_lantern_at_zmi/p4sqm48/
 
 ## Jagex & J-Mod  (3)
 
+- **📰 Spudworks: DMM All Stars Finale**
+  - r/2007scape, news · 16h ago · Shayani · seen 2x · score 34
+  - matched: newspost
+  - https://oldschool.runescape.wiki/w/Update%3ASpudworks%3A_DMM_All_Stars_Finale
 - **🟣 32 J-Mod replies — Goblins dropping energy potions is unimmersive. What if drinks helped solve energy early g**
-  - comment · 1h ago · Mod_Kieren · +3 more posts on this incident · score 30
+  - comment · 2h ago · Mod_Kieren · +4 more posts on this incident · score 30
   - matched: J-Mod
   - same incident (j-mod), also reported as:
     - 🟣 51 J-Mod replies — ***I GOT MY IMBUED HEART BACK!! - THANK YOU JMODS!***
     - 🟣 76 J-Mod replies — Spudworks: DMM All Stars Finale
-    - 🟣 79 J-Mod replies — Mod Ash said his OSRS "Hot Take" was that Jagex should seriously con
+    - 🟣 96 J-Mod replies — Mod Ash said his OSRS "Hot Take" was that Jagex should seriously con
+    - 🟣 13 J-Mod replies — Bronzeman Post-Poll Update
   - https://www.reddit.com/comments/1vtkcl6
-- **📰 Spudworks: DMM All Stars Finale**
-  - r/2007scape, news · 15h ago · Shayani · seen 2x · score 34
-  - matched: newspost
-  - https://oldschool.runescape.wiki/w/Update%3ASpudworks%3A_DMM_All_Stars_Finale
 - **Mod Ash said his OSRS "Hot Take" was that Jagex should seriously consider removing Run Energy.**
-  - r/2007scape · 5h ago · Marsdreamer · score 15
+  - r/2007scape · 6h ago · Marsdreamer · score 15
   - matched: mod ash
   - https://www.reddit.com/r/2007scape/comments/1vu6vij/mod_ash_said_his_osrs_hot_take_was_that_jagex/
 
 ## "You can do this" finds  (5)
 
 - **Is this new? Because i remember having to use ecumenical keys years ago for my gravestone**
-  - comment · 18h ago · Boozacs · score 31
+  - comment · 19h ago · Boozacs · score 31
   - matched: is this new, gravestone
   - https://www.reddit.com/r/ironscape/comments/1vtno0e/okay_ill_say_it_dying_in_gwd_is_fucking_dumb/p4ukpqv/
 - **The only ones that came to mind for me are Lumbridge and Falador. Nice central bars close to the teleport location or on the main path you're taking out of town. Varrock south bar **
-  - comment · 18h ago · FallingOffAgain1776 · +3 more posts on this incident · score 23
+  - comment · 19h ago · FallingOffAgain1776 · +3 more posts on this incident · score 23
   - matched: you don't need, shilo village
   - same incident (you don't need, shilo village), also reported as:
     - There are a lot of people giving confidently wrong advice in this thread. OP is looking fo
@@ -272,83 +289,82 @@
     - I actually did it today on my hardcore. As others have said, the jankiness is utterly out 
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4ufcvf/
 - **lol get extra hilts and get a hammer for bandos and just use your next hilt tele (or teleport to troll area) then run over hammer on the door and pick your stuff up without getting**
-  - comment · 18h ago · Friendly_Juice_8268 · score 21
+  - comment · 19h ago · Friendly_Juice_8268 · score 21
   - matched: you dont need, gravestone
   - https://www.reddit.com/r/ironscape/comments/1vtno0e/okay_ill_say_it_dying_in_gwd_is_fucking_dumb/p4uloi3/
 - **You can actually be a couple tiles away from it... It would be nice if we could empty our fish barrel into the cargo hold **
-  - comment · 13h ago · Im_C_O_T_W · score 16
+  - comment · 14h ago · Im_C_O_T_W · score 16
   - matched: you can actually, cargo
   - https://www.reddit.com/r/2007scape/comments/1vtvrob/i_love_the_new_afk_fishing_spots_but_does_anyone/p4wf8uz/
 - **I don’t necessarily see the option to level passively as a huge detractor from active play, they have different pros and cons. If anything, they’ve worsened that issue with this up**
-  - comment · 16h ago · BlightedBooty · score 16
+  - comment · 17h ago · BlightedBooty · score 16
   - matched: you can actually, wintertodt
   - https://www.reddit.com/r/ironscape/comments/1vshsst/summer_sweep_up_hunter_skilling/p4vgywg/
 
-## Mechanics & wiki corrections  (112)
+## Mechanics & wiki corrections  (115)
 
 - **"We've updated poison dynamite to only use 1 nightshade, but Slayer has also been removed from the game entirely."**
-  - comment · 3h ago · Kajega · +5 more in this thread on the same terms · score 46
+  - comment · 4h ago · Kajega · +5 more in this thread on the same terms · score 46
   - matched: poison dynamite
   - https://www.reddit.com/r/2007scape/comments/1vtofng/passed_a_poll_on_april_16_2026_can_we_add_this/p4zacy7/
 - **Poison dynamite was added FOR accounts like level 3 skillers. That's their whole reason for existing. Iirc it was because they fixed a method skillers had used for years to get kil**
-  - comment · 15h ago · ulfalda · score 46
+  - comment · 16h ago · ulfalda · score 46
   - matched: kill credit
   - https://www.reddit.com/r/2007scape/comments/1vtofng/passed_a_poll_on_april_16_2026_can_we_add_this/p4vlnsm/
 - **Granite Cannonballs can also be used in Dwarf Cannon. Giving max hit of 35 instead of 30. DPS increase from multicannon around 16%. That's what wiki says.**
-  - comment · 6h ago · Ra3dis · +6 more posts on this incident · score 32
+  - comment · 7h ago · Ra3dis · +6 more posts on this incident · score 32
   - matched: max hit, max hit of, wiki says
   - same incident (wiki says, max hit, max hit of), also reported as:
-    - Are they not uncommon from totems? Wiki says 1/55 for 2-3 roots. How many offerings are yo
     - Never it's a rng based game just cause the wiki says it's a 1 in x drop doesn't mean it's 
     - Since zuk has a max hit of 148 it’s not really possible to just put auto retaliation on an
     - casting dark demonbane with a purging staff? the dps boost from forgotten brews and imbued
     - If they are dropping what the wiki says, isn’t that case closed?
     - the wiki says right under the table that you can fet about 30% more with efficient telepor
+    - Yes and no, they have the extra tile range than the blowpipe so are better for kephri. But
   - https://www.reddit.com/r/2007scape/comments/1poazee/what_to_do_with_granite_dust_i_heard_maybe_you/p4ylsfq/
 - **Is this normal? I can't attack it**
-  - r/2007scape · 8h ago · Temporal_AP · score 32
+  - r/2007scape · 9h ago · Temporal_AP · score 32
   - matched: for some reason, is this normal
   - https://www.reddit.com/r/2007scape/comments/1vu3kjd/is_this_normal_i_cant_attack_it/
 - **Learning combat, prayer flicks up to 1 tick reaction timing, movement, true tile, quick gear swaps, all of it started from wanting to do gauntlet. At this point the only content I **
-  - comment · 10h ago · OyG5xOxGNK · score 30
+  - comment · 11h ago · OyG5xOxGNK · score 30
   - matched: safespot, true tile
   - https://www.reddit.com/r/2007scape/comments/1vtpbe4/inferno/p4xid8r/
 - **Those are mechanics where your team can instakill you. Nylo king - you’re the anchor and he goes ranged, teammate doesn’t move and you get smacked a 60 Verzik yellows - somebody gr**
-  - comment · 20h ago · Emotional_Permit5845 · score 30
+  - comment · 21h ago · Emotional_Permit5845 · score 30
   - matched: stall, pid, animation stall
   - https://www.reddit.com/r/2007scape/comments/1vta7hc/soteseg_large_red_ball_nerf/p4ttrqq/
 - **Then first step would be to not run out of safety for the refreeze. Tackle one problem at a time. Use the early waves to practice the essential skills such as handling 1t alt blob,**
-  - comment · 17h ago · Peekays_0 · score 25
+  - comment · 18h ago · Peekays_0 · score 25
   - matched: safespot, safety
   - https://www.reddit.com/r/2007scape/comments/1vtpbe4/inferno/p4v24g9/
 - **Yeah I looked into it and you're right, the red x is long enough that you can do the whole thing.**
-  - comment · 2h ago · bear__tiger · score 24
+  - comment · 3h ago · bear__tiger · score 24
   - matched: red x
   - https://www.reddit.com/r/ironscape/comments/1vsrvy6/log_choices_for_abyssal_lantern/p4zgnaq/
 - **Adapt red x'ing into an actual mechanic thats taught and has receptive feedback. Red x'ing is basically a dodge mechanic which would feed into agility lore quite well. Instead of m**
-  - comment · 2h ago · CashTurtle · score 24
+  - comment · 3h ago · CashTurtle · score 24
   - matched: red x
   - https://www.reddit.com/r/2007scape/comments/1vu6vij/mod_ash_said_his_osrs_hot_take_was_that_jagex/p4zcjfz/
 - **Basically: You're clicking too early, causing you to two tile just as Maggot king moves over one tile, which means you get slammed. Just wait until maggot king lines up with you in**
-  - comment · 5h ago · KrazyCiwii · score 24
+  - comment · 6h ago · KrazyCiwii · score 24
   - matched: red x
   - https://www.reddit.com/r/2007scape/comments/1vu6tms/getting_dragged_at_maggot_king/p4ywtl6/
 - **Drops are one potato guaranteed 1/2000 dragon satchel and 1/27k third age tea flask **
-  - comment · 13h ago · DependentPea7195 · +5 more posts on this incident · score 24
+  - comment · 14h ago · DependentPea7195 · +4 more posts on this incident · score 24
   - matched: satchel, third age
-  - same incident (third age, satchel), also reported as:
-    - No we absolutely will not. Third Age alone would theoretically take 25+ years at 24 hours 
+  - same incident (satchel, third age), also reported as:
     - Tea flask lets you store an additional tea than the original, dragon satchel allows you to
     - Update 2 weeks after it’s released and used by the content creators; “Food in the dragon s
     - Best we can do is add fish sack pouch bag barrel satchel box, which holds 1 extra fish
     - Gem satchel or tote or w/e. New bags for semiprecious stones.
   - https://www.reddit.com/r/2007scape/comments/1vtvrjp/why_does_fox_meat_look_like_ears/p4wiy9n/
 - **Mainhand- earth staff(dust best) Offhand- hammer Carp outfit Defence cape Xeracs ammy Swap spellbook to lunar Inventory: Log basket filled with Mahagony logs Plank sack filled with**
-  - comment · 14h ago · Vegetable_Purple_707 · score 24
+  - comment · 15h ago · Vegetable_Purple_707 · score 24
   - matched: rock cake
   - https://www.reddit.com/r/ironscape/comments/1vta4k2/mahogany_homes_efficiency/p4w7a19/
 - **Yeah i probably only used mage for my first few kc and then skipped it afterwards. You just purposefully don't phase transition when there's a bad wall up**
-  - comment · 14h ago · Weekly_Lab8128 · score 24
+  - comment · 15h ago · Weekly_Lab8128 · score 24
   - matched: phase transition
   - https://www.reddit.com/r/2007scape/comments/1vtikaz/royal_titans_sometimes_be_like/p4vxo2y/
 - **No best way to deal with sailing steps is docking a boat with a greater teleport focus there and leaving it permanently **
@@ -356,15 +372,15 @@
   - matched: teleport focus, greater teleport focus
   - https://www.reddit.com/r/2007scape/comments/1vtr7y7/on_this_day_23_years_ago_legends_quest_was/p4vvk3p/
 - **Nope. I’m doing RCB and Whip right now, I use like 5 bwans and 1 sip of prayer every kill. I have runes just in case I need to hit a wall to not be against the wall during phase tr**
-  - comment · 15h ago · JaysonTatecum · score 24
+  - comment · 16h ago · JaysonTatecum · score 24
   - matched: phase transition
   - https://www.reddit.com/r/2007scape/comments/1vtikaz/royal_titans_sometimes_be_like/p4vo5g8/
 - **Yes bro I had this problem the other day!! I have no clue wtf was going on. I could not get the east side red x to work worth a shit. They kept breaking free. **
-  - comment · 19h ago · bip_bip_hooray · score 24
+  - comment · 20h ago · bip_bip_hooray · score 24
   - matched: red x
   - https://www.reddit.com/r/2007scape/comments/1vt784l/lizardman_shaman_changes/p4ua5wb/
 - **You can tell if someone is trolling you at Xarpus, you literally can't tell if you are getting trolled at Sotetseg. The only solution is to tick eat it every time because the troll**
-  - comment · 19h ago · Aspalar · +3 more posts on this incident · score 24
+  - comment · 20h ago · Aspalar · +3 more posts on this incident · score 24
   - matched: tick eat, same tick
   - same incident (same tick, registers on), also reported as:
     - Way better to round the corner after mager pulls up a little and just kill it first, for m
@@ -372,51 +388,51 @@
     - You don't have to wait for them to be dead, just don't click attack and weapon swap in the
   - https://www.reddit.com/r/2007scape/comments/1vta7hc/soteseg_large_red_ball_nerf/p4txjkv/
 - **Outside of fight caves/inferno where are brews even used anymore? Between better food, better teleports, and red X/ X:0 methods in GWD and elsewhere I haven't really touched my sup**
-  - comment · 20h ago · 2ndTryAcct1357 · score 24
+  - comment · 21h ago · 2ndTryAcct1357 · score 24
   - matched: red x
   - https://www.reddit.com/r/ironscape/comments/1vt3rxc/ran_out_of_brews/p4tmztw/
 - **Pretty sure you can rc laws insanely fast now if you have teleport to boat focus and put boat at entrana **
-  - comment · 21h ago · No_Anywhere_9068 · score 24
+  - comment · 22h ago · No_Anywhere_9068 · score 24
   - matched: teleport to boat, entrana
   - https://www.reddit.com/r/ironscape/comments/1vtgdam/law_runes/p4tgora/
 - **✎ Sins of the Father — Funds made some edits to the page on april 25 2026/june 30 2026 regarding vanstrom's mechanics, some which have already **
-  - wiki · 8m ago · Quetra1 · score 19
+  - wiki · 1h ago · Quetra1 · score 19
   - matched: behaviour edit
   - https://oldschool.runescape.wiki/w/Sins_of_the_Father
 - **most pickpocketing npcs are attackable so their menu options are "attack" and then "pickpocket". you can change make attack hidden so now their first and only option is "pickpocket**
-  - comment · 16h ago · Low-Phase-6548 · score 23
+  - comment · 17h ago · Low-Phase-6548 · score 23
   - matched: for some reason, stacked
   - https://www.reddit.com/r/2007scape/comments/1vtdfx1/i_send_an_extra_dinhs_spec_after_i_finish_every/p4vcfp2/
 - **Tbow, Masori (f), and blowpipe with dragon darts for ranged is generally going to be your best bet. Avas, anguish, and barrows gloves should be good for the other slots. If you don**
-  - comment · 22h ago · yahboiyeezy · score 22
+  - comment · 23h ago · yahboiyeezy · score 22
   - matched: echo boots, ring of suffering
   - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4t53t3/
 - **Happened with my heron and my squirrel "that guys pet is pathing weird wtf"**
-  - comment · 10h ago · Remote_Listen1889 · score 20
+  - comment · 11h ago · Remote_Listen1889 · score 20
   - matched: pathing
   - https://www.reddit.com/r/ironscape/comments/1vtp508/anyone_else_get_baited_by_pets_at_afk_spots/p4xes1m/
 - **A fast mechanic in the giant foundry**
-  - r/2007scape · 11h ago · SalamanderSeparate55 · score 20
+  - r/2007scape · 12h ago · SalamanderSeparate55 · score 20
   - matched: tick manipulation, stall, stalling
   - https://www.reddit.com/r/2007scape/comments/1vtz1qx/a_fast_mechanic_in_the_giant_foundry/
 - **Awesome place to start man. It's the most important thing in the raid to help with raid time. Pretty much want to follow this video. Swarm to #18 on first shield and #14 on second **
-  - comment · 13h ago · Connor94H · score 20
+  - comment · 14h ago · Connor94H · score 20
   - matched: pathing
   - https://www.reddit.com/r/ironscape/comments/1vtryq2/toa_300_wo_fang_do_i_run_berserker_and_lb_or_just/p4wh45i/
 - **Suggestion: Reset the Cannon despawn Timer every time you interact with it.**
-  - r/2007scape · 14h ago · binley · score 20
+  - r/2007scape · 15h ago · binley · score 20
   - matched: despawn timer
   - https://www.reddit.com/r/2007scape/comments/1vtu6gx/suggestion_reset_the_cannon_despawn_timer_every/
 - **Do blue dragons, they have a safespot. Pickup the bones and hide (you will need them later for some xp or alch) en turned those dragon bones in to blessed bones, than blessed bone **
-  - comment · 14h ago · Omutto · score 20
+  - comment · 15h ago · Omutto · score 20
   - matched: safespot
   - https://www.reddit.com/r/ironscape/comments/1vtrzmw/blood_moon/p4vy8e3/
 - **so far youve really only had to deal with blobs and another npc. have you actually been practicing blob flicking at every opportunity? you should be using the low waves to learn. a**
-  - comment · 16h ago · S7EFEN · score 20
+  - comment · 17h ago · S7EFEN · score 20
   - matched: safespot
   - https://www.reddit.com/r/2007scape/comments/1vtpbe4/inferno/p4vg13q/
 - **Things have changed a little bit so I don’t know the latest, but I checked the wiki for my Slayer master and sorted it by weight. I then noted the highest weighted non-cannonable t**
-  - comment · 20h ago · Tumblrrito · +4 more posts on this incident · score 20
+  - comment · 21h ago · Tumblrrito · +4 more posts on this incident · score 20
   - matched: safe spot
   - same incident (safe spot), also reported as:
     - Free solve lol you cab 1t or 2t flick range mage for the blob range while waiting for the 
@@ -425,39 +441,43 @@
     - I’m in a clan called All Irons. It’s an iron clan with a mix of every type of player. Tota
   - https://www.reddit.com/r/2007scape/comments/1az15uf/here_is_how_i_got_an_untrimmed_slayer_cape_on_my/p4tlk2r/
 - **Its like vibe coding for efficient pathing, I genuinely dont get it. Most of the time its not even close or competitive to the best methods/routes.**
-  - comment · 22h ago · Jackbob7 · score 20
+  - comment · 23h ago · Jackbob7 · score 20
   - matched: pathing
   - https://www.reddit.com/r/ironscape/comments/1vtfzf4/psa_if_you_are_low_on_gold_for_construction/p4t1uep/
 - **✎ Guthix — agreed that trivia is not needed to be canon and can reference RS3, modified the text to reflect that this is confirmed **
-  - wiki · 19h ago · ~2026-TarnishedLogavanoFeather11633 · score 19
+  - wiki · 20h ago · ~2026-TarnishedLogavanoFeather11633 · score 19
   - matched: behaviour edit
   - https://oldschool.runescape.wiki/w/Guthix
 - **I think that's pure RS2 jank, in RSC he would have been summoned and you would have started fighting him while he monologued. The RS2 port of it added hard stalls while he talked t**
-  - comment · 4h ago · redbatter · score 18
+  - comment · 5h ago · redbatter · score 18
   - matched: stalls, stacked
   - https://www.reddit.com/r/2007scape/comments/1vtr7y7/on_this_day_23_years_ago_legends_quest_was/p4z1ed1/
+- **Bronzeman Post-Poll Update**
+  - r/2007scape · 26m ago · JagexAyiza · score 14
+  - matched: J-Mod · no bug content
+  - https://www.reddit.com/r/2007scape/comments/1vud66u/bronzeman_postpoll_update/
 - **What if the Bow-sword from Devious Minds was a failed recreation of an ancient weapon?**
-  - r/2007scape · 3h ago · EzreallyTalonted · score 17
+  - r/2007scape · 4h ago · EzreallyTalonted · score 17
   - matched: entrana, mega rare
   - https://www.reddit.com/r/2007scape/comments/1vu90mi/what_if_the_bowsword_from_devious_minds_was_a/
 - **Can’t give my group Ironman items back as a nonmember**
-  - r/2007scape · 6h ago · safetide · score 17
+  - r/2007scape · 7h ago · safetide · score 17
   - matched: membership ran out, inventory slot
   - https://www.reddit.com/r/2007scape/comments/1vu52dt/cant_give_my_group_ironman_items_back_as_a/
 - **Double tap cure me fully heals venom in 1 tick, and thralls suck at Doom so you aren’t losing much by being on lunars. Super deep delve meta is Lunars for cure me + Spellbook swap **
-  - comment · 10h ago · st1r · score 17
+  - comment · 11h ago · st1r · score 17
   - matched: spellbook swap, thralls
   - https://www.reddit.com/r/ironscape/comments/1vu0d10/doom_without_extended_antivenoms/p4xjk0a/
 - **Always wondered if Nezikchened hitting you three times in a row during the last fight was a holdover from Classic where you got stuck in a fight for three hits before you could do **
-  - comment · 12h ago · Pdf-_ · score 17
+  - comment · 13h ago · Pdf-_ · score 17
   - matched: classic, got stuck
   - https://www.reddit.com/r/2007scape/comments/1vtr7y7/on_this_day_23_years_ago_legends_quest_was/p4wsz14/
 - **I am, then you mentioned pures not wanting to use d spear spec in case they attack something being the reason that it wouldnt work, when they can still use the spec if they are car**
-  - comment · 16h ago · Shortsby · score 17
+  - comment · 17h ago · Shortsby · score 17
   - matched: spear spec, token
   - https://www.reddit.com/r/2007scape/comments/1vtplid/spears_and_their_combat_styles/p4v6nw4/
 - **RuneScape classic possibly being re-released by Jagex?**
-  - r/2007scape · 17h ago · S_BaiNN · +4 more posts on this incident · score 17
+  - r/2007scape · 18h ago · S_BaiNN · +4 more posts on this incident · score 17
   - matched: classic, runescape classic
   - same incident (runescape classic), also reported as:
     - On this day 23 years ago, Legends' Quest was released as the 50th quest to celebrate the m
@@ -466,7 +486,7 @@
     - walking has literally never been a break between activities in runescape lol. i genuinely 
   - https://www.reddit.com/r/2007scape/comments/1vtpty0/runescape_classic_possibly_being_rereleased_by/
 - **Rs3 added musicians to do just this They are immersive, thematic, nonintrusive and can be put almost anywhere there is society They are dead content is rs3 because our devs caved a**
-  - comment · 18h ago · ThaToastman · +4 more posts on this incident · score 17
+  - comment · 19h ago · ThaToastman · +4 more posts on this incident · score 17
   - matched: infinite run, dead content
   - same incident (infinite run), also reported as:
     - Having too much friction in the early game turns people off, especially when it impacts qu
@@ -475,131 +495,147 @@
     - My hot take is run energy should be infinite unless you enter combat or are doing specific
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4ulsdf/
 - **Perhaps a bit of a nod to RS Classic where you'd have to rest in a bed from time to time? Add resting at pubs for a moderate price where you get a quick fade to black for 2-3 secon**
-  - comment · 18h ago · The_Void_Reaver · score 17
+  - comment · 19h ago · The_Void_Reaver · score 17
   - matched: classic, fade to black
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4uj9gv/
 - **The block list is pretty much the same I think. It just makes foxes a better task and makes butterflies a quicker task. Also falcon hunting feels a little better which is the bread**
-  - comment · 20h ago · BlueSentinels · score 17
+  - comment · 21h ago · BlueSentinels · score 17
   - matched: block list, butterflies
   - https://www.reddit.com/r/ironscape/comments/1vtk4ug/new_hunter_rumor_block_list/p4tt5jb/
 - **That would be great. Even a task only one with Araxxor style drop rates would be an improvement, normal shamans are so boring and I refuse to red X**
-  - comment · 11h ago · FreeTedK · score 16
+  - comment · 12h ago · FreeTedK · score 16
   - matched: red x, drop-rate complaint
   - https://www.reddit.com/r/2007scape/comments/1vt784l/lizardman_shaman_changes/p4wzwv1/
+- **This doesn't make sense. Ironman started out as a ruleset on a main account. You don't *need* an official game mode to play ironman. It's just significantly better that way. Same w**
+  - comment · 2m ago · Bloated_Hamster · score 12
+  - matched: ruleset
+  - https://www.reddit.com/r/2007scape/comments/1vudbt1/im_out_of_the_loop_why_did_people_vote_against/p50699e/
+- **There is not one bronzeman ruleset though. There are 20 because it’s a kinda nebulous concept of being a middle ground between a main and an iron. You need to decide, with surveys **
+  - comment · 11m ago · UnluckyNate · +3 more in this thread on the same terms · score 12
+  - matched: ruleset
+  - https://www.reddit.com/r/2007scape/comments/1vud66u/bronzeman_postpoll_update/p504uiy/
+- **I hope they repoll it, I think there was too much crap about Unbound and shop stock and stuff they were too slow to correct **
+  - comment · 23m ago · sunflower_greatsword · score 12
+  - matched: shop stock
+  - https://www.reddit.com/r/2007scape/comments/1vud4vq/bronzeman_failed_the_polls/p5033g5/
+- **Or, just kept on death problem solved**
+  - comment · 47m ago · Sea_Acanthisitta_972 · score 12
+  - matched: kept on death
+  - https://www.reddit.com/r/2007scape/comments/1vucfyp/request_for_ring_of_shadow_to_share_charges/p4zziyz/
 - **Hearing the beds bit just gave me PTSD from flashbacks to the sleeping bag era **
-  - comment · 20m ago · got_ze_dreads · score 12
+  - comment · 1h ago · got_ze_dreads · score 12
   - matched: sleeping bag
   - https://www.reddit.com/r/2007scape/comments/1vu6vij/mod_ash_said_his_osrs_hot_take_was_that_jagex/p4zvox5/
 - **This game is all about odds and they are stacked against me 😭🤣**
-  - comment · 55m ago · indrek91 · score 12
+  - comment · 1h ago · indrek91 · score 12
   - matched: stacked
   - https://www.reddit.com/r/2007scape/comments/1vub4zq/new_runelite_plugin_reel_spin_when_you_open_a/p4zr931/
 - **It changes depending on whether you're boosting (right click Aya contact) or skipping (swap between nocs each time), at least that's how it worked for me**
-  - comment · 1h ago · Lhox · score 12
+  - comment · 2h ago · Lhox · score 12
   - matched: worked for me
   - https://www.reddit.com/r/2007scape/comments/1vtlqbd/i_am_once_again_asking_to_fix_the_youre_very/p4zlcex/
 - **You can go through walls in some places too if you time it right. I.e. ED3 after the portal with 2 mages in the first area - instead of running the long loop if you angle just righ**
-  - comment · 1h ago · Patelpb · score 12
+  - comment · 2h ago · Patelpb · score 12
   - matched: through walls
   - https://www.reddit.com/r/2007scape/comments/1vu6vij/mod_ash_said_his_osrs_hot_take_was_that_jagex/p4zk4j0/
 - **probably a giga stacked portal nexus **
-  - comment · 2h ago · loopuleasa · score 12
+  - comment · 3h ago · loopuleasa · score 12
   - matched: stacked
   - https://www.reddit.com/r/ironscape/comments/1vtfzf4/psa_if_you_are_low_on_gold_for_construction/p4zhexv/
 - **Earth magic only, no fire surge**
-  - comment · 2h ago · No_Anywhere_9068 · score 12
+  - comment · 3h ago · No_Anywhere_9068 · score 12
   - matched: magic only
   - https://www.reddit.com/r/ironscape/comments/1vu9f60/whisperer_without_imbued_heart/p4zd2hy/
 - **They don't want you to smuggle an entire inventory of extra food into PvM encounters, that's the reason.**
-  - comment · 3h ago · AtLeastItsNotCancer · score 12
+  - comment · 4h ago · AtLeastItsNotCancer · score 12
   - matched: smuggle
   - https://www.reddit.com/r/2007scape/comments/1vu1gpf/jagex_lemme_empty_my_fish_barrel_into_the_cargo/p4zaqqb/
 - **Use a goading potion, 6minute bathroom break should be plenty of time**
-  - comment · 3h ago · Rawr24dinosawr · score 12
+  - comment · 4h ago · Rawr24dinosawr · score 12
   - matched: goading potion
   - https://www.reddit.com/r/2007scape/comments/1vtdfx1/i_send_an_extra_dinhs_spec_after_i_finish_every/p4z6q65/
 - **TBF all that really saves you is a few runes for Spellbook Swap and Vile Vigour.**
-  - comment · 3h ago · Drgn-OSRS · score 12
+  - comment · 4h ago · Drgn-OSRS · score 12
   - matched: spellbook swap
   - https://www.reddit.com/r/2007scape/comments/1vtx3w2/they_perhaps_went_a_bit_too_far_with_the_energy/p4z6nb3/
 - **You can't attack the mager from that position without getting dragged into the open, but even with Myopia 3 you can hit the manti when it's up against the mager like that Bowfa ran**
-  - comment · 4h ago · X-atmXad · score 12
+  - comment · 5h ago · X-atmXad · score 12
   - matched: diagonal
   - https://www.reddit.com/r/2007scape/comments/1vu8120/fortis_colo_quick_help_question/p4z4ch6/
 - **if you pray mage, attack, then do the manticore attacks, then immediately switch back to praying mage, you got the solve**
-  - comment · 4h ago · sharkteethsarecool · +7 more in this thread on the same terms · score 12
+  - comment · 5h ago · sharkteethsarecool · +7 more in this thread on the same terms · score 12
   - matched: manticore
   - https://www.reddit.com/r/2007scape/comments/1vu8120/fortis_colo_quick_help_question/p4z2imv/
 - **Fortis colo quick help question**
-  - r/2007scape · 4h ago · NoSimple5377 · score 12
+  - r/2007scape · 5h ago · NoSimple5377 · score 12
   - matched: manticore
   - https://www.reddit.com/r/2007scape/comments/1vu8120/fortis_colo_quick_help_question/
 - **Tip.it was around during runescape 1**
-  - comment · 4h ago · Yipsta · score 12
+  - comment · 5h ago · Yipsta · score 12
   - matched: tip.it
   - https://www.reddit.com/r/2007scape/comments/1vtfte6/do_you_think_simple_low_risk_pvp_could_ever/p4z13f2/
 - **I don't think it's uncommon for people want to experience as much stuff as theyy can, some wildy bosses are cool (exclusions self evident i hope), and I personally wanna do every b**
-  - comment · 4h ago · GirixK · score 12
+  - comment · 5h ago · GirixK · score 12
   - matched: multi combat
   - https://www.reddit.com/r/2007scape/comments/1vu4267/this_is_probably_a_hot_take_but_i_genuinely_do/p4yzmss/
 - **run energy from foods is too complicated, just resting at a pub or a campfire for an increased regen rate seems fair enough**
-  - comment · 4h ago · PremiumMeats · score 12
+  - comment · 5h ago · PremiumMeats · score 12
   - matched: regen rate
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4yz0rd/
 - **this is good. what if casting the dream spell while next to the fire did this but a little more, too?**
-  - comment · 5h ago · DarkTemplar_of_Chaos · score 12
+  - comment · 6h ago · DarkTemplar_of_Chaos · score 12
   - matched: dream spell
   - https://www.reddit.com/r/2007scape/comments/1vu3u3r/suggestion_you_should_be_able_to_rest_at_fires_to/p4ys54o/
 - **Do bear in mind it's around 100 ticks of running to almost 700 ticks of walking right now if you're level 1 Agility with a reasonable amount of garbage in your inventory, which lit**
-  - comment · 5h ago · Tizaki · score 12
+  - comment · 6h ago · Tizaki · score 12
   - matched: 100 ticks
   - https://www.reddit.com/r/2007scape/comments/1vu0xkb/make_town_fountains_refill_up_to_30_of_energy/p4yqlre/
 - **Nothing. But 100 ticks of running and 600 ticks of panting sucks and definitely explains why it was the most hated friction point for new players that were polled after quitting.**
-  - comment · 5h ago · Tizaki · score 12
+  - comment · 6h ago · Tizaki · score 12
   - matched: 100 ticks
   - https://www.reddit.com/r/2007scape/comments/1vu0xkb/make_town_fountains_refill_up_to_30_of_energy/p4yqa7l/
 - **Yeh they've made some decent improvements to some early methods, falconry flows nicer, deadfalls are better xp/hr but not by a lot because ultimately any downtime in those methods **
-  - comment · 5h ago · DivineInsanityReveng · score 12
+  - comment · 6h ago · DivineInsanityReveng · score 12
   - matched: butterflies
   - https://www.reddit.com/r/2007scape/comments/1vshs4k/summer_sweep_up_hunter_skilling/p4ypmck/
 - **Oh, right. Those games do a thing called giving players enough to make it farther than 1/3 the way to the next town and a regen rate faster than 100% over 5 minutes of walking, so **
-  - comment · 5h ago · Tizaki · score 12
+  - comment · 6h ago · Tizaki · score 12
   - matched: regen rate
   - https://www.reddit.com/r/2007scape/comments/1vu0xkb/make_town_fountains_refill_up_to_30_of_energy/p4ypjj9/
 - **Specific scenario is specific and you're not thinking that they would already be stacked. **
-  - comment · 6h ago · Slay_Zee · score 12
+  - comment · 7h ago · Slay_Zee · score 12
   - matched: stacked
   - https://www.reddit.com/r/2007scape/comments/1vu5whe/crossing_white_wolf_mountain_after_the_energy/p4yoc7c/
 - **Be able to 1 tick eat a kebab and beer. Even better would be if after completion of Alfred's Barcrawl I could enable smashing my mug after drinking a beer.**
-  - comment · 6h ago · Send_me_freckles · score 12
+  - comment · 7h ago · Send_me_freckles · score 12
   - matched: tick eat
   - https://www.reddit.com/r/ironscape/comments/1vu5kbz/topic_of_the_day_game_suggestions/p4ylgw7/
 - **It’s specifically blast furnace that you can do this since they made the ores cost the same no matter the stock, so as iron you normally cannot sell at less than normal shop stock **
-  - comment · 7h ago · ASaucyPizza · score 12
+  - comment · 8h ago · ASaucyPizza · score 12
   - matched: shop stock
   - https://www.reddit.com/r/ironscape/comments/1vsans6/rank_1_uim_is_actually_going_to_do_200m_all/p4yexgg/
 - **Seems the comments got to the major one or two with the Monster Examine and the skill summaries but I recall a recent dev Q&A stream/video (must have been in the past 1-3 months?) **
-  - comment · 8h ago · SockShop · score 12
+  - comment · 9h ago · SockShop · score 12
   - matched: monster examine
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4y2kzm/
 - **Time to roll out the sleeping bag**
-  - comment · 8h ago · MadaraKuran · score 12
+  - comment · 9h ago · MadaraKuran · score 12
   - matched: sleeping bag
   - https://www.reddit.com/r/2007scape/comments/1vtx3w2/they_perhaps_went_a_bit_too_far_with_the_energy/p4y20bl/
 - **Use the iferatys aid or whatever red topaz ring. Make sure you are clicking one tile diagonal you to dodge if its an attack you are standing in. Click two tiles back if its where y**
-  - comment · 8h ago · Odd_Suggestion5094 · score 12
+  - comment · 9h ago · Odd_Suggestion5094 · score 12
   - matched: diagonal
   - https://www.reddit.com/r/2007scape/comments/1vu2l29/i_need_advice/p4xyu1p/
 - **There's no reason to prevent them from buying bonds since GP can be smuggled over the GE anyway.**
-  - comment · 11h ago · binley · score 12
+  - comment · 12h ago · binley · score 12
   - matched: smuggled
   - https://www.reddit.com/r/2007scape/comments/1vtyx3l/bronzeman_mode/p4x9eht/
 - **Only if they let me tick eat the kebab and beer.**
-  - comment · 11h ago · FerrousMarim · score 12
+  - comment · 12h ago · FerrousMarim · score 12
   - matched: tick eat
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4x1t4f/
 - **She's barfing up the bones that got stuck in her throat. No wonder she was a bit lairy, I would be too if I had something sharp lodged in my airway.**
-  - comment · 11h ago · zizou00 · score 12
+  - comment · 12h ago · zizou00 · score 12
   - matched: got stuck
   - https://www.reddit.com/r/2007scape/comments/1vtol44/if_npc_contact_can_be_renamed_astral_contact_as_a/p4x03k7/
 - **I'm still riding the DT2 launch week of death coffering Awakeners Orbs at \~5m each. Think I got up to 100m from just orbs**
@@ -607,39 +643,39 @@
   - matched: launch week
   - https://www.reddit.com/r/ironscape/comments/1vszcah/psa_snape_grass_seeds_at_13k_for_deaths_coffer/p4wyvut/
 - **my log is exactly the opposite of this 800 kills with no logs except for the dpick lol**
-  - comment · 12h ago · dissociating_brb · score 12
+  - comment · 13h ago · dissociating_brb · score 12
   - matched: no logs
   - https://www.reddit.com/r/ironscape/comments/1vtwrdc/all_i_wanted_was_a_dragon_pickaxe/p4wudqx/
 - **Pandering to fuckwits, why does everyone have to get muted. I almost understand the name changes cos there is no way to ignore it. But muting people over language in a game that ha**
-  - comment · 12h ago · NeverTrustFarts · score 12
+  - comment · 13h ago · NeverTrustFarts · score 12
   - matched: chat filter
   - https://www.reddit.com/r/2007scape/comments/1vtvj74/never_forget/p4wtps7/
 - **Soulflame horn uses**
-  - r/2007scape · 12h ago · teraflux · score 12
+  - r/2007scape · 13h ago · teraflux · score 12
   - matched: soulflame horn
   - https://www.reddit.com/r/2007scape/comments/1vtx66c/soulflame_horn_uses/
 - **All dragons are draconic but not all draconics are dragons. I think there’s some weird exception with Elvarg because it’s old but that’s it.**
-  - comment · 13h ago · maverick935 · score 12
+  - comment · 14h ago · maverick935 · score 12
   - matched: elvarg
   - https://www.reddit.com/r/2007scape/comments/1vtol44/if_npc_contact_can_be_renamed_astral_contact_as_a/p4wlpmc/
 - **If you plan on kiting youre going to have a pretty hard time. That setup is going to absolutely blast through run energy, not to mention the range and attack speed of the atlatl is**
-  - comment · 13h ago · AnxiousOil3516 · score 12
+  - comment · 14h ago · AnxiousOil3516 · score 12
   - matched: attack speed of
   - https://www.reddit.com/r/2007scape/comments/1vtv8ku/commander_zilyana/p4wbmpu/
 - **I've seen an insanely stacked account do scams at GE in full blorva with scythe kit and dusted tob pet, tons of boss kc. Compromised account most likely but yeah, definitely makes **
-  - comment · 14h ago · b0cks · score 12
+  - comment · 15h ago · b0cks · score 12
   - matched: stacked
   - https://www.reddit.com/r/2007scape/comments/1vtdmfi/scam_tactic_awareness/p4w5kmk/
 - **I’ve never heard anybody else give this advice but what worked for me was spamming double blob waves in the sim. I’d do each double blob wave in the sim until I cleared it 10 times**
-  - comment · 15h ago · Fischwich · score 12
+  - comment · 16h ago · Fischwich · score 12
   - matched: worked for me
   - https://www.reddit.com/r/2007scape/comments/1vtpbe4/inferno/p4vupu5/
 - **Unfortunately I don't have one. The window of time that the capes were white was very brief so someone would have to take a screenshot during that period or have cached data from t**
-  - comment · 15h ago · FaylenSol · score 12
+  - comment · 16h ago · FaylenSol · score 12
   - matched: rs3 wiki
   - https://www.reddit.com/r/2007scape/comments/1vtr7y7/on_this_day_23_years_ago_legends_quest_was/p4vm81w/
 - **summon boat**
-  - comment · 15h ago · NlKOQ2 · score 12
+  - comment · 16h ago · NlKOQ2 · score 12
   - matched: summon boat
   - https://www.reddit.com/r/2007scape/comments/1vtqsbj/this_crate_in_the_pond_at_ferox_has_a_search/p4vjiiu/
 - **That’s just bad guy behavior all around. If you leave that means you are not playing, and if you are not playing then it’s all fair game. Having an extended logout timer doesn’t gi**
@@ -647,31 +683,31 @@
   - matched: logout timer
   - https://www.reddit.com/r/2007scape/comments/1vtdfx1/i_send_an_extra_dinhs_spec_after_i_finish_every/p4vhcre/
 - **At Doom, I used dragon arrows and sara brews and arma brews from the start, prioritizing arma brews since they are mostly useless anywhere else. Used dragon arrows mostly so I woul**
-  - comment · 16h ago · snowhusky5 · score 12
+  - comment · 17h ago · snowhusky5 · score 12
   - matched: manticore
   - https://www.reddit.com/r/ironscape/comments/1vtqffq/how_do_you_use_supplies_when_learning_new_bosses/p4vbf54/
 - **Its a sizeable jump, but not the end of the world. Need to be able to tick eat at sote, need to be able to melee xarpus, and need to be able to either pog tank verzik or understand**
-  - comment · 17h ago · Crazyshane5 · +2 more in this thread on the same terms · score 12
+  - comment · 18h ago · Crazyshane5 · +2 more in this thread on the same terms · score 12
   - matched: tick eat
   - https://www.reddit.com/r/2007scape/comments/1vtpgrv/how_hard_is_hmt_compared_to_regular_tob/p4uznkt/
 - **true, i didn't grind graceful on my group iron that i started in early 2025. i lost out on nothing. i just used purple sweets from clues and super energies for questing, and the su**
-  - comment · 17h ago · tossinthisshit1 · score 12
+  - comment · 18h ago · tossinthisshit1 · score 12
   - matched: purple sweets
   - https://www.reddit.com/r/2007scape/comments/1vtp1io/energy_potions_make_the_early_game_feel_way/p4uzi2q/
 - **Brother real wall is 63 so don’t worry you got this in the bag eventually. I spent 3 weeks at 8+hr/day during Covid in beta worlds trying to get it done to preserve supplies on my **
-  - comment · 17h ago · Dreizo · score 12
+  - comment · 18h ago · Dreizo · score 12
   - matched: beta worlds
   - https://www.reddit.com/r/2007scape/comments/1vtcisp/just_died_to_triple_jad_in_the_inferno/p4usu6i/
 - **I think adding the low level monster examine (the mind/body rune spell on basic spell book, not the astral one) was specifically in response to MadSeason not having a way to determ**
-  - comment · 17h ago · dpldogs · score 12
+  - comment · 18h ago · dpldogs · score 12
   - matched: monster examine
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4urddc/
 - **Bring back the sleeping bag!**
-  - comment · 18h ago · Cutty_Wren · +2 more in this thread on the same terms · score 12
+  - comment · 19h ago · Cutty_Wren · +2 more in this thread on the same terms · score 12
   - matched: sleeping bag
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4uiliy/
 - **Watermelons and then you need to put 50 volcanic ash into the thing to turn it from super compost into ultra. Just one day go and grind like 1-2k volcanic ash and it will last you **
-  - comment · 18h ago · Prudent-Durian-6380 · score 12
+  - comment · 19h ago · Prudent-Durian-6380 · score 12
   - matched: watermelon
   - https://www.reddit.com/r/ironscape/comments/1vt7u9n/what_are_good_grinds_to_do_at_work/p4ubu5r/
 - **Watermelon on the allotment patch right next to it. Snape grass on one and watermelon on the other for farm contracts and quick easy compost material as well. **
@@ -679,23 +715,23 @@
   - matched: watermelon
   - https://www.reddit.com/r/ironscape/comments/1vt7u9n/what_are_good_grinds_to_do_at_work/p4uavc5/
 - **Dinh's Special attack, I would just stand on their spawn point and cleave them all. It's safer than it sounds if you got piety on.**
-  - comment · 19h ago · zsirblade · score 12
+  - comment · 20h ago · zsirblade · score 12
   - matched: spawn point
   - https://www.reddit.com/r/2007scape/comments/1vt6j6d/just_another_tank_abuser_getting_his_first/p4u7r63/
 - **Idc about anything OP said but if we can tick eat the beer+kebab combo from our pal that would be great **
-  - comment · 19h ago · Lucy_Fjord · score 12
+  - comment · 20h ago · Lucy_Fjord · score 12
   - matched: tick eat
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4u4i1g/
 - **Yeah i meant getting the seeds to farm the stuff like watermelon, pineapple etc. I also haven’t started moons so could be skill issue rn lel**
-  - comment · 19h ago · Boozacs · score 12
+  - comment · 20h ago · Boozacs · score 12
   - matched: watermelon
   - https://www.reddit.com/r/ironscape/comments/1vtknug/its_supposed_to_be_bottomless_smh/p4u2y9j/
 - **I feel like it’s less that it’s directly immersion breaking but the fact that there’s much more immersive options. Going to a pub, having a drink and a quick fade to black to get f**
-  - comment · 19h ago · Evil_Steven · +2 more in this thread on the same terms · score 12
+  - comment · 20h ago · Evil_Steven · +2 more in this thread on the same terms · score 12
   - matched: fade to black
   - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p4txxmi/
 - **Spellbook swap into POH tele. Access to water/fire runes. What do you mean no bankers?**
-  - comment · 19h ago · Degenerate_Game · score 12
+  - comment · 20h ago · Degenerate_Game · score 12
   - matched: spellbook swap
   - https://www.reddit.com/r/ironscape/comments/1vta4k2/mahogany_homes_efficiency/p4txmzc/
 - **Standing one tile off the corner of the jads ( I think it’s the nw) the healers spawn in a way that you can rip a barrage or two to get agro on all of them and only need to tank on**
@@ -703,15 +739,15 @@
   - matched: one tile off
   - https://www.reddit.com/r/2007scape/comments/1vtcisp/just_died_to_triple_jad_in_the_inferno/p4tx73g/
 - **Like I said I'm not asking anyone to change anything, but I think those types of mechanics probably could have been designed better to begin with. Especially ince ToB came out afte**
-  - comment · 20h ago · Aspalar · score 12
+  - comment · 21h ago · Aspalar · score 12
   - matched: tick eat
   - https://www.reddit.com/r/2007scape/comments/1vta7hc/soteseg_large_red_ball_nerf/p4tsl1l/
 - **It resets when the enemies regen back to full HP, and most NPCs regen at 1hp/minute. So if your dinh's spec hits a 20 on one of them, it resets after 20 minutes.**
-  - comment · 20h ago · Boolderdash · score 12
+  - comment · 21h ago · Boolderdash · score 12
   - matched: back to full hp
   - https://www.reddit.com/r/2007scape/comments/1vtdfx1/i_send_an_extra_dinhs_spec_after_i_finish_every/p4tnyfw/
 - **1 - ball is meant for sharing 2 - it's the easiest tick eat in game 3 - no need to change mechanics to make it easier for snowflakes. Several HC's have greenlogged tob uniques just**
-  - comment · 20h ago · Bwindolyn · score 12
+  - comment · 21h ago · Bwindolyn · score 12
   - matched: tick eat
   - https://www.reddit.com/r/2007scape/comments/1vta7hc/soteseg_large_red_ball_nerf/p4tkf5g/
 - **My particular brand of UIM has me doing just silly things sometimes. Was on an RC grind at GOTR, took a break to do some questing (specifically I wanted MEP2 for deaths and would l**
@@ -719,15 +755,15 @@
   - matched: entrana
   - https://www.reddit.com/r/ironscape/comments/1vt8s0r/topic_of_the_day_current_grinds/p4tjvmd/
 - **Seems a bit convoluted. And I don’t really think you’ve done a great job of justifying any of your choices. Why use gems instead of a new resource? Why modify existing armour inste**
-  - comment · 21h ago · Public-Wolverine-553 · score 12
+  - comment · 22h ago · Public-Wolverine-553 · score 12
   - matched: defence bonus
   - https://www.reddit.com/r/2007scape/comments/1vteacv/could_flat_armour_from_adding_onyxzenyte_help/p4thuk8/
 - **I verified pearls dropped to the ground, so I assumed tench would work the same. Looks like someone updated the wiki to note this too!**
-  - comment · 21h ago · Lizzardsizzle · score 12
+  - comment · 22h ago · Lizzardsizzle · score 12
   - matched: dropped to the ground
   - https://www.reddit.com/r/2007scape/comments/1vth5m2/gold_tench_drops_on_the_ground_aerial_fishing/p4teizq/
 - **You aren’t taking another switch for the max, but for the accuracy. Splashing on nibblers can be harshly punishing, especially if you have a slow solve. **
-  - comment · 21h ago · Away_Bodybuilder_997 · +3 more posts on this incident · score 12
+  - comment · 22h ago · Away_Bodybuilder_997 · +3 more posts on this incident · score 12
   - matched: splashing
   - same incident (splashing), also reported as:
     - Also splashing is TWICE as afk as Gem grab. That's why NMZ is superior.
@@ -735,21 +771,25 @@
     - Most fun is splashing a level 3 to like 10 mage and then just sending it. Level up as you 
   - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4td0oo/
 - **My setup is max mage with shadow Melee: full blood moon, fang, nox hally Range: full crystal + bowfa + blowpipe If you have gp left, I’d get soul reaper axe, ayak, then Oathplate **
-  - comment · 21h ago · Yourmotor · score 12
+  - comment · 22h ago · Yourmotor · score 12
   - matched: soul reaper axe
   - https://www.reddit.com/r/2007scape/comments/1vtibrr/returning_from_break_got_25b_to_get_gear_back/p4tapzr/
 - **This is exactly a case of why you should take things with a grain of salt. More mage switches in inferno isn't for accuracy, it's to up your chances of 1 shotting nibblers. Serious**
-  - comment · 22h ago · iBrowseAtStarbucks · score 12
+  - comment · 23h ago · iBrowseAtStarbucks · score 12
   - matched: negative attack bonus
   - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4t5jo4/
 - **Somewhere around 2022 you'd shit yourself laughing from my drunk ToB run with some buddies one night. He got stuck in webs and instead of attacking the webs I veng'd him as he died**
-  - comment · 22h ago · PeopleWatching92 · score 12
+  - comment · 23h ago · PeopleWatching92 · score 12
   - matched: got stuck
   - https://www.reddit.com/r/2007scape/comments/1vqdel3/does_anyone_look_at_the_name_and_cb_lvl_of_almost/p4t19c5/
 - **anguish, masori f, echo boots, conf gaunt, and a blowpipe. you probably will need a cheap mage top like ahrims since youre learning and will be barrage a lot of stuff for health. f**
-  - comment · 22h ago · KocoLocoa · score 12
+  - comment · 23h ago · KocoLocoa · score 12
   - matched: echo boots
   - https://www.reddit.com/r/2007scape/comments/1vth222/gear_advice_for_inferno/p4t0rc0/
+- **Butterflies give buffs. Also gotta remember that hunter was made by Andrew gower and the team that just straight pumped out content to do, not necessarily with some grand scheme on**
+  - comment · 23h ago · March31st2021 · score 12
+  - matched: butterflies
+  - https://www.reddit.com/r/2007scape/comments/1vtg0qb/what_is_the_hunter_skill_for/p4szq7w/
 - **I think the wilderness should be an absolute free for all as it is now. But for BH, it could be worth some kind of a tier system or having a BH world that has something like LMS eq**
   - comment · 23h ago · rainyengineer · score 12
   - matched: stacked
@@ -758,19 +798,7 @@
   - comment · 23h ago · Blackxp · score 12
   - matched: environmental damage
   - https://www.reddit.com/r/2007scape/comments/1vstp1s/revisiting_pirate_encounters/p4sxcx5/
-- **you still put kingdom on herbs and the overflow on teaks/mahogs OR pure teaks it is plenty still**
-  - comment · 23h ago · loopuleasa · score 12
-  - matched: overflow
-  - https://www.reddit.com/r/ironscape/comments/1vtfzf4/psa_if_you_are_low_on_gold_for_construction/p4stnop/
-- **Need 95 to get them zesty zealot robes brother. Need 99 to have a matching cape for your pyromancer outfit for whenever the netherlands play football, just to name a few **
-  - comment · 23h ago · DrakenbalZetpil · score 12
-  - matched: pyromancer
-  - https://www.reddit.com/r/2007scape/comments/1vtg0qb/what_is_the_hunter_skill_for/p4st54k/
-- **It feeds into other skills. Ranging ammo, herbs, furs for Crafting, butterflies, etc **
-  - comment · 23h ago · Jalieus · +2 more in this thread on the same terms · score 12
-  - matched: butterflies
-  - https://www.reddit.com/r/2007scape/comments/1vtg0qb/what_is_the_hunter_skill_for/p4srvqv/
 
 ---
 
-Not included: 1055 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1062 findings older than 24h. Widen with `__osrs.report(48)` in the console.
