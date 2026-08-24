@@ -1,113 +1,99 @@
 # OSRS Signal — last 24h
 
-2026-08-24 04:40 UTC · 122 findings after merging duplicates (from 162 raw hits)
+2026-08-24 05:36 UTC · 124 findings after merging duplicates (from 156 raw hits)
 
-## Vanished — removed or deleted after posting  (1)
-
-- **🗑 vanished from reddit — deleted by the author — Sure, they’re pretty much all loot table related: Bad luck protection systems like Oathplate shards are the first and biggest that**
-  - comment, vanished · 23h ago · Scuba_Steve_Games · seen 3x · score 46
-  - matched: vanished, psa:, drop table
-  - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5cnoqt/
-  - captured before it went:
-    > Sure, they’re pretty much all loot table related: Bad luck protection systems like Oathplate shards are the first and biggest that come to mind. You could make it so bronzeman just doesn’t get to buy oathplate shards and similar items, but then it feels arbitrarily worse to get them as a drop, considering you can’t finish off a set of them by buying the rest. Alternatively, you could let them buy more after getting one shard, and completely trivialize the boss for bronzeman. Do we set a number where after you’ve hit \~300 in the clog, you’re allowed to buy them? Where do we set the number? What’s a good amount of time bronzeman should have to do a boss? Every system Jagex decides to implement going forward that uses this type of drop table has to answer these questions. There’s also things like early supplies and skilling item drops off random monsters. They’d need to pay attention to random drop tables to make sure something doesn’t break a bronzeman meta randomly. I can see the “PSA: X mob drops molten glass so you can get 99 crafting in bronzeman early” posts already. There’s for sure ways to alleviate this, but absolutely nowhere did Jagex mention anything about the nuances of 
-
-## Bugs & exploits  (45)
+## Bugs & exploits  (43)
 
 - **✎ Dartboard — Add citation for blowpipe bug**
-  - wiki · 3m ago · Varied2350 · score 28
+  - wiki · 59m ago · Varied2350 · score 28
   - matched: bug edit
   - https://oldschool.runescape.wiki/w/Dartboard
 - **they cleared the leaderboards twice since that bug lol, this is new bugs**
-  - comment · 15m ago · Money_Echidna2605 · score 26
+  - comment · 1h ago · Money_Echidna2605 · score 26
   - matched: bug, bugs
   - https://www.reddit.com/r/2007scape/comments/1vwilvb/can_we_remove_the_impossible_highscore_from/p5jfz7r/
 - **well you're right. you could probably finagle a p2p trade restriction based on high alch/ge price or something but we've gone down that road before and it's just more exploits. So **
-  - comment · 24m ago · ExtensionCap2 · score 25
+  - comment · 1h ago · ExtensionCap2 · score 25
   - matched: exploits, trade restriction
   - https://www.reddit.com/r/2007scape/comments/1vumzpb/bronzeman_mode_discussion_megathread/p5jeprn/
 - **✎ Blood Moon — Clarified when the bug occurs**
-  - wiki · 21h ago · Druanach · score 28
+  - wiki · 22h ago · Druanach · score 28
   - matched: bug edit
   - https://oldschool.runescape.wiki/w/Blood_Moon
 - **Can we remove the impossible highscore from Hallowed Sepulchre?**
-  - r/2007scape · 7h ago · Intergalactic_hooker · score 26
+  - r/2007scape · 8h ago · Intergalactic_hooker · score 26
   - matched: glitched, unintended
   - https://www.reddit.com/r/2007scape/comments/1vwilvb/can_we_remove_the_impossible_highscore_from/
 - **Glitch/Bug?**
-  - r/2007scape · 9h ago · iHop2Uranus · score 26
+  - r/2007scape · 10h ago · iHop2Uranus · score 26
   - matched: bug, glitch
   - https://www.reddit.com/r/2007scape/comments/1vwfq82/glitchbug/
 - **Max hit pretty low at TD's, potentially glitched?**
-  - r/2007scape · 13h ago · Buoydem1 · +4 more posts on this incident · score 26
+  - r/2007scape · 14h ago · Buoydem1 · score 26
   - matched: glitched, max hit, demonbane
-  - same incident (max hit, max hit of, apply venom), also reported as:
-    - firemaking should have increased the max hit of cannonballs for sailing 
-    - Base max hit of dark demonbane: 30 Gear bonus: 21% + 15% Max hit after multiplier 41 or 42
-    - Without slayer helm he should still see a max hit of 54 or 55 with prayer.
-    - The devs seem to want raid items to be the end of the line. The only ones ou can’t skip ar
   - https://www.reddit.com/r/2007scape/comments/1vw9jbv/max_hit_pretty_low_at_tds_potentially_glitched/
 - **Shows how corrupt the game is. Streamers get the items back becuase of rollback, streamers get unbanned within hours while other people keep their perm bans becuase of same stuff. **
-  - comment · 9h ago · terratoss1337 · score 25
+  - comment · 10h ago · terratoss1337 · score 25
   - matched: rollback
   - https://www.reddit.com/r/2007scape/comments/1vt2dxt/how_is_my_15_year_old_account_name_offensive_what/p5gr7sz/
 - **The jmod dislike him because he has used it for more sinister things. He's caused significant damage to servers before just so he could rollback prayer xp. and this community is so**
-  - comment · 10h ago · Dvst_TV · score 25
+  - comment · 11h ago · Dvst_TV · score 25
   - matched: rollback
   - https://www.reddit.com/r/2007scape/comments/1vvobyn/rendi_rent_free_top_comment/p5gd4ku/
 - **Because there is an entirely different bug where you can skip floors.**
-  - comment · 5h ago · valarauca14 · score 24
+  - comment · 6h ago · valarauca14 · score 24
   - matched: bug, you can skip
   - https://www.reddit.com/r/2007scape/comments/1vwilvb/can_we_remove_the_impossible_highscore_from/p5i2jc4/
 - **>My point about cg is that it’s 90% Ironman content, has no reason to be updated because prep is fine but it receives a bunch of dev time because irons cry about it on reddit. Its **
-  - comment · 9h ago · Happy_Background_879 · score 24
+  - comment · 10h ago · Happy_Background_879 · score 24
   - matched: exploit, you can actually
   - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5gq7gf/
 - **If you're fairly early on without 5m cash to respawn in edgeville you can just go into the lumby basement, through the hole in the wall, and die to the bugs in the darkness. It's v**
-  - comment · 19h ago · Rexkat · score 24
+  - comment · 20h ago · Rexkat · score 24
   - matched: bugs, without needing
   - https://www.reddit.com/r/ironscape/comments/1vw1mv6/uim_question_about_death_pile/p5dgblv/
 - **yes it does because peopl should be able to see what actual tick perfect times are instead of learning the times were bugged years ago and jagex has been too lazy to fix it.**
-  - comment · 7h ago · Shot_Bad5114 · score 21
+  - comment · 8h ago · Shot_Bad5114 · score 21
   - matched: bugged, tick perfect
   - https://www.reddit.com/r/2007scape/comments/1vwilvb/can_we_remove_the_impossible_highscore_from/p5h9rxo/
 - **Nah definitely all correct. Mark of Darkness, dark demonbane, correct gear and correct task. Something is bugged**
-  - comment · 13h ago · Buoydem1 · score 18
+  - comment · 14h ago · Buoydem1 · score 18
   - matched: bugged, demonbane
   - https://www.reddit.com/r/2007scape/comments/1vw9jbv/max_hit_pretty_low_at_tds_potentially_glitched/p5f6b6p/
 - **Because my self introduced restrictions are harder then yours and "totally never" had exploits that allow wealth transfer from mains that's never happeneds on other Ironmen**
-  - comment · 2h ago · SquareOnxy · score 13
+  - comment · 3h ago · SquareOnxy · score 13
   - matched: exploits
   - https://www.reddit.com/r/ironscape/comments/1vwivcx/thinking_of_downgrading_gim_all_group_members_quit/p5ivtai/
 - **Watchtower quest bugged?**
-  - r/2007scape · 3h ago · Legal-Yam-235 · score 13
+  - r/2007scape · 4h ago · Legal-Yam-235 · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vwohd9/watchtower_quest_bugged/
 - **I honestly think Iron, while not intended as a game mode when the game came out, is legitimately the best way to experience OSRS from the very start. Then later you can dabble with**
-  - comment · 4h ago · I-hate-the-letter-k · score 13
+  - comment · 5h ago · I-hate-the-letter-k · score 13
   - matched: not intended
   - https://www.reddit.com/r/ironscape/comments/1vvg3ja/ironman_or_main_as_somewhat_new_player/p5iavq6/
 - **I was in a similar boat, I already had a main but I had long since passed it with my gim. I still happily deironed cause I didnt like being a blue helm and enjoyed my time as a mai**
-  - comment · 6h ago · Happy_Phase7307 · score 13
+  - comment · 7h ago · Happy_Phase7307 · score 13
   - matched: bug
   - https://www.reddit.com/r/ironscape/comments/1vwivcx/thinking_of_downgrading_gim_all_group_members_quit/p5hslsu/
 - **Iirc it wasn't bypassing floors, it was a glitch on release where sitting at 1 hp with the hallowed ring would hit 0 dmg and not teleport you to the start of the obstacle you faile**
-  - comment · 6h ago · iBrowseAtStarbucks · score 13
+  - comment · 7h ago · iBrowseAtStarbucks · score 13
   - matched: glitch
   - https://www.reddit.com/r/2007scape/comments/1vwilvb/can_we_remove_the_impossible_highscore_from/p5hsbeb/
 - **It was a bug that let you basically bypass some floors**
-  - comment · 6h ago · Intergalactic_hooker · score 13
+  - comment · 7h ago · Intergalactic_hooker · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vwilvb/can_we_remove_the_impossible_highscore_from/p5ho4cj/
 - **I swear to good people forgot what op means, it means overpowered which means its almost game breaking or game breaking. an extra slot is not op, it's strong but it's like calling **
-  - comment · 6h ago · mmdhs · score 13
+  - comment · 7h ago · mmdhs · score 13
   - matched: game breaking
   - https://www.reddit.com/r/2007scape/comments/1vwjuwc/raids_4_reward_thread_that_combines_tune_pouch/p5hm2g8/
 - **Sounds like it's a power issue then. Or it could be something else entirely. I don't want to assume your issue is the same as mine. I can tell you the cpu throttling is what's caus**
-  - comment · 7h ago · Embarrassed-Ebb9479 · score 13
+  - comment · 8h ago · Embarrassed-Ebb9479 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vwh89m/runelite_stuck_at_3040_fps/p5h70fy/
 - **How can I acquire Bosun's workbench schematic?**
-  - r/2007scape · 7h ago · Kipr2 · score 13
+  - r/2007scape · 8h ago · Kipr2 · score 13
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vwidb3/how_can_i_acquire_bosuns_workbench_schematic/
 - **Bugged just for you. Jamflex told me so. **
@@ -115,11 +101,11 @@
   - matched: bugged
   - https://www.reddit.com/r/ironscape/comments/1vwi3v1/the_mad_angel_medium_clues_bugged_or_just_unlucky/p5h68ud/
 - **The Mad Angel, medium clues bugged or just unlucky?**
-  - r/ironscape · 8h ago · mhollyhurst · score 13
+  - r/ironscape · 9h ago · mhollyhurst · score 13
   - matched: bugged
   - https://www.reddit.com/r/ironscape/comments/1vwi3v1/the_mad_angel_medium_clues_bugged_or_just_unlucky/
 - **i would say supporting an industry that steals real peoples lifetime work and effort to exploit it to output cheap slop to make large companies money is harmful. im open to hearing**
-  - comment · 8h ago · Professional-Map3958 · score 13
+  - comment · 9h ago · Professional-Map3958 · score 13
   - matched: exploit
   - https://www.reddit.com/r/2007scape/comments/1vwgc76/returning_player_after_10_years/p5gu2kz/
 - **Im getting absolute 0 superiours. Im getting around 600-800 kills without a superious on regular bases. Imo this isnt RNG anymore, because for 1/150 thats terrible. Must be bugged.**
@@ -127,35 +113,35 @@
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1vchlqk/superior_spawn_rates_on_mortimer_anyone_feel_like/p5gtilm/
 - **Nono you are not dumb bro. Jagex just hates HCIMs with a passion so everytime one dies and loses their status they celebrate. That's why do implement all those intentional bugs fro**
-  - comment · 9h ago · ItsPabloDiscobar · score 13
+  - comment · 10h ago · ItsPabloDiscobar · score 13
   - matched: bugs
   - https://www.reddit.com/r/2007scape/comments/1vuq443/i_just_witnessed_an_hc_dc_death_in_realtime/p5giady/
 - **Prayer switching issue (bug?)**
-  - r/2007scape · 10h ago · rw_3eters · score 13
+  - r/2007scape · 11h ago · rw_3eters · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vwe3hj/prayer_switching_issue_bug/
 - **Reminds me of this Jad bug where he hits be with a giant red ball when I’m protecting from melee! **
-  - comment · 11h ago · RedditMineral · score 13
+  - comment · 12h ago · RedditMineral · score 13
   - matched: bug
   - https://www.reddit.com/r/ironscape/comments/1vwd0xk/yama_bug/p5g02vi/
 - **Yama bug?**
-  - r/ironscape · 11h ago · Early_Leg_2070 · score 13
+  - r/ironscape · 12h ago · Early_Leg_2070 · score 13
   - matched: bug
   - https://www.reddit.com/r/ironscape/comments/1vwd0xk/yama_bug/
 - **If you’re playing the game as intended, then you’re playing as a main. There’s literally a grand exchange where you can buy and sell goods - is that not intended to be used? Ironma**
-  - comment · 12h ago · Emotional_Permit5845 · score 13
+  - comment · 13h ago · Emotional_Permit5845 · score 13
   - matched: not intended
   - https://www.reddit.com/r/2007scape/comments/1vvyz9k/how_to_increase_the_value_of_the_elidinis_ward/p5fldrp/
 - **Speed times, you'll only really struggle with vard/pnm (pnm GM speed time on a 50/60attack is damn near impossible IMO. I have almost 70pnm KC and my pb is 9min lol... gm time is 6**
-  - comment · 12h ago · ScikPK · score 13
+  - comment · 13h ago · ScikPK · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vw9evq/ruin_the_account_or_keep_as_is/p5fh6r7/
 - **It feels like bug accuse the first time. **
-  - comment · 13h ago · Right_Connection_958 · score 13
+  - comment · 14h ago · Right_Connection_958 · score 13
   - matched: bug
   - https://www.reddit.com/r/ironscape/comments/1vw56t5/song_of_the_elves_done_d/p5f2u1y/
 - **@RuneScape @JagexYuey Leagues Bug: Mostly due to taking Crystal Grace Relic you become unable to unlock the God Staff Specs from Mage Arena due to Divine Storm being already unlock**
-  - x · 13h ago · @Vengance183 · score 13
+  - x · 14h ago · @Vengance183 · score 13
   - matched: bug, gate:named
   - https://x.com/Vengance183/status/2091539864269242398
 - **still bugged**
@@ -163,7 +149,7 @@
   - matched: bugged
   - https://www.reddit.com/r/2007scape/comments/1ech9qn/sigmund_immune_to_magic/p5eyhmw/
 - **Wont go into much but it’s a fucking sick implementation and it’s 1000% worth the glitches it’s causing **
-  - comment · 16h ago · iRengar · score 13
+  - comment · 17h ago · iRengar · score 13
   - matched: glitches
   - https://www.reddit.com/r/2007scape/comments/1vw0wj5/the_zbuffering_issues_during_forgettable_tale_are/p5e4dts/
 - **Halo 2 was my thing, spent more time on Xbox live than most people do at work. On the topic of videos, I made it into an issue of the official Xbox magazine with some GTA Vice City**
@@ -171,46 +157,38 @@
   - matched: glitches
   - https://www.reddit.com/r/2007scape/comments/1vvoc9x/silence_has_never_been_so_loud/p5e1nk9/
 - **the performance boost is a huge one, it's easier to develop on. people also seem to forget the weirdness of the old system where often random objects in the distance would render o**
-  - comment · 19h ago · No_Fig8635 · score 13
+  - comment · 20h ago · No_Fig8635 · score 13
   - matched: bugs
   - https://www.reddit.com/r/2007scape/comments/1vw0wj5/the_zbuffering_issues_during_forgettable_tale_are/p5diimz/
 - **I have no opinion on the guy, but is he not quite literally a bug abuser? **
-  - comment · 19h ago · rastaman1994 · score 13
+  - comment · 20h ago · rastaman1994 · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vvobyn/rendi_rent_free_top_comment/p5di3yd/
 - **True and Jagex has NEVER released an update that they thought was '''done'''' that actually had huge bugs and issues. If they think the content is done then it is completely perfec**
-  - comment · 21h ago · Chomo-Puncher69 · +2 more in this thread on the same terms · score 13
+  - comment · 22h ago · Chomo-Puncher69 · +2 more in this thread on the same terms · score 13
   - matched: bugs
   - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5d59i6/
 - **Why do I have 2 slots for DFS? Is it bug?**
-  - r/osrs · 21h ago · Physical-Strawberry1 · score 13
+  - r/osrs · 22h ago · Physical-Strawberry1 · score 13
   - matched: bug
   - https://www.reddit.com/r/osrs/comments/1vvzqs5/why_do_i_have_2_slots_for_dfs_is_it_bug/
 - **Your Weekly /r/2007scape Recap **Sunday, August 16 - Saturday, August 22, 2026** ###Top 10 Posts | score | comments | title & link | |--|--|--| | 9,046 | [188 comments](/r/2007scap**
   - comment · 22h ago · subredditsummarybot · score 13
   - matched: bug
   - https://www.reddit.com/r/2007scape/comments/1vvz03t/have_a_question_about_the_game_or_the_subreddit/p5d1gcj/
-- **This game has so much saturation you cant complete it in a lifetime. Adding more is literally the DNA of osrs. You dont HAVE to do the new content. That's how it's always worked.**
-  - comment · 23h ago · PlateForeign8738 · score 13
-  - matched: cant complete
-  - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5cq7rx/
-- **It doesnt let me use this? Is it a bug?**
-  - comment · 23h ago · Herwin42 · score 13
-  - matched: bug
-  - https://www.reddit.com/r/2007scape/comments/1vvn3r7/yeah_id_be_down_for_dupe_protection_for_no_reason/p5cnyvv/
 
 ## Jagex & J-Mod  (3)
 
 - **📰 The Official OSRS Podcast Episode 19 With Mod Archie**
-  - r/2007scape, news · 7h ago · Spineweilder · seen 2x · score 34
+  - r/2007scape, news · 8h ago · Spineweilder · seen 2x · score 34
   - matched: newspost
   - https://oldschool.runescape.wiki/w/Update%3AThe_Official_OSRS_Podcast_Episode_19_With_Mod_Archie
 - **🟣 23 J-Mod replies — The Official OSRS Podcast Episode 19 With Mod Archie**
-  - comment · 3h ago · JagexAyiza · score 30
+  - comment · 4h ago · JagexAyiza · score 30
   - matched: J-Mod
   - https://www.reddit.com/comments/1vwflnz
 - **Why can we ironmen walk through doors and gates that other players opens for us?**
-  - r/ironscape · 7h ago · Sweaty_Reporter_516 · score 15
+  - r/ironscape · 8h ago · Sweaty_Reporter_516 · score 15
   - matched: integrity
   - https://www.reddit.com/r/ironscape/comments/1vwif72/why_can_we_ironmen_walk_through_doors_and_gates/
 
@@ -225,22 +203,22 @@
     - To make it even simpler for new players the Ironman Tutor could be renamed to Game Mode Tu
   - https://www.reddit.com/r/2007scape/comments/1vumzpb/bronzeman_mode_discussion_megathread/p5cu6bv/
 - **Pro tip: you can bring looting bag with inside stored potions or foood and destroy it. All items from looting bad drops on ground **
-  - comment · 57m ago · Enemy_b · score 16
+  - comment · 1h ago · Enemy_b · score 16
   - matched: pro tip, looting bag
   - https://www.reddit.com/r/2007scape/comments/1vwikf2/update_struggling_in_pvm_is_it_worth_continuing/p5j9w1p/
 - **1m in *just base loot* was the question. This actually *IS* pretty exceptionally good. I'm not sure if you realize that the only bosses that drop more than that are vorkath and zul**
-  - comment · 3h ago · Flashy-Presence-2467 · score 16
+  - comment · 4h ago · Flashy-Presence-2467 · score 16
   - matched: without needing, drop table
   - https://www.reddit.com/r/2007scape/comments/1vvt9kj/whats_your_hot_take_about_the_game_that_would_get/p5ikz63/
 
-## Mechanics & wiki corrections  (70)
+## Mechanics & wiki corrections  (75)
 
 - **Thanks for this! I modified your method a bit as follows: Air Orb Grave Stone House/Paddewwa Teletab Method 1. Equip air staff and amulet of glory. Set inventory: 28 unpowered orbs**
-  - comment · 20m ago · Aaron1095 · score 34
+  - comment · 1h ago · Aaron1095 · score 34
   - matched: looting bag, gravestone
   - https://www.reddit.com/r/2007scape/comments/yz5l2k/which_route_when_charging_unpowered_orbs_is/p5jf9e0/
 - **0 until the poison dynamite changes come on 2 September. After that, either Mad Angel, Corp or Sarachnis. All achievable, but difficult. **
-  - comment · 4h ago · No_Usual_572 · score 36
+  - comment · 5h ago · No_Usual_572 · score 36
   - matched: poison dynamite
   - https://www.reddit.com/r/2007scape/comments/1vwmjw8/suggest_for_me_a_non_skiller_pet_to_hunt_for_on/p5idm07/
 - **Beef, you can easily kill it with Poison Dynamite**
@@ -248,36 +226,43 @@
   - matched: poison dynamite
   - https://www.reddit.com/r/2007scape/comments/1vwmjw8/suggest_for_me_a_non_skiller_pet_to_hunt_for_on/p5i4qih/
 - **To add onto what the other guy said, not collecting your items from your gravestone within 15 minutes just sends them to Death's Office. Also, dying in some areas and to some bosse**
-  - comment · 21h ago · RotMG543 · score 33
+  - comment · 22h ago · RotMG543 · score 33
   - matched: for some reason, death's office, gravestone
   - https://www.reddit.com/r/2007scape/comments/1vvuibd/just_did_barrows_for_the_first_time_ever_and_died/p5d6ds2/
 - **Are you sure? I asked my GM buddy who actually does these and he mentioned he still ends up tick eating 30 to 50 lightning balls per solo.**
-  - comment · 6h ago · SpectacularStarling · score 32
+  - comment · 7h ago · SpectacularStarling · score 32
   - matched: tick eating
   - https://www.reddit.com/r/2007scape/comments/1vvt9kj/whats_your_hot_take_about_the_game_that_would_get/p5hsnv8/
 - **Having recently done fally elite myself, killing the elite black knights from WGS is highly recommended. They count for 12 kills each so you can knock it out in about an hour or so**
-  - comment · 10h ago · Background-Dress-641 · score 32
+  - comment · 11h ago · Background-Dress-641 · score 32
   - matched: line of sight
   - https://www.reddit.com/r/2007scape/comments/1vvtaue/magic_trees_are_affordable/p5g5odm/
 - **Had a pretty scary moment in colosseum involving a manticore stacked with a ranger, I saw that it was range first, went out expecting to pray range, but my tired brain clicked on m**
-  - comment · 41m ago · flameylamey · +3 more posts on this incident · score 24
+  - comment · 1h ago · flameylamey · +3 more posts on this incident · score 24
   - matched: stacked, manticore
   - same incident (manticore, stalled, stacked), also reported as:
     - Thanks! I haven't had too many close calls actually, though one moment in particular comes
     - Even things that aren't particularly dangerous can kill you if you do it thousands of time
     - If the monster is bigger than 1x1 and can’t be easily stacked then venator is BiS
   - https://www.reddit.com/r/ironscape/comments/1vwndpx/maxed_my_hcim/p5jc81d/
+- **You do not need royal titans prayer scrolls for cg. Look up the safe spot tiles for final phase hunleff fight so you can prioritize dps and finish the kill. **
+  - comment · 1h ago · Rough_Employ_1037 · score 20
+  - matched: safe spot
+  - https://www.reddit.com/r/ironscape/comments/1vwk2s3/newer_ironman_after_coming_back_to_osrs_after_a/p5j96z9/
 - **I first started playing hcim in 2019 and had a couple of accounts that died in the very early game (as most people do, tbh). On one of them I'd just made it out of Wintertodt with **
-  - comment · 3h ago · flameylamey · +4 more posts on this incident · score 25
+  - comment · 4h ago · flameylamey · +3 more posts on this incident · score 25
   - matched: safespot, wintertodt
   - same incident (safespot), also reported as:
-    - Safespot and I man a cannon with rune incendiary/normal, and my crewmate uses Addy. Full v
     - They are actually super easy and a very good money maker. Gear up with water magic and saf
     - Remember when he said using mage to safespot is sweaty in the fight cave lmao, that poor m
     - I really enjoyed wilderness slayer with elemental weakness. You can safespot most if not a
   - https://www.reddit.com/r/2007scape/comments/1vwnia5/maxed_my_hcim/p5ip8o3/
+- **Base max hit of dark demonbane: 30 Gear bonus: 21% + 15% Max hit after multiplier 41 or 42ish When using purging staff thats times 1.5 when using demonbane 42* 1.5 is 62 You should**
+  - comment · 14h ago · DoogTheDestroyer · score 25
+  - matched: max hit, max hit of, demonbane
+  - https://www.reddit.com/r/2007scape/comments/1vw9jbv/max_hit_pretty_low_at_tds_potentially_glitched/p5f9b9t/
 - **There was a little bit of confusion when my friends and I were testing due to what seems to be a rare mistake in the wiki. The wiki says the lantern needs to be equipped to apply i**
-  - comment · 9h ago · Nebuli2 · +5 more posts on this incident · score 24
+  - comment · 10h ago · Nebuli2 · +5 more posts on this incident · score 24
   - matched: wiki says, to be equipped
   - same incident (to be equipped, wiki says), also reported as:
     - Abyssal lantern (magic logs) not working for Souls?
@@ -287,7 +272,7 @@
     - The wiki says redwoods planted at the farming guild are not on a timer, and instead have a
   - https://www.reddit.com/r/2007scape/comments/1vwfbcy/blisterwood_logs_in_the_abyssal_lantern_do/p5grv7r/
 - **You can do any in game service for in game money AFAIK. Things like alting for someone or boosting their cas are considered fair game albeit a bit morally questionable. Things that**
-  - comment · 10h ago · The_God_of_Biscuits · score 24
+  - comment · 11h ago · The_God_of_Biscuits · score 24
   - matched: red x
   - https://www.reddit.com/r/2007scape/comments/1vvsldo/barbarian_assault_boosting/p5g6mtu/
 - **Desert Pain Pyramid (TOA) Good or Bad state currently?**
@@ -295,7 +280,7 @@
   - matched: red x
   - https://www.reddit.com/r/2007scape/comments/1vw8up9/desert_pain_pyramid_toa_good_or_bad_state/
 - **There is a difference between doing periodic challenge prestige runs where you literally need a stack of purple sweets to tick eat through Verzik alone, and something being viable **
-  - comment · 20h ago · SpectacularStarling · +3 more posts on this incident · score 24
+  - comment · 21h ago · SpectacularStarling · +3 more posts on this incident · score 24
   - matched: tick eat, purple sweets
   - same incident (tick eat, purple sweets, tick heal), also reported as:
     - You have to tick eat
@@ -303,35 +288,47 @@
     - You don't tick eat until triple jads. You hp tick heal their attacks to conserve food.
   - https://www.reddit.com/r/2007scape/comments/1vvt9kj/whats_your_hot_take_about_the_game_that_would_get/p5da8bs/
 - **Late 2006. Decided to gear up and go to KQ with a friend. A random 3rd saw us chatting at shanty pass and decided to join. We didn't really understand server hopping so we just let**
-  - comment · 13h ago · Cudabear · score 22
+  - comment · 14h ago · Cudabear · score 22
   - matched: kill credit, got the kill credit
   - https://www.reddit.com/r/2007scape/comments/1vvnvey/whats_the_most_unexpected_drop_of_your_runescape/p5f22yn/
 - **When you die, a gravestone will spawn where you died. It will store your items you lost uponnut death for 15 minutes, you have that time to go back to retrieve them from that grave**
-  - comment · 21h ago · HobbyGuy49 · score 22
+  - comment · 22h ago · HobbyGuy49 · score 22
   - matched: death's office, gravestone
   - https://www.reddit.com/r/2007scape/comments/1vvuibd/just_did_barrows_for_the_first_time_ever_and_died/p5d3iz5/
+- **I would train mage and ranged both up to 73. Magic level is your magic defense level. There's no downside if you get magic levels by curse or splashing.**
+  - comment · 34m ago · OkSignificance2218 · score 17
+  - matched: splashing, magic defense
+  - https://www.reddit.com/r/2007scape/comments/1vwmpwx/f2p_pker_account_build/p5jkyk0/
+- **I farmed veiled kraken for most of my large dragon keel parts because the safe spot was a lot easier to do on mobile than the vampyre kraken spot, and I ended up just using elite v**
+  - comment · 2h ago · kreyos · score 20
+  - matched: safe spot
+  - https://www.reddit.com/r/ironscape/comments/1vveicj/should_i_man_a_cannon_or_use_ruby_bolts/p5j86i2/
+- **The devs seem to want raid items to be the end of the line. The only ones ou can’t skip are defenders and armadyl (although masori is underpowered af now so who cares). Well, curre**
+  - comment · 4h ago · uscrick · score 20
+  - matched: max hit, apply venom
+  - https://www.reddit.com/r/ironscape/comments/1vvuhy0/do_i_even_need_a_blowpipe_at_this_point/p5iikx8/
 - **One at a time isn't really in the conversation. Each moon kill puts a chance of their gear in the chest. Killing all 3 gives significantly better secondary loot. The pathing is eas**
-  - comment · 4h ago · TheTrueFishbunjin · score 20
+  - comment · 5h ago · TheTrueFishbunjin · score 20
   - matched: pathing
   - https://www.reddit.com/r/ironscape/comments/1vwne4x/all_3_moons_or_focus_1_at_a_time/p5idegi/
+- **You have to face smash it and learn the timings. Just make a ton of pots and commit to just learning the timings dying over and over in a single raid for 0 points. Shadow on accura**
+  - comment · 8h ago · Mywhy · score 20
+  - matched: safe spot
+  - https://www.reddit.com/r/ironscape/comments/1vwiaak/help_with_solo_olm_plz_21_and_31/p5h7c8d/
+- **Without slayer helm he should still see a max hit of 54 or 55 with prayer.**
+  - comment · 13h ago · Jiriosity · score 20
+  - matched: max hit, max hit of
+  - https://www.reddit.com/r/2007scape/comments/1vw9jbv/max_hit_pretty_low_at_tds_potentially_glitched/p5fkpyn/
 - **>Spamming specs at a boss isn’t fun. Controlling pathing and controlling its movement to keep him taking max dps is fun. Weird, for me it's the opposite.**
-  - comment · 13h ago · mewGIF · score 20
+  - comment · 14h ago · mewGIF · score 20
   - matched: pathing
   - https://www.reddit.com/r/2007scape/comments/1vw8up9/desert_pain_pyramid_toa_good_or_bad_state/p5fasxz/
 - **What? That’s not it at all. You paid me to get your kits didn’t you? It’s just a skill gap it adds fun mechanics. Spamming specs at a boss isn’t fun. Controlling pathing and contro**
-  - comment · 13h ago · Libs4PublicPinatas · score 20
+  - comment · 14h ago · Libs4PublicPinatas · score 20
   - matched: pathing
   - https://www.reddit.com/r/2007scape/comments/1vw8up9/desert_pain_pyramid_toa_good_or_bad_state/p5f8eq6/
-- **It's ok to let new players walk. Graceful and stamina pots already trivialize it mid game. Fetox enclave was a mistake that should have been only DMM or leagues exclusive. It's lik**
-  - comment · 23h ago · Admirable-Purchase96 · +3 more posts on this incident · score 20
-  - matched: safe spot
-  - same incident (safe spot), also reported as:
-    - You have to face smash it and learn the timings. Just make a ton of pots and commit to jus
-    - I farmed veiled kraken for most of my large dragon keel parts because the safe spot was a 
-    - You do not need royal titans prayer scrolls for cg. Look up the safe spot tiles for final 
-  - https://www.reddit.com/r/2007scape/comments/1vtkcl6/goblins_dropping_energy_potions_is_unimmersive/p5cnqo6/
 - **✎ Pay-to-play Runecraft training — added abyssal lantern with blisterwood logs to blood rune in zeah crafting. confirmed it increases the runes obtained!**
-  - wiki · 9h ago · Gurblegarb · score 19
+  - wiki · 10h ago · Gurblegarb · score 19
   - matched: behaviour edit
   - https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training
 - **I'm not sure if this is what you are running into since I didn't totally understand your data. However, I do know that rune output buffs always stack additively based on your base **
@@ -339,7 +336,7 @@
   - matched: not sure if this is, doesn't stack
   - https://www.reddit.com/r/2007scape/comments/1vw0ind/abyssal_lantern_magic_logs_not_working_for_souls/p5d8prb/
 - **5 tick weapon cues for step back: \- click back when you see the cabbage explode behind you (will not work past 35%, but you step back the same tick the entire p2 if you have a vis**
-  - comment · 9h ago · No-Eggplant-9954 · +3 more posts on this incident · score 17
+  - comment · 10h ago · No-Eggplant-9954 · +3 more posts on this incident · score 17
   - matched: same tick, metronome
   - same incident (same tick), also reported as:
     - I'm not joking, I used to farm LMS points for Rune Arrows early on, so I had something to 
@@ -347,51 +344,55 @@
     - First get yourself a visual metronome. Set it to 4 tick cycle. Olm always attacks or moves
   - https://www.reddit.com/r/ironscape/comments/1vwc7wv/300_tob_kc_with_a_whip_years_ago_i_come_back_with/p5gn9hj/
 - **The inn in shilo village lets you rent a room, which is a holdover relic from the fatigue mechanic from rs1.**
-  - comment · 12h ago · Cheeky_Hustler · score 17
+  - comment · 13h ago · Cheeky_Hustler · score 17
   - matched: shilo village, fatigue
   - https://www.reddit.com/r/2007scape/comments/1vw8ntf/so_catered_now_smh/p5ffxcb/
 - **It was in classic and it sucked when you were fishing on karamja and realized you forgot your sleeping bag when you character stops fishing. That was also back when you could trade**
-  - comment · 13h ago · Distntdeath · score 17
+  - comment · 14h ago · Distntdeath · score 17
   - matched: classic, sleeping bag
   - https://www.reddit.com/r/2007scape/comments/1vw8ntf/so_catered_now_smh/p5f9099/
 - **RS3 but I was bored and checking out the game a bit during some osrs downtime. Decided to do an elite clue that was sitting in my bank. The only ever elite clue I did on that accou**
-  - comment · 21h ago · spicytrees · score 17
+  - comment · 22h ago · spicytrees · score 17
   - matched: max cash, 3rd age
   - https://www.reddit.com/r/2007scape/comments/1vvnvey/whats_the_most_unexpected_drop_of_your_runescape/p5d4ile/
-- **This doesn't add up. I did the exact same thing 4 days ago. I had finally gotten enough dragon sheets to upgrade my boat, so I went to upgrade everything including the cargo. I was**
-  - comment · 23h ago · PhysicalSchedule7448 · score 17
-  - matched: cargo, facility bottle
-  - https://www.reddit.com/r/2007scape/comments/1vvhrlu/went_to_modify_my_ships_cargo_it_gave_a_warning/p5cmkwk/
+- **I filled my suffering and just hung onto them, ive used maybe 20k of the 100k charges I put into it. Roughly 500 recoil should last you long enough to not need to make them unless **
+  - comment · 2m ago · roflstorm · score 12
+  - matched: digsite pendant
+  - https://www.reddit.com/r/ironscape/comments/1vwtlvo/gem_use/p5jozi4/
+- **Sapphires - recoil for suffering charges for zulrah and later vardorvis. Worth saving some dor saphire dragon bolt(e) for mustard. Emeralds - I do alot of binding necklaces for got**
+  - comment · 8m ago · roflstorm · score 12
+  - matched: digsite pendant
+  - https://www.reddit.com/r/ironscape/comments/1vwtlvo/gem_use/p5jo7v6/
+- **MMO players don't care what gear other players have? If you say so. That Zuk helm is also a lot easier to get with the aforementioned gear smuggled in via green helm loopholes.**
+  - comment · 37m ago · Bingochips12 · score 12
+  - matched: smuggled
+  - https://www.reddit.com/r/ironscape/comments/1vwivcx/thinking_of_downgrading_gim_all_group_members_quit/p5jkhxi/
 - **When golem crafting came out, I was missing a few things to be at peak efficiency for it. I had room to upgrade my fur bag one more time so I did some brief hunting to do so. I did**
-  - comment · 21m ago · steelbubble · score 12
+  - comment · 1h ago · steelbubble · score 12
   - matched: satchel
   - https://www.reddit.com/r/ironscape/comments/1vws5sm/topic_of_the_day_one_small_favor/p5jf5bs/
 - **It's honestly my favorite respawn point. Feels like I just landed at the pearly gates xD. Also a lot of good quests go through falador. **
-  - comment · 1h ago · Dangerous-Poem7104 · score 12
+  - comment · 2h ago · Dangerous-Poem7104 · score 12
   - matched: respawn point
   - https://www.reddit.com/r/2007scape/comments/1vwq8r0/can_we_remove_the_city_of_falador/p5j6bcy/
 - **Elvarg is canonically dead**
-  - comment · 1h ago · tnerb253 · +4 more in this thread on the same terms · score 12
+  - comment · 2h ago · tnerb253 · +4 more in this thread on the same terms · score 12
   - matched: elvarg
   - https://www.reddit.com/r/2007scape/comments/1vwq0j7/repeatedable_f2p_elvarg_boss_when/p5j0djc/
 - **There was also the guy whose ring of life triggered 2 steps away from the bank, preventing him getting an anti poison in time **
-  - comment · 2h ago · k4l4d1n · score 12
+  - comment · 3h ago · k4l4d1n · score 12
   - matched: ring of life
   - https://www.reddit.com/r/2007scape/comments/1vwhdei/its_time_for_a_new_butler/p5izif2/
 - **I never deleted my comments man, you must be confused with someone else and that’s what the confusion is. Never in the entire thread have a stated any objective facts about what is**
-  - comment · 2h ago · Danye-South · score 12
+  - comment · 3h ago · Danye-South · score 12
   - matched: never deleted
   - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5ixlde/
 - **Yeah I only grabbed two of them and I guess the remaining two healed him back up. I even tagged them and they got stuck behind him, but it must have been too late. I gotta try to q**
-  - comment · 2h ago · Plague_Raptor · score 12
+  - comment · 3h ago · Plague_Raptor · score 12
   - matched: got stuck
   - https://www.reddit.com/r/2007scape/comments/1vwnfkg/spent_over_10_hours_this_week_failing_to_get_fire/p5iqdx5/
-- **Back in my day, we had to use a sleeping bag to restore run energy**
-  - comment · 4h ago · TissTheWay · score 12
-  - matched: sleeping bag
-  - https://www.reddit.com/r/2007scape/comments/1vw8ntf/so_catered_now_smh/p5ibwvw/
 - **Everything except stale baguette and third age**
-  - comment · 4h ago · KarlFrednVlad · score 12
+  - comment · 5h ago · KarlFrednVlad · score 12
   - matched: third age
   - https://www.reddit.com/r/2007scape/comments/1vwmjru/i_found_ranked_9_overall_runecrafting_200m_all/p5i8gig/
 - **Yeah I mean it could go on the logout timer. Don't see why not wildy but ok.**
@@ -399,131 +400,131 @@
   - matched: logout timer
   - https://www.reddit.com/r/2007scape/comments/1vwlvac/add_campfires_that_restores_your_stats_to/p5i4zw2/
 - **is this the boss fight? what the eff it just throws you in there? alright i \*quack\*ing died!! uhhhhhhhh where's my stuff? is it gone? i have to go all the way back to get my stuf**
-  - comment · 5h ago · IntelligentDepth8206 · score 12
+  - comment · 6h ago · IntelligentDepth8206 · score 12
   - matched: monster examine
   - https://www.reddit.com/r/ironscape/comments/1vwhmlu/secret_crafting_bis_training_method/p5i2fxt/
 - **This would have to have some kind of combat timer where you can’t rest at a fire unless you’ve been out of combat for a certain amount of time. And it would have to not work in the**
-  - comment · 5h ago · Nu2Th15 · score 12
+  - comment · 6h ago · Nu2Th15 · score 12
   - matched: combat timer
   - https://www.reddit.com/r/2007scape/comments/1vwlvac/add_campfires_that_restores_your_stats_to/p5i1mct/
 - **I started at Ironwoods and ended up at Redwoods. Exp was slightly worse but much more money and while Ironwoods were similarly AFK I preferred the slower inventory fill plus the st**
-  - comment · 5h ago · Torfinns-New-Yacht · score 12
+  - comment · 6h ago · Torfinns-New-Yacht · score 12
   - matched: staggered
   - https://www.reddit.com/r/2007scape/comments/1vwkvzr/one_redwood_tree_side_lasted_36_minutes/p5i0pmx/
 - **Because it’s optional content? Why should drop rates be made easier just because you can’t stomach playing the game. Going dry is a feature of Ironman, not a bug. You’re in the wro**
-  - comment · 5h ago · Snipedown_osrs · score 12
+  - comment · 6h ago · Snipedown_osrs · score 12
   - matched: no prayer drain
   - https://www.reddit.com/r/ironscape/comments/1vwlura/tell_me_again_why_barrows_shouldnt_have_dupe/p5hzzo1/
 - **Just get teleport to boat tablets **
-  - comment · 5h ago · JadedRequirement8556 · score 12
+  - comment · 6h ago · JadedRequirement8556 · score 12
   - matched: teleport to boat
   - https://www.reddit.com/r/2007scape/comments/1vwkzz4/let_us_hang_a_runepouch_on_the_occult_altar_in/p5hxp4u/
 - **Teleport to boat would be faster.**
-  - comment · 5h ago · Suspext · score 12
+  - comment · 6h ago · Suspext · score 12
   - matched: teleport to boat
   - https://www.reddit.com/r/2007scape/comments/1vwkzz4/let_us_hang_a_runepouch_on_the_occult_altar_in/p5hv99v/
 - **They don’t turn single into multi combat areas **
-  - comment · 6h ago · ChrisWazHard · score 12
+  - comment · 7h ago · ChrisWazHard · score 12
   - matched: multi combat
   - https://www.reddit.com/r/2007scape/comments/1vwizjg/is_there_anywhere_i_can_multi_combat_chickens/p5hrmht/
 - **My RC is level 68 so that's not true it scales with level**
-  - comment · 6h ago · Effortless_waste · score 12
+  - comment · 7h ago · Effortless_waste · score 12
   - matched: scales with level
   - https://www.reddit.com/r/2007scape/comments/1vwirym/why_is_fishing_lowkey_chopped/p5hnn3p/
 - **Super energy potions, teleports, and 99 agility all existed back then. You could even make the argument that Stamina potions existed too, because players who completed As A First R**
-  - comment · 6h ago · DargonofParties · score 12
+  - comment · 7h ago · DargonofParties · score 12
   - matched: infinite run
   - https://www.reddit.com/r/2007scape/comments/1vw8ntf/so_catered_now_smh/p5hkq0b/
 - **0 tick loss they are max 150k xp/hr which isn't bad, better than glassblowing xp/hr if you ignore the collection time. I don't know about the time to collect camphor/nails vs molte**
-  - comment · 6h ago · Fall3nBTW · score 12
+  - comment · 7h ago · Fall3nBTW · score 12
   - matched: 0 tick
   - https://www.reddit.com/r/ironscape/comments/1vwhmlu/secret_crafting_bis_training_method/p5hk9nf/
 - **I just cross referenced the entire chicken spawn area with multi combat areas for you There are no chicken spawns in multi combat, the closest one is 4 spawns outside the ranging g**
-  - comment · 7h ago · neighborlyhorse · score 12
+  - comment · 8h ago · neighborlyhorse · score 12
   - matched: multi combat
   - https://www.reddit.com/r/2007scape/comments/1vwizjg/is_there_anywhere_i_can_multi_combat_chickens/p5hi0vk/
 - **Build all stash units you can, there is a guy at the get that will decant potions for you, same with charges on jewelry. You can drop items you know how to quickly replace if neede**
-  - comment · 7h ago · VoluntaryExtinction · +3 more in this thread on the same terms · score 12
+  - comment · 8h ago · VoluntaryExtinction · +3 more in this thread on the same terms · score 12
   - matched: stash units
   - https://www.reddit.com/r/ironscape/comments/1vwixqi/hoarding_issue_at_mid_game/p5hhwyb/
 - **Is there anywhere I can multi combat chickens?**
-  - r/2007scape · 7h ago · FriendlyDonkeh · score 12
+  - r/2007scape · 8h ago · FriendlyDonkeh · score 12
   - matched: multi combat
   - https://www.reddit.com/r/2007scape/comments/1vwizjg/is_there_anywhere_i_can_multi_combat_chickens/
 - **Give Death's Office a quick check?**
-  - comment · 7h ago · squimapper · score 12
+  - comment · 8h ago · squimapper · score 12
   - matched: death's office
   - https://www.reddit.com/r/2007scape/comments/1vwidb3/how_can_i_acquire_bosuns_workbench_schematic/p5hbp0h/
 - **Have you tried just getting a drop? Worked for me https://preview.redd.it/igucr7t4m6lh1.jpeg?width=2400&format=pjpg&auto=webp&s=5d1881d3a7fceaa4835ab7440eaf30b80b32a2e3**
-  - comment · 8h ago · Chudz_x9 · score 12
+  - comment · 9h ago · Chudz_x9 · score 12
   - matched: worked for me
   - https://www.reddit.com/r/2007scape/comments/1vwhdyt/this_cant_be_real_royal_titans/p5gzw6b/
 - **If you aren’t already, make sure you’re opening easy clues on entrana. You can’t receive any of the g or t armors while there, vastly increasing the chance of god pages I think you**
-  - comment · 8h ago · The_Real_MikeOxlong · score 12
+  - comment · 9h ago · The_Real_MikeOxlong · score 12
   - matched: entrana
   - https://www.reddit.com/r/2007scape/comments/1vwfgsi/arma_page_4_when/p5gy6o1/
 - **Check your bank for a ring of life that she can have. Worth keeping around. **
-  - comment · 10h ago · Alias-Q · score 12
+  - comment · 11h ago · Alias-Q · score 12
   - matched: ring of life
   - https://www.reddit.com/r/2007scape/comments/1vvsukp/my_gf_baked_me_an_osrs_cake_for_my_birthday_today/p5g90g0/
 - **My approach of having people donate me max cash stacks is going well. It’s currently 500b an hour but I’m always looking to improve my clicks to accept more trades **
-  - comment · 11h ago · Evil_Steven · score 12
+  - comment · 12h ago · Evil_Steven · score 12
   - matched: max cash
   - https://www.reddit.com/r/2007scape/comments/1vvtpyk/is_an_inreallife_job_the_best_gp_per_hour_for_me/p5g1f5u/
 - **They unlock third age and stuff but sure. It’s still mtx which was my only point. Let’s not pretend bonds only make the game better The game would be better if the best way to prog**
-  - comment · 11h ago · Indigo_Inlet · score 12
+  - comment · 12h ago · Indigo_Inlet · score 12
   - matched: third age
   - https://www.reddit.com/r/2007scape/comments/1vvzuz1/afking_infected_roots_for_a_year_because_why_not/p5fsku2/
 - **There's a cc where you can find a world where other people are splashing btw: thievinghost**
-  - comment · 13h ago · Jalieus · score 12
+  - comment · 14h ago · Jalieus · score 12
   - matched: splashing
   - https://www.reddit.com/r/2007scape/comments/1vuemqq/poll_how_many_memberships_do_you_have_active_at/p5fa0y4/
 - **When OSRS first came out, I made 50k laws to buy full Guthan’s. I chugged an entire energy potion (4) every run from Castle Wars through Entrana via air balloon.**
-  - comment · 13h ago · Orangesoda65 · score 12
+  - comment · 14h ago · Orangesoda65 · score 12
   - matched: entrana
   - https://www.reddit.com/r/2007scape/comments/1vw8ntf/so_catered_now_smh/p5f1nxl/
 - **Back in my day we had to sleep to be able to get experience again. It was horrible. I believe there was a sleeping bag item which you could use.**
-  - comment · 13h ago · Juunaz · score 12
+  - comment · 14h ago · Juunaz · +2 more in this thread on the same terms · score 12
   - matched: sleeping bag
   - https://www.reddit.com/r/2007scape/comments/1vw8ntf/so_catered_now_smh/p5f1fqt/
 - **check out the phoenix necklace method. A quick video and it is very doable. The timing seems intimidating at first, but it really isn't that hard**
-  - comment · 13h ago · zaenger · score 12
+  - comment · 14h ago · zaenger · score 12
   - matched: phoenix necklace
   - https://www.reddit.com/r/ironscape/comments/1vw56t5/song_of_the_elves_done_d/p5f0k14/
 - **i was training prayer i started speaking dutch to them they stopped attacking me**
-  - comment · 14h ago · Inherefam · score 12
+  - comment · 15h ago · Inherefam · score 12
   - matched: stopped attacking me
   - https://www.reddit.com/r/2007scape/comments/1vvnjkx/opzoek_naar_de_persoon_op_utrecht_cs/p5euu9v/
 - **No, those maths are really off because the calculation it is doing is wrong. It is 1/150 chance to receive a pyromancer outfit piece, not 4x 1/150, because it doesn't roll for each**
-  - comment · 14h ago · Automatic_Tough7805 · score 12
+  - comment · 15h ago · Automatic_Tough7805 · score 12
   - matched: pyromancer
   - https://www.reddit.com/r/2007scape/comments/1vw8b0x/bad_luck/p5euirx/
 - **Best of luck on going less than 2x :) Its not the worst grind, mostly just doin it on my phone at work or doing a 30 min logout timer when i leave the house / go to sleep etc. very**
-  - comment · 15h ago · Thatsmybwana · score 12
+  - comment · 16h ago · Thatsmybwana · score 12
   - matched: logout timer
   - https://www.reddit.com/r/2007scape/comments/1vw7022/potentially_most_dry_for_salvor_paint_help/p5elbyo/
 - **Get in the final 2, and then ask the other guy if you can win. Worked for me the second time. You’ll get a lot better and eventually RNG will just go your way, but the last few peo**
-  - comment · 15h ago · newday-newme · score 12
+  - comment · 16h ago · newday-newme · score 12
   - matched: worked for me
   - https://www.reddit.com/r/ironscape/comments/1vw5y5l/getting_1_lms_win_for_the_shop_is_awful_what_were/p5efdps/
 - **Pyromancer top from my 3rd run of todt lol. Ended up getting the full set before 70fm**
-  - comment · 15h ago · LarryCrabCake · score 12
+  - comment · 16h ago · LarryCrabCake · score 12
   - matched: pyromancer
   - https://www.reddit.com/r/2007scape/comments/1vvnvey/whats_the_most_unexpected_drop_of_your_runescape/p5ecfhe/
 - **theres only one island step for hards, no? tear of the soul? very much not worth dropping over, its like a minigame teleport and a 30 second run. elites have lledreth and crown jew**
-  - comment · 15h ago · ANGEL-PSYCHOSIS · score 12
+  - comment · 16h ago · ANGEL-PSYCHOSIS · score 12
   - matched: teleport to boat
   - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5ec861/
 - **Definitely think I have something. Woke up this morning and I’m still stuck on the last satchel. I’ll have the run down perfect and then will get nervous and mis click or I’ll lag **
-  - comment · 16h ago · Mommyissues1295 · score 12
+  - comment · 17h ago · Mommyissues1295 · score 12
   - matched: satchel
   - https://www.reddit.com/r/2007scape/comments/1vvuyv4/monkey_madness_2_is_making_me_regret_my_life/p5e3pvd/
 - **Can use hallowed crystals for fast banking on entrana for law rc. Also saw a vid from the same guy doing the same rc method but making armadyl brews on the way to the law altar for**
-  - comment · 18h ago · Saint_Declan · score 12
+  - comment · 19h ago · Saint_Declan · score 12
   - matched: entrana
   - https://www.reddit.com/r/2007scape/comments/1rfnsm2/the_milk_quest_secretly_changed_f2p_fishing/p5dnw7i/
 - **I wanna say it’s skeleton near elvarg, could be wrong though**
-  - comment · 21h ago · hugebigmanatlarge · score 12
+  - comment · 22h ago · hugebigmanatlarge · score 12
   - matched: elvarg
   - https://www.reddit.com/r/2007scape/comments/1vvznub/hunting_for_this_location/p5d24s5/
 - **take a break and go learn colo. use sharks/kwans and prayer pots to combo eat for cheap. Cash out at wave 7**
@@ -531,18 +532,10 @@
   - matched: combo eat
   - https://www.reddit.com/r/2007scape/comments/1vvu6uf/trapped_in_inferno/p5d1m3w/
 - **When I deironed mine, I went through the grace period and regret hit ten minutes after the change went through. Teled to the GE, browsed my bank, logged out and never logged in eve**
-  - comment · 22h ago · Adjective_Noun_9876 · score 12
+  - comment · 23h ago · Adjective_Noun_9876 · score 12
   - matched: grace period
   - https://www.reddit.com/r/2007scape/comments/1vvltjh/deironing_my_5_year_late_game_ironman_made_osrs/p5czoxw/
-- **Personally I don't see bronzeman as a competitive mode at all see these as quirks of the mode not actual issues. Remember that BMM is not a version of iron, or main and is aiming t**
-  - comment · 23h ago · ComfortableCricket · score 12
-  - matched: smuggle
-  - https://www.reddit.com/r/2007scape/comments/1vvvz02/another_survey/p5csdae/
-- **Trying out pyramid plunder for the very first time with my thieving in the low 40s, got the pharaohs scepter in level 3 of the pyramid. **
-  - comment · 23h ago · ricorum · score 12
-  - matched: pyramid plunder
-  - https://www.reddit.com/r/2007scape/comments/1vvnvey/whats_the_most_unexpected_drop_of_your_runescape/p5cqdc9/
 
 ---
 
-Not included: 1238 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1244 findings older than 24h. Widen with `__osrs.report(48)` in the console.
