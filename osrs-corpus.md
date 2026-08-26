@@ -1,11 +1,11 @@
 # OSRS Signal — last 24h
 
-2026-08-26 21:19 UTC · 151 findings after merging duplicates (from 279 raw hits; 77 single-term floor rows filtered)
+2026-08-26 21:50 UTC · 149 findings after merging duplicates (from 282 raw hits; 77 single-term floor rows filtered)
 
 ## Active bug notices (wiki)  (5)
 
 - **🐛 active bug notice added — Martial salvage**
-  - bugs · 11h ago · score 42
+  - bugs · 12h ago · score 42
   - matched: new bug notice
   - Template:Bug
   - notice: Currently it is impossible to receive hard clue boxes from sorting martial salvage whilst having an opened hard clue in your bank or inventory.
@@ -26,12 +26,12 @@
   - Template:Bug · removed
   - https://oldschool.runescape.wiki/w/Pearl_barbarian_rod
 - **✔ bug notice removed — Crate (bronze scimitar) — may be a silent fix worth testing**
-  - bugs · 10h ago · score 34
+  - bugs · 11h ago · score 34
   - matched: bug notice cleared, silent fix, notice text not captured — check page diff
   - Template:Bug · removed
   - https://oldschool.runescape.wiki/w/Crate_(bronze_scimitar)
 
-## Bugs & exploits  (111)
+## Bugs & exploits  (112)
 
 - **Hey! I posted about this earlier and it didnt get as much attention (im assuming because i didnt have a vid). It did get 2 replies from very knowledgeable players and a Jmod though**
   - comment · 4h ago · marvsiceslice · score 39
@@ -39,22 +39,17 @@
   - re: Hydra Not Spitting Poison (sorry for video quality
   - https://www.reddit.com/r/2007scape/comments/1vyxw0f/hydra_not_spitting_poison_sorry_for_video_quality/p61i7zt/
 - **Bugged bug bugs bugs, bugging bugs bug.**
-  - comment · 6h ago · chaos_faction · score 39
+  - comment · 7h ago · chaos_faction · score 39
   - matched: bug, bugs
   - re: Doom is GIGA bugged atm: becomes invincible if you
   - https://www.reddit.com/r/2007scape/comments/1vyv6az/doom_is_giga_bugged_atm_becomes_invincible_if_you/p60j3k6/
-- **Minecart Bug**
-  - r/2007scape · 23h ago · InformalSituation909 · score 38
-  - matched: bug, glitch, got stuck
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1vydb9x/minecart_bug/
 - **▶ old school RuneScape membership glitch/bug**
-  - youtube · 18h ago · Cheesygamer · score 32
+  - youtube · 19h ago · Cheesygamer · score 32
   - matched: bug, glitch
   - youtube
   - https://www.youtube.com/watch?v=JlfmTW0jRvs
 - **✎ Clue hunter trousers — Added trivia section with old graphical glitch**
-  - wiki · 21h ago · Kerma · score 28
+  - wiki · 22h ago · Kerma · score 28
   - matched: bug edit, no notice on page — edit summary only
   - edit
   - https://oldschool.runescape.wiki/w/Clue_hunter_trousers
@@ -64,7 +59,7 @@
   - re: How can I acquire Bosun's workbench schematic?
   - https://www.reddit.com/r/2007scape/comments/1vwidb3/how_can_i_acquire_bosuns_workbench_schematic/p62eum8/
 - **You can hear the glyphs light up and see black do it through the explosion but that's not supposed to happen.... Something fishy here, that's gotta be a bug**
-  - comment · 2h ago · Responsible_Hand_203 · score 26
+  - comment · 3h ago · Responsible_Hand_203 · score 26
   - matched: bug, not supposed to
   - re: Am I stupid?
   - https://www.reddit.com/r/2007scape/comments/1vz45mq/am_i_stupid/p628von/
@@ -74,7 +69,7 @@
   - re: I died on my hardcore account within 10 minutes du
   - https://www.reddit.com/r/2007scape/comments/1vz4hfk/i_died_on_my_hardcore_account_within_10_minutes/p620dg4/
 - **I've been experiencing this bug in ToA groups for at least two months now. Randomly it won't let a player interact with the tile puzzles, not sure why. Zebak's waves are also bugge**
-  - comment · 5h ago · AReally_Cool_Hat · score 26
+  - comment · 6h ago · AReally_Cool_Hat · score 26
   - matched: bug, bugged
   - re: Toa is bugged
   - https://www.reddit.com/r/2007scape/comments/1vyy9o4/toa_is_bugged/p60z2wf/
@@ -84,7 +79,7 @@
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p60srfs/
 - **I can confirm Spindle is bugged. It doesn't drop me a VW gem and is a literal bug. Mods please investigate. Thank you for your attention to this matter. **
-  - comment · 6h ago · BurgersWithStrength · score 26
+  - comment · 7h ago · BurgersWithStrength · score 26
   - matched: bug, bugged
   - re: GAME UPDATE: Mad Angel Combat Achievements
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/p60k96k/
@@ -104,27 +99,27 @@
   - re: hydra also bugged
   - https://www.reddit.com/r/2007scape/comments/1vyvtdv/hydra_also_bugged/p602tmx/
 - **All bugs have been appropriately bugged.**
-  - comment · 8h ago · SnickeringCoon · score 26
+  - comment · 9h ago · SnickeringCoon · score 26
   - matched: bugs, bugged
   - re: Araxxor
   - https://www.reddit.com/r/2007scape/comments/1vyuvxs/araxxor/p5zv4nz/
 - **Well, it sounds from his response like the idea I thought I was responding to wasn't even what he was suggesting. It sounds like he was suggesting what is more or less how it alrea**
-  - comment · 16h ago · SpuckMcDuck · score 26
+  - comment · 17h ago · SpuckMcDuck · score 26
   - matched: bug, bugs
   - re: R/2007scape
   - https://www.reddit.com/r/2007scape/comments/1vyc76b/r2007scape/p5y4f9y/
 - **Mobile bug: You have pending transactions**
-  - r/2007scape · 16h ago · valetdude · score 26
+  - r/2007scape · 17h ago · valetdude · score 26
   - matched: bug, bugs
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vymuiw/mobile_bug_you_have_pending_transactions/
 - **If I was a software developer company, I'd rotate my teams of developers around to new content, updates to old features, and bug fixes. That way everyone spends a bit of time cross**
-  - comment · 22h ago · SteveLouise · score 26
+  - comment · 23h ago · SteveLouise · score 26
   - matched: bug, bugs
   - re: R/2007scape
   - https://www.reddit.com/r/2007scape/comments/1vyc76b/r2007scape/p5wbks9/
 - **Rollback incoming**
-  - comment · 3h ago · gunfirinmaniac · score 25
+  - comment · 4h ago · gunfirinmaniac · score 25
   - matched: rollback
   - re: Have you tried getting the heart...
   - https://www.reddit.com/r/ironscape/comments/1vz3iah/have_you_tried_getting_the_heart/p61ri49/
@@ -134,12 +129,12 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyxvuw/bugphosanis_totems_are_showing_fulling_charged/
 - **Rollback coming now**
-  - comment · 7h ago · sungokoo · score 25
+  - comment · 8h ago · sungokoo · score 25
   - matched: rollback
   - re: Doom death glitch found
   - https://www.reddit.com/r/2007scape/comments/1vyw2x5/doom_death_glitch_found/p60bkt3/
 - **Doom death glitch found**
-  - r/2007scape · 8h ago · sombrero420 · score 25
+  - r/2007scape · 9h ago · sombrero420 · score 25
   - matched: glitch, same tick
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyw2x5/doom_death_glitch_found/
@@ -154,22 +149,27 @@
   - re: Doom Stalemate
   - https://www.reddit.com/r/2007scape/comments/1vytqoh/doom_stalemate/p5zfe80/
 - **Working on a live service game is a pretty unique experience among software development. Big refactors don’t happen very frequently because production has other priorities, i.e. ne**
-  - comment · 22h ago · brostep · score 18
+  - comment · 23h ago · brostep · score 18
   - matched: bug, low priority
   - re: Is the spaghetti code of elite clue scrolls ever g
   - https://www.reddit.com/r/2007scape/comments/1vyc9re/is_the_spaghetti_code_of_elite_clue_scrolls_ever/p5wbce9/
+- **The update today has the issues and the sound bug is one of them..**
+  - comment · 17m ago · brannonb111 · score 13
+  - matched: bug
+  - re: Leviathan hit sound effect changed after latest up
+  - https://www.reddit.com/r/2007scape/comments/1vzadku/leviathan_hit_sound_effect_changed_after_latest/p63bnix/
 - **Why would you even have 10+ accounts at the same time? Botting? Exploits/abuse? (like that rank 2 clogger that got banned). This is non issue for 99.998% of the playerbase**
-  - comment · 6m ago · Strong-Parsley3201 · score 13
+  - comment · 37m ago · Strong-Parsley3201 · score 13
   - matched: exploits
   - re: Hey Jagex, can you increase the login limit from 1
   - https://www.reddit.com/r/2007scape/comments/1vz9mqd/hey_jagex_can_you_increase_the_login_limit_from/p637c4y/
 - **I remember the bug that enabled someone to get General of the Army.**
-  - comment · 27m ago · Jestersfriend · score 13
+  - comment · 57m ago · Jestersfriend · score 13
   - matched: bug
   - re: Who feels me here
   - https://www.reddit.com/r/2007scape/comments/1vz3avw/who_feels_me_here/p632o7e/
 - **Massive unmentioned change or Bug with Sailing Bounty rewards**
-  - r/2007scape · 47m ago · jrbvoodoo · score 13
+  - r/2007scape · 1h ago · jrbvoodoo · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vz8wzj/massive_unmentioned_change_or_bug_with_sailing/
@@ -179,7 +179,7 @@
   - re: Who feels me here
   - https://www.reddit.com/r/2007scape/comments/1vz3avw/who_feels_me_here/p62sz3c/
 - **Isn't it stated that purposely exploiting known bugs is bannable as it increases the need for a reset? **
-  - comment · 1h ago · OSRSMercher · score 13
+  - comment · 2h ago · OSRSMercher · score 13
   - matched: bugs
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p62mm7l/
@@ -199,12 +199,12 @@
   - re: Shoutout to Alien Food aka Im Unguided
   - https://www.reddit.com/r/2007scape/comments/1vyqq9w/shoutout_to_alien_food_aka_im_unguided/p62bs1a/
 - **Game mode with Highest level of frictionally in 25 year cookie clicker does bulk of Jagex’s quality assurance for the game. More news at 11. People hate on us but forget that we fi**
-  - comment · 2h ago · JamesDerecho · score 13
+  - comment · 3h ago · JamesDerecho · score 13
   - matched: bugs
   - re: Ugh I HATE when they make updates around UIM!
   - https://www.reddit.com/r/2007scape/comments/1vyxyw8/ugh_i_hate_when_they_make_updates_around_uim/p62a67y/
 - **Bruh that is bugged !**
-  - comment · 2h ago · Zarosian_Wizard · score 13
+  - comment · 3h ago · Zarosian_Wizard · score 13
   - matched: bugged
   - re: Am I stupid?
   - https://www.reddit.com/r/2007scape/comments/1vz45mq/am_i_stupid/p624d1k/
@@ -239,22 +239,22 @@
   - re: Am I stupid?
   - https://www.reddit.com/r/2007scape/comments/1vz45mq/am_i_stupid/p61wyu5/
 - **that definitely looks like a visual bug, I never saw black indicate**
-  - comment · 3h ago · gilt3t · score 13
+  - comment · 4h ago · gilt3t · score 13
   - matched: bug
   - re: Am I stupid?
   - https://www.reddit.com/r/2007scape/comments/1vz45mq/am_i_stupid/p61vsl3/
 - **For playing content on update morning? Yes. Bugs, bugs as far as the eye can see!**
-  - comment · 3h ago · bcaudell95_ · score 13
+  - comment · 4h ago · bcaudell95_ · score 13
   - matched: bugs
   - re: Am I stupid?
   - https://www.reddit.com/r/2007scape/comments/1vz45mq/am_i_stupid/p61vm4x/
 - **so interesting and a weird coincidence that we both got a super rare and old glitch right after the update.**
-  - comment · 3h ago · marvsiceslice · score 13
+  - comment · 4h ago · marvsiceslice · score 13
   - matched: glitch
   - re: Hydra Not Spitting Poison (sorry for video quality
   - https://www.reddit.com/r/2007scape/comments/1vyxw0f/hydra_not_spitting_poison_sorry_for_video_quality/p61qza4/
 - **Photoshop or bug xd**
-  - comment · 3h ago · Xnolitz · score 13
+  - comment · 4h ago · Xnolitz · score 13
   - matched: bug
   - re: Have you tried getting the heart...
   - https://www.reddit.com/r/ironscape/comments/1vz3iah/have_you_tried_getting_the_heart/p61qryt/
@@ -269,7 +269,7 @@
   - re: Hydra Not Spitting Poison (sorry for video quality
   - https://www.reddit.com/r/2007scape/comments/1vyxw0f/hydra_not_spitting_poison_sorry_for_video_quality/p61hud3/
 - **Inside of the bug. You're not even on rate for it go get more kills.**
-  - comment · 4h ago · pointlessnomencature · score 13
+  - comment · 5h ago · pointlessnomencature · score 13
   - matched: bug
   - re: Where’s my hally? 😔
   - https://www.reddit.com/r/2007scape/comments/1vyo35r/wheres_my_hally/p61akiq/
@@ -284,17 +284,17 @@
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p6140fl/
 - **What happened today? A seemingly small update to sailing and wrymscrag and now there are reports of bugs at Araxxor, Nightmare, Doom, Hydra, Nex, ToA, DT2**
-  - comment · 5h ago · AReally_Cool_Hat · score 13
+  - comment · 6h ago · AReally_Cool_Hat · score 13
   - matched: bugs
   - re: GAME UPDATE: Mad Angel Combat Achievements
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/p611tpo/
 - **No semi-true exaggerations allowed? It's off the CA topic but still on the topic of bugs and what's going on with the game. Straight up fun police over here**
-  - comment · 5h ago · wowurcoolful · score 13
+  - comment · 6h ago · wowurcoolful · score 13
   - matched: bugs
   - re: Is mad angel punish bugged?
   - https://www.reddit.com/r/2007scape/comments/1vyyruh/is_mad_angel_punish_bugged/p611asn/
 - **Does anybody have any luck with reporting bugs ingame? I've reported a few this year, but they did not get fixed. Then I see someone commenting the same thing under weekly update t**
-  - comment · 5h ago · Strong-Parsley3201 · score 13
+  - comment · 6h ago · Strong-Parsley3201 · score 13
   - matched: bugs
   - re: Bug Report Needs an Update
   - https://www.reddit.com/r/2007scape/comments/1vyz8f6/bug_report_needs_an_update/p6112pp/
@@ -314,27 +314,27 @@
   - re: [Game Update] Mad Angel Combat Achievements
   - https://www.reddit.com/r/ironscape/comments/1vyt8fk/game_update_mad_angel_combat_achievements/p60rzps/
 - **Bug Report Needs an Update**
-  - r/2007scape · 6h ago · AReally_Cool_Hat · score 13
+  - r/2007scape · 7h ago · AReally_Cool_Hat · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyz8f6/bug_report_needs_an_update/
 - **Everything is bugged right now, it's a shit show**
-  - comment · 6h ago · wowurcoolful · +3 more in this thread on the same terms · score 13
+  - comment · 7h ago · wowurcoolful · +3 more in this thread on the same terms · score 13
   - matched: bugged
   - re: Is mad angel punish bugged?
   - https://www.reddit.com/r/2007scape/comments/1vyyruh/is_mad_angel_punish_bugged/p60nvtn/
 - **Is mad angel punish bugged?**
-  - r/2007scape · 6h ago · Far_Tie_190 · score 13
+  - r/2007scape · 7h ago · Far_Tie_190 · score 13
   - matched: bugged
   - 1c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyyruh/is_mad_angel_punish_bugged/
 - **It's a bugs life**
-  - comment · 6h ago · Dapper_Poetry6236 · score 13
+  - comment · 7h ago · Dapper_Poetry6236 · score 13
   - matched: bugs
   - re: Doom is GIGA bugged atm: becomes invincible if you
   - https://www.reddit.com/r/2007scape/comments/1vyv6az/doom_is_giga_bugged_atm_becomes_invincible_if_you/p60kk71/
 - **btw isnt toa a hydra also bugged?**
-  - comment · 6h ago · MonoSignal · score 13
+  - comment · 7h ago · MonoSignal · score 13
   - matched: bugged
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p60ilx9/
@@ -379,7 +379,7 @@
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p60crwq/
 - **Lmao I just saw this post someone having a similar issue: https://www.reddit.com/r/2007scape/s/gGQXi0y3EQ seems it's a known bug and they're working on a fix.**
-  - comment · 7h ago · g0ld-f1sh · score 13
+  - comment · 8h ago · g0ld-f1sh · score 13
   - matched: bug
   - re: Didn't know Doom was chill like that
   - https://www.reddit.com/r/ironscape/comments/1vyx8hi/didnt_know_doom_was_chill_like_that/p60a93w/
@@ -398,38 +398,43 @@
   - matched: bugged
   - re: Araxxor
   - https://www.reddit.com/r/2007scape/comments/1vyuvxs/araxxor/p600upx/
+- **New Nex bug, she can die as soon as she spawns with max ZCB specs. New WR #osrs**
+  - x · 8h ago · @ItsJustJohnJ · score 13
+  - matched: bug, gate:named
+  - 1♥ · live:osrs bug since:2026-08-16
+  - https://x.com/ItsJustJohnJ/status/2092595786412417040
 - **>I don’t think it’s game breaking It isn't. These guys just don't like it because UIMs would use this.**
-  - comment · 8h ago · localcannon · score 13
+  - comment · 9h ago · localcannon · score 13
   - matched: game breaking
   - re: Mad Angel Combat Achievements
   - https://www.reddit.com/r/ironscape/comments/1vysgoe/mad_angel_combat_achievements/p5zxg5v/
 - **this is so stupid lol. they test like crazy when you release an update and 50,000 people all do it at the same time. 1 hour is like 24 years of a single person's full time job test**
-  - comment · 8h ago · Available_Peace_644 · score 13
+  - comment · 9h ago · Available_Peace_644 · score 13
   - matched: bugs
   - re: GAME UPDATE: Mad Angel Combat Achievements
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/p5zwnim/
 - **hydra also bugged**
-  - r/2007scape · 8h ago · marvsiceslice · score 13
+  - r/2007scape · 9h ago · marvsiceslice · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyvtdv/hydra_also_bugged/
 - **Elites Clues Bugged at Chambers?**
-  - r/2007scape · 8h ago · Medium_Comfort_3036 · score 13
+  - r/2007scape · 9h ago · Medium_Comfort_3036 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyvp37/elites_clues_bugged_at_chambers/
 - **Is this a very recent bug? **
-  - comment · 8h ago · Diggydogsp2 · score 13
+  - comment · 9h ago · Diggydogsp2 · score 13
   - matched: bug
   - re: I broke Doom
   - https://www.reddit.com/r/2007scape/comments/1vyvmth/i_broke_doom/p5zuqnx/
 - **Not sure if this has been raised before, but for the longest time whenever I open the blogpost or just the landing page for OSRS on mobile, it opens a video of length 0 seconds tha**
-  - comment · 8h ago · Makes_Graphs · score 13
+  - comment · 9h ago · Makes_Graphs · score 13
   - matched: black screen
   - re: GAME UPDATE: Mad Angel Combat Achievements
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/p5zu7we/
 - **Arraxor is bugged too **
-  - comment · 8h ago · No_Buyer_537 · +3 more in this thread on the same terms · score 13
+  - comment · 9h ago · No_Buyer_537 · +3 more in this thread on the same terms · score 13
   - matched: bugged
   - re: Doom is GIGA bugged atm: becomes invincible if you
   - https://www.reddit.com/r/2007scape/comments/1vyv6az/doom_is_giga_bugged_atm_becomes_invincible_if_you/p5zt8pl/
@@ -464,27 +469,27 @@
   - 0c · 2↑
   - https://www.reddit.com/r/2007scape/comments/1vyuvxs/araxxor/
 - **Arraxor bugged mirror back spider deals 50% damage**
-  - r/2007scape · 9h ago · letsdiscuss · score 13
+  - r/2007scape · 10h ago · letsdiscuss · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyumbn/arraxor_bugged_mirror_back_spider_deals_50_damage/
 - **Tested it. Its the same on vanilla. Its some new bug/change.**
-  - comment · 9h ago · TheLivingEye · score 13
+  - comment · 10h ago · TheLivingEye · score 13
   - matched: bug
   - re: Weird sounds at Duke
   - https://www.reddit.com/r/2007scape/comments/1vytz80/weird_sounds_at_duke/p5zks6f/
 - **Also getting this problem at Whisp - it's not thralls as tried a kill without them. Seems like a new bug since the update today?**
-  - comment · 9h ago · Dueswow · score 13
+  - comment · 10h ago · Dueswow · score 13
   - matched: bug
   - re: Weird sounds at Duke
   - https://www.reddit.com/r/2007scape/comments/1vytz80/weird_sounds_at_duke/p5zk7xs/
 - **Ah you right just felt it was the same type of qol item, guess it could be with tools or something but I don’t think it’s game breaking**
-  - comment · 9h ago · Affectionate-Lie6048 · score 13
+  - comment · 10h ago · Affectionate-Lie6048 · score 13
   - matched: game breaking
   - re: Mad Angel Combat Achievements
   - https://www.reddit.com/r/ironscape/comments/1vysgoe/mad_angel_combat_achievements/p5zjuyf/
 - **Recent update lms world and pvp worlds bugged**
-  - r/2007scape · 10h ago · Mysterious-Damage-51 · score 13
+  - r/2007scape · 11h ago · Mysterious-Damage-51 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vythzi/recent_update_lms_world_and_pvp_worlds_bugged/
@@ -494,7 +499,7 @@
   - re: GAME UPDATE: Mad Angel Combat Achievements
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/p5z76al/
 - **it must be a glitch**
-  - comment · 11h ago · BrudduhmanRS · score 13
+  - comment · 12h ago · BrudduhmanRS · score 13
   - matched: glitch
   - re: Twice Jagex has returned my hacked bank.
   - https://www.reddit.com/r/2007scape/comments/1vyrrxe/twice_jagex_has_returned_my_hacked_bank/p5z35og/
@@ -509,22 +514,22 @@
   - re: Mobile bug: You have pending transactions
   - https://www.reddit.com/r/2007scape/comments/1vymuiw/mobile_bug_you_have_pending_transactions/p5y4lyv/
 - **Might not be a bug, check your messages on osrs website. Maybe you accidentally charged back or were hacked and bought bonds.**
-  - comment · 16h ago · WaveDashSpeedKick · score 13
+  - comment · 17h ago · WaveDashSpeedKick · score 13
   - matched: bug
   - re: Mobile bug: You have pending transactions
   - https://www.reddit.com/r/2007scape/comments/1vymuiw/mobile_bug_you_have_pending_transactions/p5y3i8y/
 - **Did you maybe miss part of the conversation with the guy before that part? It shouldn't take hours of searching. Maybe try a bug report and then log out and reset your client**
-  - comment · 17h ago · lurkingforthewknd · score 13
+  - comment · 18h ago · lurkingforthewknd · score 13
   - matched: bug
   - re: Don’t put rng on quests
   - https://www.reddit.com/r/2007scape/comments/1vylpj2/dont_put_rng_on_quests/p5xugs5/
 - **I still remember the bug that spec ignored entirely what zone it was- so we camped in varrock and speced out people in non-multy zone. **
-  - comment · 17h ago · kormus7 · score 13
+  - comment · 18h ago · kormus7 · score 13
   - matched: bug
   - re: Forgiveness of a Chaos Dwarf - Hand Cannon
   - https://www.reddit.com/r/2007scape/comments/1vy97aq/forgiveness_of_a_chaos_dwarf_hand_cannon/p5xr9m5/
 - **Do you mean Ironman mode in general failing polls? If so, I doubt it. People want official badges, items, names, pets—anything that not everyone can have. I’m guilty of this too. I**
-  - comment · 18h ago · i_am_slow_sorry · score 13
+  - comment · 19h ago · i_am_slow_sorry · score 13
   - matched: exploits
   - re: Bronzeman Mode Discussion Megathread
   - https://www.reddit.com/r/2007scape/comments/1vumzpb/bronzeman_mode_discussion_megathread/p5xhtk4/
@@ -534,17 +539,17 @@
   - re: R/2007scape
   - https://www.reddit.com/r/2007scape/comments/1vyc76b/r2007scape/p5x0t4l/
 - **My Inventory is glitched**
-  - r/2007scape · 20h ago · Pretty_Nobody9694 · score 13
+  - r/2007scape · 21h ago · Pretty_Nobody9694 · score 13
   - matched: glitched
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyhzop/my_inventory_is_glitched/
 - **Visual bug is all I need to hear.. that’s what I basically wanted to know lol**
-  - comment · 20h ago · sosahof · score 13
+  - comment · 21h ago · sosahof · score 13
   - matched: bug
   - re: Why am I getting wrecked at moons?
   - https://www.reddit.com/r/2007scape/comments/1vygk7t/why_am_i_getting_wrecked_at_moons/p5wzevm/
 - **It's likely because there's an endless list of things to fix and new stuff to do. Product manager/owner is going to prioritise active bugs and new features more often than not. Thi**
-  - comment · 20h ago · falconstar3 · +2 more in this thread on the same terms · score 13
+  - comment · 21h ago · falconstar3 · +2 more in this thread on the same terms · score 13
   - matched: bugs
   - re: Is the spaghetti code of elite clue scrolls ever g
   - https://www.reddit.com/r/2007scape/comments/1vyc9re/is_the_spaghetti_code_of_elite_clue_scrolls_ever/p5wvjh1/
@@ -564,17 +569,17 @@
   - re: MAJOR BUG: Group Ironmen can trade Unranked Group 
   - https://www.reddit.com/r/2007scape/comments/1vyf7xr/major_bug_group_ironmen_can_trade_unranked_group/p5wdwhh/
 - **MAJOR BUG: Group Ironmen can trade Unranked Group Ironmen without losing Prestige.**
-  - r/2007scape · 22h ago · binley · score 13
+  - r/2007scape · 23h ago · binley · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vyf7xr/major_bug_group_ironmen_can_trade_unranked_group/
 - **Well, that and data leaks/the steam exploit/etc. **
-  - comment · 22h ago · BadPunsGuy · score 13
+  - comment · 23h ago · BadPunsGuy · score 13
   - matched: exploit
   - re: Did somebody say smackdown?
   - https://www.reddit.com/r/2007scape/comments/1vxvyxp/did_somebody_say_smackdown/p5wdb4w/
 - **Yes it’s known, seen this visual glitch in person and on a bunch of streamers screens often**
-  - comment · 22h ago · Fancy-Dig1863 · score 13
+  - comment · 23h ago · Fancy-Dig1863 · score 13
   - matched: glitch
   - re: Floating Items at Whisperer
   - https://www.reddit.com/r/2007scape/comments/1vye7oy/floating_items_at_whisperer/p5wa7uz/
@@ -607,7 +612,7 @@
   - Created page with "{{Update|date=26 August 2026|url=https://
   - https://oldschool.runescape.wiki/w/Update%3AMad_Angel_Combat_Achievements
 - **🟣 14 J-Mod replies — Nex broke today <3**
-  - comment · 5h ago · JagexLight · score 30
+  - comment · 6h ago · JagexLight · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 14, JagexLight: enjoy this while you can, we'll be looking into resetting the PBs achi
   - https://www.reddit.com/comments/1vyxmhw
@@ -622,12 +627,12 @@
   - latest of 16, JagexLight: we're working on a couple hotfixes for this and doom atm, will update 
   - https://www.reddit.com/comments/1vyuvxs
 - **🟣 19 J-Mod replies — Doom is GIGA bugged atm: becomes invincible if you kill it as shield phase starts**
-  - comment · 8h ago · JagexLight · score 30
+  - comment · 9h ago · JagexLight · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 19, JagexLight: We're investigating this and the issues with Araxxor, appreciate the r
   - https://www.reddit.com/comments/1vyv6az
 - **🟣 15 J-Mod replies — GAME UPDATE: Mad Angel Combat Achievements**
-  - comment · 8h ago · JagexLight · score 30
+  - comment · 9h ago · JagexLight · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 15, JagexLight: ty for reporting this, which client is this on?
   - https://www.reddit.com/comments/1vysgoq
@@ -652,7 +657,7 @@
   - 1c
   - https://www.reddit.com/r/2007scape/comments/1vyu2ki/doom_glitch_after_game_update/
 - **GAME UPDATE: Mad Angel Combat Achievements**
-  - r/2007scape, r/ironscape · 10h ago · ModYume · seen 2x · score 15
+  - r/2007scape, r/ironscape · 11h ago · ModYume · seen 2x · score 15
   - matched: game update
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/
@@ -660,12 +665,12 @@
 ## "You can do this" finds  (3)
 
 - **Yeah! Soloing is incredibly fun and rewarding imo, but can be really brutal at first. There are a lot of guides out there with varying degrees of depth (synq's guide for example is**
-  - comment · 18h ago · Prokofi · score 23
+  - comment · 19h ago · Prokofi · score 23
   - matched: you can skip, same tick
   - re: Just completed my 5th and 6th CoX raid in a 2-man 
   - https://www.reddit.com/r/2007scape/comments/1vyh6cu/just_completed_my_5th_and_6th_cox_raid_in_a_2man/p5xiqbq/
 - **Protip for this: You can also steal from the two gem stalls in the SW corner of the marketplace while doing this. They respawn slightly faster than the distractions, so they are al**
-  - comment · 12h ago · cleerion · score 17
+  - comment · 13h ago · cleerion · score 17
   - matched: protip, stalls
   - re: Wealthy Citizens + enchant bolt
   - https://www.reddit.com/r/2007scape/comments/1vyhj1i/wealthy_citizens_enchant_bolt/p5ywhfk/
@@ -675,7 +680,7 @@
   - re: Just completed my 5th and 6th CoX raid in a 2-man 
   - https://www.reddit.com/r/2007scape/comments/1vyh6cu/just_completed_my_5th_and_6th_cox_raid_in_a_2man/p5xmrr2/
 
-## Mechanics & wiki corrections  (19)
+## Mechanics & wiki corrections  (16)
 
 - **the poison dynamite damage counts as true damage and itll grant kill credit to any monster hit by it, recoil wont. you need one hit of true damage for it to count. (monsters can re**
   - comment · 8h ago · QuirkyRose · score 46
@@ -683,7 +688,7 @@
   - re: What bosses can a level 3 skiller kill using recoi
   - https://www.reddit.com/r/2007scape/comments/1vyw0m9/what_bosses_can_a_level_3_skiller_kill_using/p5zzge1/
 - **No such thing as a peak my guy. For the orb spawn make sure that you pick a long straight line. It helps if the boss is in the middle of the room as it spawns more orbs. You can th**
-  - comment · 11h ago · Cwaghack · +4 more posts on this incident · score 44
+  - comment · 12h ago · Cwaghack · +5 more posts on this incident · score 44
   - matched: pathing, diagonal, control click
   - re: I suck at doom. I can’t get past delve 6 right now
   - same incident (pathing, diagonal, control click, worked for me), also reported as:
@@ -691,6 +696,7 @@
     - I was in your situation a week ago, now I’m able to consistently clear wave 8+ What I foun
     - This isn't new, that tile has always been like that. Pathing of the fire probably runs int
     - It’s funny because you can always tell when someone has run CG enough to learn prayer flic
+    - Well, knowing how mobs path I can assure you the SW tile has a lot to do with it. I'm star
   - https://www.reddit.com/r/ironscape/comments/1vydws4/i_suck_at_doom_i_cant_get_past_delve_6_right_now/p5z5r3d/
 - **And some content is vastly more applicable to specific account types than others. Take for example poison dynamite. You don't know what you don't know about specific account types **
   - comment · 22h ago · No_Usual_572 · score 36
@@ -703,7 +709,7 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vz0whw/ancient_magicks_dont_work_in_stronghold_of/
 - **And sometimes you want to stall doom's shield phase to let far away melee grubs get closer, so a lower max hit on darklight makes it better than emberlight.**
-  - comment · 10h ago · Time-Ad-5037 · +7 more posts on this incident · score 31
+  - comment · 11h ago · Time-Ad-5037 · +9 more posts on this incident · score 31
   - matched: max hit, stall, emberlight, darklight
   - re: Finally got all 3 megarares!
   - same incident (stall, tick eat, max hit, darklight), also reported as:
@@ -714,34 +720,26 @@
     - Should be able to see more info related to max hit and dps based on like monster examine. 
     - I think a thematic approach (non 4th wall breaking) to this issue could be a spell or NPC 
     - the whole basis of the game is about memory and remembering things. like the primary way y
+    - Can you have an emberlight and an arclight? or just emberlight and darklight?
+    - The side opposite the side she's holding her sword on (she chooses which side she's going 
   - https://www.reddit.com/r/2007scape/comments/1vya3c3/finally_got_all_3_megarares/p5zcm94/
 - **I did a lot of it through training mage on the blue dragons in the dragons den northeast of Tal Teklan. Picked up the dragon bones and either use them at the Chaos Altar in Wildern**
-  - comment · 5m ago · Elusidator · score 20
+  - comment · 36m ago · Elusidator · score 20
   - matched: safe spot
   - re: Barrow's before Moons? What are people's thoughts 
   - https://www.reddit.com/r/ironscape/comments/1vz5080/barrows_before_moons_what_are_peoples_thoughts_in/p637le8/
-- **Ladder skip gang. Never miss the floor because you don't even need to know what the correct quadrant is. Every tick is a safespot 😎. This also simplifies double trouble and sets y**
-  - comment · 1h ago · HolyCrushsader · score 20
-  - matched: safespot
-  - re: Am I stupid?
-  - https://www.reddit.com/r/2007scape/comments/1vz45mq/am_i_stupid/p62k3bt/
 - **The account red x’ing has to have killed the shaman I believe, so as long as it can then put that account to the corner one. **
   - comment · 4h ago · Shane4894 · score 24
   - matched: red x
   - re: Is there a way easily to setup double red x shaman
   - https://www.reddit.com/r/ironscape/comments/1vxtxc6/is_there_a_way_easily_to_setup_double_red_x/p61m31f/
 - **I leveled to 99 primarily through port tasks and was getting about 230k xp/hr and thatvwas before a handful of buffs. They've since just flat increased xp per task and allowed you **
-  - comment · 7h ago · Buzzed27 · score 24
+  - comment · 8h ago · Buzzed27 · score 24
   - matched: teleport focus, greater teleport focus
   - re: Loot from 1 hour of high level port tasks
   - https://www.reddit.com/r/2007scape/comments/1vyuz17/loot_from_1_hour_of_high_level_port_tasks/p607dmy/
-- **the use cases for demonbane weaponry in that fight just require the weapon to be demonbane with no consideration for dps because it's either to guarantee 1-shot the grubs doom spaw**
-  - comment · 23h ago · SadimHusum · score 22
-  - matched: scorching bow, demonbane
-  - re: Finally got all 3 megarares!
-  - https://www.reddit.com/r/2007scape/comments/1vya3c3/finally_got_all_3_megarares/p5vy90a/
 - **I used a simple auto clicker to fight this cyrax guy, some kind of evil genie or something, and when I came back the next day expecting it to have banned me I found my guy was just**
-  - comment · 48m ago · pichael289 · score 17
+  - comment · 1h ago · pichael289 · score 17
   - matched: classic, runescape classic
   - re: Who feels me here
   - https://www.reddit.com/r/2007scape/comments/1vz3avw/who_feels_me_here/p62xlt0/
@@ -751,22 +749,21 @@
   - re: Barrow's before Moons? What are people's thoughts 
   - https://www.reddit.com/r/ironscape/comments/1vz5080/barrows_before_moons_what_are_peoples_thoughts_in/p62d6db/
 - **This is long but I already have it written. Sorry for the weird bulleting, reddit doesn't like the formatting from my notes app. This is written for people who are terrible at PVM **
-  - comment · 2h ago · StagecoachOSRS · score 20
+  - comment · 3h ago · StagecoachOSRS · score 20
   - matched: you can still, directional, overheal
   - re: I’m really struggling with Drakan, and I haven’t e
   - https://www.reddit.com/r/2007scape/comments/1vz49dj/im_really_struggling_with_drakan_and_i_havent/p629fq8/
 - **Ranged gear suggestions. Looking at doing fight cave soon**
-  - r/osrs · 10h ago · Responsible-Yam-4887 · score 20
+  - r/osrs · 11h ago · Responsible-Yam-4887 · +3 more posts on this incident · score 20
   - matched: safespot
   - 1c · 1↑
+  - same incident (safespot), also reported as:
+    - Don't need to do any solo strats for duos. You can literally just have a mage skipper and 
+    - Ladder skip gang. Never miss the floor because you don't even need to know what the correc
+    - The mobs sw tile has nothing to do with it. I’ll break it down so you at least have the in
   - https://www.reddit.com/r/osrs/comments/1vytfwe/ranged_gear_suggestions_looking_at_doing_fight/
-- **Don't need to do any solo strats for duos. You can literally just have a mage skipper and someone maging from the melee safespot and it's really not all that different from trio st**
-  - comment · 16h ago · Prokofi · score 20
-  - matched: safespot
-  - re: Just completed my 5th and 6th CoX raid in a 2-man 
-  - https://www.reddit.com/r/2007scape/comments/1vyh6cu/just_completed_my_5th_and_6th_cox_raid_in_a_2man/p5y29iu/
 - **I was thinking about that but maybe the cooking guild could be structured like the Champions/Hero’s/Legend/Myth guilds. The Varrock guild could be the low level cooking area, then **
-  - comment · 3h ago · super-sanic · score 17
+  - comment · 4h ago · super-sanic · score 17
   - matched: cooking guild, dead content
   - re: Suggestion: Cooking Guild Updates
   - https://www.reddit.com/r/2007scape/comments/1vyprtc/suggestion_cooking_guild_updates/p61svm8/
@@ -776,16 +773,16 @@
   - re: The Notorious R.2.H.
   - https://www.reddit.com/r/2007scape/comments/1vyus8j/the_notorious_r2h/p60vg5q/
 - **There's no healing the void knight.**
-  - comment · 22h ago · Equivalent-Long4396 · score 17
+  - comment · 23h ago · Equivalent-Long4396 · score 17
   - matched: the void, void knight
   - re: 10HP Beneath Cursed Sands Completion!
   - https://www.reddit.com/r/2007scape/comments/1vxu4r1/10hp_beneath_cursed_sands_completion/p5w9l4g/
 - **Araxxor Mirrorback reflects 50% of damage to player**
-  - r/2007scape · 9h ago · Tiitano · score 13
+  - r/2007scape · 10h ago · Tiitano · score 13
   - matched: J-Mod reply · no bug content
   - 3c · 4↑
   - https://www.reddit.com/r/2007scape/comments/1vyub6x/araxxor_mirrorback_reflects_50_of_damage_to_player/
 
 ---
 
-Not included: 1120 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 785 findings older than 24h. Widen with `__osrs.report(48)` in the console.
