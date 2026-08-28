@@ -1,46 +1,46 @@
 # OSRS Signal — last 24h
 
-2026-08-28 01:45 UTC · 117 findings after merging duplicates (from 225 raw hits; 88 single-term floor rows filtered)
+2026-08-28 02:40 UTC · 114 findings after merging duplicates (from 223 raw hits; 89 single-term floor rows filtered)
 
-## Bugs & exploits  (67)
+## Bugs & exploits  (65)
 
 - **I don't think adding a single flag is a big ask, and that's very reusable. Monsters (including bosses) already have like 30 attributes: health, offensive stab/crush/slash/ranged/ma**
-  - comment · 5h ago · Fyvrynifl · score 45
+  - comment · 6h ago · Fyvrynifl · score 45
   - matched: bug, damage cap, regen rate, monster examine
   - re: PLEASE make it so if a monster regenerates, it res
   - https://www.reddit.com/r/2007scape/comments/1w03g0t/please_make_it_so_if_a_monster_regenerates_it/p6a1ana/
 - **PSA: Potions are bugged**
-  - r/2007scape · 8h ago · pingas145 · score 42
+  - r/2007scape · 9h ago · pingas145 · score 42
   - matched: bugged, glitch, psa:, the void
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w00m66/psa_potions_are_bugged/
 - **Mechanic in the game, excluded from all in-game warnings and the wiki, lost me 1.6bil. This should be considered bug abuse**
-  - r/2007scape · 18h ago · xthrowawayaccount520 · score 37
+  - r/2007scape · 19h ago · xthrowawayaccount520 · score 37
   - matched: bug, undocumented, game mechanic, safe zone
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzmqor/mechanic_in_the_game_excluded_from_all_ingame/
 - **Even dwarf cannon placement is known to be buggy sometimes when updates hit, so it’s not as clean a solution as you think. With the amount of spaghetti in this game one would think**
-  - comment · 5h ago · EpicLegendX · score 36
+  - comment · 6h ago · EpicLegendX · score 36
   - matched: bug, bugs, kill credit
   - re: PLEASE make it so if a monster regenerates, it res
   - https://www.reddit.com/r/2007scape/comments/1w03g0t/please_make_it_so_if_a_monster_regenerates_it/p6ac2h4/
 - **✎ Bounty tasks — Added that Bounty Tasks giving reward bags is unintended and will be fixed in the next game update**
-  - wiki · 5h ago · ~2026-CorruptionGrogEyepatch15989 · score 28
+  - wiki · 6h ago · ~2026-CorruptionGrogEyepatch15989 · score 28
   - matched: bug edit, no notice on page — edit summary only
   - edit
   - https://oldschool.runescape.wiki/w/Bounty_tasks
 - **Bug Abuse OSRS Collection?**
-  - r/2007scape · 12h ago · Sufficient_Scene_863 · score 25
+  - r/2007scape · 13h ago · Sufficient_Scene_863 · score 25
   - matched: bug, smuggled
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vztvsj/bug_abuse_osrs_collection/
 - **PSA: don’t listen to this post potions ain’t bugged OP drank it **
-  - comment · 7h ago · Froggen_Toad · score 24
+  - comment · 8h ago · Froggen_Toad · score 24
   - matched: bugged, psa:
   - re: PSA: Potions are bugged
   - https://www.reddit.com/r/2007scape/comments/1w00m66/psa_potions_are_bugged/p698fsh/
 - **Moons dupe protection doesnt apply to weapons?**
-  - r/ironscape · 2h ago · DecemberHolly · score 23
+  - r/ironscape · 3h ago · DecemberHolly · score 23
   - matched: bugged, dupe+breakage
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w0960r/moons_dupe_protection_doesnt_apply_to_weapons/
@@ -49,63 +49,63 @@
   - matched: bug, tick manipulation
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzsuw9/39m_gphr_mining_method_that_almost_no_one_knows/
-- **▶ Bugged Since Release**
-  - youtube · 23h ago · Behemeth · score 19
-  - matched: bugged
-  - youtube
-  - https://www.youtube.com/watch?v=1iHs65b40bA
 - **Mad angel bugged CA?**
-  - r/2007scape · 8h ago · AdAdditional7741 · score 18
+  - r/2007scape · 9h ago · AdAdditional7741 · score 18
   - matched: bugged, thralls
   - 0c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1w004p2/mad_angel_bugged_ca/
 - **Making a REAL chunkman account that can't leave the first chunk of tutorial island as unlocking chunks isn't in the real spirit of chunkman in my opinion as someone who has no inte**
-  - comment · 14h ago · Jaggedmallard26 · score 18
+  - comment · 15h ago · Jaggedmallard26 · score 18
   - matched: can't leave, tutorial island
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p66z4vj/
+- **Typical behavior from UIM elitists tbh. My comment had 5 up votes until your feelings got hurt? From watching Hebox's UIM series, death piling seemed fairly integral to the mode. S**
+  - comment · 2m ago · Independent-Top-9016 · score 13
+  - matched: bugs
+  - re: Hey, how's the no-Bank Game Mode going?
+  - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p6ccbfz/
 - **I do it bc I'll have someone bug to me to play coop on another game and then I'll do an AFK task on my second monitor or tablet. But mostly its just semi effective AFKing is how yo**
-  - comment · 1h ago · Affectionate-Gas-150 · score 13
+  - comment · 2h ago · Affectionate-Gas-150 · score 13
   - matched: bug
   - re: How do you jugle other games with osrs?
   - https://www.reddit.com/r/2007scape/comments/1w062wj/how_do_you_jugle_other_games_with_osrs/p6bpkpv/
 - **It's a known bug that is planned to be coldfixed at some point. Currently unknown if it will be happening this week or alongside next weeks update. Devs have been aware of it since**
-  - comment · 3h ago · Forged-Signatures · score 13
+  - comment · 4h ago · Forged-Signatures · score 13
   - matched: bug
   - re: Pillars health bars at Phosani are bugged
   - https://www.reddit.com/r/2007scape/comments/1w08k62/pillars_health_bars_at_phosani_are_bugged/p6b1tco/
 - **Pillars health bars at Phosani are bugged**
-  - r/2007scape · 3h ago · kruktk · score 13
+  - r/2007scape · 4h ago · kruktk · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w08k62/pillars_health_bars_at_phosani_are_bugged/
 - **There are SO many bugs with this content **
-  - comment · 3h ago · AndrewLeo24 · score 13
+  - comment · 4h ago · AndrewLeo24 · score 13
   - matched: bugs
   - re: i have many issues with Drift Fishing, and now i a
   - https://www.reddit.com/r/2007scape/comments/1um079b/i_have_many_issues_with_drift_fishing_and_now_i/p6axirf/
 - **Dude just 1t flick and it’s free. Pretty sure it’s a bug**
-  - comment · 4h ago · No-Brainrot-5911 · score 13
+  - comment · 5h ago · No-Brainrot-5911 · score 13
   - matched: bug
   - re: How is Dancing queen CA a medium tier CA
   - https://www.reddit.com/r/2007scape/comments/1w01wnp/how_is_dancing_queen_ca_a_medium_tier_ca/p6ahebl/
 - **I'm at 200 Mort tasks, taking all boosted and yatayata, and I have not even hit the table once. No staff or gem to even be mad about. I'll kill close to 500 dumb araxytes in a sing**
-  - comment · 5h ago · HappinessOrgan · score 13
+  - comment · 6h ago · HappinessOrgan · score 13
   - matched: bugged
   - re: Nothing like level 25 slayer
   - https://www.reddit.com/r/ironscape/comments/1w01zn0/nothing_like_level_25_slayer/p6absv4/
 - **This bug was here for the initial CG change patch and disappeared a couple weeks ago, odd to see it come back **
-  - comment · 5h ago · Spazgrim · score 13
+  - comment · 6h ago · Spazgrim · score 13
   - matched: bug
   - re: CG stackable resources bug?
   - https://www.reddit.com/r/2007scape/comments/1vzvyfv/cg_stackable_resources_bug/p6a8qpa/
 - **Yea apparently not. I haven’t met anyone who has had this happen on the 99 str pump grind. I even messaged a mod because I thought this was a straight up glitch. **
-  - comment · 5h ago · SeestarS50Pro · score 13
+  - comment · 6h ago · SeestarS50Pro · score 13
   - matched: glitch
   - re: Fun fact……
   - https://www.reddit.com/r/2007scape/comments/1vzxys8/fun_fact/p6a7aft/
 - **3 free bonds and the first thing you do is go tell the internet? Smh. In all seriousness I highly doubt you somehow glitched the game to get 3 free bonds. If you normally buy them **
-  - comment · 5h ago · Detective_Queso · score 13
+  - comment · 6h ago · Detective_Queso · score 13
   - matched: glitched
   - re: Redeemed bonds twice?
   - https://www.reddit.com/r/2007scape/comments/1w04aft/redeemed_bonds_twice/p6a24cm/
@@ -120,47 +120,47 @@
   - re: Blisterwood Lantern not performing as intended at 
   - https://www.reddit.com/r/2007scape/comments/1vzqufy/blisterwood_lantern_not_performing_as_intended_at/p69lmrh/
 - **Careful not to uncharge it, last I heard there was a bug that reset all progress towards blessing it That said, I'm on the other end. I put colo off with the excuse that I might as**
-  - comment · 7h ago · Beretot · score 13
+  - comment · 8h ago · Beretot · score 13
   - matched: bug
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p69b8ka/
 - **Sounds like issues with your MES settings rather than outright bug**
-  - comment · 8h ago · Erksike · score 13
+  - comment · 9h ago · Erksike · score 13
   - matched: bug
   - re: PSA: Potions are bugged
   - https://www.reddit.com/r/2007scape/comments/1w00m66/psa_potions_are_bugged/p696ous/
 - **You are not supposed to max out in a year.**
-  - comment · 8h ago · Wrong-Sale-7202 · score 13
+  - comment · 9h ago · Wrong-Sale-7202 · score 13
   - matched: not supposed to
   - re: Mining needs a rework badly
   - https://www.reddit.com/r/2007scape/comments/1w00et7/mining_needs_a_rework_badly/p6956qg/
 - **A problem with sounds is listed in the bugs section of yesterdays newspost. https://secure.runescape.com/m=news/a=97/mad-angel-combat-achievements?oldschool=1**
-  - comment · 8h ago · OffByOn3 · score 13
+  - comment · 9h ago · OffByOn3 · score 13
   - matched: bugs
   - re: Did they change something to sound in yesterday's 
   - https://www.reddit.com/r/2007scape/comments/1vzni1z/did_they_change_something_to_sound_in_yesterdays/p693x99/
 - **I did mine first thing on Wednesday and realized after another couple kills that it was incomplete and I couldn't tell why. I figured I either unequipped my weapon too soon or put **
-  - comment · 8h ago · Pretend_Address_1240 · score 13
+  - comment · 9h ago · Pretend_Address_1240 · score 13
   - matched: bugged
   - re: Mad angel bugged CA?
   - https://www.reddit.com/r/2007scape/comments/1w004p2/mad_angel_bugged_ca/p693gcs/
 - **Huey is bugged also, the dwarf that charges the fires dies as soon as huey goes to tail phase. The fires still charge, but we dont get to see him or his yellow bar.**
-  - comment · 9h ago · BIitzez · score 13
+  - comment · 10h ago · BIitzez · score 13
   - matched: bugged
   - re: GAME UPDATE: Mad Angel Combat Achievements
   - https://www.reddit.com/r/2007scape/comments/1vysgoq/game_update_mad_angel_combat_achievements/p68rfwp/
 - **What do u mean, death fees add up and are difficult to keep up with depending on what stage of game you're at. I ate through all of my death coffers and was lucky I had spent the m**
-  - comment · 9h ago · CategoryNo5932 · score 13
+  - comment · 10h ago · CategoryNo5932 · score 13
   - matched: soft locked
   - re: This was the hardest quest in the game… and of my 
   - https://www.reddit.com/r/2007scape/comments/1vz9h94/this_was_the_hardest_quest_in_the_game_and_of_my/p68p3x1/
 - **Interesting so maybe it’s a visual bug showing prayer as on when it isn’t. Thanks!**
-  - comment · 9h ago · osrslmao · score 13
+  - comment · 10h ago · osrslmao · score 13
   - matched: bug
   - re: Curse of Arrav boss hitting me with melee through 
   - https://www.reddit.com/r/2007scape/comments/1or8q3w/curse_of_arrav_boss_hitting_me_with_melee_through/p68ljy9/
 - **I just can't figure out for the life of me how to give him 10,000 noted meats at once. Surely I'm not supposed to be doing this an inventory at a time?**
-  - comment · 9h ago · Bookablebard · score 13
+  - comment · 10h ago · Bookablebard · score 13
   - matched: not supposed to
   - re: 10,000 charges for infinite whistle is outrageous
   - https://www.reddit.com/r/2007scape/comments/1vzuo1i/10000_charges_for_infinite_whistle_is_outrageous/p68fpj9/
@@ -170,32 +170,32 @@
   - re: CG stackable resources bug?
   - https://www.reddit.com/r/2007scape/comments/1vzvyfv/cg_stackable_resources_bug/p68eyy5/
 - **A man can leave Runescape, but Runescape can't leave man.**
-  - comment · 10h ago · trtwrtwrtwrwtrwtrwt · score 13
+  - comment · 11h ago · trtwrtwrtwrwtrwtrwt · score 13
   - matched: can't leave
   - re: as a new osrs player tell me something i wont unde
   - https://www.reddit.com/r/2007scape/comments/1vztnw8/as_a_new_osrs_player_tell_me_something_i_wont/p68e2nw/
 - **Great idea, just submitted the bug in game. Maybe that with this Reddit post could get it fixed in 180 days.**
-  - comment · 10h ago · PremiumDope · score 13
+  - comment · 11h ago · PremiumDope · score 13
   - matched: bug
   - re: Dinh’s spec doesn’t work for Spindel?
   - https://www.reddit.com/r/2007scape/comments/1vzx2jv/dinhs_spec_doesnt_work_for_spindel/p68cry7/
 - **It's just an oversight. Report it as a bug and wait for 200 business days.**
-  - comment · 10h ago · themegatuz · score 13
+  - comment · 11h ago · themegatuz · score 13
   - matched: bug
   - re: Dinh’s spec doesn’t work for Spindel?
   - https://www.reddit.com/r/2007scape/comments/1vzx2jv/dinhs_spec_doesnt_work_for_spindel/p68cjs3/
 - **It was a bug from yesterdays update that they hot fixed. They accidentally removed the dmg cap at nex and you could one shot nex with enough ppl**
-  - comment · 10h ago · dcf611 · score 13
+  - comment · 11h ago · dcf611 · score 13
   - matched: bug
   - re: What have you achieved in OSRS this week?
   - https://www.reddit.com/r/2007scape/comments/1vzun6w/what_have_you_achieved_in_osrs_this_week/p6898q6/
 - **You really shouldn't be able to go from reddit -> RS -> steam. You need to diversify your names. my reddit, yt, twitch, steam, etc all have wildly different names **
-  - comment · 10h ago · loudrogue · score 13
+  - comment · 11h ago · loudrogue · score 13
   - matched: shouldn't be able
   - re: What is wrong with people?
   - https://www.reddit.com/r/2007scape/comments/1vzw8he/what_is_wrong_with_people/p6857dl/
 - **omg this is super broken hide this ur bug abusing OP**
-  - comment · 10h ago · RoyalDrake · score 13
+  - comment · 11h ago · RoyalDrake · score 13
   - matched: bug
   - re: CG stackable resources bug?
   - https://www.reddit.com/r/2007scape/comments/1vzvyfv/cg_stackable_resources_bug/p682gbd/
@@ -205,57 +205,57 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzvyfv/cg_stackable_resources_bug/
 - **Dup bug**
-  - comment · 11h ago · CheetuBR · score 13
+  - comment · 12h ago · CheetuBR · score 13
   - matched: bug
   - re: Logged in next to this guy outside home tele...
   - https://www.reddit.com/r/2007scape/comments/1vziil1/logged_in_next_to_this_guy_outside_home_tele/p67zrnw/
 - **No, trybrid fights are already very long so doesn’t make sense for pvp. Pve maybe but game breaking imo **
-  - comment · 11h ago · ghosteye21 · score 13
+  - comment · 12h ago · ghosteye21 · score 13
   - matched: game breaking
   - re: Could OSRS ever move beyond 4-dose potions?
   - https://www.reddit.com/r/2007scape/comments/1vzvpx4/could_osrs_ever_move_beyond_4dose_potions/p67z9yy/
 - **Odds you’ll share the bug you used? I know how you fellas can be w that info hahah **
-  - comment · 11h ago · Sufficient_Scene_863 · score 13
+  - comment · 12h ago · Sufficient_Scene_863 · score 13
   - matched: bug
   - re: Bug Abuse OSRS Collection?
   - https://www.reddit.com/r/2007scape/comments/1vztvsj/bug_abuse_osrs_collection/p67ps7a/
 - **On my main that I dont play I have the Monkeys from trouble brewing outside it. I think het patched it, atleast the bug i used.**
-  - comment · 11h ago · GrapefruitParking332 · score 13
+  - comment · 12h ago · GrapefruitParking332 · score 13
   - matched: bug
   - re: Bug Abuse OSRS Collection?
   - https://www.reddit.com/r/2007scape/comments/1vztvsj/bug_abuse_osrs_collection/p67olln/
 - **Ah you’ve acquired the Cart bug, gzz, there’s a handful with this now **
-  - comment · 12h ago · TheyCallMeBullet · score 13
+  - comment · 13h ago · TheyCallMeBullet · score 13
   - matched: bug
   - re: I'm stuck in a Dwarven mine cart
   - https://www.reddit.com/r/ironscape/comments/1vzlhcu/im_stuck_in_a_dwarven_mine_cart/p67jhyo/
 - **That isn't a "bug with the wiki"**
-  - comment · 12h ago · 66f6 · score 13
+  - comment · 13h ago · 66f6 · score 13
   - matched: bug
   - re: 3.9m gp/hr mining method that almost no one knows 
   - https://www.reddit.com/r/2007scape/comments/1vzsuw9/39m_gphr_mining_method_that_almost_no_one_knows/p67e2t5/
 - **No, idk how id get around the necessary mechanic of keeping a persons items after they died. Plus the last thing i want is them making changes to how death mechanics work and they **
-  - comment · 13h ago · DryOnbRing · score 13
+  - comment · 14h ago · DryOnbRing · score 13
   - matched: bug
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p672xhb/
 - **Imbued mage cape is literal bis, voidwaker has uses There's tons of methods and items that are only viable getting from wildly bosses, such as dpick or rcbow. While technically ava**
-  - comment · 14h ago · Mrbasfish · score 13
+  - comment · 15h ago · Mrbasfish · score 13
   - matched: not intended
   - re: REMOVE PVP FROM THE GAME!!!
   - https://www.reddit.com/r/2007scape/comments/1vzoibe/remove_pvp_from_the_game/p66ue5s/
 - **Just as a query, it is fairly clear that a lot of these players knowingly involved themselves in bug abuse and others even organised a rush to kill the boss in this way. Where is t**
-  - comment · 14h ago · SonicRS3 · score 13
+  - comment · 15h ago · SonicRS3 · score 13
   - matched: bug
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p66r4po/
 - **Reminds me of the PvE mode, I learned glitches for Every section and could solo carry runs while never being shot :P**
-  - comment · 15h ago · Jumpi95 · score 13
+  - comment · 16h ago · Jumpi95 · score 13
   - matched: glitches
   - re: Who feels me here
   - https://www.reddit.com/r/2007scape/comments/1vz3avw/who_feels_me_here/p66o2te/
 - **Jagex fix the aquanite hopper already**
-  - r/2007scape · 16h ago · Ill-Accident-6605 · score 13
+  - r/2007scape · 17h ago · Ill-Accident-6605 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzoyex/jagex_fix_the_aquanite_hopper_already/
@@ -265,115 +265,100 @@
   - re: [BUG] Totems at Phosani's Nightmare not indicating
   - https://www.reddit.com/r/2007scape/comments/1vzlkhl/bug_totems_at_phosanis_nightmare_not_indicating/p664a17/
 - **Omg all this time I just thought it was bugged**
-  - comment · 18h ago · Inexpensiveggs · score 13
+  - comment · 19h ago · Inexpensiveggs · score 13
   - matched: bugged
   - re: I got bamboozled at the Water Obelisk by the Summe
   - https://www.reddit.com/r/2007scape/comments/1vzek18/i_got_bamboozled_at_the_water_obelisk_by_the/p6628o4/
 - **Evidently. How's your PNM grind going? I'm finally hitting my stride at this boss and it feels amazing. They're aware of the bug btw, it's on the newspost**
-  - comment · 19h ago · NoCurrencies · score 13
+  - comment · 20h ago · NoCurrencies · score 13
   - matched: bug
   - re: [BUG] Totems at Phosani's Nightmare not indicating
   - https://www.reddit.com/r/2007scape/comments/1vzlkhl/bug_totems_at_phosanis_nightmare_not_indicating/p65twni/
 - **I had this happen last week. Might be a bug with elite clues.**
-  - comment · 19h ago · Trash_Man_12345 · score 13
+  - comment · 20h ago · Trash_Man_12345 · score 13
   - matched: bug
   - re: Sherlock reverted to his pre-2016 behavior from Ma
   - https://www.reddit.com/r/2007scape/comments/1vzgv9j/sherlock_reverted_to_his_pre2016_behavior_from/p65sbuc/
 - **[BUG] Totems at Phosani's Nightmare not indicating when fully charged**
-  - r/2007scape · 19h ago · mattiasen1 · score 13
+  - r/2007scape · 20h ago · mattiasen1 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzlkhl/bug_totems_at_phosanis_nightmare_not_indicating/
 - **being newish and finding out there are many old records that were from bugs but new ones will be wiped really sucks tbh...**
-  - comment · 20h ago · Techy93 · score 13
+  - comment · 21h ago · Techy93 · score 13
   - matched: bugs
   - re: Nex broke today <3
   - https://www.reddit.com/r/2007scape/comments/1vyxmhw/nex_broke_today_3/p65l58v/
 - **Stop playing because they can't do a quest? There needs to be hard content if you geezers can't complete a quest then go do something else like scurrius or moons**
-  - comment · 20h ago · PeeInMyNose · +2 more in this thread on the same terms · score 13
+  - comment · 21h ago · PeeInMyNose · +2 more in this thread on the same terms · score 13
   - matched: can't complete
   - re: Is getting a quest cape becoming too difficult for
   - https://www.reddit.com/r/2007scape/comments/1vzkjej/is_getting_a_quest_cape_becoming_too_difficult/p65kvpt/
 - **Yeah I did the quest last week and had that same bug**
-  - comment · 20h ago · jewstin4 · +3 more in this thread on the same terms · score 13
+  - comment · 21h ago · jewstin4 · +3 more in this thread on the same terms · score 13
   - matched: bug
   - re: Mourning's End Part 2 List Bug? Wondering if this 
   - https://www.reddit.com/r/2007scape/comments/1vzjmns/mournings_end_part_2_list_bug_wondering_if_this/p65k8i1/
 - **Mourning's End Part 2 List Bug? Wondering if this is from the new update today**
-  - r/2007scape · 21h ago · totemair · score 13
+  - r/2007scape · 22h ago · totemair · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzjmns/mournings_end_part_2_list_bug_wondering_if_this/
 - **Also it's still bugged on high risk worlds, you lose everything inside on death **
-  - comment · 21h ago · PhysicalSchedule7448 · score 13
+  - comment · 22h ago · PhysicalSchedule7448 · score 13
   - matched: bugged
   - re: Tackle box QOL still not updated, POLL PASSED IN A
   - https://www.reddit.com/r/2007scape/comments/1vz96e4/tackle_box_qol_still_not_updated_poll_passed_in/p65apwq/
 - **Why spend so much on runes if 8m is going to break you? Just use a basic void range setup (crystal bow / weaver for the flying bugs) and DHAROKS (even 50hp is good enough for melee**
-  - comment · 22h ago · CueNoLife · score 13
+  - comment · 23h ago · CueNoLife · score 13
   - matched: bugs
   - re: Spent 20 Mill in death and supplies to get less th
   - https://www.reddit.com/r/2007scape/comments/1vzi05k/spent_20_mill_in_death_and_supplies_to_get_less/p656sm9/
 - **Nice, gl on the Jordans. And at least you didn't run into the fucking [Doom invincibility bug](https://www.reddit.com/r/2007scape/comments/1vyv6az/doom_is_giga_bugged_atm_becomes_i**
-  - comment · 22h ago · ManyCookies · score 13
+  - comment · 23h ago · ManyCookies · score 13
   - matched: bug
   - re: Revert Doom sounds.
   - https://www.reddit.com/r/2007scape/comments/1vzgz7g/revert_doom_sounds/p654qd2/
 - **Doom is a pretty big bug**
-  - comment · 22h ago · snowflake-57 · score 13
+  - comment · 23h ago · snowflake-57 · score 13
   - matched: bug
   - re: Revert Doom sounds.
   - https://www.reddit.com/r/2007scape/comments/1vzgz7g/revert_doom_sounds/p654idi/
 - **Yes also getting this. It seems like it is timed to when your projectile hits. It sounds like a deep "thump". Edit: Tested Whisperer, and it has some random extra sounds during the**
-  - comment · 22h ago · Prestigious_Pain_499 · score 13
+  - comment · 23h ago · Prestigious_Pain_499 · score 13
   - matched: bug
   - re: Leviathan hit sound effect changed after latest up
   - https://www.reddit.com/r/2007scape/comments/1vzadku/leviathan_hit_sound_effect_changed_after_latest/p653uig/
-- **These are some bugs this week**
-  - comment · 23h ago · osrs__enjoyer · score 13
-  - matched: bugs
-  - re: Sherlock reverted to his pre-2016 behavior from Ma
-  - https://www.reddit.com/r/2007scape/comments/1vzgv9j/sherlock_reverted_to_his_pre2016_behavior_from/p64xqri/
-- **Mads is playing a regular ironman. He is playing is 110% blind. Zero guides, zero wiki, zero comments, zero real help from anywhere. He turns chat off, and tries to avoid other pla**
-  - comment · 23h ago · MeltyCrab · score 13
-  - matched: bugs
-  - re: New MadSeasonShow: After Two Years, It Is Time To 
-  - https://www.reddit.com/r/2007scape/comments/1vz5niq/new_madseasonshow_after_two_years_it_is_time_to/p64tgu9/
 
-## Jagex & J-Mod  (7)
+## Jagex & J-Mod  (6)
 
-- **Revert Doom sounds.**
-  - r/2007scape · 23h ago · S1mp1ex · score 56
-  - matched: bug, bugs, patch notes, integrity
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1vzgz7g/revert_doom_sounds/
 - **🟣 9 J-Mod replies — I speak for everyone when I say that the big compost bin should require 28 fruits instead **
-  - comment · 9h ago · JagexHusky · score 30
+  - comment · 10h ago · JagexHusky · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 9, JagexHusky: I agree
   - https://www.reddit.com/comments/1vzvr11
 - **🟣 10 J-Mod replies — Report from an OSRS meetup in Madison, WI**
-  - comment · 9h ago · JagexSarnie · score 30
+  - comment · 10h ago · JagexSarnie · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 10, JagexSarnie: This is rad and gl on the next one!
   - https://www.reddit.com/comments/1vzwyby
 - **🟣 7 J-Mod replies — MTG Players out there, any ideas for an OSRS NPC themed commander proxy?**
-  - comment · 9h ago · JagexNin · score 30
+  - comment · 10h ago · JagexNin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 7, JagexNin: \[\[Ruric Thar, the Unbowed\]\] as Graardor is one I've wanted to make
   - https://www.reddit.com/comments/1vzwc7p
 - **🟣 20 J-Mod replies — Massive unmentioned change or Bug with Sailing Bounty rewards**
-  - comment · 14h ago · JagexLight · score 30
+  - comment · 15h ago · JagexLight · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 20, JagexLight: Thanks for flagging this to us. We polled Loot Sacks for Courier Tasks
   - https://www.reddit.com/comments/1vz8wzj
 - **🟣 26 J-Mod replies — R/2007scape**
-  - comment · 16h ago · JagexLight · score 30
+  - comment · 17h ago · JagexLight · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 26, JagexLight: We had this on our radar for a while, it's now gotten bumped up in pri
   - https://www.reddit.com/comments/1vyc76b
 - **🟣 44 J-Mod replies — Does anyone else feel like Jagex is relying a little too much on the OSRS wiki to explain **
-  - comment · 16h ago · Mod_Kieren · score 30
+  - comment · 17h ago · Mod_Kieren · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 44, Mod_Kieren: Totally agreed. Big gap here!
   - https://www.reddit.com/comments/1vz0x2e
@@ -381,17 +366,17 @@
 ## "You can do this" finds  (5)
 
 - **Levi hit Sound Effect?**
-  - r/2007scape · 49m ago · 6ixcess · score 21
+  - r/2007scape · 1h ago · 6ixcess · score 21
   - matched: is this new
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w0c3fe/levi_hit_sound_effect/
 - **I’m mobile only and bossing becomes second nature after some practice. I am positive on corrupt gauntlet while still learning with stats in the low to mid 80s. Royal titans is a go**
-  - comment · 1h ago · Dj_Bleezy · score 21
+  - comment · 2h ago · Dj_Bleezy · score 21
   - matched: pro tip, true tile
   - re: MM Mixes - Whoa so cool
   - https://www.reddit.com/r/ironscape/comments/1vzzamz/mm_mixes_whoa_so_cool/p6bqkct/
 - **Pro tip: You can practice the red eye cycle in regular Yama. Start the cycle as soon as you begin P3. the scorching bow spec when you normally would. It will start moving towards y**
-  - comment · 10h ago · Exciting_Ease5501 · score 16
+  - comment · 11h ago · Exciting_Ease5501 · score 16
   - matched: pro tip, scorching bow
   - re: Too bad to complete sensory clouding - how to git 
   - https://www.reddit.com/r/2007scape/comments/1vzq1u6/too_bad_to_complete_sensory_clouding_how_to_git/p68dz27/
@@ -401,7 +386,7 @@
   - re: [Serious] What would be a compelling enough argume
   - https://www.reddit.com/r/2007scape/comments/1vzs3a1/serious_what_would_be_a_compelling_enough/p67arvj/
 - **Gz on the drop! You can wear full ranged gear or full melee gear all the time since barrows brothers magic defense is so low, just make sure you’re not splashing magic attacks. I p**
-  - comment · 18h ago · YaBoi843 · score 16
+  - comment · 19h ago · YaBoi843 · score 16
   - matched: pro tip, magic defense
   - re: My first barrows KC and i got the Dharok’s greatax
   - https://www.reddit.com/r/2007scape/comments/1vzlwmc/my_first_barrows_kc_and_i_got_the_dharoks_greataxe/p65zbyj/
@@ -409,22 +394,22 @@
 ## Mechanics & wiki corrections  (38)
 
 - **I was under the impression this was already a thing. For level 3 ironmen the meta for a lot of things is using a venom alt to assist. The alt has gear that guarantees venom and hit**
-  - comment · 5h ago · ForestBliss · score 46
+  - comment · 6h ago · ForestBliss · score 46
   - matched: kill credit
   - re: PLEASE make it so if a monster regenerates, it res
   - https://www.reddit.com/r/2007scape/comments/1w03g0t/please_make_it_so_if_a_monster_regenerates_it/p6a6kwi/
 - **So your arguments are: 1. Consistency? 2. Edge cases? Purple sweets are a thing and so is tick eating...**
-  - comment · 7h ago · azac24 · score 44
+  - comment · 8h ago · azac24 · score 44
   - matched: tick eating
   - re: Could OSRS ever move beyond 4-dose potions?
   - https://www.reddit.com/r/2007scape/comments/1vzvpx4/could_osrs_ever_move_beyond_4dose_potions/p69dxc7/
 - **That and tick eating sote are the most stressful games of chicken. **
-  - comment · 25m ago · VorkiPls · score 32
+  - comment · 1h ago · VorkiPls · score 32
   - matched: tick eating
   - re: as a new osrs player tell me something i wont unde
   - https://www.reddit.com/r/2007scape/comments/1vztnw8/as_a_new_osrs_player_tell_me_something_i_wont/p6by848/
 - **Just keep at it, but slow down and look up some TOA guides. There's a lot of helpful tech outside of red x and butterfly to look up. Random list of helpful things. SGS is huge. use**
-  - comment · 13h ago · Fine_Competition9810 · +4 more posts on this incident · score 36
+  - comment · 14h ago · Fine_Competition9810 · +4 more posts on this incident · score 36
   - matched: red x, tick healing
   - re: Skill Issue at TOA
   - same incident (red x, stall, tick healing, interface stall), also reported as:
@@ -434,62 +419,67 @@
     - It was done with an interface stall while exiting the minigame. Some one chunk YouTuber us
   - https://www.reddit.com/r/2007scape/comments/1vziun1/skill_issue_at_toa/p6786ym/
 - **Free nearly-unlimited bank in every city protected by death? No thank you Minimal, highly-restrictive storage options locked behind quests and leveling? Yes please unironically It **
-  - comment · 17h ago · 1000-Iced-Coffees · score 29
+  - comment · 18h ago · 1000-Iced-Coffees · score 29
   - matched: stash unit, stash units
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p669bni/
 - **The crazy thing is that you can actually still do that with a lot of bosses, especially with brewed down str, an elder maul/dwh and soulflame horn **
-  - comment · 6h ago · Strosity · score 27
+  - comment · 7h ago · Strosity · score 27
   - matched: you can actually, brewed down, soulflame horn
   - re: PLEASE make it so if a monster regenerates, it res
   - https://www.reddit.com/r/2007scape/comments/1w03g0t/please_make_it_so_if_a_monster_regenerates_it/p69xtd8/
 - **710KC royal titans no prayer scrolls still nothing.**
-  - r/2007scape · 16m ago · Affectionate-Fix-307 · score 21
+  - r/2007scape · 1h ago · Affectionate-Fix-307 · score 21
   - matched: is this normal
   - 1c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w0ctzz/710kc_royal_titans_no_prayer_scrolls_still_nothing/
+- **You will log in and be in middle of the cave, no prayers on and nothing will spawn for maybe 1 or 2 seconds, just switch pray and quickly run to safe spot **
+  - comment · 31m ago · lavender-smell · score 20
+  - matched: safe spot
+  - re: Help me understand logging out mid fight caves. If
+  - https://www.reddit.com/r/2007scape/comments/1w0djep/help_me_understand_logging_out_mid_fight_caves_if/p6c78eb/
 - **Sorry this may not be the right comment/post to ask, please feel no obligation to answer just wanted to make it somewhat relevant: How does someone force multiple NPC to be off-tic**
   - comment · 22h ago · Lvb2 · score 25
   - matched: safespot, flinch
   - re: Meet My Bone Dagger-locked Ironman
   - https://www.reddit.com/r/ironscape/comments/1vzgcwq/meet_my_bone_daggerlocked_ironman/p6585sb/
 - **You have infinite prayer points. **
-  - comment · 5h ago · The-Abhorsen · score 24
+  - comment · 6h ago · The-Abhorsen · score 24
   - matched: infinite prayer
   - re: as a new osrs player tell me something i wont unde
   - https://www.reddit.com/r/2007scape/comments/1vztnw8/as_a_new_osrs_player_tell_me_something_i_wont/p6aac30/
 - **Doom shield HP bar after update**
-  - r/2007scape · 9h ago · GTLucas · score 24
+  - r/2007scape · 10h ago · GTLucas · score 24
   - matched: phase transition
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzymo0/doom_shield_hp_bar_after_update/
 - **You literally only death pile for entrana quests, frem trials, recruitment drive, and maybe a few others. Wildy content can be done without death piling if you want. Death piling i**
-  - comment · 9h ago · JustkiddingIsuck · score 24
+  - comment · 10h ago · JustkiddingIsuck · score 24
   - matched: recruitment drive, entrana
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p68glgv/
 - **Exactly lol wildy diary’s/mage arena cape, entrana quest steps, recruitment drive and frem trials. There might be a few others but that’s mainly it. Non UIM’s literally think we ar**
-  - comment · 10h ago · JustkiddingIsuck · score 24
+  - comment · 11h ago · JustkiddingIsuck · score 24
   - matched: recruitment drive, entrana
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p682pn7/
 - **If spear 1 then next is spear 2 or shield 1. If spear 2, then next is spear 1 or shield 1. If shield 1 them next is spear 1 or shield 2. And if shield 2, then next is spear 1 or sh**
-  - comment · 12h ago · p3_sxm · score 24
+  - comment · 13h ago · p3_sxm · score 24
   - matched: phase transition
   - re: as a new osrs player tell me something i wont unde
   - https://www.reddit.com/r/2007scape/comments/1vztnw8/as_a_new_osrs_player_tell_me_something_i_wont/p67jx2r/
 - **Beyond the increased / decreased price what mechanical benefit is there to maintaining item retrievals if they didn't plan to add more to the game which they haven't in several yea**
-  - comment · 10h ago · adirion123 · seen 2x · score 23
+  - comment · 11h ago · adirion123 · seen 2x · score 23
   - matched: for some reason, vestigial
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p67zgpp/
 - **For some reason that extra tick feels so long **
-  - comment · 10h ago · StrollingDipper · score 23
+  - comment · 11h ago · StrollingDipper · score 23
   - matched: for some reason, extra tick
   - re: as a new osrs player tell me something i wont unde
   - https://www.reddit.com/r/2007scape/comments/1vztnw8/as_a_new_osrs_player_tell_me_something_i_wont/p684izy/
 - **Max hit is capped at 28 except for certain punish phases so str gear is not good. Grab your elite void melee if you have it, and your best amulet defender etc. Efaritays aid: I'm j**
-  - comment · 18h ago · Ascended_Nexus · +3 more posts on this incident · score 23
+  - comment · 19h ago · Ascended_Nexus · +3 more posts on this incident · score 23
   - matched: you dont need, max hit, combo eat
   - re: I’m really struggling with Drakan, and I haven’t e
   - same incident (max hit, combo eat, max hit of), also reported as:
@@ -503,67 +493,62 @@
   - re: Does anyone else feel like Jagex is relying a litt
   - https://www.reddit.com/r/2007scape/comments/1vz0x2e/does_anyone_else_feel_like_jagex_is_relying_a/p65pdfi/
 - **People gotta understand, fishing trawler is from RuneScape Classic. It’s from the original, original game. 23 years old. It’s not completely broken. Sure, it’s a severely outdated **
-  - comment · 8h ago · SuperCarpenter4450 · score 22
+  - comment · 9h ago · SuperCarpenter4450 · score 22
   - matched: classic, runescape classic
   - re: Rework fishing trawler with next sailing expansion
   - https://www.reddit.com/r/2007scape/comments/1vzzkjz/rework_fishing_trawler_with_next_sailing/p68z6pj/
 - **Could just have mains create a gravestone instead of going into the deathbank, also automatically fixes going into death's office Don't see why they'd need to rip out the item retr**
-  - comment · 11h ago · Beretot · score 22
+  - comment · 12h ago · Beretot · score 22
   - matched: death's office, gravestone
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p67vyzz/
 - **That's what I do. But it's still annoying to waste a slayer kc on something I will not get the loot for even though it's completely regenerated. But just fyi, no, no one is coming **
-  - comment · 3h ago · HCIMAlpha · score 20
+  - comment · 4h ago · HCIMAlpha · score 20
   - matched: safespot
   - re: PLEASE make it so if a monster regenerates, it res
   - https://www.reddit.com/r/2007scape/comments/1w03g0t/please_make_it_so_if_a_monster_regenerates_it/p6auc1y/
 - **If you go the iron route Start with the BRUHsailer guide available on the wiki. It is intended to be efficient But you don’t need to continuously follow it until you have done ever**
-  - comment · 10h ago · Late-Tradition8825 · score 20
+  - comment · 11h ago · Late-Tradition8825 · score 20
   - matched: safe spot
   - re: New Player Necessities
   - https://www.reddit.com/r/2007scape/comments/1vzwh36/new_player_necessities/p688c0d/
 - **Crazy work just... standing there. Anyway click brew. If you need a better solve without pray flicking, yellow click west two tiles from middle of pillar and burn down the blob and**
-  - comment · 11h ago · LyrethN · score 20
+  - comment · 12h ago · LyrethN · score 20
   - matched: safe spot
   - re: I died to greed.
   - https://www.reddit.com/r/2007scape/comments/1vzsz56/i_died_to_greed/p67wg21/
 - **Veiled kraken safespot changed?**
-  - r/2007scape, r/ironscape · 16h ago · Sgt_Revan · seen 2x · score 20
+  - r/2007scape, r/ironscape · 17h ago · Sgt_Revan · seen 2x · score 20
   - matched: safespot
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzoh4t/veiled_kraken_safespot_changed/
-- **Do superiors spawn if you kill araxytes in this safe spot?**
-  - r/ironscape · 23h ago · GrizzlyAdams__ · score 20
-  - matched: safe spot
-  - 0c · 1↑
-  - https://www.reddit.com/r/ironscape/comments/1vzgyqd/do_superiors_spawn_if_you_kill_araxytes_in_this/
 - **Works as a brown apron. Flex at the crafting guild. **
-  - comment · 3h ago · Rough_Wrongdoer_9654 · score 17
+  - comment · 4h ago · Rough_Wrongdoer_9654 · score 17
   - matched: crafting guild, brown apron
   - re: Iron luck is real, first easy casket nets me gilde
   - https://www.reddit.com/r/2007scape/comments/1w04oxt/iron_luck_is_real_first_easy_casket_nets_me_gilded/p6b26q6/
 - **Hi I’m just starting myself and have some questions I hope you can help me with. When cannoning in wilderness or in general did you also attack with melee/magic or just afk? The tw**
-  - comment · 3h ago · PM51 · score 17
+  - comment · 4h ago · PM51 · score 17
   - matched: block list, splashing
   - re: My Overly Thorough Guide to Untrimmed Slayer
   - https://www.reddit.com/r/2007scape/comments/1uh7dej/my_overly_thorough_guide_to_untrimmed_slayer/p6b1s7w/
 - **What does the max cape have to do with talking about the 99 crafting cape vs the sailing cape, if you have max cape already the point is moot lmfao. My point is that you are saying**
-  - comment · 4h ago · Bookwrrm · score 17
+  - comment · 5h ago · Bookwrrm · score 17
   - matched: teleport focus, max cape
   - re: What grind did you finish and think to yourself “W
   - https://www.reddit.com/r/ironscape/comments/1vzwkfp/what_grind_did_you_finish_and_think_to_yourself/p6aq33x/
 - **Worked for me. I did it without thralls **
-  - comment · 8h ago · Hytierian · score 17
+  - comment · 9h ago · Hytierian · score 17
   - matched: thralls, worked for me
   - re: Mad angel bugged CA?
   - https://www.reddit.com/r/2007scape/comments/1w004p2/mad_angel_bugged_ca/p691uri/
 - **You be the judge, I'm not a lawyer. They have stolen a lot of copyrighted content like full on encyclopedias without so much as asking permission from the publishers. They then spe**
-  - comment · 8h ago · Gramma_Hattie · score 17
+  - comment · 9h ago · Gramma_Hattie · score 17
   - matched: compensated, compensation
   - re: Can anyone tell me what item this is?  AI says it'
   - https://www.reddit.com/r/2007scape/comments/1vztx0y/can_anyone_tell_me_what_item_this_is_ai_says_its/p68utxa/
 - **That's true, I'm sure it's just a sink for meat They should still make it like emberlight or darklight? Where the charges you use add towards the 10k. It's just one more annoying t**
-  - comment · 9h ago · Firm_Biscotti_2865 · score 17
+  - comment · 10h ago · Firm_Biscotti_2865 · score 17
   - matched: emberlight, darklight
   - re: 10,000 charges for infinite whistle is outrageous
   - https://www.reddit.com/r/2007scape/comments/1vzuo1i/10000_charges_for_infinite_whistle_is_outrageous/p68iu2v/
@@ -573,41 +558,41 @@
   - re: Could OSRS ever move beyond 4-dose potions?
   - https://www.reddit.com/r/2007scape/comments/1vzvpx4/could_osrs_ever_move_beyond_4dose_potions/p680qoo/
 - **One small thing that helped me was dodging the flame walls before switching back to your mage gear after the second scorching bow spec. I was trying to spec then switch and dodge i**
-  - comment · 12h ago · Emotional_Permit5845 · score 17
+  - comment · 13h ago · Emotional_Permit5845 · score 17
   - matched: scorching bow, same tick
   - re: Too bad to complete sensory clouding - how to git 
   - https://www.reddit.com/r/2007scape/comments/1vzq1u6/too_bad_to_complete_sensory_clouding_how_to_git/p67gmt3/
 - **Not even remotely the same imo. The (simplified) rules are just 'no banking', but when the person who inspired the gamemode, IronNoBank, was first playing it there were no death st**
-  - comment · 14h ago · LeffeBlondje · score 17
+  - comment · 15h ago · LeffeBlondje · score 17
   - matched: looting bag, stash units
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p66zh1k/
 - **A recent update allowed for non-sailing fish to be stored in the cargo holds even for uims. They can be stored cooked as well. This bypasses the previous high sailing required to f**
-  - comment · 14h ago · flickmybeaner · score 17
+  - comment · 15h ago · flickmybeaner · score 17
   - matched: stash units, cargo
   - re: Hey, how's the no-Bank Game Mode going?
   - https://www.reddit.com/r/2007scape/comments/1vzn8mv/hey_hows_the_nobank_game_mode_going/p66xus0/
 - **You have no tick delay when killing grubs with demonbane weapons, which is what you'd use darklight for at doom, so the attack speed doesnt matter right? Or am i missing some tick **
-  - comment · 18h ago · Nickn753 · score 17
+  - comment · 19h ago · Nickn753 · score 17
   - matched: demonbane, darklight
   - re: Is there any content in the game that requires 3 s
   - https://www.reddit.com/r/ironscape/comments/1vz818j/is_there_any_content_in_the_game_that_requires_3/p65zkf0/
 - **> Teleport to boat isn't strictly better in every circumstance, but is generally "stronger" Would you care to explain how? Most content that involves dropping off resources or resu**
-  - comment · 9h ago · SmartAlec105 · score 15
+  - comment · 10h ago · SmartAlec105 · score 15
   - matched: you can actually, teleport to boat
   - re: Making the Jeweller's chisel storeable in the Cost
   - https://www.reddit.com/r/2007scape/comments/1vyyzp0/making_the_jewellers_chisel_storeable_in_the/p68hhqa/
 - **It also helps to know that they spawn in an order, the first one always starts in the same spot (SE) and they rotate CW around the room, so you know where the next will be Since ov**
-  - comment · 19h ago · bfrie · score 15
+  - comment · 20h ago · bfrie · score 15
   - matched: you don't need, diagonal
   - re: Skill Issue at TOA
   - https://www.reddit.com/r/2007scape/comments/1vziun1/skill_issue_at_toa/p65ttln/
 - **MTG Players out there, any ideas for an OSRS NPC themed commander proxy?**
-  - r/2007scape · 10h ago · yslyrz · score 13
+  - r/2007scape · 11h ago · yslyrz · score 13
   - matched: J-Mod reply · no bug content
   - 16c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1vzwc7p/mtg_players_out_there_any_ideas_for_an_osrs_npc/
 
 ---
 
-Not included: 1121 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1128 findings older than 24h. Widen with `__osrs.report(48)` in the console.
