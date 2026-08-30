@@ -1,91 +1,104 @@
 # OSRS Signal — last 24h
 
-2026-08-30 14:30 UTC · 76 findings after merging duplicates (from 161 raw hits; 36 single-term floor rows filtered)
+2026-08-30 15:26 UTC · 73 findings after merging duplicates (from 166 raw hits; 39 single-term floor rows filtered)
 
-## Bugs & exploits  (39)
+## Active bug notices (wiki)  (1)
+
+- **✔ bug notice removed — 2025 Halloween event — may be a silent fix worth testing**
+  - bugs · 39m ago · score 34
+  - matched: bug notice cleared, silent fix, notice text not captured — check page diff
+  - Template:Bug · removed
+  - https://oldschool.runescape.wiki/w/2025_Halloween_event
+
+## Bugs & exploits  (38)
 
 - **Vardorvis has so many bugs and interactions that shouldn't happen. My least favorite one is when her first attack is spikes, and they hit you in the place that should be a safe spo**
-  - comment · 20h ago · Reddit_Connoisseur_0 · score 33
+  - comment · 21h ago · Reddit_Connoisseur_0 · score 33
   - matched: bugs, safe spot
   - re: Vardorvis Bug - Capcha during axes
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/p6nhwtb/
 - **Barrows Uniques drops bugged??**
-  - r/ironscape · 6h ago · Azzainthemist · score 26
+  - r/ironscape · 7h ago · Azzainthemist · score 26
   - matched: bug, bugged
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w2beja/barrows_uniques_drops_bugged/
 - **Merlin Stuck in Crystal Bug?**
-  - r/2007scape · 15h ago · GilbertAlexander · score 26
+  - r/2007scape · 16h ago · GilbertAlexander · score 26
   - matched: bug, soft locked
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w20t0z/merlin_stuck_in_crystal_bug/
 - **LMS Bug - Brewed Down Attack Not Restoring**
-  - r/2007scape · 18h ago · RamsRS · score 25
+  - r/2007scape · 19h ago · RamsRS · score 25
   - matched: bug, brewed down
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w1vv90/lms_bug_brewed_down_attack_not_restoring/
 - **When it happened to me i called my friend over because i thought i encountered a duping glitch and we'd be rich**
-  - comment · 6h ago · Responsible-Row7026 · score 23
+  - comment · 7h ago · Responsible-Row7026 · score 23
   - matched: glitch, dupe+breakage
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6r9btl/
 - **I've played since 2005, making new accounts on and off because I keep forgetting my log ins. I made a new OSRS account about 3 years ago, and when I finished the tutorial, I went b**
-  - comment · 8h ago · Lionell95 · score 23
+  - comment · 9h ago · Lionell95 · score 23
   - matched: glitch, mega rare, 3rd age
   - re: How long did it take you to get your first mega ra
   - https://www.reddit.com/r/2007scape/comments/1w27su8/how_long_did_it_take_you_to_get_your_first_mega/p6qwpxh/
 - **Did i miss somthing?**
-  - r/2007scape · 14h ago · This_Guy422 · score 23
+  - r/2007scape · 15h ago · This_Guy422 · score 23
   - matched: bugged, dupe+breakage
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w22240/did_i_miss_somthing/
 - **Old player starting fresh. Haven’t played since classic was just RuneScape.**
-  - r/osrs · 10h ago · ohbigginzz · score 18
+  - r/osrs · 11h ago · ohbigginzz · score 18
   - matched: bug, classic
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w27f08/old_player_starting_fresh_havent_played_since/
+- **Bug during PNM fight on mobile**
+  - r/2007scape · 24m ago · fkbenj · score 13
+  - matched: bug
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1w2jvsl/bug_during_pnm_fight_on_mobile/
 - **It is nostalgia - you said in your post that the game somehow isn't "recognisable" anymore (implying you have an idealised version of the game in your mind that you want see and "r**
-  - comment · 2h ago · BowlNew · score 13
+  - comment · 3h ago · BowlNew · score 13
   - matched: bug
   - re: OSRS Needs Proper OLD SCHOOL 2007 Worlds
   - https://www.reddit.com/r/2007scape/comments/1w2c3m0/osrs_needs_proper_old_school_2007_worlds/p6s4hbf/
 - **Sorry for being late to this post, but I believe the guaranteed generated demi will always be a bear (probably a bug), and thats why we see so many of them. So if it would spawn a **
-  - comment · 3h ago · EmptyBasket · score 13
+  - comment · 4h ago · EmptyBasket · score 13
   - matched: bug
   - re: The Corrupted Gauntlet Demi-Boss Spawn Rates
   - https://www.reddit.com/r/2007scape/comments/1vh5a00/the_corrupted_gauntlet_demiboss_spawn_rates/p6rr9pv/
 - **Seems the mobile client is kind of scetchy lately Chat been buggy for about 2 months and now this Rotating the phone whit the recent apps window did nothing for me , split screenin**
-  - comment · 5h ago · RandomGogo · score 13
+  - comment · 6h ago · RandomGogo · score 13
   - matched: bug
   - re: Is this Android or the client derping
   - https://www.reddit.com/r/2007scape/comments/1w1wzuw/is_this_android_or_the_client_derping/p6rd23g/
 - **Tome of Experience Sins of the Father Bug??**
-  - r/2007scape · 6h ago · woopaboop · score 13
+  - r/2007scape · 7h ago · woopaboop · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2b6co/tome_of_experience_sins_of_the_father_bug/
 - **This happened to me, I did not know the english language so my first account got soft locked. Rip**
-  - comment · 6h ago · Big_Midnight200 · score 13
+  - comment · 7h ago · Big_Midnight200 · score 13
   - matched: soft locked
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6r635a/
 - **Will release it in play store when it is bug free. Android only.**
-  - comment · 7h ago · rjpurk93 · score 13
+  - comment · 8h ago · rjpurk93 · score 13
   - matched: bug
   - re: Since Jagex won't do it, i made it myself
   - https://www.reddit.com/r/2007scape/comments/1w1yqot/since_jagex_wont_do_it_i_made_it_myself/p6r0sdc/
 - **>If unofficial servers can maintain a few thousand players without the resources or official support that Jagex has, I’m sure Jagex could allocate a small number of worlds to an of**
-  - comment · 7h ago · rockdog85 · score 13
+  - comment · 8h ago · rockdog85 · score 13
   - matched: bug
   - re: Yet Another Preservation Server Post (2007 Era)
   - https://www.reddit.com/r/2007scape/comments/1w2a2y9/yet_another_preservation_server_post_2007_era/p6r0nsu/
 - **I've seen this maybe a month ago on a few games. Usually only happened on pure mode, and I couldn't replicate the bug, it was random**
-  - comment · 8h ago · PhysicalSchedule7448 · score 13
+  - comment · 9h ago · PhysicalSchedule7448 · score 13
   - matched: bug
   - re: LMS Bug - Brewed Down Attack Not Restoring
   - https://www.reddit.com/r/2007scape/comments/1w1vv90/lms_bug_brewed_down_attack_not_restoring/p6qvfxm/
 - **I'm talking about when in groups, specifically masses. Group NM specifically gets easier after 30+ people because she can't hit everyone, which is another reason why the Ayak spec **
-  - comment · 8h ago · RatConcerned · score 13
+  - comment · 9h ago · RatConcerned · score 13
   - matched: bug
   - re: Can we get some more chill group bosses?
   - https://www.reddit.com/r/2007scape/comments/1w26c38/can_we_get_some_more_chill_group_bosses/p6qt40m/
@@ -95,17 +108,17 @@
   - re: Can we get some more chill group bosses?
   - https://www.reddit.com/r/2007scape/comments/1w26c38/can_we_get_some_more_chill_group_bosses/p6qpss9/
 - **Hydra gloves/Purging staff bug?**
-  - r/2007scape · 9h ago · lilSyph · score 13
+  - r/2007scape · 10h ago · lilSyph · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w27ynb/hydra_glovespurging_staff_bug/
 - **Did you go complete the quest on an alt to pull this screenshot? Mad props lol. https://preview.redd.it/8y22upjyufmh1.jpeg?width=1359&format=pjpg&auto=webp&s=c8b21b1657df328dc0a6aa**
-  - comment · 10h ago · Kipr2 · score 13
+  - comment · 11h ago · Kipr2 · score 13
   - matched: bugged
   - re: How can I acquire Bosun's workbench schematic?
   - https://www.reddit.com/r/2007scape/comments/1vwidb3/how_can_i_acquire_bosuns_workbench_schematic/p6qh3os/
 - **https://preview.redd.it/eji0ww7w4fmh1.png?width=922&format=png&auto=webp&s=ee59cdde02abbb40fde3f831bef696fe7351e895 I'm back to update that Elder Raley is the intended NPC, but I k**
-  - comment · 12h ago · ShakimTheClown · score 13
+  - comment · 13h ago · ShakimTheClown · score 13
   - matched: bugged
   - re: How can I acquire Bosun's workbench schematic?
   - https://www.reddit.com/r/2007scape/comments/1vwidb3/how_can_i_acquire_bosuns_workbench_schematic/p6pvbzx/
@@ -115,52 +128,52 @@
   - re: Vardorvis Bug - Capcha during axes
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/p6pqz6s/
 - **Any reason my combat achievements would randomly get rolled back? Im literally a noob. Maybe the update on Wednesday?**
-  - r/osrs · 13h ago · Pretend_Nature_9563 · score 13
+  - r/osrs · 14h ago · Pretend_Nature_9563 · score 13
   - matched: rolled back
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w23by6/any_reason_my_combat_achievements_would_randomly/
 - **Are they intended? If so, why did the reimburse the first one?**
-  - comment · 15h ago · applesandotherthings · score 13
+  - comment · 16h ago · applesandotherthings · score 13
   - matched: intended?
   - re: Sir... remember that Avernic defender?
   - https://www.reddit.com/r/2007scape/comments/1w0w3nb/sir_remember_that_avernic_defender/p6p1zmm/
 - **I didn't suggest putting the coders on animation. Why does everyone think of the dumbest shit to put in my mouth? I want people cross trained on testing, bug revision, and feature **
-  - comment · 16h ago · SteveLouise · score 13
+  - comment · 17h ago · SteveLouise · score 13
   - matched: bug
   - re: R/2007scape
   - https://www.reddit.com/r/2007scape/comments/1vyc76b/r2007scape/p6oqw69/
 - **They cant be serious. The sheer amount of bugs in this patch is insane. **
-  - comment · 17h ago · YBHunted · score 13
+  - comment · 18h ago · YBHunted · score 13
   - matched: bugs
   - re: Vardorvis Bug - Capcha during axes
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/p6odocb/
 - **Fixing bugs isn't a different discipline in software engineering. Writing new features and polishing old features are not different disciplines in software engineering. A software **
-  - comment · 17h ago · SteveLouise · score 13
+  - comment · 18h ago · SteveLouise · score 13
   - matched: bugs
   - re: R/2007scape
   - https://www.reddit.com/r/2007scape/comments/1vyc76b/r2007scape/p6odan0/
 - **i think it's bugged**
-  - r/2007scape · 19h ago · fukarron · score 13
+  - r/2007scape · 20h ago · fukarron · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w1up0f/i_think_its_bugged/
 - ** I didn't even know the boxes multiplied as a kid because I would always just immediately solve them. not trying to brag and say I was smart, I'm saying that they were so simple ("**
-  - comment · 20h ago · PkerBadRs3Good · +4 more in this thread on the same terms · score 13
+  - comment · 21h ago · PkerBadRs3Good · +4 more in this thread on the same terms · score 13
   - matched: bug
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6nhgz3/
 - **I once let five or six of those question boxes pile up in my inventory when I was like 11 and I couldn’t solve them fast enough to keep them increasing for a minute. I genuinely go**
-  - comment · 20h ago · Fancy-Dig1863 · score 13
+  - comment · 21h ago · Fancy-Dig1863 · score 13
   - matched: soft locked
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6na8gt/
 - **Yeah the only one that shouldn't work on most bosses is venom, and only because it's designed to force you to use antipoison (a DoT that only increases the damage over time is bust**
-  - comment · 21h ago · mirhagk · score 13
+  - comment · 22h ago · mirhagk · score 13
   - matched: shouldn't work
   - re: It'd be cool if the Shadow Sceptre drained defence
   - https://www.reddit.com/r/2007scape/comments/1w1ovsn/itd_be_cool_if_the_shadow_sceptre_drained_defence/p6n6tx7/
 - **I'm pretty sure that you're not supposed to mount monitors onto a glass desk**
-  - comment · 21h ago · kirsion · +3 more posts on this incident · score 13
+  - comment · 22h ago · kirsion · +3 more posts on this incident · score 13
   - matched: not supposed to
   - re: Got pked and lost my clue scroll and spade
   - same incident (not supposed to), also reported as:
@@ -169,45 +182,35 @@
     - Idk is it? Ive done like three 20 minutes sessions of it and have gotten 5-6 magic roots e
   - https://www.reddit.com/r/2007scape/comments/1w17mc5/got_pked_and_lost_my_clue_scroll_and_spade/p6n5k4b/
 - **I swear somehow RC is bugged as well, specifically the bonus turns from remanent outfit and lantern. I’ve been getting an inconsistent number of runes since the update, usually a l**
-  - comment · 21h ago · Fancy-Dig1863 · score 13
+  - comment · 22h ago · Fancy-Dig1863 · score 13
   - matched: bugged
   - re: Vardorvis Bug - Capcha during axes
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/p6n4noy/
 - **Seems like this latest patch has had more bugs than usual but this is might be the most problematic**
-  - comment · 21h ago · st1r · score 13
+  - comment · 22h ago · st1r · score 13
   - matched: bugs
   - re: Vardorvis Bug - Capcha during axes
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/p6mxt87/
 - **Wth yeah that is weird bug **
-  - comment · 21h ago · Ging1919 · +11 more in this thread on the same terms · score 13
+  - comment · 22h ago · Ging1919 · +11 more in this thread on the same terms · score 13
   - matched: bug
   - re: Vardorvis Bug - Capcha during axes
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/p6mvsmp/
 - **Vardorvis Bug - Capcha during axes**
-  - r/2007scape · 21h ago · actuallyimjustme · score 13
+  - r/2007scape · 22h ago · actuallyimjustme · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w1r36w/vardorvis_bug_capcha_during_axes/
 - **Besides the bug it's just skill issue if you haven't gotten it in 2k kc**
-  - comment · 22h ago · Parking-Cut8840 · +6 more in this thread on the same terms · score 13
+  - comment · 23h ago · Parking-Cut8840 · +6 more in this thread on the same terms · score 13
   - matched: bug
   - re: Any advice on perfect Vardorvis CA?
   - https://www.reddit.com/r/2007scape/comments/1w1q309/any_advice_on_perfect_vardorvis_ca/p6mopqs/
-- **Probably a bug, pets seem to share some code with quest followers, and those NPCs might just be told to target you or one of your followers without a sanity check for pets.**
-  - comment · 23h ago · Vador_ · score 13
-  - matched: bug
-  - re: BMR Maiden Pet Easter Egg?
-  - https://www.reddit.com/r/2007scape/comments/1w1p67u/bmr_maiden_pet_easter_egg/p6mfr9x/
-- **Holy shit dude... 1. Laptop v.s. Desktop doesn't matter here. Just get a real mouse so you're not using a trackpad. 2. Most people use fixed for PKing. Personally I like resizeable**
-  - comment · 23h ago · Chaos-n-Dissonance · score 13
-  - matched: shouldn't be able
-  - re: Anyone here PK on a laptop?
-  - https://www.reddit.com/r/2007scape/comments/1w1ntc8/anyone_here_pk_on_a_laptop/p6ma2my/
 
 ## Jagex & J-Mod  (1)
 
 - **Nah griefing CAs are essential for the integrity of the game, they should also add a CA to dagannoth kings to get a HCIM killed who is trying to safespot rex.**
-  - comment · 5h ago · J0n3s3n · +3 more posts on this incident · score 35
+  - comment · 6h ago · J0n3s3n · +3 more posts on this incident · score 35
   - matched: safespot, integrity
   - re: Next combat achievement - I should see a doctor. A
   - same incident (safespot), also reported as:
@@ -216,117 +219,98 @@
     - Youre totally fine, there is so much time to go safespot and blood spell
   - https://www.reddit.com/r/2007scape/comments/1w281yu/next_combat_achievement_i_should_see_a_doctor_any/p6rerzy/
 
-## "You can do this" finds  (18)
+## "You can do this" finds  (14)
 
 - **I don't know, I think there's such thing as feature bloat, and this kind of suggestion gets close to it. There's already so much, "Well, I can do this activity 10% more efficiently**
-  - comment · 15h ago · liefarikson · score 48
+  - comment · 16h ago · liefarikson · +4 more posts on this incident · score 48
   - matched: ⚡ food per inventory slot, tinderbox, overheal, herb sack
   - re: I love when skills come together!
+  - same incident (herb sack), also reported as:
+    - Post your forgotten Tip/Trick (I'll start)
+    - Time to get the herb sack :D
+    - Damn never heard of those mechanics (herb sack seems obvious now) Best I can do is alch th
+    - So now you have unf potions made with grimy but you spend so much time making those unf. J
   - https://www.reddit.com/r/2007scape/comments/1w1t87s/i_love_when_skills_come_together/p6oytkv/
-- **So now you have unf potions made with grimy but you spend so much time making those unf. Just clean them, note them and use the desert guy and pay him 200 a potion. Herb sack for s**
-  - comment · 1h ago · redrumyliad · score 38
-  - matched: ⚡ food per inventory slot, herb sack
-  - re: Post your forgotten Tip/Trick (I'll start)
-  - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/p6sfqyw/
 - **Did a 3 man with an ely tank, we all had bones to peaches, and it lasted about 4 hours before we just decided to call it quits because we were never going to run out of supplies. **
-  - comment · 15h ago · -GrayMan- · score 43
+  - comment · 16h ago · -GrayMan- · score 43
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What are you guys longest bandos trip?
   - https://www.reddit.com/r/ironscape/comments/1w1wksl/what_are_you_guys_longest_bandos_trip/p6p3fya/
 - **It’s not that bad, infinite food, infinite tries, no death cost, respawn by boss.. really not hard to learn honestly, you can mess up approx 50% of the dodges and brute force it**
-  - comment · 8h ago · deiac · score 38
+  - comment · 9h ago · deiac · score 38
   - matched: ⚡ food per inventory slot, infinite food
   - re: Re-Visit Changing Lumby Elite Diary
   - https://www.reddit.com/r/2007scape/comments/1w28xe2/revisit_changing_lumby_elite_diary/p6qskwg/
 - **You can pretty much do an infinite run! You light all four braziers until \~20% or so. And then you only focus on one: chopping/fletching/feeding. You can light that one brazier as**
-  - comment · 14h ago · sithis83 · score 38
+  - comment · 15h ago · sithis83 · score 38
   - matched: ⚡ food per inventory slot, infinite run
   - re: tome of fire worth grinding for MK?
   - https://www.reddit.com/r/ironscape/comments/1w21f8j/tome_of_fire_worth_grinding_for_mk/p6pgflu/
 - **Important recommended changes**
-  - r/2007scape · 17h ago · Ribino0 · score 38
+  - r/2007scape · 18h ago · Ribino0 · score 38
   - matched: ⚡ food per inventory slot, bottomless, bottomless bucket
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w1ycfn/important_recommended_changes/
-- **Where has the 'Fill from inventory'-option gone?**
-  - r/2007scape · 23h ago · Usual_Diet_1442 · +3 more posts on this incident · score 36
-  - matched: plank sack, log basket
-  - 0c · 1↑
-  - same incident (plank sack, log basket), also reported as:
-    - Forgetting Anything?
-    - That option never existed for log basket or fur pouch. Only for plank sack and essence pou
-    - Give us magic roots without having to chop down the entire damn tree ourselves!! Or make t
-  - https://www.reddit.com/r/2007scape/comments/1w1ocl1/where_has_the_fill_from_inventoryoption_gone/
 - **What are you guys longest bandos trip?**
-  - r/ironscape · 18h ago · jordsplay · score 32
+  - r/ironscape · 19h ago · jordsplay · score 32
   - matched: ⚡ food per inventory slot, you don't need, bones to peaches
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w1wksl/what_are_you_guys_longest_bandos_trip/
-- **PSA: You can buy 1-month memberships for ~$4.99 USD (Newegg + Paze + Steam + Jagex). May be USA only**
-  - r/2007scape · 23h ago · ithrow6s · score 22
-  - matched: not sure if this is, psa:
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w1orox/psa_you_can_buy_1month_memberships_for_499_usd/
-- **Post your forgotten Tip/Trick (I'll start)**
-  - r/2007scape · 1h ago · Lyysergic · score 17
-  - matched: max cape, herb sack
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/
+- **That option never existed for log basket or fur pouch. Only for plank sack and essence pouches**
+  - comment · 16h ago · Grand-Letterhead-813 · score 24
+  - matched: plank sack, log basket
+  - re: Where has the 'Fill from inventory'-option gone?
+  - https://www.reddit.com/r/2007scape/comments/1w1ocl1/where_has_the_fill_from_inventoryoption_gone/p6p486e/
 - **PSA: fletching knife doesnt give the speed buff in wintertodt. I guess its potentially sort of nice to save an equipment slot? But you already have axe, imcando hammer and bruma to**
-  - comment · 3h ago · rikurai · score 16
+  - comment · 4h ago · rikurai · score 16
   - matched: psa:, wintertodt
   - re: tome of fire worth grinding for MK?
   - https://www.reddit.com/r/ironscape/comments/1w21f8j/tome_of_fire_worth_grinding_for_mk/p6rtk56/
 - **Just bring dwh for solos. Bgs is really only for 3+ mans. Boot and cape swaps are unnecessary for learning. Also, a lot of layouts bp won’t really be useful. It can outdps bowfa so**
-  - comment · 15h ago · uscrick · score 16
+  - comment · 16h ago · uscrick · score 16
   - matched: without needing, demonbane
   - re: Need advice on gear for learning solo CoX
   - https://www.reddit.com/r/ironscape/comments/1w1ukke/need_advice_on_gear_for_learning_solo_cox/p6p3rde/
-- **I use the herb sack And pay both for cleaning and unfinisheds**
-  - comment · 56m ago · ZeThing · score 12
-  - matched: herb sack
-  - re: Post your forgotten Tip/Trick (I'll start)
-  - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/p6sh39u/
-- **Damn never heard of those mechanics (herb sack seems obvious now) Best I can do is alch the ore I'm super heating **
-  - comment · 1h ago · Diagmel · score 12
-  - matched: herb sack
-  - re: Post your forgotten Tip/Trick (I'll start)
-  - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/p6sfbp2/
 - **I just do not bring fish barrel for boat fishing, YMMV depending on fish I guess. depositing once every ten minutes for anglers is fine by me**
-  - comment · 4h ago · SPECIALtypeDIFFERENT · +3 more in this thread on the same terms · score 12
+  - comment · 5h ago · SPECIALtypeDIFFERENT · +3 more in this thread on the same terms · score 12
   - matched: fish barrel
   - re: Jagex please add a way to empty fish barel into ca
   - https://www.reddit.com/r/2007scape/comments/1w2dlnp/jagex_please_add_a_way_to_empty_fish_barel_into/p6rmt2p/
 - **Will we ever get an unlimited version of the slayer bracelets?**
-  - r/osrs, r/2007scape · 4h ago · AshotStudent · seen 2x · score 12
+  - r/osrs, r/2007scape · 5h ago · AshotStudent · seen 2x · score 12
   - matched: unlimited charges
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w1ztxh/will_we_ever_get_an_unlimited_version_of_the/
+- **Give us magic roots without having to chop down the entire damn tree ourselves!! Or make the tree chop down in a reasonable time frame I’ve done an entire log basket and inventory **
+  - comment · 13h ago · iToo_Lazy · score 12
+  - matched: log basket
+  - re: Please let Wesley "crush" coconuts into coconut mi
+  - https://www.reddit.com/r/ironscape/comments/1w24ml5/please_let_wesley_crush_coconuts_into_coconut/p6pzhl5/
 - **Saving up the rest of my pulls until 85 when the Colossal Pouch even matters, should have another 500 or so to go for it. Will be buying it and leaving gotr either way :)**
-  - comment · 13h ago · nunny0206 · score 12
+  - comment · 14h ago · nunny0206 · score 12
   - matched: colossal pouch
   - re: Thanks summer sweep up, I don't think the needle e
   - https://www.reddit.com/r/ironscape/comments/1w1th9t/thanks_summer_sweep_up_i_dont_think_the_needle/p6pjv64/
-- **Time to get the herb sack :D**
-  - comment · 15h ago · camcam210 · +10 more in this thread on the same terms · score 12
-  - matched: herb sack
-  - re: Anyone else feel like herb patch lives are sometim
-  - https://www.reddit.com/r/2007scape/comments/1w2184m/anyone_else_feel_like_herb_patch_lives_are/p6p6aqe/
+- **Forgetting Anything?**
+  - r/ironscape · 16h ago · larryfishington · score 12
+  - matched: log basket
+  - 0c · 1↑
+  - https://www.reddit.com/r/ironscape/comments/1w20ih6/forgetting_anything/
 
-## Mechanics & wiki corrections  (18)
+## Mechanics & wiki corrections  (19)
 
 - **Poison requires a successful hit so you'd gain a minimum of 4 xp per monster. Poison dynamite may be doable but only for a few monsters, I'm guessing the rest is recoil with ring o**
-  - comment · 2h ago · paenusbreth · score 46
+  - comment · 3h ago · paenusbreth · score 46
   - matched: poison dynamite, ring of suffering
   - re: Finally got my fire cape!
   - https://www.reddit.com/r/2007scape/comments/1w2dv7a/finally_got_my_fire_cape/p6s3k0d/
 - **Wintertodt Gear**
-  - r/2007scape · 9h ago · know_your_reference · score 41
+  - r/2007scape · 10h ago · know_your_reference · score 41
   - matched: regen bracelet
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w280rj/wintertodt_gear/
 - **No not really. This was a random event which would ask you to identify an item in exchange for an award. The sleeping bag wasn't a random event. It was just an item in Runescape Cl**
-  - comment · 19h ago · Martino231 · +3 more posts on this incident · score 34
+  - comment · 20h ago · Martino231 · +3 more posts on this incident · score 34
   - matched: classic, runescape classic
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - same incident (runescape classic), also reported as:
@@ -335,57 +319,62 @@
     - I mean considering in runescape classic the game literally started with pvp enabled everyw
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6no6ef/
 - **Im usually do that but the less to focus on the better, ive been trying to not miss any ticks on attacks and tick eating if needed, and watching teamates and it becomes a lot**
-  - comment · 19h ago · bubblepop5 · score 32
+  - comment · 20h ago · bubblepop5 · score 32
   - matched: tick eating
   - re: Anyone know how to make runelite plugins?
   - https://www.reddit.com/r/2007scape/comments/1w1psup/anyone_know_how_to_make_runelite_plugins/p6nvkra/
 - **You are essentially unkillable with hp cape and regen bracelet. I grinded 99 on my iron after these changes with those on in mass worlds and didn’t even try to avoid damage and nev**
-  - comment · 7h ago · rws531 · score 24
+  - comment · 8h ago · rws531 · score 24
   - matched: regen bracelet
   - re: Wintertodt Gear
   - https://www.reddit.com/r/2007scape/comments/1w280rj/wintertodt_gear/p6qxyt2/
 - **I went over 2k for primordial. Resorted to full DH red X-ing to save pray pots**
-  - comment · 17h ago · Intrepid_Republic897 · score 24
+  - comment · 18h ago · Intrepid_Republic897 · score 24
   - matched: red x
   - re: The Cerberus Experience
   - https://www.reddit.com/r/ironscape/comments/1w1h41y/the_cerberus_experience/p6og55o/
+- **✎ Grim Tales — I tested and confirmed that gricoller's can and a dragon felling axe do work.**
+  - wiki · 5m ago · Metapig · score 19
+  - matched: behaviour edit
+  - edit
+  - https://oldschool.runescape.wiki/w/Grim_Tales
 - **The bans/mutes for offensive language were wild. A friend of mine got muted for literally typing "kill the fcking spinners" in pest control. Looking at this log, I think circumvent**
-  - comment · 36m ago · Eastern-Video-6456 · score 17
+  - comment · 1h ago · Eastern-Video-6456 · score 17
   - matched: pest control, chat filter
   - re: Thought you might enjoy this mute I got back in 20
   - https://www.reddit.com/r/2007scape/comments/1w2djek/thought_you_might_enjoy_this_mute_i_got_back_in/p6sl0k2/
 - **The gameplay is 100x chiller cause you never get fucked pathing like with 1 tile weapons. But obviously the damage is pretty mid.**
-  - comment · 2h ago · Peekays_0 · score 20
+  - comment · 3h ago · Peekays_0 · score 20
   - matched: pathing
   - re: HCIM nightmare fuel
   - https://www.reddit.com/r/2007scape/comments/1w1ryld/hcim_nightmare_fuel/p6rxceu/
 - **"Is this just a *safe spot*?" He said it, he said the thing**
-  - comment · 8h ago · mechlordx · score 20
+  - comment · 9h ago · mechlordx · score 20
   - matched: safe spot
   - re: New player's reaction to discovering safespots dur
   - https://www.reddit.com/r/2007scape/comments/1w281rv/new_players_reaction_to_discovering_safespots/p6qr2xd/
 - **Can't you just use magic? bloodveld has a lot of health so if you really need to be careful recoil it a bit, but the ankou and green dragon should be trivial to safe spot* right?**
-  - comment · 9h ago · ____the_Great · score 20
+  - comment · 10h ago · ____the_Great · score 20
   - matched: safe spot
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w1ecx9/have_a_question_about_the_game_or_the_subreddit/p6qipsb/
 - **I just cleared fight caves using eclipse set and barrows gloves. Youl be fine, its more about learning how to position and safe spot the enemies. My inventory was literally 15 pray**
-  - comment · 12h ago · Porcupinehog · score 20
+  - comment · 13h ago · Porcupinehog · score 20
   - matched: safe spot
   - re: I've put off fight caves for too long outta fear. 
   - https://www.reddit.com/r/ironscape/comments/1w1fn50/ive_put_off_fight_caves_for_too_long_outta_fear/p6psaz1/
 - **To add on, sometimes I couldn't get in the exact position in front of the final tile (usually could only be exactly on or be off by half tile increments). The safe spot can still w**
-  - comment · 17h ago · AlphEta314 · score 20
+  - comment · 18h ago · AlphEta314 · score 20
   - matched: safe spot
   - re: I love when skills come together!
   - https://www.reddit.com/r/2007scape/comments/1w1t87s/i_love_when_skills_come_together/p6okjej/
 - **I'd highly recommend using the safe spot, they'll occasionally get out of place on the spawn and will still hit you, but it's very minimal so you won't need many repair kits. The s**
-  - comment · 17h ago · Baked_Gingerbreadman · score 20
+  - comment · 18h ago · Baked_Gingerbreadman · score 20
   - matched: safe spot
   - re: I love when skills come together!
   - https://www.reddit.com/r/2007scape/comments/1w1t87s/i_love_when_skills_come_together/p6oag1r/
 - **Void is honestly a pretty chill non-RNG grind to get an actually pretty decent starter set of gear Melee is useless ofc but ranged is alright, you can get good ranged gear early th**
-  - comment · 21h ago · BlightedBooty · score 20
+  - comment · 22h ago · BlightedBooty · score 20
   - matched: max hit, splashing
   - re: Pest control when?
   - https://www.reddit.com/r/ironscape/comments/1w1rg2c/pest_control_when/p6n0ybq/
@@ -395,21 +384,21 @@
   - edit
   - https://oldschool.runescape.wiki/w/Lunar_Diplomacy
 - **Spent about 40 hours doing wintertodt because I need the pyromancer robes for a master casket. I’ve clogged everything including the pet, still no robe.**
-  - comment · 12h ago · TempOfficial · score 17
+  - comment · 13h ago · TempOfficial · score 17
   - matched: wintertodt, pyromancer
   - re: When was the last time you “quit”, why and for how
   - https://www.reddit.com/r/2007scape/comments/1w1zxy5/when_was_the_last_time_you_quit_why_and_for_how/p6pte4m/
 - **Mage has some weird stuff like that. You can flinch npcs by splashing but not if you hit which is sometimes useful for new accounts**
-  - comment · 20h ago · TheDubuGuy · score 17
+  - comment · 21h ago · TheDubuGuy · score 17
   - matched: splashing, flinch
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w1ecx9/have_a_question_about_the_game_or_the_subreddit/p6nidx5/
 - **Sleeping was a system where you built fatigue whenever you did stuff, and when you're at 100% you can't do anything until you sleep to restore the fatigue. Sleeping was a literal c**
-  - comment · 20h ago · mmaramara · score 17
+  - comment · 21h ago · mmaramara · score 17
   - matched: fatigue, sleeping bag
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6ngy68/
 
 ---
 
-Not included: 1109 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1113 findings older than 24h. Widen with `__osrs.report(48)` in the console.
