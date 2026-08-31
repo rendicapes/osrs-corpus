@@ -1,6 +1,6 @@
 # OSRS Signal — last 24h
 
-2026-08-31 19:04 UTC · 118 findings after merging duplicates (from 219 raw hits; 71 single-term floor rows filtered)
+2026-08-31 19:06 UTC · 118 findings after merging duplicates (from 219 raw hits; 71 single-term floor rows filtered)
 
 ## Vanished — removed or deleted after posting  (2)
 
@@ -97,7 +97,7 @@
   - re: OSRS Needs Proper OLD SCHOOL 2007 Worlds
   - https://www.reddit.com/r/2007scape/comments/1w2c3m0/osrs_needs_proper_old_school_2007_worlds/p6wyi9s/
 - **Almost 10x dry, incredible, rarely seen even on this sub haha, most people (myself included) start to believe their account is bugged when they hit 4-5x dry but this just goes to s**
-  - comment · 45m ago · Shot_Cancel8641 · score 13
+  - comment · 46m ago · Shot_Cancel8641 · score 13
   - matched: bugged
   - re: Update: IT HAPPENED
   - https://www.reddit.com/r/2007scape/comments/1w3i9c8/update_it_happened/p71033g/
@@ -187,7 +187,7 @@
   - re: Weird New RS Creature Discovered??
   - https://www.reddit.com/r/2007scape/comments/1w2th6t/weird_new_rs_creature_discovered/p6z3iw2/
 - **Yes, I post memes and people like them Mr crystal on reddit bc he cant complete BMR**
-  - comment · 5h ago · KingDarkTurtle · score 13
+  - comment · 6h ago · KingDarkTurtle · score 13
   - matched: cant complete
   - re: Elite Lumby diary in the year...
   - https://www.reddit.com/r/2007scape/comments/1w37515/elite_lumby_diary_in_the_year/p6z2km0/
@@ -318,7 +318,7 @@
   - re: Boosting from 75>77 runecrafting to craft blood fo
   - https://www.reddit.com/r/2007scape/comments/1w2xfrv/boosting_from_7577_runecrafting_to_craft_blood/p6w3tkw/
 - **This. Every greenhelm has endgame gear and infinite food given to them and gets carried through everything. It's literally a main, except you have a 2 week delay on trading everyth**
-  - comment · 37m ago · Astro_NME · score 38
+  - comment · 38m ago · Astro_NME · score 38
   - matched: ⚡ food per inventory slot, infinite food
   - re: Green Helmed Against My Will
   - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p712137/
@@ -348,7 +348,7 @@
   - re: Boosting from 75>77 runecrafting to craft blood fo
   - https://www.reddit.com/r/2007scape/comments/1w2xfrv/boosting_from_7577_runecrafting_to_craft_blood/p6w4eiv/
 - **Trawling is especially nuts for UIMs. Before it was either brews, buying raw sharks/potatos/karambs, or using noted sharks. Now we can store thousands of food better than sharks in**
-  - comment · 22h ago · PangolinPalantir · score 38
+  - comment · 23h ago · PangolinPalantir · score 38
   - matched: ⚡ food per inventory slot, using noted
   - re: Do you sail at all past level 99?
   - https://www.reddit.com/r/2007scape/comments/1w2qljc/do_you_sail_at_all_past_level_99/p6ut3do/
@@ -383,7 +383,7 @@
   - re: Lets us smith dragon bolts (unf) with Orikalkum gr
   - https://www.reddit.com/r/2007scape/comments/1w2fcmk/lets_us_smith_dragon_bolts_unf_with_orikalkum/p6uyqyg/
 - **try to fit a cape in a tackle box and get back with me!**
-  - comment · 32m ago · zuvielz · score 12
+  - comment · 33m ago · zuvielz · score 12
   - matched: tackle box
   - re: People who have maxed...
   - https://www.reddit.com/r/2007scape/comments/1w3j2st/people_who_have_maxed/p7136uy/
@@ -601,7 +601,7 @@
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vmr59/
 - **Lmao, I don't even remember getting put on that island back in the day. I do remember getting stuck on tutorial island as well. Got stuck on casting a spell, schoolfriend helped me**
-  - comment · 20h ago · EmptyBasket · score 17
+  - comment · 21h ago · EmptyBasket · score 17
   - matched: tutorial island, got stuck
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6vhh8m/
@@ -613,4 +613,4 @@
 
 ---
 
-Not included: 855 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 854 findings older than 24h. Widen with `__osrs.report(48)` in the console.
