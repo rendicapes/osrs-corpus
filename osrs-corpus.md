@@ -1,11 +1,11 @@
 # OSRS Signal — last 24h
 
-2026-08-31 11:56 UTC · 85 findings after merging duplicates (from 215 raw hits; 68 single-term floor rows filtered)
+2026-08-31 12:51 UTC · 85 findings after merging duplicates (from 215 raw hits; 68 single-term floor rows filtered)
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — removed (deleted) — My HCIM was just killed to a strange bug (Dead clicks -> Escape crystal doesn't go off)**
-  - r/2007scape, vanished · 5h ago · Particular-Score7948 · seen 2x · score 48
+  - r/2007scape, vanished · 6h ago · Particular-Score7948 · seen 2x · score 48
   - matched: vanished, bug, teleported me
   - was r/2007scape, posted 2m before it went
   - https://www.reddit.com/r/2007scape/comments/1w35t8m/my_hcim_was_just_killed_to_a_strange_bug_dead/
@@ -15,50 +15,55 @@
 ## Active bug notices (wiki)  (1)
 
 - **✔ bug notice removed — 2025 Halloween event — may be a silent fix worth testing**
-  - bugs · 21h ago · score 34
+  - bugs · 22h ago · score 34
   - matched: bug notice cleared, silent fix, notice text not captured — check page diff
   - Template:Bug · removed
   - https://oldschool.runescape.wiki/w/2025_Halloween_event
 
-## Bugs & exploits  (40)
+## Bugs & exploits  (41)
 
+- **There was 2 times. The penny pet incident and the vorago pet incident. Vorago was a legitimate out of the blue bug that couldn't be replicated. The penny pet one was a weird intera**
+  - comment · 28m ago · iBrowseAtStarbucks · score 41
+  - matched: bug, weird interaction, untradeable, same tick
+  - re: Jagex can you look into doom drop rates atm?
+  - https://www.reddit.com/r/2007scape/comments/1w3bgcx/jagex_can_you_look_into_doom_drop_rates_atm/p6yv095/
 - **This is a different rollback. Apparently german worlds have been crashing a lot and when they come back it’s rolled back a bit**
-  - comment · 8h ago · TheHappyPittie · score 38
+  - comment · 9h ago · TheHappyPittie · score 38
   - matched: rollback, rolled back
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6wykbm/
 - **It depends. If OP was riding a mine cart when the server saved their character, and then they got rolled back to that, it is server side and anyone can see it. It’s happened to sev**
-  - comment · 12h ago · loiloiloi6 · score 38
+  - comment · 13h ago · loiloiloi6 · score 38
   - matched: rollback, rolled back
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vvnuq/
 - **For bugs and stuff yes, I can’t think of a case where a rollback was given an exception.**
-  - comment · 12h ago · Illokonereum · score 38
+  - comment · 13h ago · Illokonereum · score 38
   - matched: bugs, rollback
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6vudum/
 - **Oh hell no, don’t tell me after going 4 times dry on the damn shoes and finally getting them theres gonna be a rollback.**
-  - comment · 3m ago · Maledict53 · score 25
+  - comment · 58m ago · Maledict53 · score 25
   - matched: rollback
   - re: Jagex can you look into doom drop rates atm?
   - https://www.reddit.com/r/2007scape/comments/1w3bgcx/jagex_can_you_look_into_doom_drop_rates_atm/p6ypwcp/
 - **Granite maul infinite spec glitch. Accounts trained at pest control abusing the bug then farmed corp**
-  - comment · 15h ago · ak2silly · score 31
+  - comment · 16h ago · ak2silly · score 31
   - matched: bug, glitch, pest control
   - re: The grind is over.
   - https://www.reddit.com/r/ironscape/comments/1w2fa51/the_grind_is_over/p6urgb5/
 - **Corp was botted to oblivion for many many years, inflating the hiscores like few other bosses. Also, the biggest bug exploit sequence in OSRS history involved corporal beast, furth**
-  - comment · 19h ago · qmrthw · score 26
+  - comment · 20h ago · qmrthw · score 26
   - matched: bug, exploit
   - re: The grind is over.
   - https://www.reddit.com/r/ironscape/comments/1w2fa51/the_grind_is_over/p6th2xp/
 - **There was a rollback on German worlds recently, could’ve been caused by that**
-  - comment · 12h ago · loiloiloi6 · score 25
+  - comment · 13h ago · loiloiloi6 · score 25
   - matched: rollback
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vvppq/
 - **there was a rollback?**
-  - comment · 18h ago · metalmods94 · +11 more in this thread on the same terms · score 25
+  - comment · 19h ago · metalmods94 · +11 more in this thread on the same terms · score 25
   - matched: rollback
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6tplwp/
@@ -68,47 +73,52 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/
 - **Gravestone Fee Bug?**
-  - r/2007scape · 7h ago · bottomhousevirgin · score 23
+  - r/2007scape · 8h ago · bottomhousevirgin · score 23
   - matched: bug, gravestone
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w33d6u/gravestone_fee_bug/
 - **You people do realize that they can't just add 2007 worlds to existing OSRS right? They'd have to maintain a legacy client to play 07 because the modern c++ client has evolved alon**
-  - comment · 8h ago · Pretend-Dot3557 · score 18
+  - comment · 9h ago · Pretend-Dot3557 · score 18
   - matched: bugs, classic
   - re: OSRS Needs Proper OLD SCHOOL 2007 Worlds
   - https://www.reddit.com/r/2007scape/comments/1w2c3m0/osrs_needs_proper_old_school_2007_worlds/p6wyi9s/
+- **My ironman is at CG and has sote done, yes. Just think about what you would actually get if you did exactly 100 kc of everything on both account types. On a main you'd have a fanta**
+  - comment · 29m ago · Flashy-Presence-2467 · score 13
+  - matched: can't leave
+  - re: Anyone else get bored of a boss after 100 kc and t
+  - https://www.reddit.com/r/2007scape/comments/1w2hmf3/anyone_else_get_bored_of_a_boss_after_100_kc_and/p6yuqsl/
 - **Is fletching knife bugged?**
-  - r/2007scape · 1h ago · KingArmes · score 13
+  - r/2007scape · 2h ago · KingArmes · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w39nzh/is_fletching_knife_bugged/
 - **https://preview.redd.it/aypaznnkaomh1.png?width=87&format=png&auto=webp&s=882d73b2df4946dfb0cd89436538ff38009bdea5 Game seems bugged today, as it didn't unlock for me.**
-  - comment · 3h ago · Repulsive_Truth9680 · score 13
+  - comment · 4h ago · Repulsive_Truth9680 · score 13
   - matched: bugged
   - re: I run a quiz at a video game pub and I always ask 
   - https://www.reddit.com/r/2007scape/comments/1w37cqh/i_run_a_quiz_at_a_video_game_pub_and_i_always_ask/p6y1am4/
 - **Yea, sent in a bug report a few days ago about this. Think it broke with the last update**
-  - comment · 3h ago · EmptyBasket · score 13
+  - comment · 4h ago · EmptyBasket · score 13
   - matched: bug
   - re: Wtf is with these @ symbols? (MEp2)
   - https://www.reddit.com/r/2007scape/comments/1w34bhm/wtf_is_with_these_symbols_mep2/p6xy0e9/
 - **This glitch changes *everything*.**
-  - comment · 5h ago · doubleapowpow · score 13
+  - comment · 6h ago · doubleapowpow · score 13
   - matched: glitch
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6xmvnk/
 - **This is incredibly funny, I’m sorry man. Does it affect anything or is it just visual bug?**
-  - comment · 6h ago · alwaysnear · score 13
+  - comment · 7h ago · alwaysnear · score 13
   - matched: bug
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6xhkb3/
 - **I do think there’s something bugged with it **
-  - comment · 6h ago · Warm-Breadfruit-1238 · score 13
+  - comment · 7h ago · Warm-Breadfruit-1238 · score 13
   - matched: bugged
   - re: Has anyone seen a doom unique (not dom) wave 9+ si
   - https://www.reddit.com/r/2007scape/comments/1w32cuf/has_anyone_seen_a_doom_unique_not_dom_wave_9/p6xeu55/
 - **I’ve been dry on delve over 3K delves with only 2 uniques, I am convinced the boss is bugged. The non unique loot seems to be way too small on average also. You are supposed to get**
-  - comment · 6h ago · kiwdahc · score 13
+  - comment · 7h ago · kiwdahc · score 13
   - matched: bugged
   - re: Has anyone seen a doom unique (not dom) wave 9+ si
   - https://www.reddit.com/r/2007scape/comments/1w32cuf/has_anyone_seen_a_doom_unique_not_dom_wave_9/p6xcngu/
@@ -118,12 +128,12 @@
   - re: Has anyone seen a doom unique (not dom) wave 9+ si
   - https://www.reddit.com/r/2007scape/comments/1w32cuf/has_anyone_seen_a_doom_unique_not_dom_wave_9/p6xazmx/
 - **Really surprises me the amount of people who just assume somethings bugged because they’re unlucky. **
-  - comment · 7h ago · -Distinction · score 13
+  - comment · 8h ago · -Distinction · score 13
   - matched: bugged
   - re: Bugged??
   - https://www.reddit.com/r/2007scape/comments/1w32yzp/bugged/p6x6mip/
 - **Bugged??**
-  - r/2007scape · 7h ago · noahwhitten · score 13
+  - r/2007scape · 8h ago · noahwhitten · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w32yzp/bugged/
@@ -133,52 +143,52 @@
   - re: Dear Jagex - Please add Barrows as a standalone Sl
   - https://www.reddit.com/r/ironscape/comments/1w2x9qe/dear_jagex_please_add_barrows_as_a_standalone/p6wue2u/
 - **I know they are aware of the pillars being bugged, But i also know for a fact the parasite is also bugged. I'm over 1k kc, stopped at 1070 when rs3 leagues started. Came back and n**
-  - comment · 9h ago · Mat-95 · score 13
+  - comment · 10h ago · Mat-95 · score 13
   - matched: bugged
   - re: [BUG] Totems at Phosani's Nightmare not indicating
   - https://www.reddit.com/r/2007scape/comments/1vzlkhl/bug_totems_at_phosanis_nightmare_not_indicating/p6wp9xk/
 - **Always re-log immediately after getting an item you don't want rolled back. Problem solved.**
-  - comment · 11h ago · Old_Pool9777 · score 13
+  - comment · 12h ago · Old_Pool9777 · score 13
   - matched: rolled back
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6w9vtc/
 - **Servers cost money to run. Players will want support on those servers when exploits are found. This is exactly why RSC closed.**
-  - comment · 11h ago · FibreFlim · score 13
+  - comment · 12h ago · FibreFlim · score 13
   - matched: exploits
   - re: Time For Change (2007 Legacy Servers)
   - https://www.reddit.com/r/2007scape/comments/1w2xvyf/time_for_change_2007_legacy_servers/p6w6nhn/
 - **Make it a fully fletched out idea with like numbers and slayer masters and shit, black screen green text, post on 2007scape and make it as dank as possible. Ez implementation right**
-  - comment · 11h ago · Cwaghack · score 13
+  - comment · 12h ago · Cwaghack · score 13
   - matched: black screen
   - re: Dear Jagex - Please add Barrows as a standalone Sl
   - https://www.reddit.com/r/ironscape/comments/1w2x9qe/dear_jagex_please_add_barrows_as_a_standalone/p6w4jlt/
 - **When you say work out the bugs, do you mean have chat gpt work out the bugs for you? **
-  - comment · 12h ago · Saucin_6069 · +2 more in this thread on the same terms · score 13
+  - comment · 13h ago · Saucin_6069 · +2 more in this thread on the same terms · score 13
   - matched: bugs
   - re: Working on a view distance plugin for runelite
   - https://www.reddit.com/r/2007scape/comments/1w2vwgd/working_on_a_view_distance_plugin_for_runelite/p6vwl1h/
 - **You know damn well if it was a cool and fun bug, they would have broken their ankles running to fix it **
-  - comment · 13h ago · poonmangler · score 13
+  - comment · 14h ago · poonmangler · score 13
   - matched: bug
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vmypf/
 - **Bot PKers?**
-  - r/ironscape · 13h ago · Fine-List-3216 · score 13
+  - r/ironscape · 14h ago · Fine-List-3216 · score 13
   - matched: glitch
   - 4c · 0↑
   - https://www.reddit.com/r/ironscape/comments/1w2vg1u/bot_pkers/
 - **How is bloodworm with the ticks mechanic (the bug dudes, not the game engine lol)**
-  - comment · 13h ago · XTypewriter · score 13
+  - comment · 14h ago · XTypewriter · score 13
   - matched: bug
   - re: Most beneficial AFK methods in 2026
   - https://www.reddit.com/r/ironscape/comments/1w2tn3k/most_beneficial_afk_methods_in_2026/p6vkwhr/
 - **Moons Bugged??**
-  - r/ironscape · 13h ago · IncreaseOk2866 · score 13
+  - r/ironscape · 14h ago · IncreaseOk2866 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w2ux5u/moons_bugged/
 - **Missing Barbarian Fishing Spot at Cox?**
-  - r/2007scape · 14h ago · ByrdaciousDog · score 13
+  - r/2007scape · 15h ago · ByrdaciousDog · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2ty7f/missing_barbarian_fishing_spot_at_cox/
@@ -188,53 +198,48 @@
   - re: The grind is over.
   - https://www.reddit.com/r/ironscape/comments/1w2fa51/the_grind_is_over/p6uqxda/
 - **Imagine thinking the game is bugged because a wiki dps calc doesnt match it 😂😂**
-  - comment · 16h ago · AlgaeSpirited2966 · score 13
+  - comment · 17h ago · AlgaeSpirited2966 · score 13
   - matched: bugged
   - re: Potential Mad Angel Bugs
   - https://www.reddit.com/r/2007scape/comments/1w2qma0/potential_mad_angel_bugs/p6ulif8/
 - **I heard there was a glitch where this could keep happening even after finishing the quest lmao**
-  - comment · 17h ago · Zaphlyn · score 13
+  - comment · 18h ago · Zaphlyn · score 13
   - matched: glitch
   - re: The Desert Treasure Bank Standing Experience
   - https://www.reddit.com/r/2007scape/comments/1w2i5sg/the_desert_treasure_bank_standing_experience/p6ud8zv/
 - **A few German worlds crashed and it rolled back everyone's progress who was logged in to 30 minutes prior to crash.**
-  - comment · 18h ago · OSRSTheRicer · score 13
+  - comment · 19h ago · OSRSTheRicer · score 13
   - matched: rolled back
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6tucax/
 - **I just had this bug on pc too**
-  - comment · 19h ago · _GuyOnTheCouch_ · score 13
+  - comment · 20h ago · _GuyOnTheCouch_ · score 13
   - matched: bug
   - re: Bug during PNM fight on mobile
   - https://www.reddit.com/r/2007scape/comments/1w2jvsl/bug_during_pnm_fight_on_mobile/p6tapeb/
 - **Bug during PNM fight on mobile**
-  - r/2007scape · 20h ago · fkbenj · score 13
+  - r/2007scape · 21h ago · fkbenj · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2jvsl/bug_during_pnm_fight_on_mobile/
 - **Idk is it? Ive done like three 20 minutes sessions of it and have gotten 5-6 magic roots every time. Its not supposed to be an abundant resource **
-  - comment · 21h ago · LowComfortable5676 · score 13
+  - comment · 22h ago · LowComfortable5676 · score 13
   - matched: not supposed to
   - re: Please let Wesley "crush" coconuts into coconut mi
   - https://www.reddit.com/r/ironscape/comments/1w24ml5/please_let_wesley_crush_coconuts_into_coconut/p6smsrs/
-- **It is nostalgia - you said in your post that the game somehow isn't "recognisable" anymore (implying you have an idealised version of the game in your mind that you want see and "r**
-  - comment · 23h ago · BowlNew · score 13
-  - matched: bug
-  - re: OSRS Needs Proper OLD SCHOOL 2007 Worlds
-  - https://www.reddit.com/r/2007scape/comments/1w2c3m0/osrs_needs_proper_old_school_2007_worlds/p6s4hbf/
 
 ## Jagex & J-Mod  (1)
 
 - **📰 The Official OSRS Podcast Episode 20 With Mod Surma**
-  - r/2007scape, news · 2h ago · Spineweilder · seen 2x · score 34
+  - r/2007scape, news · 3h ago · Spineweilder · seen 2x · score 34
   - matched: newspost
   - Created page with "{{Update|date=31 August 2026|url=https://
   - https://oldschool.runescape.wiki/w/Update%3AThe_Official_OSRS_Podcast_Episode_20_With_Mod_Surma
 
-## "You can do this" finds  (21)
+## "You can do this" finds  (23)
 
 - **Bottomless milk bucket also works if you don't have a giant bwanji stack for some reason.**
-  - comment · 11h ago · Diatain · +4 more posts on this incident · score 49
+  - comment · 12h ago · Diatain · +4 more posts on this incident · score 49
   - matched: ⚡ food per inventory slot, for some reason, bottomless
   - re: Boosting from 75>77 runecrafting to craft blood fo
   - same incident (max hit, for some reason, combo eat, bottomless), also reported as:
@@ -244,56 +249,52 @@
     - Yeee. This is all the info on defending against em I can think of off the top, wiki suppor
   - https://www.reddit.com/r/2007scape/comments/1w2xfrv/boosting_from_7577_runecrafting_to_craft_blood/p6w3tkw/
 - **You need bones to peaches for a diary task. Master wand is also good. Mage book is probably the next best thing.**
-  - comment · 10h ago · Afexodus · +2 more in this thread on the same terms · score 43
+  - comment · 11h ago · Afexodus · +2 more in this thread on the same terms · score 43
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Sell me early game content with garbage drops
   - https://www.reddit.com/r/ironscape/comments/1w2ypvl/sell_me_early_game_content_with_garbage_drops/p6wf21q/
 - **The spot never moves. It’s rare to see Pkers out there but even if you die to one, you keep the fish in your fish barrel. Take fish barrel, looting bag, lobster pot and dark fishin**
-  - comment · 13h ago · SlightlyStoked · +3 more posts on this incident · score 43
+  - comment · 14h ago · SlightlyStoked · score 43
   - matched: ⚡ food per inventory slot, looting bag, fish barrel
   - re: Most beneficial AFK methods in 2026
-  - same incident (fish barrel), also reported as:
-    - I just want the fish barrel...
-    - I don't even use fish barrel. Isn't having inventory extenders ezscape enough? Every singl
-    - Congrats, I got mine a little over 2600 last week. Only thing that kept me going was the s
   - https://www.reddit.com/r/ironscape/comments/1w2tn3k/most_beneficial_afk_methods_in_2026/p6vl5zp/
 - **Moonlight moths at minimum are almost a must have for me. Being able to farm 2 dose prayer potions whenever is incredible and allows me to save prayer potions for actual PvM. A fur**
-  - comment · 7h ago · Send_me_freckles · score 38
+  - comment · 8h ago · Send_me_freckles · score 38
   - matched: ⚡ food per inventory slot, meat pouch
   - re: modern Iron starting guide with no wintertodt?
   - https://www.reddit.com/r/ironscape/comments/1w32eu8/modern_iron_starting_guide_with_no_wintertodt/p6x74k1/
 - **Trawling is especially nuts for UIMs. Before it was either brews, buying raw sharks/potatos/karambs, or using noted sharks. Now we can store thousands of food better than sharks in**
-  - comment · 15h ago · PangolinPalantir · score 38
+  - comment · 16h ago · PangolinPalantir · score 38
   - matched: ⚡ food per inventory slot, using noted
   - re: Do you sail at all past level 99?
   - https://www.reddit.com/r/2007scape/comments/1w2qljc/do_you_sail_at_all_past_level_99/p6ut3do/
 - **So now you have unf potions made with grimy but you spend so much time making those unf. Just clean them, note them and use the desert guy and pay him 200 a potion. Herb sack for s**
-  - comment · 22h ago · redrumyliad · score 38
+  - comment · 23h ago · redrumyliad · score 38
   - matched: ⚡ food per inventory slot, herb sack
   - re: Post your forgotten Tip/Trick (I'll start)
   - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/p6sfqyw/
 - **Soul bearer, seed box, plank sack(about 4k con xp per sack) and log basket for fremmy salvage, usually gives about 40-50k xp in ensouled heads, 3-8 ironwoods, a full plank sack of **
-  - comment · 13h ago · Any_Promise_449 · score 36
+  - comment · 14h ago · Any_Promise_449 · score 36
   - matched: herb sack, plank sack
   - re: Most beneficial AFK methods in 2026
   - https://www.reddit.com/r/ironscape/comments/1w2tn3k/most_beneficial_afk_methods_in_2026/p6vla4x/
 - **PSA: Don't bring hard food to Bandos when learning door altar, only bring Sara Brews. Hard food introduces additonal attack delays that can easily throw off the entire cycle, espec**
-  - comment · 13h ago · Vador_ · score 23
+  - comment · 14h ago · Vador_ · score 23
   - matched: psa:, flinching
   - re: Best Bandos Bowfa Method?
   - https://www.reddit.com/r/ironscape/comments/1w2qnyi/best_bandos_bowfa_method/p6vfwso/
 - **The purpose is so you can have multiple stacks of herb/allotment/whatever type of seeds in the seed box and be specific about which seed you plant without needing to pull all the s**
-  - comment · 14h ago · Grand-Letterhead-813 · score 23
+  - comment · 15h ago · Grand-Letterhead-813 · score 23
   - matched: without needing, seed box
   - re: I Just did a farm run and it prioritised seeds fro
   - https://www.reddit.com/r/2007scape/comments/1w2sac5/i_just_did_a_farm_run_and_it_prioritised_seeds/p6vd1p7/
 - **Post your forgotten Tip/Trick (I'll start)**
-  - r/2007scape · 22h ago · Lyysergic · score 17
+  - r/2007scape · 23h ago · Lyysergic · score 17
   - matched: max cape, herb sack
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/
 - **Instead of fully reworking the levels of everything, they could instead have a system where every item you can Smith has two levels: a level that is far lower where you can make th**
-  - comment · 15h ago · TheForsakenRoe · score 16
+  - comment · 16h ago · TheForsakenRoe · score 16
   - matched: without needing, drop table
   - re: Lets us smith dragon bolts (unf) with Orikalkum gr
   - https://www.reddit.com/r/2007scape/comments/1w2fcmk/lets_us_smith_dragon_bolts_unf_with_orikalkum/p6uyqyg/
@@ -303,17 +304,22 @@
   - re: Tbow vs Scorching at Doom
   - https://www.reddit.com/r/2007scape/comments/1w2kple/tbow_vs_scorching_at_doom/p6tadun/
 - **Hard agree on gotr being bad. I can't understand why they would make a mini game completely mandatory to do like gotr (for irons at least, but still for mains). 60% or whatever mor**
-  - comment · 26m ago · TheNamesRoodi · score 12
+  - comment · 1h ago · TheNamesRoodi · score 12
   - matched: colossal pouch
   - re: Rooncraft npcs
   - https://www.reddit.com/r/2007scape/comments/1w37bbg/rooncraft_npcs/p6ymeyi/
+- **Congrats, I got mine a little over 2600 last week. Only thing that kept me going was the seed drops lol. I did just get spooned on a fish barrel, i hope your next grind is spooned **
+  - comment · 4h ago · Mryay244 · score 12
+  - matched: fish barrel
+  - re: Was about to post on how dry I was. Let's fking go
+  - https://www.reddit.com/r/ironscape/comments/1w2qq6a/was_about_to_post_on_how_dry_i_was_lets_fking_go/p6y0qk4/
 - **Just discovered runes can automatically be added to rune pouch**
-  - r/2007scape · 11h ago · spageti-code · score 12
+  - r/2007scape · 12h ago · spageti-code · score 12
   - matched: herb sack
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2yfhb/just_discovered_runes_can_automatically_be_added/
 - **With 72 sailing and 80 woocutting, ironwood trees on sunbleak island are super nice. \~4min afk, and it takes about two 4 minute cycles to fill up inventory and log basket. Banking**
-  - comment · 11h ago · Odd_Vehicle2113 · score 12
+  - comment · 12h ago · Odd_Vehicle2113 · score 12
   - matched: log basket
   - re: Most beneficial AFK methods in 2026
   - https://www.reddit.com/r/ironscape/comments/1w2tn3k/most_beneficial_afk_methods_in_2026/p6w24nn/
@@ -323,45 +329,45 @@
   - re: Anyone considering the new AFK anglers for fine fi
   - https://www.reddit.com/r/ironscape/comments/1w2ujfc/anyone_considering_the_new_afk_anglers_for_fine/p6vfioh/
 - **Makes sense as you can only left click plant with the seed box. It does not let you left click plant to pull from your inventory, you have to select the seed and then the patch **
-  - comment · 15h ago · bad-at-game · +11 more in this thread on the same terms · score 12
+  - comment · 16h ago · bad-at-game · +11 more in this thread on the same terms · score 12
   - matched: seed box
   - re: I Just did a farm run and it prioritised seeds fro
   - https://www.reddit.com/r/2007scape/comments/1w2sac5/i_just_did_a_farm_run_and_it_prioritised_seeds/p6uzx1s/
 - **I Just did a farm run and it prioritised seeds from my Seed Box over seeds in my inventory**
-  - r/2007scape, r/ironscape, r/osrs · 15h ago · Bryfisk · seen 3x · score 12
+  - r/2007scape, r/ironscape, r/osrs · 16h ago · Bryfisk · seen 3x · score 12
   - matched: seed box
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2sac5/i_just_did_a_farm_run_and_it_prioritised_seeds/
+- **I just want the fish barrel...**
+  - r/ironscape · 18h ago · loginname_ · score 12
+  - matched: fish barrel
+  - 0c · 1↑
+  - https://www.reddit.com/r/ironscape/comments/1w2p6xi/i_just_want_the_fish_barrel/
 - **colossal pouch always matters 🤷‍♂️**
-  - comment · 18h ago · SimplicityDavey · score 12
+  - comment · 19h ago · SimplicityDavey · score 12
   - matched: colossal pouch
   - re: Thanks summer sweep up, I don't think the needle e
   - https://www.reddit.com/r/ironscape/comments/1w1th9t/thanks_summer_sweep_up_i_dont_think_the_needle/p6tu3ka/
 - **Option 3: collect in herb sack, then manual clean at bank.**
-  - comment · 19h ago · FlandreHon · +12 more in this thread on the same terms · score 12
+  - comment · 20h ago · FlandreHon · +12 more in this thread on the same terms · score 12
   - matched: herb sack
   - re: Alright nerds, I’ve heard people’s reasons for bot
   - https://www.reddit.com/r/2007scape/comments/1w2ma66/alright_nerds_ive_heard_peoples_reasons_for_both/p6tl1e3/
 - **Damn never heard of those mechanics (herb sack seems obvious now) Best I can do is alch the ore I'm super heating **
-  - comment · 22h ago · Diagmel · +5 more in this thread on the same terms · score 12
+  - comment · 23h ago · Diagmel · +5 more in this thread on the same terms · score 12
   - matched: herb sack
   - re: Post your forgotten Tip/Trick (I'll start)
   - https://www.reddit.com/r/2007scape/comments/1w2he4c/post_your_forgotten_tiptrick_ill_start/p6sfbp2/
 
-## Mechanics & wiki corrections  (21)
+## Mechanics & wiki corrections  (18)
 
-- **Poison requires a successful hit so you'd gain a minimum of 4 xp per monster. Poison dynamite may be doable but only for a few monsters, I'm guessing the rest is recoil with ring o**
-  - comment · 23h ago · paenusbreth · score 46
-  - matched: poison dynamite, ring of suffering
-  - re: Finally got my fire cape!
-  - https://www.reddit.com/r/2007scape/comments/1w2dv7a/finally_got_my_fire_cape/p6s3k0d/
 - **What kind of xp do you get for poison dynamite? I’ve seen rendi do some many now and never noticed the xp drop somehow **
-  - comment · 5h ago · Toaster_Bathing · score 36
+  - comment · 6h ago · Toaster_Bathing · score 36
   - matched: poison dynamite
   - re: Finally got my fire cape!
   - https://www.reddit.com/r/2007scape/comments/1w2dv7a/finally_got_my_fire_cape/p6xo1y1/
 - **wheres that clip of someone stealing elvarg quest from a guy because they kept trying to safespot only for them to also get out of combat.**
-  - comment · 11h ago · blueguy211 · +4 more posts on this incident · score 32
+  - comment · 12h ago · blueguy211 · +4 more posts on this incident · score 32
   - matched: safespot, elvarg
   - re: People shouldn't be able to interfere when you're 
   - same incident (safespot, elvarg, stalling), also reported as:
@@ -371,7 +377,7 @@
     - Are you familiar to the stalling tech? Using pillars for safespot to get more hits? If not
   - https://www.reddit.com/r/2007scape/comments/1w2xv2u/people_shouldnt_be_able_to_interfere_when_youre/p6w7e06/
 - **No. I think the furthest you can click is 50 tiles, but pathing limitations are also capped at 50 tiles - and you don't always walk in a straight line so the realistic max click di**
-  - comment · 12h ago · Kwolf21 · +3 more posts on this incident · score 32
+  - comment · 13h ago · Kwolf21 · +3 more posts on this incident · score 32
   - matched: pathing, 40 tiles
   - re: Working on a view distance plugin for runelite
   - same incident (pathing, 40 tiles), also reported as:
@@ -380,37 +386,31 @@
     - No, the pathing is done server-side and limited - somehow bypassing validation and telling
   - https://www.reddit.com/r/2007scape/comments/1w2vwgd/working_on_a_view_distance_plugin_for_runelite/p6vzzwv/
 - **The long story short - a NPC will always want to move west to east if that is the next maneuver it can do, so by standing on its corner, it is trying to move west. The pillar is ph**
-  - comment · 16h ago · vomitingcat · score 32
+  - comment · 17h ago · vomitingcat · score 32
   - matched: line of sight
   - re: How can i achieve this? I dont get it...
   - https://www.reddit.com/r/2007scape/comments/1w2q62t/how_can_i_achieve_this_i_dont_get_it/p6uiwrs/
-- **I would personally red x shamans off task. Turael skip black demons + tds, once you finish those do Mortimer until kraken, turael until you get what you want, Mortimer again until **
-  - comment · 5m ago · Working-Buffalo5085 · score 24
-  - matched: red x
-  - re: As an ironman, will I have get a chance to use mor
-  - https://www.reddit.com/r/ironscape/comments/1w3bf3p/as_an_ironman_will_i_have_get_a_chance_to_use/p6ypll9/
-- **You can forgo ancients and use death charge. Your trips will obviously be a lot shorter. There's also kite and red X methods too **
-  - comment · 11h ago · rabidai · score 24
-  - matched: red x
-  - re: Made a short video showing off how to easily farm 
-  - https://www.reddit.com/r/2007scape/comments/1w2xild/made_a_short_video_showing_off_how_to_easily_farm/p6w66a8/
 - **I agree, but isn't the meta of hard mode GWD for 3 of them kiting them around the room? HM Zilyana's phase transition animation takes a very long amount of time to progress too.**
   - comment · 12h ago · Legal_Evil · score 24
   - matched: phase transition
   - re: Jagex, it’s time.
   - https://www.reddit.com/r/2007scape/comments/1w2nrgv/jagex_its_time/p6w0m9z/
 - **This is what I use (I was stuck at around 12-14 for a long time, finally broke through last week and now i'm hitting 16 reliably): 0. as soon as car ends, get to the middle of the **
-  - comment · 13h ago · Peffern2 · score 24
+  - comment · 14h ago · Peffern2 · score 24
   - matched: free tick, same tick
   - re: I'm at my limit lads
   - https://www.reddit.com/r/2007scape/comments/1w2t2gu/im_at_my_limit_lads/p6vi25p/
 - **definitely door altar, max dps and a lot easier than the 9:0 red x thing for me**
-  - comment · 16h ago · houtexansfan23 · score 24
+  - comment · 17h ago · houtexansfan23 · +3 more posts on this incident · score 24
   - matched: red x
   - re: Best Bandos Bowfa Method?
+  - same incident (red x), also reported as:
+    - You can forgo ancients and use death charge. Your trips will obviously be a lot shorter. T
+    - I would personally red x shamans off task. Turael skip black demons + tds, once you finish
+    - Am 95 slayer and I've only seen that task 2 times lol. I've decided to take a step back fr
   - https://www.reddit.com/r/ironscape/comments/1w2qnyi/best_bandos_bowfa_method/p6ukee1/
 - **Has any DPS calculation been done on the Hallowfell sword so far? On various slayer tasks?**
-  - r/2007scape · 18h ago · TexanLoneStar · score 24
+  - r/2007scape · 19h ago · TexanLoneStar · score 24
   - matched: damage total, multi combat
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w2nz8k/has_any_dps_calculation_been_done_on_the/
@@ -419,43 +419,43 @@
   - matched: snowy knight, phoenix necklace
   - re: What’s your favorite gear to take into the wildern
   - https://www.reddit.com/r/ironscape/comments/1w2hje3/whats_your_favorite_gear_to_take_into_the/p6t9lj0/
-- **Low level slayer doesn't give gold. Try to find a fun money making activity to do beside slayer. For example wintertodt is great, it doesn't feel like slaving for money. You train **
-  - comment · 1h ago · Murky-Range-9344 · score 17
-  - matched: pyramid plunder, wintertodt
-  - re: Slayer Leveling Worth it?
-  - https://www.reddit.com/r/2007scape/comments/1w31vr7/slayer_leveling_worth_it/p6yddje/
 - **✎ Crystal equipment — Wintertodt no longer damages the player**
-  - wiki · 11h ago · AgilityLaps · score 19
+  - wiki · 12h ago · AgilityLaps · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Crystal_equipment
 - **✎ Grim Tales — I tested and confirmed that gricoller's can and a dragon felling axe do work.**
-  - wiki · 20h ago · Metapig · score 19
+  - wiki · 21h ago · Metapig · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Grim_Tales
+- **Low level slayer doesn't give gold. Try to find a fun money making activity to do beside slayer. For example wintertodt is great, it doesn't feel like slaving for money. You train **
+  - comment · 2h ago · Murky-Range-9344 · score 17
+  - matched: pyramid plunder, wintertodt
+  - re: Slayer Leveling Worth it?
+  - https://www.reddit.com/r/2007scape/comments/1w31vr7/slayer_leveling_worth_it/p6yddje/
 - **The same could be said about RuneScape Classic but it still had a committed player base and even if it was short lived, it was a great option to have**
-  - comment · 10h ago · TheR3PTILE · score 17
+  - comment · 11h ago · TheR3PTILE · score 17
   - matched: classic, runescape classic
   - re: Time For Change (2007 Legacy Servers)
   - https://www.reddit.com/r/2007scape/comments/1w2xvyf/time_for_change_2007_legacy_servers/p6wd4zm/
 - **Runescape Classic has had so many updates to it we may as well call it RuneScape 2007 at this point. All the skills are ezscape, the new 3D gear makes the hardest content easier, w**
-  - comment · 11h ago · vZanga · score 17
+  - comment · 12h ago · vZanga · score 17
   - matched: classic, runescape classic
   - re: Time For Change (2007 Legacy Servers)
   - https://www.reddit.com/r/2007scape/comments/1w2xvyf/time_for_change_2007_legacy_servers/p6w630k/
 - **If you really want to get rid of it go to chaos elemental with nothing on besides that. The cart goes into your “jaw slot” that’s a hidden slot that jagex uses for various effects **
-  - comment · 13h ago · Ausles · score 17
+  - comment · 14h ago · Ausles · score 17
   - matched: hidden slot, chaos elemental
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vmr59/
 - **Lmao, I don't even remember getting put on that island back in the day. I do remember getting stuck on tutorial island as well. Got stuck on casting a spell, schoolfriend helped me**
-  - comment · 13h ago · EmptyBasket · score 17
+  - comment · 14h ago · EmptyBasket · score 17
   - matched: tutorial island, got stuck
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6vhh8m/
 - **That's where they put banned players in runescape classic**
-  - comment · 19h ago · amono1 · score 17
+  - comment · 20h ago · amono1 · score 17
   - matched: classic, runescape classic
   - re: Geoguessr where am I?
   - https://www.reddit.com/r/2007scape/comments/1w2j0n7/geoguessr_where_am_i/p6tht44/
