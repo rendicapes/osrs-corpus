@@ -1,6 +1,6 @@
 # OSRS Signal — last 24h
 
-2026-08-31 18:27 UTC · 99 findings after merging duplicates (from 220 raw hits; 72 single-term floor rows filtered)
+2026-08-31 18:36 UTC · 99 findings after merging duplicates (from 221 raw hits; 71 single-term floor rows filtered)
 
 ## Vanished — removed or deleted after posting  (2)
 
@@ -19,7 +19,7 @@
   - captured before it went:
     > Found that when attempting to buy the Graceful Recolour for Varlamore Agility it fails to recognize the Brimhaven Agility recolour variant as being a valid option. Super minor impact but a funny edge case that was missed.
 
-## Bugs & exploits  (58)
+## Bugs & exploits  (56)
 
 - **There was 2 times. The penny pet incident and the vorago pet incident. Vorago was a legitimate out of the blue bug that couldn't be replicated. The penny pet one was a weird intera**
   - comment · 6h ago · iBrowseAtStarbucks · score 41
@@ -52,7 +52,7 @@
   - edit
   - https://oldschool.runescape.wiki/w/Moons_of_Peril%2FStrategies
 - **i’m not sure a tick perfect bug with 300 views invalidates the entire gamemode, but ok it’s your life. who knows how many tries it took the guys in that video to do it **
-  - comment · 47m ago · KalrexOW · score 21
+  - comment · 56m ago · KalrexOW · score 21
   - matched: bug, tick perfect
   - re: Green Helmed Against My Will
   - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p70qm85/
@@ -77,7 +77,7 @@
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6urjs4/
 - **Gravestone Fee Bug?**
-  - r/2007scape · 13h ago · bottomhousevirgin · score 23
+  - r/2007scape · 14h ago · bottomhousevirgin · score 23
   - matched: bug, gravestone
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w33d6u/gravestone_fee_bug/
@@ -92,17 +92,17 @@
   - re: OSRS Needs Proper OLD SCHOOL 2007 Worlds
   - https://www.reddit.com/r/2007scape/comments/1w2c3m0/osrs_needs_proper_old_school_2007_worlds/p6wyi9s/
 - **Almost 10x dry, incredible, rarely seen even on this sub haha, most people (myself included) start to believe their account is bugged when they hit 4-5x dry but this just goes to s**
-  - comment · 7m ago · Shot_Cancel8641 · score 13
+  - comment · 16m ago · Shot_Cancel8641 · score 13
   - matched: bugged
   - re: Update: IT HAPPENED
   - https://www.reddit.com/r/2007scape/comments/1w3i9c8/update_it_happened/p71033g/
 - **Customer Support Help**
-  - r/2007scape · 27m ago · Sirsophisticus · score 13
+  - r/2007scape · 36m ago · Sirsophisticus · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w3lj52/customer_support_help/
 - **Ive watched a friend be dropped items from another group account (obviously not in his group at all) on the node through bug abuse, basically gim shops exist and blue helms do infa**
-  - comment · 58m ago · Atomicstarr · score 13
+  - comment · 1h ago · Atomicstarr · score 13
   - matched: bug
   - re: Green Helmed Against My Will
   - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p70o3d5/
@@ -132,12 +132,12 @@
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p6zzy3y/
 - **Making something easier as an unintended consequence is absolutely an issue when changes are based around polling. **
-  - comment · 2h ago · MazzleMaze · score 13
+  - comment · 3h ago · MazzleMaze · score 13
   - matched: unintended
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p6zy5ap/
 - **I get helping out early game players but that drop rate for these are insane. I killed 44 Crawling Hands and got 12 4 dose potions lol, I had to check it wasn’t a known bug that i **
-  - comment · 2h ago · Lunarfrog2 · score 13
+  - comment · 3h ago · Lunarfrog2 · score 13
   - matched: bug
   - re: Energy Potions on Crawling Hands is far too common
   - https://www.reddit.com/r/2007scape/comments/1w3h5hs/energy_potions_on_crawling_hands_is_far_too_common/p6zwv6l/
@@ -147,12 +147,12 @@
   - re: Whats with the growing sense of entitlement in the
   - https://www.reddit.com/r/2007scape/comments/1w3f3fw/whats_with_the_growing_sense_of_entitlement_in/p6zpb1j/
 - **Okay scoured the sub for 2 seconds and yes seems like it's a bug introduced with the latest update.**
-  - comment · 3h ago · Acceptable_Car7114 · score 13
+  - comment · 4h ago · Acceptable_Car7114 · score 13
   - matched: bug
   - re: Sound bug? Or is it just me
   - https://www.reddit.com/r/2007scape/comments/1w3fe6a/sound_bug_or_is_it_just_me/p6zjnwb/
 - **This boss literally has a massive list of bugs they didn't fix. It's been hot shit to kill thousands of times and is the most frustrating content In the game when you run into the **
-  - comment · 3h ago · Redemption6 · score 13
+  - comment · 4h ago · Redemption6 · score 13
   - matched: bugs
   - re: Doom of Mokhaiotl health/shield lagging
   - https://www.reddit.com/r/2007scape/comments/1w3ekem/doom_of_mokhaiotl_healthshield_lagging/p6zjmdx/
@@ -167,12 +167,12 @@
   - re: Wilderness - Skull Rework
   - https://www.reddit.com/r/2007scape/comments/1w3dulj/wilderness_skull_rework/p6za9gg/
 - **Any item unique to being skulled will keep the current system; this forevermore incentivises the hunter/pray system we currently have. I agree that you should rework the skull syst**
-  - comment · 4h ago · JavaHomely · score 13
+  - comment · 5h ago · JavaHomely · score 13
   - matched: item loss
   - re: Wilderness - Skull Rework
   - https://www.reddit.com/r/2007scape/comments/1w3dulj/wilderness_skull_rework/p6z82us/
 - **You fail to consider that real governments have a third group of people: average citizens, whom they can exploit to satisfy the PKers and the skillers all at once! **
-  - comment · 4h ago · DoggedDoggystyle · score 13
+  - comment · 5h ago · DoggedDoggystyle · score 13
   - matched: exploit
   - re: Useful trivia/facts that you learned from runescap
   - https://www.reddit.com/r/2007scape/comments/1w38kxz/useful_triviafacts_that_you_learned_from/p6z72v4/
@@ -207,7 +207,7 @@
   - re: Wtf is with these @ symbols? (MEp2)
   - https://www.reddit.com/r/2007scape/comments/1w34bhm/wtf_is_with_these_symbols_mep2/p6xy0e9/
 - **This glitch changes *everything*.**
-  - comment · 11h ago · doubleapowpow · score 13
+  - comment · 12h ago · doubleapowpow · score 13
   - matched: glitch
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6xmvnk/
@@ -216,18 +216,8 @@
   - matched: bug
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6xhkb3/
-- **I do think there’s something bugged with it **
-  - comment · 13h ago · Warm-Breadfruit-1238 · score 13
-  - matched: bugged
-  - re: Has anyone seen a doom unique (not dom) wave 9+ si
-  - https://www.reddit.com/r/2007scape/comments/1w32cuf/has_anyone_seen_a_doom_unique_not_dom_wave_9/p6xeu55/
-- **I’ve been dry on delve over 3K delves with only 2 uniques, I am convinced the boss is bugged. The non unique loot seems to be way too small on average also. You are supposed to get**
-  - comment · 13h ago · kiwdahc · score 13
-  - matched: bugged
-  - re: Has anyone seen a doom unique (not dom) wave 9+ si
-  - https://www.reddit.com/r/2007scape/comments/1w32cuf/has_anyone_seen_a_doom_unique_not_dom_wave_9/p6xcngu/
 - **I've just done some runs with a chally on my iron and also noticed that the melee punish damage doesn't update properly either. Sent in a bug report but, yknow. Gagec**
-  - comment · 13h ago · Creamer_Dreamer · score 13
+  - comment · 13h ago · Creamer_Dreamer · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: Has anyone seen a doom unique (not dom) wave 9+ si
   - https://www.reddit.com/r/2007scape/comments/1w32cuf/has_anyone_seen_a_doom_unique_not_dom_wave_9/p6xazmx/
@@ -257,7 +247,7 @@
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6w9vtc/
 - **Servers cost money to run. Players will want support on those servers when exploits are found. This is exactly why RSC closed.**
-  - comment · 17h ago · FibreFlim · score 13
+  - comment · 18h ago · FibreFlim · score 13
   - matched: exploits
   - re: Time For Change (2007 Legacy Servers)
   - https://www.reddit.com/r/2007scape/comments/1w2xvyf/time_for_change_2007_legacy_servers/p6w6nhn/
@@ -267,17 +257,17 @@
   - re: Dear Jagex - Please add Barrows as a standalone Sl
   - https://www.reddit.com/r/ironscape/comments/1w2x9qe/dear_jagex_please_add_barrows_as_a_standalone/p6w4jlt/
 - **When you say work out the bugs, do you mean have chat gpt work out the bugs for you? **
-  - comment · 18h ago · Saucin_6069 · +2 more in this thread on the same terms · score 13
+  - comment · 19h ago · Saucin_6069 · +2 more in this thread on the same terms · score 13
   - matched: bugs
   - re: Working on a view distance plugin for runelite
   - https://www.reddit.com/r/2007scape/comments/1w2vwgd/working_on_a_view_distance_plugin_for_runelite/p6vwl1h/
 - **You know damn well if it was a cool and fun bug, they would have broken their ankles running to fix it **
-  - comment · 19h ago · poonmangler · score 13
+  - comment · 20h ago · poonmangler · score 13
   - matched: bug
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vmypf/
 - **Bot PKers?**
-  - r/ironscape · 19h ago · Fine-List-3216 · score 13
+  - r/ironscape · 20h ago · Fine-List-3216 · score 13
   - matched: glitch
   - 4c · 0↑
   - https://www.reddit.com/r/ironscape/comments/1w2vg1u/bot_pkers/
@@ -302,7 +292,7 @@
   - re: The grind is over.
   - https://www.reddit.com/r/ironscape/comments/1w2fa51/the_grind_is_over/p6uqxda/
 - **Imagine thinking the game is bugged because a wiki dps calc doesnt match it 😂😂**
-  - comment · 22h ago · AlgaeSpirited2966 · score 13
+  - comment · 23h ago · AlgaeSpirited2966 · score 13
   - matched: bugged
   - re: Potential Mad Angel Bugs
   - https://www.reddit.com/r/2007scape/comments/1w2qma0/potential_mad_angel_bugs/p6ulif8/
@@ -320,7 +310,7 @@
   - Created page with "{{Update|date=31 August 2026|url=https://
   - https://oldschool.runescape.wiki/w/Update%3AThe_Official_OSRS_Podcast_Episode_20_With_Mod_Surma
 
-## "You can do this" finds  (15)
+## "You can do this" finds  (17)
 
 - **Bottomless milk bucket also works if you don't have a giant bwanji stack for some reason.**
   - comment · 18h ago · Diatain · +3 more posts on this incident · score 49
@@ -331,6 +321,11 @@
     - Ah, I always thought Bottomless milk bucket was some innuendo but I see it's finally added
     - Yeee. This is all the info on defending against em I can think of off the top, wiki suppor
   - https://www.reddit.com/r/2007scape/comments/1w2xfrv/boosting_from_7577_runecrafting_to_craft_blood/p6w3tkw/
+- **This. Every greenhelm has endgame gear and infinite food given to them and gets carried through everything. It's literally a main, except you have a 2 week delay on trading everyth**
+  - comment · 8m ago · Astro_NME · score 38
+  - matched: ⚡ food per inventory slot, infinite food
+  - re: Green Helmed Against My Will
+  - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p712137/
 - **No it's the hardest because it made me go back to mage training arena for bones to peaches. I got the quest cape, but don't have the determination to do that lmao. **
   - comment · 3h ago · Ms_Fire_Emblem · score 43
   - matched: ⚡ food per inventory slot, bones to peaches
@@ -379,8 +374,13 @@
   - matched: psa:, flinching
   - re: Best Bandos Bowfa Method?
   - https://www.reddit.com/r/ironscape/comments/1w2qnyi/best_bandos_bowfa_method/p6vfwso/
+- **try to fit a cape in a tackle box and get back with me!**
+  - comment · 3m ago · zuvielz · score 12
+  - matched: tackle box
+  - re: People who have maxed...
+  - https://www.reddit.com/r/2007scape/comments/1w3j2st/people_who_have_maxed/p7136uy/
 - **It's a bit odd that the wc cape can go in the forestry kit and the hunter cape can go in the huntsman kit but fishing cape cant go in the tackle box etc **
-  - comment · 32m ago · Successful-Willow-16 · score 12
+  - comment · 41m ago · Successful-Willow-16 · score 12
   - matched: tackle box
   - re: People who have maxed...
   - https://www.reddit.com/r/2007scape/comments/1w3j2st/people_who_have_maxed/p70u9yg/
@@ -390,7 +390,7 @@
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w3511i/have_a_question_about_the_game_or_the_subreddit/p70k3nz/
 - **Hard agree on gotr being bad. I can't understand why they would make a mini game completely mandatory to do like gotr (for irons at least, but still for mains). 60% or whatever mor**
-  - comment · 6h ago · TheNamesRoodi · score 12
+  - comment · 7h ago · TheNamesRoodi · score 12
   - matched: colossal pouch
   - re: Rooncraft npcs
   - https://www.reddit.com/r/2007scape/comments/1w37bbg/rooncraft_npcs/p6ymeyi/
@@ -428,7 +428,7 @@
   - re: Finally got my fire cape!
   - https://www.reddit.com/r/2007scape/comments/1w2dv7a/finally_got_my_fire_cape/p6xo1y1/
 - **wheres that clip of someone stealing elvarg quest from a guy because they kept trying to safespot only for them to also get out of combat.**
-  - comment · 17h ago · blueguy211 · +4 more posts on this incident · score 32
+  - comment · 18h ago · blueguy211 · +4 more posts on this incident · score 32
   - matched: safespot, elvarg
   - re: People shouldn't be able to interfere when you're 
   - same incident (safespot, elvarg, stalling), also reported as:
@@ -482,7 +482,7 @@
     - Am 95 slayer and I've only seen that task 2 times lol. I've decided to take a step back fr
   - https://www.reddit.com/r/ironscape/comments/1w2qnyi/best_bandos_bowfa_method/p6ukee1/
 - **It is cheese tech for tank cheese colo, courtesy if reynolds, so you can corner safe spot with a nally if needed in a pinch**
-  - comment · 2h ago · xPofsx · score 20
+  - comment · 3h ago · xPofsx · score 20
   - matched: safe spot
   - re: Zamorak GodSword
   - https://www.reddit.com/r/2007scape/comments/1w2yfns/zamorak_godsword/p6zwi5n/
@@ -497,7 +497,7 @@
   - edit
   - https://oldschool.runescape.wiki/w/Crystal_equipment
 - **Why the fuck would you count time spent taking a break as time spent doing cg. If I have to take a 30 min break in between hunleff kills would you say 2 kills/ hr is a reasonable a**
-  - comment · 2h ago · omnicorn_persei_8 · score 17
+  - comment · 3h ago · omnicorn_persei_8 · score 17
   - matched: looting the chest, wager
   - re: Whats with the growing sense of entitlement in the
   - https://www.reddit.com/r/2007scape/comments/1w3f3fw/whats_with_the_growing_sense_of_entitlement_in/p6zxdxr/
@@ -527,7 +527,7 @@
   - re: Time For Change (2007 Legacy Servers)
   - https://www.reddit.com/r/2007scape/comments/1w2xvyf/time_for_change_2007_legacy_servers/p6w630k/
 - **If you really want to get rid of it go to chaos elemental with nothing on besides that. The cart goes into your “jaw slot” that’s a hidden slot that jagex uses for various effects **
-  - comment · 19h ago · Ausles · score 17
+  - comment · 20h ago · Ausles · score 17
   - matched: hidden slot, chaos elemental
   - re: Took the cart from the GE to Keldagrim and the car
   - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6vmr59/
@@ -537,11 +537,11 @@
   - re: Mod Ash on the RuneScape forums 20 years ago today
   - https://www.reddit.com/r/2007scape/comments/1w1smcq/mod_ash_on_the_runescape_forums_20_years_ago_today/p6vhh8m/
 - **You can still stack at least two of them from the SE tile if you run SW after Kril dies. As long as they aren’t auto attacking on the same tick, there’s little to no difference. **
-  - comment · 3h ago · IAmSona · score 15
+  - comment · 4h ago · IAmSona · score 15
   - matched: you can still, same tick
   - re: Made a short video showing off how to easily farm 
   - https://www.reddit.com/r/2007scape/comments/1w2xild/made_a_short_video_showing_off_how_to_easily_farm/p6zjjvh/
 
 ---
 
-Not included: 1180 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 853 findings older than 24h. Widen with `__osrs.report(48)` in the console.
