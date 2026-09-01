@@ -1,21 +1,9 @@
 # OSRS Signal — last 24h
 
-2026-09-01 06:21 UTC · 121 findings after merging duplicates (from 212 raw hits; 69 single-term floor rows filtered)
+2026-09-01 07:17 UTC · 120 findings after merging duplicates (from 211 raw hits; 69 single-term floor rows filtered)
 
-## Vanished — removed or deleted after posting  (12)
+## Vanished — removed or deleted after posting  (11)
 
-- **🗑 vanished from reddit — removed (deleted) — Low alch with no nature runes - bug**
-  - r/2007scape, vanished · 1h ago · OnePiece-Quade · seen 2x · score 45
-  - matched: vanished, bug
-  - was r/2007scape, posted 1m before it went
-  - https://www.reddit.com/r/2007scape/comments/1w41eqi/low_alch_with_no_nature_runes_bug/
-- **🗑 vanished from reddit — removed (deleted) — My HCIM was just killed to a strange bug (Dead clicks -> Escape crystal doesn't go off)**
-  - r/2007scape, vanished · 23h ago · Particular-Score7948 · seen 2x · score 48
-  - matched: vanished, bug, teleported me
-  - was r/2007scape, posted 2m before it went
-  - https://www.reddit.com/r/2007scape/comments/1w35t8m/my_hcim_was_just_killed_to_a_strange_bug_dead/
-  - captured before it went:
-    > I just died to a bug while getting myself stams to make a POH pool on my HCIM. I clicked at least 3 times, my pathing plugin shows I was supposed to move, but instead i stand in place. I thought I was set by the 3rd click (which was also ignored) and then for 2-3 ticks the escape crystal should've teleported me, but did not go off. I'm sure people will argue I didn't click, or that I clicked too many times, or that in fact my escape crystal was set too high .... those things are inaccurate. Ignoring the weird dead clicks, the escape crystal was supposed to save me for at least 2 ticks. It just did not bother to go off.
 - **🗑 vanished from reddit — deleted by the author — PSA: fletching knife doesnt give the speed buff in wintertodt. I guess its potentially sort of nice to save an equipment slot? But**
   - vanished · 11h ago · rikurai · score 46
   - matched: vanished, psa:, wintertodt
@@ -23,8 +11,13 @@
   - https://www.reddit.com/r/ironscape/comments/1w21f8j/tome_of_fire_worth_grinding_for_mk/p6rtk56/
   - captured before it went:
     > PSA: fletching knife doesnt give the speed buff in wintertodt. I guess its potentially sort of nice to save an equipment slot? But you already have axe, imcando hammer and bruma torch to pick between.
+- **🗑 vanished from reddit — removed (deleted) — Low alch with no nature runes - bug**
+  - r/2007scape, vanished · 2h ago · OnePiece-Quade · seen 2x · score 45
+  - matched: vanished, bug
+  - was r/2007scape, posted 1m before it went
+  - https://www.reddit.com/r/2007scape/comments/1w41eqi/low_alch_with_no_nature_runes_bug/
 - **🗑 vanished from reddit — removed (deleted) — Tome of Experience Sins of the Father Bug??**
-  - vanished · 10h ago · woopaboop · score 45
+  - vanished · 11h ago · woopaboop · score 45
   - matched: vanished, bug
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1w2b6co/tome_of_experience_sins_of_the_father_bug/
@@ -52,33 +45,33 @@
   - captured before it went:
     > I used to be adamant about cleaning as I go but lately I cba redoing my inv from whatever I was doing during a farm run break, so I just grab the herb sack and go I’ll generally clean them all manually later on though. I find it extremely easy to do on mobile
 - **🗑 vanished from reddit — removed (deleted) — Bot PKers?**
-  - vanished · 11h ago · Fine-List-3216 · score 45
+  - vanished · 12h ago · Fine-List-3216 · score 45
   - matched: vanished, glitch
   - was r/ironscape, posted 20h before it went
   - https://www.reddit.com/r/ironscape/comments/1w2vg1u/bot_pkers/
   - captured before it went:
     > I was helping a friend out at wildy agility.. guy shows up.. damages me without moving or swapping gear.. continues to do so.. I died in the end but he never moved once and gear never changed but he was for sure swapping from mage/ranged/melee. What in the ahk is this? Didn't know this existed. Edit: Everyone is down voting me. No wonder why people get away with shit.. Jagex doesn't look at anyone's post unless they get what, 500 1K likes? I report the glitch here, everyone downvotes me, I remove the post.. they continue glitching the game for profit.
 - **🗑 vanished from reddit — removed by a moderator — Sounds like your friends cant complete the highest tier of diary in the game, so they need to use a staff. Draken isnt even hard,**
-  - comment, vanished · 11h ago · KingDarkTurtle · seen 3x · score 45
+  - comment, vanished · 12h ago · KingDarkTurtle · seen 3x · score 45
   - matched: vanished, cant complete
   - was comment, posted 2h before it went
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p70atq3/
   - captured before it went:
     > Sounds like your friends cant complete the highest tier of diary in the game, so they need to use a staff. Draken isnt even hard, at most it just takes practice.
 - **🗑 vanished from reddit — removed (deleted) — Bug on Varlamore Graceful Recolour**
-  - r/2007scape, vanished · 16h ago · JdJax · seen 2x · score 45
+  - r/2007scape, vanished · 17h ago · JdJax · seen 2x · score 45
   - matched: vanished, bug
   - was r/2007scape, posted 5m before it went
   - https://www.reddit.com/r/2007scape/comments/1w3ev81/bug_on_varlamore_graceful_recolour/
   - captured before it went:
     > Found that when attempting to buy the Graceful Recolour for Varlamore Agility it fails to recognize the Brimhaven Agility recolour variant as being a valid option. Super minor impact but a funny edge case that was missed.
 - **🗑 vanished from reddit — deleted by the author — Slightly worse in theory, but in practice, Hally might be close or actually better. You lose fewer ticks because your attack cycle**
-  - vanished · 10h ago · AllDogIsDog · score 40
+  - vanished · 11h ago · AllDogIsDog · score 40
   - matched: vanished, attack cycle
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1w1ryld/hcim_nightmare_fuel/p6odxp8/
 - **🗑 vanished from reddit — deleted by the author — Your conclusion is correct, that it's now efficient to skip bowfa as long as you are truly prepared to commit to cox til tbow. How**
-  - comment, vanished · 11h ago · Babyface995 · seen 2x · score 40
+  - comment, vanished · 12h ago · Babyface995 · seen 2x · score 40
   - matched: vanished, flinching
   - was comment, posted 5h before it went
   - https://www.reddit.com/r/ironscape/comments/1w3bq7s/according_to_the_calcs_bowfa_skip_is_a_time_save/p6z50nu/
@@ -86,107 +79,112 @@
 ## Bugs & exploits  (45)
 
 - **There was 2 times. The penny pet incident and the vorago pet incident. Vorago was a legitimate out of the blue bug that couldn't be replicated. The penny pet one was a weird intera**
-  - comment · 17h ago · iBrowseAtStarbucks · score 41
+  - comment · 18h ago · iBrowseAtStarbucks · score 41
   - matched: bug, weird interaction, untradeable, same tick
   - re: Jagex can you look into doom drop rates atm?
   - https://www.reddit.com/r/2007scape/comments/1w3bgcx/jagex_can_you_look_into_doom_drop_rates_atm/p6yv095/
 - **I think he's actually a pretty tough boss, but nothing that can't be learned with practice. It's not like he's game breaking difficult. If Drakan is the only standing between you a**
-  - comment · 3h ago · dutchslytherin · score 39
+  - comment · 4h ago · dutchslytherin · score 39
   - matched: ⚡ food per inventory slot, game breaking
   - re: What did you think about the Draken boss fight?
   - https://www.reddit.com/r/2007scape/comments/1w3yn7m/what_did_you_think_about_the_draken_boss_fight/p73qva5/
-- **Upgraded Herb sack kinda sux.**
-  - r/2007scape · 1h ago · MaxedOnRS · score 25
-  - matched: game breaking, herb sack
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w41gbz/upgraded_herb_sack_kinda_sux/
 - **✎ Moons of Peril/Strategies — Soulreaper Axe no longer deals damage/heals the player when gaining/spending stacks. Does the bug still exist?**
-  - wiki · 16h ago · MagnanimousCynic · score 28
+  - wiki · 17h ago · MagnanimousCynic · score 28
   - matched: bug edit, no notice on page — edit summary only
   - edit
   - https://oldschool.runescape.wiki/w/Moons_of_Peril%2FStrategies
 - **Yeah, dude. Clearly there's a game breaking bug going on here... /s**
-  - comment · 9h ago · RickyMac666 · score 26
+  - comment · 10h ago · RickyMac666 · score 26
   - matched: bug, game breaking
   - re: LMS is impossible to win, no match making Jagex do
   - https://www.reddit.com/r/2007scape/comments/1w3o3ty/lms_is_impossible_to_win_no_match_making_jagex/p71z1jc/
 - **Look up the entire Mod Reach saga, there are plenty of well made and documented videos on YouTube if that interests you I recommend looking it up. Me writing the story in a Reddit **
-  - comment · 15h ago · qmrthw · score 26
+  - comment · 16h ago · qmrthw · score 26
   - matched: bug, exploit
   - re: The grind is over.
   - https://www.reddit.com/r/ironscape/comments/1w2fa51/the_grind_is_over/p6zl9gs/
+- **Upgraded Herb sack kinda sux.**
+  - r/2007scape · 2h ago · MaxedOnRS · score 25
+  - matched: game breaking, herb sack
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1w41gbz/upgraded_herb_sack_kinda_sux/
 - **I agree its ass without MMR. Honestly though that was fine when the rewards didnt require a win. I think they should just rollback that change. I have single digit wins, so I’ve be**
-  - comment · 10h ago · trollcat2012 · score 25
+  - comment · 11h ago · trollcat2012 · score 25
   - matched: rollback
   - re: LMS is impossible to win, no match making Jagex do
   - https://www.reddit.com/r/2007scape/comments/1w3o3ty/lms_is_impossible_to_win_no_match_making_jagex/p71kxa1/
 - **Oh hell no, don’t tell me after going 4 times dry on the damn shoes and finally getting them theres gonna be a rollback.**
-  - comment · 18h ago · Maledict53 · score 25
+  - comment · 19h ago · Maledict53 · score 25
   - matched: rollback
   - re: Jagex can you look into doom drop rates atm?
   - https://www.reddit.com/r/2007scape/comments/1w3bgcx/jagex_can_you_look_into_doom_drop_rates_atm/p6ypwcp/
 - **How the fuck is it acceptable that membership is nearly 25 dollars (NZD) and not only is this kind of rollback something that has to happen, but it takes a WEEK for a customer serv**
-  - comment · 22h ago · PM_ME__BIRD_PICS · +2 more in this thread on the same terms · score 25
+  - comment · 23h ago · PM_ME__BIRD_PICS · +2 more in this thread on the same terms · score 25
   - matched: rollback
   - re: lost item due to rollback
   - https://www.reddit.com/r/2007scape/comments/1w2mrgt/lost_item_due_to_rollback/p6xtfog/
 - **i’m not sure a tick perfect bug with 300 views invalidates the entire gamemode, but ok it’s your life. who knows how many tries it took the guys in that video to do it **
-  - comment · 12h ago · KalrexOW · score 21
+  - comment · 13h ago · KalrexOW · score 21
   - matched: bug, tick perfect
   - re: Green Helmed Against My Will
   - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p70qm85/
 - **Not that I'm suggesting OP is correct here, but the wiki likely wouldn't catch it in this short of time unless someone manually reviews it. The drop rates for a bunch of the sailin**
-  - comment · 5h ago · Rednop · score 18
+  - comment · 6h ago · Rednop · score 18
   - matched: bug, safety
   - re: Jagex can you look into doom drop rates atm?
   - https://www.reddit.com/r/2007scape/comments/1w3bgcx/jagex_can_you_look_into_doom_drop_rates_atm/p73a588/
 - **Theres also a sound bug long ongoing related to burn damage**
-  - comment · 15h ago · Crandoge · score 18
+  - comment · 16h ago · Crandoge · score 18
   - matched: bug, burn damage
   - re: Sound bug? Or is it just me
   - https://www.reddit.com/r/2007scape/comments/1w3fe6a/sound_bug_or_is_it_just_me/p6zn5os/
+- **Old glitch of like 5byears patched a few months ago, wearing Shattered Relics Mystics+Ahrim top would cause ur waste to become dislocated & stretch. Was a fun glitch and as an iron**
+  - comment · 12m ago · Jumpi95 · score 13
+  - matched: glitch
+  - re: Took the cart from the GE to Keldagrim and the car
+  - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p74tf9j/
 - **you mean to tell me the grand master quest was hard to complete? a normal player shouldn't be able to complete it. that's why its called a grand master quest.**
-  - comment · 24m ago · Unlucky_Strike_3054 · score 13
+  - comment · 1h ago · Unlucky_Strike_3054 · score 13
   - matched: shouldn't be able
   - re: What did you think about the Draken boss fight?
   - https://www.reddit.com/r/2007scape/comments/1w3yn7m/what_did_you_think_about_the_draken_boss_fight/p74lim5/
 - **My dude I'm on my own world and doing sand crabs at a different location and he goes out of his way 3 seperate times how am I not supposed to get over him crashing me out multiple **
-  - comment · 3h ago · redbloodywedding · score 13
+  - comment · 4h ago · redbloodywedding · score 13
   - matched: not supposed to
   - re: Guy followed me across like 10 worlds over a sand 
   - https://www.reddit.com/r/2007scape/comments/1w3u7cr/guy_followed_me_across_like_10_worlds_over_a_sand/p73w1n8/
 - **>Yeh okay so you'd still need to have a pretty intricate knowledge of how the system works Yes, that's why it's a grandmaster combat achievement. It's not supposed to be something **
-  - comment · 5h ago · The_Void_Reaver · score 13
+  - comment · 6h ago · The_Void_Reaver · score 13
   - matched: not supposed to
   - re: l hate prayer related CA's
   - https://www.reddit.com/r/2007scape/comments/1w3smdg/l_hate_prayer_related_cas/p73bazp/
 - **Jagex must clearly determine what Bronze is: * a) A main, who upgrades PVM gear by killing things * b) A hybrid, who can trade anything they have obtained once * c) An iron, who ca**
-  - comment · 6h ago · ArrgsMax · score 13
+  - comment · 7h ago · ArrgsMax · score 13
   - matched: exploits
   - re: Bronzeman Mode (Question from RS3 Player)
   - https://www.reddit.com/r/2007scape/comments/1w3rjn1/bronzeman_mode_question_from_rs3_player/p731l40/
 - **fairy rings without dramen staff is the ultimate game changer tho. it's the best perk of all the diarys and if I couldn't use it to get my quest cape they shouldnt be able to eithe**
-  - comment · 8h ago · International_Task57 · score 13
+  - comment · 9h ago · International_Task57 · score 13
   - matched: shouldnt be able
   - re: Elite Lumby diary in the year...
   - https://www.reddit.com/r/2007scape/comments/1w37515/elite_lumby_diary_in_the_year/p72fk9a/
 - **Did the idea of being able to just funnel money over from a main not sound like a big enough exploit/problem to you then? (Agreed that the best argument was needing new memberships**
-  - comment · 8h ago · AnimeTA224 · score 13
+  - comment · 9h ago · AnimeTA224 · score 13
   - matched: exploit
   - re: Bronzeman Mode (Question from RS3 Player)
   - https://www.reddit.com/r/2007scape/comments/1w3rjn1/bronzeman_mode_question_from_rs3_player/p72do7r/
 - **Simply put, it’s not likely your story is accurate. You probably got phished or otherwise compromised your account by mistake. Nobody does on purpose. What’s more likely: there’s a**
-  - comment · 9h ago · BloatDeathsDontCount · score 13
+  - comment · 10h ago · BloatDeathsDontCount · score 13
   - matched: exploit
   - re: Really Trying to Understand
   - https://www.reddit.com/r/2007scape/comments/1w31qae/really_trying_to_understand/p71xz24/
 - **It ddos'd the wiki due to a bug at one point**
-  - comment · 10h ago · AskYouEverything · +2 more in this thread on the same terms · score 13
+  - comment · 11h ago · AskYouEverything · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: OSRS TCG now requires you to make an account with 
   - https://www.reddit.com/r/2007scape/comments/1w3laaw/osrs_tcg_now_requires_you_to_make_an_account_with/p71phh8/
 - **Piety isn't unlocked in Morytania - that comes from the King Arthur questline in Misthalin. By your logic, what is that doing in a Morytania diary? Region-locked accounts generally**
-  - comment · 10h ago · drjisftw · score 13
+  - comment · 11h ago · drjisftw · score 13
   - matched: can't complete
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p71njfb/
@@ -201,120 +199,115 @@
   - re: Update: IT HAPPENED
   - https://www.reddit.com/r/2007scape/comments/1w3i9c8/update_it_happened/p71033g/
 - **Customer Support Help**
-  - r/2007scape · 12h ago · Sirsophisticus · score 13
+  - r/2007scape · 13h ago · Sirsophisticus · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w3lj52/customer_support_help/
 - **Ive watched a friend be dropped items from another group account (obviously not in his group at all) on the node through bug abuse, basically gim shops exist and blue helms do infa**
-  - comment · 12h ago · Atomicstarr · score 13
+  - comment · 13h ago · Atomicstarr · score 13
   - matched: bug
   - re: Green Helmed Against My Will
   - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p70o3d5/
 - **If you cant complete the quests, you dont deserve to finish the diary. Its okay for some thing to require trying. You guys want everything handed to you.**
-  - comment · 13h ago · Big_Cat_Tongue · score 13
+  - comment · 14h ago · Big_Cat_Tongue · score 13
   - matched: cant complete
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p70dtxt/
 - **I'll vote yes if they also remove quest helper. If you want a QPC you shouldn't be able to mindlessly click blue through them all. The quests are really good to!**
-  - comment · 13h ago · TheJigglyfat · score 13
+  - comment · 14h ago · TheJigglyfat · score 13
   - matched: shouldn't be able
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p70cfth/
 - **theres a lot of random audio bugs going on atm no idea why or how but i imagine theyre gonna fix it next update**
-  - comment · 14h ago · Meraxes80 · score 13
+  - comment · 15h ago · Meraxes80 · score 13
   - matched: bugs
   - re: Sound bug? Or is it just me
   - https://www.reddit.com/r/2007scape/comments/1w3fe6a/sound_bug_or_is_it_just_me/p701gj6/
 - **Sometimes things get easier, that isn’t inherently bad Plenty of content gets harder all the time, like capes, one of the achievement diaries, combat achievements, collection logs **
-  - comment · 14h ago · OGDogJaw · score 13
+  - comment · 15h ago · OGDogJaw · score 13
   - matched: game breaking
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p6zzy3y/
 - **Making something easier as an unintended consequence is absolutely an issue when changes are based around polling. **
-  - comment · 14h ago · MazzleMaze · score 13
+  - comment · 15h ago · MazzleMaze · score 13
   - matched: unintended
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p6zy5ap/
 - **I get helping out early game players but that drop rate for these are insane. I killed 44 Crawling Hands and got 12 4 dose potions lol, I had to check it wasn’t a known bug that i **
-  - comment · 14h ago · Lunarfrog2 · score 13
+  - comment · 15h ago · Lunarfrog2 · score 13
   - matched: bug
   - re: Energy Potions on Crawling Hands is far too common
   - https://www.reddit.com/r/2007scape/comments/1w3h5hs/energy_potions_on_crawling_hands_is_far_too_common/p6zwv6l/
 - **No quest boss is hard enough that the average player shouldn't be able to complete it. I have my qc and I don't do bossing at all. My highest kc on a real boss is zulrah at 114, al**
-  - comment · 15h ago · Gr8alexanderr · score 13
+  - comment · 16h ago · Gr8alexanderr · score 13
   - matched: shouldn't be able
   - re: Whats with the growing sense of entitlement in the
   - https://www.reddit.com/r/2007scape/comments/1w3f3fw/whats_with_the_growing_sense_of_entitlement_in/p6zpb1j/
 - **Okay scoured the sub for 2 seconds and yes seems like it's a bug introduced with the latest update.**
-  - comment · 15h ago · Acceptable_Car7114 · score 13
+  - comment · 16h ago · Acceptable_Car7114 · score 13
   - matched: bug
   - re: Sound bug? Or is it just me
   - https://www.reddit.com/r/2007scape/comments/1w3fe6a/sound_bug_or_is_it_just_me/p6zjnwb/
 - **This boss literally has a massive list of bugs they didn't fix. It's been hot shit to kill thousands of times and is the most frustrating content In the game when you run into the **
-  - comment · 15h ago · Redemption6 · score 13
+  - comment · 16h ago · Redemption6 · score 13
   - matched: bugs
   - re: Doom of Mokhaiotl health/shield lagging
   - https://www.reddit.com/r/2007scape/comments/1w3ekem/doom_of_mokhaiotl_healthshield_lagging/p6zjmdx/
 - **Dry protection at moons? My account must be bugged then **
-  - comment · 15h ago · slyting · score 13
+  - comment · 16h ago · slyting · score 13
   - matched: bugged
   - re: Whats with the growing sense of entitlement in the
   - https://www.reddit.com/r/2007scape/comments/1w3f3fw/whats_with_the_growing_sense_of_entitlement_in/p6zigu6/
 - **Agreed on the skull exclusive uniques - which is why I was more in favored with adjusted rates for being skulled vs unskulled. * Unskulled players get an alternative death system. **
-  - comment · 16h ago · eksyoo_ · score 13
+  - comment · 17h ago · eksyoo_ · score 13
   - matched: item loss
   - re: Wilderness - Skull Rework
   - https://www.reddit.com/r/2007scape/comments/1w3dulj/wilderness_skull_rework/p6za9gg/
 - **Any item unique to being skulled will keep the current system; this forevermore incentivises the hunter/pray system we currently have. I agree that you should rework the skull syst**
-  - comment · 16h ago · JavaHomely · score 13
+  - comment · 17h ago · JavaHomely · score 13
   - matched: item loss
   - re: Wilderness - Skull Rework
   - https://www.reddit.com/r/2007scape/comments/1w3dulj/wilderness_skull_rework/p6z82us/
 - **You fail to consider that real governments have a third group of people: average citizens, whom they can exploit to satisfy the PKers and the skillers all at once! **
-  - comment · 16h ago · DoggedDoggystyle · score 13
+  - comment · 17h ago · DoggedDoggystyle · score 13
   - matched: exploit
   - re: Useful trivia/facts that you learned from runescap
   - https://www.reddit.com/r/2007scape/comments/1w38kxz/useful_triviafacts_that_you_learned_from/p6z72v4/
 - **Man, I never get tired of your videos. So delightful. Anyway, that's a brown unicorn. They do have a horn, but the model is glitched and it doesn't show up. If you can kill one the**
-  - comment · 17h ago · mellophone11 · score 13
+  - comment · 18h ago · mellophone11 · score 13
   - matched: glitched
   - re: Weird New RS Creature Discovered??
   - https://www.reddit.com/r/2007scape/comments/1w2th6t/weird_new_rs_creature_discovered/p6z3iw2/
 - **Yes, I post memes and people like them Mr crystal on reddit bc he cant complete BMR**
-  - comment · 17h ago · KingDarkTurtle · score 13
+  - comment · 18h ago · KingDarkTurtle · score 13
   - matched: cant complete
   - re: Elite Lumby diary in the year...
   - https://www.reddit.com/r/2007scape/comments/1w37515/elite_lumby_diary_in_the_year/p6z2km0/
 - **My ironman is at CG and has sote done, yes. Just think about what you would actually get if you did exactly 100 kc of everything on both account types. On a main you'd have a fanta**
-  - comment · 17h ago · Flashy-Presence-2467 · score 13
+  - comment · 18h ago · Flashy-Presence-2467 · score 13
   - matched: can't leave
   - re: Anyone else get bored of a boss after 100 kc and t
   - https://www.reddit.com/r/2007scape/comments/1w2hmf3/anyone_else_get_bored_of_a_boss_after_100_kc_and/p6yuqsl/
 - **Is fletching knife bugged?**
-  - r/2007scape · 19h ago · KingArmes · score 13
+  - r/2007scape · 20h ago · KingArmes · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w39nzh/is_fletching_knife_bugged/
 - **https://preview.redd.it/aypaznnkaomh1.png?width=87&format=png&auto=webp&s=882d73b2df4946dfb0cd89436538ff38009bdea5 Game seems bugged today, as it didn't unlock for me.**
-  - comment · 21h ago · Repulsive_Truth9680 · score 13
+  - comment · 22h ago · Repulsive_Truth9680 · score 13
   - matched: bugged
   - re: I run a quiz at a video game pub and I always ask 
   - https://www.reddit.com/r/2007scape/comments/1w37cqh/i_run_a_quiz_at_a_video_game_pub_and_i_always_ask/p6y1am4/
 - **Yea, sent in a bug report a few days ago about this. Think it broke with the last update**
-  - comment · 22h ago · EmptyBasket · score 13
+  - comment · 23h ago · EmptyBasket · score 13
   - matched: bug
   - re: Wtf is with these @ symbols? (MEp2)
   - https://www.reddit.com/r/2007scape/comments/1w34bhm/wtf_is_with_these_symbols_mep2/p6xy0e9/
-- **This glitch changes *everything*.**
-  - comment · 23h ago · doubleapowpow · score 13
-  - matched: glitch
-  - re: Took the cart from the GE to Keldagrim and the car
-  - https://www.reddit.com/r/2007scape/comments/1w2txk6/took_the_cart_from_the_ge_to_keldagrim_and_the/p6xmvnk/
 
 ## Jagex & J-Mod  (1)
 
 - **📰 The Official OSRS Podcast Episode 20 With Mod Surma**
-  - r/2007scape, news · 20h ago · Spineweilder · seen 2x · score 34
+  - r/2007scape, news · 21h ago · Spineweilder · seen 2x · score 34
   - matched: newspost
   - Created page with "{{Update|date=31 August 2026|url=https://
   - https://oldschool.runescape.wiki/w/Update%3AThe_Official_OSRS_Podcast_Episode_20_With_Mod_Surma
@@ -322,112 +315,117 @@
 ## "You can do this" finds  (26)
 
 - **People are saying antipoison, but don't sleep on guthix rests. Easier than ever to make, heal 20hp per slot (5 a sip), and downgrade venom to poison (but doesn't cure poison), and **
-  - comment · 8h ago · StrangerAngel · score 56
+  - comment · 9h ago · StrangerAngel · score 56
   - matched: ⚡ food per inventory slot, safe spot, thralls, inventory slot
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p72fzxk/
 - **I just grinded out, master wand, mages book, infinity boots, and bones to peaches in 1 go, it was absolute cancer. Great magic xp but I super recommend skipping full infinity set. **
-  - comment · 10h ago · AdConstant2177 · score 43
+  - comment · 11h ago · AdConstant2177 · score 43
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Sell me early game content with garbage drops
   - https://www.reddit.com/r/ironscape/comments/1w2ypvl/sell_me_early_game_content_with_garbage_drops/p71k9iu/
 - **No it's the hardest because it made me go back to mage training arena for bones to peaches. I got the quest cape, but don't have the determination to do that lmao. **
-  - comment · 15h ago · Ms_Fire_Emblem · score 43
+  - comment · 16h ago · Ms_Fire_Emblem · score 43
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: If Quest Cape is too hard for you, you shouldn’t g
   - https://www.reddit.com/r/2007scape/comments/1w3fut0/if_quest_cape_is_too_hard_for_you_you_shouldnt/p6zruec/
 - **Yeah I think you pretty much did what I did Magic is a combat skill, you could bring some restore (not super) pots to your house portal and go for the boost right next to it. It's **
-  - comment · 8h ago · Araganor · score 38
+  - comment · 9h ago · Araganor · score 38
   - matched: ⚡ food per inventory slot, bottomless
   - re: How the fuck do you spicy stew boost?
   - https://www.reddit.com/r/ironscape/comments/1w3qnow/how_the_fuck_do_you_spicy_stew_boost/p72fwz5/
 - **Imbued god cape, level 81 fishing, finally got around to getting a fish barrel and full spirit anglers. Looking forward to my karambwan journey**
-  - comment · 9h ago · Gcarter85 · score 38
+  - comment · 10h ago · Gcarter85 · score 38
   - matched: ⚡ food per inventory slot, fish barrel
   - re: What have you achieved in OSRS this week?
   - https://www.reddit.com/r/2007scape/comments/1vzun6w/what_have_you_achieved_in_osrs_this_week/p720c3o/
 - **This. Every greenhelm has endgame gear and infinite food given to them and gets carried through everything. It's literally a main, except you have a 2 week delay on trading everyth**
-  - comment · 11h ago · Astro_NME · score 38
+  - comment · 12h ago · Astro_NME · score 38
   - matched: ⚡ food per inventory slot, infinite food
   - re: Green Helmed Against My Will
   - https://www.reddit.com/r/ironscape/comments/1w3k6jk/green_helmed_against_my_will/p712137/
+- **Basically get to prif. Not only will cg make you like 100m but prif teaks are nice. With log basket and plank sack you can bank 2 inventories of planks and an inventory of logs as **
+  - comment · 53m ago · IronReven · score 24
+  - matched: plank sack, log basket
+  - re: How to get a solid amount of planks?
+  - https://www.reddit.com/r/ironscape/comments/1w3f3qp/how_to_get_a_solid_amount_of_planks/p74oqt9/
 - **83 Cons is the standard stopping level. I'd recommend 84, but I couldn't stand it and stayed 83 for more than a year, so I get it. At 83 Construction, you can build a near-max PoH **
-  - comment · 6h ago · Survey_Server · score 29
+  - comment · 7h ago · Survey_Server · score 29
   - matched: digsite pendant, fishing trawler, plank sack
   - re: Construction
   - https://www.reddit.com/r/2007scape/comments/1w3oz6f/construction/p7300el/
-- **Fish barrel**
-  - r/2007scape · 1h ago · JTiberius21 · score 23
-  - matched: i just found out, fish barrel
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w41uuh/fish_barrel/
 - **What did you think about the Draken boss fight?**
-  - r/2007scape · 4h ago · Stunning-Show127 · score 26
+  - r/2007scape · 5h ago · Stunning-Show127 · score 26
   - matched: ⚡ food per inventory slot
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w3yn7m/what_did_you_think_about_the_draken_boss_fight/
 - **Is the forestry basket worth making now after the changes? I remember when it first came out, the forestry basket was super clunky and most people just kept the log basket. Wonderi**
-  - comment · 15h ago · nephrael · score 24
+  - comment · 16h ago · nephrael · score 24
   - matched: log basket, forestry basket
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w3511i/have_a_question_about_the_game_or_the_subreddit/p6zntvo/
 - **Bag,Sack,Pouch - SCAPE**
-  - r/2007scape · 15h ago · New-Inspector2622 · score 24
+  - r/2007scape · 16h ago · New-Inspector2622 · score 24
   - matched: satchel, herb sack, seed box
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w3fy56/bagsackpouch_scape/
+- **Fish barrel**
+  - r/2007scape · 2h ago · JTiberius21 · score 23
+  - matched: i just found out, fish barrel
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1w41uuh/fish_barrel/
 - **I agree. It’s totally optional for OP. If he has a cozy (or sweaty!) fishing method he already planned on doing, just do that. If you want the clog, do it. Otherwise it doesn’t pro**
-  - comment · 25m ago · deedsnance · score 12
+  - comment · 1h ago · deedsnance · score 12
   - matched: tackle box
   - re: Fish barrel
   - https://www.reddit.com/r/2007scape/comments/1w41uuh/fish_barrel/p74lceq/
-- **I think that it could be worthwhile to aim for as you close in on your overall goal. Not only will the minigame be a break from the overall grind but you will also have the potenti**
-  - comment · 1h ago · GreenskinGaming · score 12
-  - matched: tackle box
-  - re: Fish barrel
-  - https://www.reddit.com/r/2007scape/comments/1w41uuh/fish_barrel/p74f2lh/
-- **I always assumed the herb sack was more for monster drops and herbiboar than it is for farming, since you can just note them at the leprechaun. **
-  - comment · 1h ago · ulfalda · +4 more in this thread on the same terms · score 12
-  - matched: herb sack
-  - re: Upgraded Herb sack kinda sux.
-  - https://www.reddit.com/r/2007scape/comments/1w41gbz/upgraded_herb_sack_kinda_sux/p74asg3/
 - **CoX remains the longest grind by a fair margin with ToB and ToA being faster to complete, and no standard boss coming within even 10% of the time to complete. You don't need to obt**
   - comment · 11h ago · Chaoticlight2 · score 14
   - matched: you can skip, you don't need
   - re: Whats with the growing sense of entitlement in the
   - https://www.reddit.com/r/2007scape/comments/1w3f3fw/whats_with_the_growing_sense_of_entitlement_in/p71e7nl/
+- **I think that it could be worthwhile to aim for as you close in on your overall goal. Not only will the minigame be a break from the overall grind but you will also have the potenti**
+  - comment · 2h ago · GreenskinGaming · score 12
+  - matched: tackle box
+  - re: Fish barrel
+  - https://www.reddit.com/r/2007scape/comments/1w41uuh/fish_barrel/p74f2lh/
+- **I always assumed the herb sack was more for monster drops and herbiboar than it is for farming, since you can just note them at the leprechaun. **
+  - comment · 2h ago · ulfalda · +5 more in this thread on the same terms · score 12
+  - matched: herb sack
+  - re: Upgraded Herb sack kinda sux.
+  - https://www.reddit.com/r/2007scape/comments/1w41gbz/upgraded_herb_sack_kinda_sux/p74asg3/
 - **Tears/2x30 salvaging both 30 minutes > anglers w/ fish barrel (\~19-20 mins) > other methods. There's miniscule niche ones like fishing at fortis/stranglewood but tears and salvagi**
-  - comment · 4h ago · Old_Pool9777 · score 12
+  - comment · 5h ago · Old_Pool9777 · score 12
   - matched: fish barrel
   - re: What's The Most AFK Skilling Activity?
   - https://www.reddit.com/r/2007scape/comments/1w3ui19/whats_the_most_afk_skilling_activity/p73pqrk/
 - **I feel like the skilling bosses are stuck in a weird situation where because they're a great method for training all the way till 99 you're stuck with kinda shit rates for the drop**
-  - comment · 5h ago · woodcarbuncle · score 12
+  - comment · 6h ago · woodcarbuncle · score 12
   - matched: fish barrel
   - re: Tempoross Appreciation Post
   - https://www.reddit.com/r/2007scape/comments/1w3ek9o/tempoross_appreciation_post/p73a9xc/
 - **To be honest I’d work on getting your smithing up and do blast furnace. Pretty quick to unlock and if you’re under level 60 you pay a small additional fee, put coins in the coffer **
-  - comment · 9h ago · gingy-96 · score 12
+  - comment · 10h ago · gingy-96 · score 12
   - matched: coal bag
   - re: Which money making method can I do with these stat
   - https://www.reddit.com/r/2007scape/comments/1w3p6cs/which_money_making_method_can_i_do_with_these/p71txrk/
 - **For a while, it also used seeds from the seed box even with the seed box in the bank. Why not just put the seeds from your inventory back in the box tho? It's annoying to have an e**
-  - comment · 9h ago · Unfair_Awareness7502 · score 12
+  - comment · 10h ago · Unfair_Awareness7502 · score 12
   - matched: seed box
   - re: I Just did a farm run and it prioritised seeds fro
   - https://www.reddit.com/r/2007scape/comments/1w2sac5/i_just_did_a_farm_run_and_it_prioritised_seeds/p71tui2/
 - **try to fit a cape in a tackle box and get back with me!**
-  - comment · 11h ago · zuvielz · score 12
+  - comment · 12h ago · zuvielz · score 12
   - matched: tackle box
   - re: People who have maxed...
   - https://www.reddit.com/r/2007scape/comments/1w3j2st/people_who_have_maxed/p7136uy/
 - **It's a bit odd that the wc cape can go in the forestry kit and the hunter cape can go in the huntsman kit but fishing cape cant go in the tackle box etc **
-  - comment · 12h ago · Successful-Willow-16 · score 12
+  - comment · 13h ago · Successful-Willow-16 · score 12
   - matched: tackle box
   - re: People who have maxed...
   - https://www.reddit.com/r/2007scape/comments/1w3j2st/people_who_have_maxed/p70u9yg/
 - **It's good now. Deposit containers just empties the log basket component, and your leaves and rations stay in the forestry kit component.**
-  - comment · 13h ago · abh34567hrdr6a · score 12
+  - comment · 14h ago · abh34567hrdr6a · score 12
   - matched: log basket
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w3511i/have_a_question_about_the_game_or_the_subreddit/p70k3nz/
@@ -437,60 +435,50 @@
   - re: Bag,Sack,Pouch - SCAPE
   - https://www.reddit.com/r/2007scape/comments/1w3fy56/bagsackpouch_scape/p6zunrb/
 - **Hard agree on gotr being bad. I can't understand why they would make a mini game completely mandatory to do like gotr (for irons at least, but still for mains). 60% or whatever mor**
-  - comment · 18h ago · TheNamesRoodi · score 12
+  - comment · 19h ago · TheNamesRoodi · score 12
   - matched: colossal pouch
   - re: Rooncraft npcs
   - https://www.reddit.com/r/2007scape/comments/1w37bbg/rooncraft_npcs/p6ymeyi/
 - **Congrats, I got mine a little over 2600 last week. Only thing that kept me going was the seed drops lol. I did just get spooned on a fish barrel, i hope your next grind is spooned **
-  - comment · 21h ago · Mryay244 · score 12
+  - comment · 22h ago · Mryay244 · score 12
   - matched: fish barrel
   - re: Was about to post on how dry I was. Let's fking go
   - https://www.reddit.com/r/ironscape/comments/1w2qq6a/was_about_to_post_on_how_dry_i_was_lets_fking_go/p6y0qk4/
-- **This indeed feels unintuitive and annoying to me. I like to take out the exact amounts of seeds I need for my herb runs and track progress by looking at how many are left in my inv**
-  - comment · 23h ago · Chessland · score 12
-  - matched: seed box
-  - re: I Just did a farm run and it prioritised seeds fro
-  - https://www.reddit.com/r/2007scape/comments/1w2sac5/i_just_did_a_farm_run_and_it_prioritised_seeds/p6xpoby/
 
 ## Mechanics & wiki corrections  (37)
 
 - **Well the way tick eating works is that you eat on the same tick damage is calculated, the way damage in osrs works is that it cannot deal more than the amount of health you have so**
-  - comment · 14h ago · SeawaldW · score 44
+  - comment · 15h ago · SeawaldW · score 44
   - matched: tick eating
   - re: Finally got my fire cape!
   - https://www.reddit.com/r/2007scape/comments/1w2dv7a/finally_got_my_fire_cape/p6zuzwt/
 - **I pked a lot 2004-2011. Just about any style p2p style you name it. I still have a ton of accounts, like 12 rs2 pk builds. I could hold my own in PVP world NH in 2009-2010 but arou**
-  - comment · 15h ago · ThatDudeGuy99 · score 44
+  - comment · 16h ago · ThatDudeGuy99 · score 44
   - matched: tick eating
   - re: Unpopular Opinion: The current full loot PvP syste
   - https://www.reddit.com/r/2007scape/comments/1w3epul/unpopular_opinion_the_current_full_loot_pvp/p6zi7ty/
 - **1. Make sure to eat RIGHT WHEN the snake dips down. Every time. Unless full health, eat. 2. You’re missing a ton of DPS on mage phase, however I understand it smacks. You can safes**
-  - comment · 10h ago · Hot-Library5609 · score 40
+  - comment · 11h ago · Hot-Library5609 · score 40
   - matched: safespot, safe spot
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p71nm00/
 - **You mentioned saeldor tho, idk what the numbers look like, but I feel like I'd highly recommend a DH lance. Sounds good tho! You can do damageless head phase with any ranged weapon**
-  - comment · 5h ago · casual_btw · score 37
+  - comment · 6h ago · casual_btw · score 37
   - matched: safe spot, tick eat, flinch
   - re: Whine about COX rng
   - https://www.reddit.com/r/ironscape/comments/1w3olnv/whine_about_cox_rng/p73eks9/
-- **What kind of xp do you get for poison dynamite? I’ve seen rendi do some many now and never noticed the xp drop somehow **
-  - comment · 23h ago · Toaster_Bathing · score 36
-  - matched: poison dynamite
-  - re: Finally got my fire cape!
-  - https://www.reddit.com/r/2007scape/comments/1w2dv7a/finally_got_my_fire_cape/p6xo1y1/
 - **Are you familiar to the stalling tech? Using pillars for safespot to get more hits? If not, i recommend you look it up, im sure there should be videos out there because i did aroun**
-  - comment · 22h ago · Imortalchris · score 26
+  - comment · 23h ago · Imortalchris · score 26
   - matched: safespot, stalling
   - re: bowfa only zulrah kills per trip
   - https://www.reddit.com/r/ironscape/comments/1w35dce/bowfa_only_zulrah_kills_per_trip/p6xvxym/
 - **Really struggling with 1 KC Zulrah kill, any advice here?**
-  - r/ironscape · 10h ago · Competitive_Chance · score 25
+  - r/ironscape · 11h ago · Competitive_Chance · score 25
   - matched: safespot, wintertodt
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/
 - **I used it at TDs before scobow. I had a max hit of 51 with Mark of Darkness and Dark Demonbane. It's really good.**
-  - comment · 10h ago · NYLaw · score 25
+  - comment · 11h ago · NYLaw · score 25
   - matched: max hit, max hit of, demonbane
   - re: Master wand at TD's?
   - https://www.reddit.com/r/ironscape/comments/1w3n8qq/master_wand_at_tds/p71h40x/
@@ -500,146 +488,151 @@
   - re: l hate prayer related CA's
   - https://www.reddit.com/r/2007scape/comments/1w3smdg/l_hate_prayer_related_cas/p735032/
 - **I would recommend bringing \~4 guthix rests; they helped me get first zulrah KC. They’ll heal you a bit and reduce the venom back to poison so you don’t take as much chip damage. A**
-  - comment · 8h ago · PixelatedTurtle_ · score 24
+  - comment · 9h ago · PixelatedTurtle_ · score 24
   - matched: combo eat, guthix rest
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p727hug/
 - **NGL, after reading the wiki, Sins of the Father is still the boss that has taken me the most tries. 2nd place goes to the final fight of DT2. Drakan took 2 tries, only bc I didn't **
-  - comment · 14h ago · crytol · score 24
+  - comment · 15h ago · crytol · score 24
   - matched: phase transition
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p703uvu/
 - **Am 95 slayer and I've only seen that task 2 times lol. I've decided to take a step back from 5 months of straight pvming to skill and quest. Then I'll go red x shaman since 1400 ba**
-  - comment · 18h ago · PiNkY-TwinKieZ · score 24
+  - comment · 19h ago · PiNkY-TwinKieZ · score 24
   - matched: red x
   - re: As an ironman, will I have get a chance to use mor
   - https://www.reddit.com/r/ironscape/comments/1w3bf3p/as_an_ironman_will_i_have_get_a_chance_to_use/p6ytm7t/
 - **I would personally red x shamans off task. Turael skip black demons + tds, once you finish those do Mortimer until kraken, turael until you get what you want, Mortimer again until **
-  - comment · 18h ago · Working-Buffalo5085 · score 24
+  - comment · 19h ago · Working-Buffalo5085 · score 24
   - matched: red x
   - re: As an ironman, will I have get a chance to use mor
   - https://www.reddit.com/r/ironscape/comments/1w3bf3p/as_an_ironman_will_i_have_get_a_chance_to_use/p6ypll9/
+- **✎ Optimal quest guide — It is no longer recommended to go for the Graceful Outfit exclusively, especially given the recent Energy Potion changes**
+  - wiki · 29m ago · Ditao1 · score 19
+  - matched: behaviour edit
+  - edit
+  - https://oldschool.runescape.wiki/w/Optimal_quest_guide
 - **For Thermy I used thralls and dfs shield specs on the 10hp account. I also used a tank alt to help recoil damage back with echo boots and a ring of suffering. **
-  - comment · 4h ago · iNepheliad · score 22
+  - comment · 5h ago · iNepheliad · score 22
   - matched: echo boots, ring of suffering
   - re: Pet Smoke Devil at 10HP - 1874 KC
   - https://www.reddit.com/r/2007scape/comments/1w3flfy/pet_smoke_devil_at_10hp_1874_kc/p73psia/
 - **Welcome back! There's a lot of direction to be found if you seek it out - I'm sure lots of people will point you towards the Optimal Quest Guide (for completing all of the quests w**
-  - comment · 10h ago · MadBismarck · score 22
+  - comment · 11h ago · MadBismarck · score 22
   - matched: void knight, pest control
   - re: It's so much fun to be back but so overwhelming!
   - https://www.reddit.com/r/2007scape/comments/1w3nn00/its_so_much_fun_to_be_back_but_so_overwhelming/p71ey55/
 - **Join parties, mass events, group content with randoms. 95% of them are going to be slightly better or equally as bad as you. If you do manage to get in a lobby with one of the 5% t**
-  - comment · 2h ago · Theorex0001 · score 20
+  - comment · 3h ago · Theorex0001 · score 20
   - matched: safe spot
   - re: Just got my buddy into OSRS. What should he know?
   - https://www.reddit.com/r/2007scape/comments/1w3wwb9/just_got_my_buddy_into_osrs_what_should_he_know/p742zl6/
 - **Its not though. After a max hit of 14 its actually more xp/h at gem crab**
-  - comment · 5h ago · Special0fficerD00fy · score 20
+  - comment · 6h ago · Special0fficerD00fy · score 20
   - matched: max hit, max hit of
   - re: Guy followed me across like 10 worlds over a sand 
   - https://www.reddit.com/r/2007scape/comments/1w3u7cr/guy_followed_me_across_like_10_worlds_over_a_sand/p73cq90/
 - **Yeah id say more karambwans too and eat them in the right order for tick eating (shark > karam). For one single kill, big heals are much more important than lots of heals at zulrah**
-  - comment · 7h ago · Womble_Don · score 20
+  - comment · 8h ago · Womble_Don · score 20
   - matched: tick eating
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p72t53b/
 - **Everyone has to start somewhere right? Also I wouldn’t say it’s insanely different. There’s more mechanics yes but we both safe spot (unless ur or mage tank) But we’re both waved b**
-  - comment · 8h ago · Defiant_Wonder4984 · score 20
+  - comment · 9h ago · Defiant_Wonder4984 · score 20
   - matched: safe spot
   - re: Just got my cape and I’m still shaking
   - https://www.reddit.com/r/ironscape/comments/1w3p33k/just_got_my_cape_and_im_still_shaking/p72bpe8/
 - **I would upgrade to a twinflame staff. I used it on my gim for about 4-6 kc. I didn’t use the mage safe spot ether. Think my kill times where 3-4 minutes**
-  - comment · 9h ago · otherwis6 · +2 more in this thread on the same terms · score 20
+  - comment · 10h ago · otherwis6 · +2 more in this thread on the same terms · score 20
   - matched: safe spot
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p71vbji/
 - **Thank you, been been using this mage only safespot guide, so not sure what else I can do: [https://www.youtube.com/watch?v=4pN3z03cUKM](https://www.youtube.com/watch?v=4pN3z03cUKM)**
-  - comment · 10h ago · Competitive_Chance · +4 more in this thread on the same terms · score 20
+  - comment · 11h ago · Competitive_Chance · +4 more in this thread on the same terms · score 20
   - matched: safespot
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p71k0q1/
 - **if you didn't safe spot angry barbarian spirits for 5 hours with a bone cbow to get your mith grapple you're not a real iron btw**
-  - comment · 12h ago · Cold_Box_7387 · score 20
+  - comment · 13h ago · Cold_Box_7387 · score 20
   - matched: safe spot
   - re: Poll it again
   - https://www.reddit.com/r/2007scape/comments/1w3gdqs/poll_it_again/p70nkmq/
 - **It is cheese tech for tank cheese colo, courtesy if reynolds, so you can corner safe spot with a nally if needed in a pinch**
-  - comment · 14h ago · xPofsx · score 20
+  - comment · 15h ago · xPofsx · score 20
   - matched: safe spot
   - re: Zamorak GodSword
   - https://www.reddit.com/r/2007scape/comments/1w2yfns/zamorak_godsword/p6zwi5n/
 - **:facepalm: dude if u dont even know how pathing works in this 25 yr old clicking game idk what to tell you. literally just click farther ahead than one tile and you will keep movin**
-  - comment · 16h ago · blazebirb · score 20
+  - comment · 17h ago · blazebirb · score 20
   - matched: pathing
   - re: HOW TO WALK THE ECLIPSE MOON SHIELD PERFECTLY EVER
   - https://www.reddit.com/r/2007scape/comments/1w3e6fr/how_to_walk_the_eclipse_moon_shield_perfectly/p6zeqxu/
 - **✎ Hunters' Rumours/Strategies — Removed Wyrmscraig Goat from the Master Hunter rumours as they can no longer be received as a rumour following the Wyrms**
-  - wiki · 15h ago · ~2026-RighteousFletcherProposal16228 · score 19
+  - wiki · 16h ago · ~2026-RighteousFletcherProposal16228 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Hunters'_Rumours%2FStrategies
 - **Yeee. This is all the info on defending against em I can think of off the top, wiki supported. The max hit for sallies are funny but then also it makes sense when you nerd out enou**
-  - comment · 22h ago · Inevitable_Dance_268 · score 19
+  - comment · 23h ago · Inevitable_Dance_268 · score 19
   - matched: for some reason, max hit
   - re: What to pray against Salamander?
   - https://www.reddit.com/r/2007scape/comments/1w2obwa/what_to_pray_against_salamander/p6xx4l9/
 - **You didn't combo eat once.... every time you need to eat you should be combo eating. So bring equal bwans and sharks. If you are pillar stalling you need to come out on the othersi**
-  - comment · 9h ago · Apocalypticorn · score 18
+  - comment · 10h ago · Apocalypticorn · score 18
   - matched: stalling, combo eat
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p71vqhx/
 - **I used a combination of thrall attacks, dfs shield specs, and a tank alt with echo boots plus a ring of suffering to help chip it to death.**
-  - comment · 4h ago · iNepheliad · score 17
+  - comment · 5h ago · iNepheliad · score 17
   - matched: echo boots, ring of suffering
   - re: Pet Smoke Devil at 10HP - 1874 KC
   - https://www.reddit.com/r/2007scape/comments/1w3flfy/pet_smoke_devil_at_10hp_1874_kc/p73pfsj/
 - **Drink anti poison faster and do your eats at a better time, you're missing some damage, do it during mage phases or while it's about to pop out. Don't miss out on free hits during **
-  - comment · 6h ago · Distinct-Ad-3937 · score 17
+  - comment · 7h ago · Distinct-Ad-3937 · score 17
   - matched: magic defence, magic only
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p72zq1p/
 - **Lots of music and chatting, haha! Yeah it's crazy how fast years fly by! 20 years ago is a long time, yet it almost feels like yesterday! Yeah you remember correctly! I can still r**
-  - comment · 9h ago · RuneScapeSuomi · score 17
+  - comment · 10h ago · RuneScapeSuomi · score 17
   - matched: classic, runescape classic
   - re: The Hiscores 20 years ago today!
   - https://www.reddit.com/r/2007scape/comments/1w3jl31/the_hiscores_20_years_ago_today/p7244ia/
 - **Why the fuck would you count time spent taking a break as time spent doing cg. If I have to take a 30 min break in between hunleff kills would you say 2 kills/ hr is a reasonable a**
-  - comment · 14h ago · omnicorn_persei_8 · score 17
+  - comment · 15h ago · omnicorn_persei_8 · score 17
   - matched: looting the chest, wager
   - re: Whats with the growing sense of entitlement in the
   - https://www.reddit.com/r/2007scape/comments/1w3f3fw/whats_with_the_growing_sense_of_entitlement_in/p6zxdxr/
 - **Unpopular Opinion: The current full loot PvP system in the wilderness is flawed and prevents growth in PvP interactions and only encourages rags and frustrated hunters.**
-  - r/2007scape · 16h ago · JavaHomely · score 17
+  - r/2007scape · 17h ago · JavaHomely · score 17
   - matched: classic, runescape classic
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w3epul/unpopular_opinion_the_current_full_loot_pvp/
 - **If I hit my tinderbox with three stacked logs, I get a campfire **
-  - comment · 17h ago · AdeptnessAway2752 · score 17
+  - comment · 18h ago · AdeptnessAway2752 · score 17
   - matched: tinderbox, stacked
   - re: Useful trivia/facts that you learned from runescap
   - https://www.reddit.com/r/2007scape/comments/1w38kxz/useful_triviafacts_that_you_learned_from/p6z3j6g/
 - **Low level slayer doesn't give gold. Try to find a fun money making activity to do beside slayer. For example wintertodt is great, it doesn't feel like slaving for money. You train **
-  - comment · 19h ago · Murky-Range-9344 · score 17
+  - comment · 20h ago · Murky-Range-9344 · score 17
   - matched: pyramid plunder, wintertodt
   - re: Slayer Leveling Worth it?
   - https://www.reddit.com/r/2007scape/comments/1w31vr7/slayer_leveling_worth_it/p6yddje/
 - **Just going to start out by saying that you need to disregard these people telling you to learn the fight better and to stop using the plugin etc. If your here for 1kc your already **
-  - comment · 5h ago · Jack41225 · score 15
+  - comment · 6h ago · Jack41225 · score 15
   - matched: safe spot, stall, plugin, safe zone
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p739df6/
 - **You can still go for a mage-only kill but you still wanna try attacking Zulrah when they're blue. You will have low accuracy but you can still damage him. Also, bring some karambwa**
-  - comment · 10h ago · SinSittSina · score 15
+  - comment · 11h ago · SinSittSina · score 15
   - matched: you can still, combo eating
   - re: Really struggling with 1 KC Zulrah kill, any advic
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p71ravp/
 - **You can still stack at least two of them from the SE tile if you run SW after Kril dies. As long as they aren’t auto attacking on the same tick, there’s little to no difference. **
-  - comment · 15h ago · IAmSona · score 15
+  - comment · 16h ago · IAmSona · score 15
   - matched: you can still, same tick
   - re: Made a short video showing off how to easily farm 
   - https://www.reddit.com/r/2007scape/comments/1w2xild/made_a_short_video_showing_off_how_to_easily_farm/p6zjjvh/
 
 ---
 
-Not included: 970 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 975 findings older than 24h. Widen with `__osrs.report(48)` in the console.
