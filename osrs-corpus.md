@@ -1,343 +1,373 @@
 # OSRS Signal — last 24h
 
-2026-09-03 18:42 UTC · 188 findings after merging duplicates (from 289 raw hits; 85 single-term floor rows filtered)
+2026-09-03 19:38 UTC · 191 findings after merging duplicates (from 293 raw hits; 88 single-term floor rows filtered)
 
 ## Vanished — removed or deleted after posting  (14)
 
 - **🗑 vanished from reddit — removed (deleted) — Ultor vestige dissapeared from inventory when creating ring**
-  - r/2007scape, vanished · 12h ago · MathAccomplished2151 · seen 2x · score 45
+  - r/2007scape, vanished · 13h ago · MathAccomplished2151 · seen 2x · score 45
   - matched: vanished, bug
   - was r/2007scape, posted 4m before it went
   - https://www.reddit.com/r/2007scape/comments/1w5z1em/ultor_vestige_dissapeared_from_inventory_when/
   - captured before it went:
     > I just got my ultor vestige, went to the GE and bought a spare berserker ring, broke it down into the icon and then applied it to the vestigie. It consumed the ultor vestige, the blood runes and left the icon and then I had no ultor ring in my inventory...... I've just lost 100m from a stupid bug. The only thing I can think of that cause it was having my other berserker ring (i) in my inventory. So sad after finally getting my vestige drop wth :(
 - **🗑 vanished from reddit — deleted by the author — Vibe coded dogshit. If you know how to code, just look at the bug tracker.**
-  - vanished · 22h ago · 4DimensionalButts · score 45
+  - vanished · 23h ago · 4DimensionalButts · score 45
   - matched: vanished, bug
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1w3laaw/osrs_tcg_now_requires_you_to_make_an_account_with/p729z8j/
   - captured before it went:
     > Vibe coded dogshit. If you know how to code, just look at the bug tracker.
 - **🗑 vanished from reddit — removed (deleted) — Herb Patch Hespori**
-  - vanished · 22h ago · Empumferftic · score 45
+  - vanished · 23h ago · Empumferftic · score 45
   - matched: vanished, bugged
   - was r/osrs, posted 1d before it went
   - https://www.reddit.com/r/osrs/comments/1w4g295/herb_patch_hespori/
   - captured before it went:
     > K after going 600 herb patches (3x rate) with no Hespori seed... Is this bugged? Has anyone gotten one recently? Yes I have them enabled, I get them from tree runs.
 - **🗑 vanished from reddit — removed (deleted) — 2 kc Hespori collection log**
-  - vanished · 22h ago · A-Train1230 · score 45
+  - vanished · 23h ago · A-Train1230 · score 45
   - matched: vanished, bottomless
   - was r/2007scape, posted 23h before it went
   - https://www.reddit.com/r/2007scape/comments/1w4oqu3/2_kc_hespori_collection_log/
   - captured before it went:
     > I got a bottomless compost bucket on 2nd kill, someone told me to screenshot and post this crazy rng
 - **🗑 vanished from reddit — removed (deleted) — New magic amulets combination is bugged**
-  - vanished · 22h ago · NicoGSX · score 45
+  - vanished · 23h ago · NicoGSX · score 45
   - matched: vanished, bugged
   - was r/2007scape, posted 7h before it went
   - https://www.reddit.com/r/2007scape/comments/1w58fub/new_magic_amulets_combination_is_bugged/
   - captured before it went:
     > Ok so i have tried all the diamond, the magic amulets and the runes and they simply do not combine.
 - **🗑 vanished from reddit — deleted by the author — PvP will always be broken. The average player doesn’t understand the nuances of this game, such as tick manipulation, PID, and wha**
-  - vanished · 22h ago · heretobuyandsell · score 44
+  - vanished · 23h ago · heretobuyandsell · score 44
   - matched: vanished, tick manipulation, pid
   - was comment, posted 8h before it went
   - https://www.reddit.com/r/2007scape/comments/1w4dhl8/pov_jmods_are_proposing_a_new_wilderness_update/p7cza1c/
   - captured before it went:
     > PvP will always be broken. The average player doesn’t understand the nuances of this game, such as tick manipulation, PID, and what’s especially bad now is the power creep. We used to be only able to hit 70s with a special attack, nowadays whip out a SRA or nox and you’re smacking 70s on regular attacks. Barrages hit in the 40s then we have supplements like bowfa hitting 50s on a 4t cycle. Pair that with the turbo gamer whales who will only die to a lucky stack out or DC rocking 2b in gear. Few big hits off prayer and most people just don’t stand a chance. Hell, I’ve seen clips of people getting destroyed even with the correct overheads. Imo PvM and PvP should have separate weapon balances.
 - **🗑 vanished from reddit — deleted by the author — I would recommend bringing \~4 guthix rests; they helped me get first zulrah KC. They’ll heal you a bit and reduce the venom back **
-  - vanished · 22h ago · PixelatedTurtle_ · score 43
+  - vanished · 23h ago · PixelatedTurtle_ · score 43
   - matched: vanished, combo eat, guthix rest
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/ironscape/comments/1w3ociz/really_struggling_with_1_kc_zulrah_kill_any/p727hug/
 - **🗑 vanished from reddit — deleted by the author — The most consistent method I found assuming Max Str w/o Torva is to start the fight with a Noxious Halberd hit. The 5t attack spee**
-  - comment, vanished · 7h ago · Bear_with_Honey · seen 2x · score 42
+  - comment, vanished · 8h ago · Bear_with_Honey · seen 2x · score 42
   - matched: vanished, spawn timer
   - was comment, posted 9h before it went
   - https://www.reddit.com/r/ironscape/comments/1ncm61t/bryophyta_farming_post_rework/p7i0aem/
 - **🗑 vanished from reddit — deleted by the author — I like Jimmy' idea of normal main accounts having the ability to "prestige" but Jimmy' version of it was too light... When a norma**
-  - vanished · 7h ago · Burnt_Shoe2123 · score 41
+  - vanished · 8h ago · Burnt_Shoe2123 · score 41
   - matched: vanished, de-prestige, max cape
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1w54gq7/we_need_hardcore_main_worlds/p7c8gdd/
 - **🗑 vanished from reddit — deleted by the author — lol, its still how you trade over max cash, which was ALSO asked. "how does 1 find prices over max cash now?"**
-  - comment, vanished · 11h ago · Aeyonic · seen 2x · score 40
+  - comment, vanished · 12h ago · Aeyonic · seen 2x · score 40
   - matched: vanished, max cash
   - was comment, posted 2m before it went
   - https://www.reddit.com/r/2007scape/comments/1w5xq5t/ge_beyond_max_cash_when/p7j5atc/
   - captured before it went:
     > lol, its still how you trade over max cash, which was ALSO asked. "how does 1 find prices over max cash now?"
 - **🗑 vanished from reddit — removed (moderator) — Mod Ayiza asks a good question to pkers**
-  - vanished · 22h ago · Scary_Technology420 · score 40
+  - vanished · 23h ago · Scary_Technology420 · score 40
   - matched: vanished, mod ayiza
   - was r/2007scape, posted 22h before it went
   - https://www.reddit.com/r/2007scape/comments/1w4qpng/mod_ayiza_asks_a_good_question_to_pkers/
 - **🗑 vanished from reddit — removed (deleted) — This is how I did it.**
-  - vanished · 22h ago · iAmNotSharky · score 40
+  - vanished · 23h ago · iAmNotSharky · score 40
   - matched: vanished, tick manipulation, the void
   - was r/2007scape, posted 19h before it went
   - https://www.reddit.com/r/2007scape/comments/1w4vger/this_is_how_i_did_it/
 - **🗑 vanished from reddit — deleted by the author — I love mod Ayiza. Im not a pker but i see the value in it for OSRS The irony of OSRS being made because players wanted Free trade **
-  - vanished · 22h ago · Homobonokidlat · score 40
+  - vanished · 23h ago · Homobonokidlat · score 40
   - matched: vanished, mod ayiza
   - was comment, posted 15h before it went
   - https://www.reddit.com/r/2007scape/comments/1w4qpng/mod_ayiza_asks_a_good_question_to_pkers/p7bbfu4/
 - **🗑 vanished from reddit — removed (deleted) — Freeze login is not the issue, is the world hopping for a prey**
-  - vanished · 22h ago · XtremeLeecher · score 40
+  - vanished · 23h ago · XtremeLeecher · score 40
   - matched: vanished, stacked
   - was r/2007scape, posted 11h before it went
   - https://www.reddit.com/r/2007scape/comments/1w54sac/freeze_login_is_not_the_issue_is_the_world/
 
-## Bugs & exploits  (75)
+## Bugs & exploits  (78)
 
-- **Anything they change the spaghetti coded mess, older content mainly causes a rollback or some sort of unintended side effect. I mean maybe they get lucky but usually they dont 🤷 **
-  - comment · 1h ago · OSRSwizardry · score 38
-  - matched: unintended, rollback
-  - re: Fix the Shadow already (nerfs related to new amule
-  - https://www.reddit.com/r/2007scape/comments/1w6dmxa/fix_the_shadow_already_nerfs_related_to_new/p7m9dgb/
 - **Gryphon knockback**
-  - r/2007scape · 14h ago · Stillers14 · score 46
+  - r/2007scape · 15h ago · Stillers14 · score 46
   - matched: bug, is this a bug, wiki says
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w5we08/gryphon_knockback/
 - **It really doesn’t require all that much attention in the slayer cave. Stand in corner, wait till purples spawn(which has a distinct sound queue) move a few tiles at the right momen**
-  - comment · 2h ago · MistukoSan · score 39
+  - comment · 3h ago · MistukoSan · score 39
   - matched: bug, exploit
   - re: Hey real quick, are we for real?
   - https://www.reddit.com/r/ironscape/comments/1w6alcr/hey_real_quick_are_we_for_real/p7lriz7/
+- **Anything they change the spaghetti coded mess, older content mainly causes a rollback or some sort of unintended side effect. I mean maybe they get lucky but usually they dont 🤷 **
+  - comment · 2h ago · OSRSwizardry · score 38
+  - matched: unintended, rollback
+  - re: Fix the Shadow already (nerfs related to new amule
+  - https://www.reddit.com/r/2007scape/comments/1w6dmxa/fix_the_shadow_already_nerfs_related_to_new/p7m9dgb/
 - **Elemental spells are getting a max hit buff (without equipping anything!!!) from raids 4. If it calcs before elemental weaknesses and magic%dmg like elemental amulet is right now, **
-  - comment · 3h ago · TheNamesRoodi · score 38
+  - comment · 4h ago · TheNamesRoodi · score 38
   - matched: bugs, max hit, thralls, without equipping
   - re: Elemental spells
   - https://www.reddit.com/r/2007scape/comments/1w69dyv/elemental_spells/p7lcbt6/
 - **Risk value inaccurate**
-  - r/2007scape · 22h ago · Weekly_Ostrich_5674 · score 34
+  - r/2007scape · 23h ago · Weekly_Ostrich_5674 · score 34
   - matched: bug, is this a bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w5mad7/risk_value_inaccurate/
 - **Just a heads up that as of Sept 2026 this quest was still bugged. To complete this step of the quest you need to: - Enter the room and slowly approach the boss room 1 tile at a tim**
-  - comment · 2h ago · Chto_takoye_osen · score 33
+  - comment · 3h ago · Chto_takoye_osen · score 33
   - matched: bugged, safespot
   - re: Zanik not attacking Sigmund in - Death to the Dorg
   - https://www.reddit.com/r/2007scape/comments/1r8uv4r/zanik_not_attacking_sigmund_in_death_to_the/p7ltaa6/
+- **They can remove items. It's not a technical issue at all, no rollback required. Just release the updated combined ammy a week later and people would have to get it again. Might be **
+  - comment · 54m ago · Elpasdo · score 25
+  - matched: rollback
+  - re: Nerf the individual amulets to +1 and make the com
+  - https://www.reddit.com/r/2007scape/comments/1w6dc8d/nerf_the_individual_amulets_to_1_and_make_the/p7mpl4x/
+- **Nice, QOL ! I just had to reset my swapped menus because it glitched so this is perfect Another thing, r/jagexsarnie , is that on mobile when I try to scroll through the fairy ring**
+  - comment · 1h ago · vgdomvg · score 24
+  - matched: glitched, not sure if this is
+  - re: Menu Entry Swapper Overhaul
+  - https://www.reddit.com/r/2007scape/comments/1w62v3k/menu_entry_swapper_overhaul/p7mm8gr/
+- **This wasn't supposed to be amulet to change that. It was supposed to be early game facilitator since mage gear lacked any progression early game until bonus damage gear in moons/ba**
+  - comment · 19h ago · jinjin5000 · score 26
+  - matched: not supposed to, wasn't supposed to
+  - re: The new amulets aren't 'busted'
+  - https://www.reddit.com/r/2007scape/comments/1w5pqvb/the_new_amulets_arent_busted/p7hhz8l/
 - **Wdym it would likely cause a rollback?**
-  - comment · 1h ago · Hairy-Bellz · score 25
+  - comment · 2h ago · Hairy-Bellz · score 25
   - matched: rollback
   - re: Fix the Shadow already (nerfs related to new amule
   - https://www.reddit.com/r/2007scape/comments/1w6dmxa/fix_the_shadow_already_nerfs_related_to_new/p7m7log/
 - **I think instead of reworking the shadow, which would likely cause a rollback and need many readjustments to fine tune it, they just plan on releasing only items that will not work **
-  - comment · 1h ago · OSRSwizardry · score 25
+  - comment · 2h ago · OSRSwizardry · score 25
   - matched: rollback
   - re: Fix the Shadow already (nerfs related to new amule
   - https://www.reddit.com/r/2007scape/comments/1w6dmxa/fix_the_shadow_already_nerfs_related_to_new/p7m6e21/
 - **JAGEX dosent even know how they are gonna rework the shaddow and when they do it will have to be adjusted like 3 or 4 times atleast and probably cause at minimum one rollback. Bro **
-  - comment · 1h ago · OSRSwizardry · score 25
+  - comment · 2h ago · OSRSwizardry · score 25
   - matched: rollback
   - re: i feel if we knew what the shadow rework entailed 
   - https://www.reddit.com/r/2007scape/comments/1w6dfpv/i_feel_if_we_knew_what_the_shadow_rework_entailed/p7m5c1u/
 - **Ah yes, let us also add a tbow equivalent that drops from banshees and a 2 tick soul reaper axe from Harpie bug swarms. Cause ya know tbow and scythe have been meta too long.**
-  - comment · 1h ago · Resident_Summer6850 · score 25
+  - comment · 2h ago · Resident_Summer6850 · score 25
   - matched: bug, soul reaper axe
   - re: Update: Elemental amulets will be receiving a nerf
   - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7m1paw/
-- **Nice, QOL ! I just had to reset my swapped menus because it glitched so this is perfect Another thing, r/jagexsarnie , is that on mobile when I try to scroll through the fairy ring**
-  - comment · 12m ago · vgdomvg · score 24
-  - matched: glitched, not sure if this is
-  - re: Menu Entry Swapper Overhaul
-  - https://www.reddit.com/r/2007scape/comments/1w62v3k/menu_entry_swapper_overhaul/p7mm8gr/
-- **Nothing in the blog indicates that, instead they said the players interpreted it differently from what they intended. >In our initial Sweep Up blog, we said: "Each of these amulets**
-  - comment · 1h ago · Twodeegee · score 21
-  - matched: bugged, max hit
-  - re: (Blog Update) Elemental Amulet Discussion + Shark 
-  - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7lymrg/
-- **This wasn't supposed to be amulet to change that. It was supposed to be early game facilitator since mage gear lacked any progression early game until bonus damage gear in moons/ba**
-  - comment · 18h ago · jinjin5000 · score 26
-  - matched: not supposed to, wasn't supposed to
-  - re: The new amulets aren't 'busted'
-  - https://www.reddit.com/r/2007scape/comments/1w5pqvb/the_new_amulets_arent_busted/p7hhz8l/
 - **I reported this in detail many times. It's a stack overflow bug at least in my opinion. The error only occurs when you max out the chat box during one session, such as when trainin**
-  - comment · 17h ago · PhysicalSchedule7448 · score 25
+  - comment · 18h ago · PhysicalSchedule7448 · score 25
   - matched: bug, overflow
   - re: GAME UPDATE: Summer Sweep Up Miscellaneous
   - https://www.reddit.com/r/2007scape/comments/1w55q4m/game_update_summer_sweep_up_miscellaneous/p7hjmc7/
 - **Nox Hally Bug @ Sol?**
-  - r/2007scape · 21h ago · RSDrebin · score 25
+  - r/2007scape · 22h ago · RSDrebin · score 25
   - matched: bug, diagonal
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w5mps2/nox_hally_bug_sol/
 - **Fix mobile menu entry swap!?**
-  - r/2007scape · 4h ago · Adohpted · score 24
+  - r/2007scape · 5h ago · Adohpted · score 24
   - matched: bug, for some reason
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w68hmc/fix_mobile_menu_entry_swap/
 - **People really getting mental acrobatics over Bronzeman mode. Bronzeman is not supposed to be a prestige mode. Let bronzemen trade and abuse the GE however they want. The only thing**
-  - comment · 15h ago · Tuxxa · score 24
+  - comment · 16h ago · Tuxxa · score 24
   - matched: not supposed to, without needing
   - re: J1mmy's idea of 'Prestiging' a main account
   - https://www.reddit.com/r/2007scape/comments/1w5vkmd/j1mmys_idea_of_prestiging_a_main_account/p7ict9r/
+- **>You need to assume a whole lot of context to say your first comment was in any way accurate. Yeah no. You said it was well balanced, and it wasn't. It was an overpowered item comp**
+  - comment · 30m ago · mnmkdc · score 18
+  - matched: not supposed to, demonbane
+  - re: (Blog Update) Elemental Amulet Discussion + Shark 
+  - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7mvcfk/
+- **Nothing in the blog indicates that, instead they said the players interpreted it differently from what they intended. >In our initial Sweep Up blog, we said: "Each of these amulets**
+  - comment · 2h ago · Twodeegee · score 21
+  - matched: bugged, max hit
+  - re: (Blog Update) Elemental Amulet Discussion + Shark 
+  - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7lymrg/
+- **Design intentions. The elemental amulets are explicitly designed to be an early game boss. Their strength upon release is not intended and was quickly fixed for a reason. Salve Amm**
+  - comment · 5m ago · _GregTheGreat_ · score 13
+  - matched: not intended
+  - re: Protect occult at all cost
+  - https://www.reddit.com/r/2007scape/comments/1w6hbcd/protect_occult_at_all_cost/p7n19i7/
+- **No you're right. A new maple shortbow+ dropped by harpie bug swarms should be better than a blowpipe as long as Twisted is still BIS. We need to change up the ranged meta after all**
+  - comment · 13m ago · OyG5xOxGNK · score 13
+  - matched: bug
+  - re: Update: Elemental amulets will be receiving a nerf
+  - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7mzfaf/
+- **YES. It’s so strange how unequipped they are to predict how new content shapes out. There’s been a lot more content recently that feels like Jagex could have just waited 1-2 more w**
+  - comment · 23m ago · Super_Master_69 · score 13
+  - matched: bugs
+  - re: Jagex should not be getting consistently surprised
+  - https://www.reddit.com/r/2007scape/comments/1w6ana9/jagex_should_not_be_getting_consistently/p7mwvwn/
+- **Why not remove them entirely and then poll the amulets, like Guthix intended?**
+  - comment · 29m ago · Mago515 · score 13
+  - matched: intended?
+  - re: Update: Elemental amulets will be receiving a nerf
+  - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7mviwr/
 - **It got nerfed because its implementation was incorrect/a bug. And the newspost addresses that. Osmumten's fang got nerfed a week after release too because of how insanely busted it**
-  - comment · 13m ago · Crapitron · score 13
+  - comment · 1h ago · Crapitron · score 13
   - matched: bug
   - re: Who could have seen this coming
   - https://www.reddit.com/r/2007scape/comments/1w6cglm/who_could_have_seen_this_coming/p7mlw3y/
 - **It's listed in the known bugs on the blog post. It will likely be fixed soon, but for now I don't know if there's a workaround. https://secure.runescape.com/m=news/a=97/menu-entry-**
-  - comment · 43m ago · PlataBear · score 13
+  - comment · 1h ago · PlataBear · score 13
   - matched: bugs
   - re: MES update broke player attack option
   - https://www.reddit.com/r/2007scape/comments/1w6estm/mes_update_broke_player_attack_option/p7mezmr/
 - **Yeah this has always kinda bugged me and been a plus of the powered staves.**
-  - comment · 59m ago · jokwax · score 13
+  - comment · 1h ago · jokwax · score 13
   - matched: bugged
   - re: If we are going to talk about standard spellbook, 
   - https://www.reddit.com/r/2007scape/comments/1w6e0u5/if_we_are_going_to_talk_about_standard_spellbook/p7mb49u/
 - **The idea behind the crystal extractor came from observing players 2-tick salvaging during Sailing Beta. You were not supposed to be able to operate the crystal extractor while acti**
-  - comment · 1h ago · SuperCarpenter4450 · score 13
+  - comment · 2h ago · SuperCarpenter4450 · score 13
   - matched: not supposed to
   - re: Jagex should not be getting consistently surprised
   - https://www.reddit.com/r/2007scape/comments/1w6ana9/jagex_should_not_be_getting_consistently/p7m4qge/
 - **Ah yes, criticism hidden behind the humor tag. You arent subtle and the "nerf" is justified. They released something. It did somwrhing unintended. They are making it do what they i**
-  - comment · 1h ago · CommercialYam7188 · score 13
+  - comment · 2h ago · CommercialYam7188 · score 13
   - matched: unintended
   - re: Can we rebalance some so unbalanced and easily acc
   - https://www.reddit.com/r/2007scape/comments/1w6diq3/can_we_rebalance_some_so_unbalanced_and_easily/p7m4mig/
 - **I don't understand how everybody is glossing over this. They said it was meant for noobs looking for early upgrades. It ended up being way more competitive with late game gearing t**
-  - comment · 1h ago · imunchgarbage · score 13
+  - comment · 2h ago · imunchgarbage · score 13
   - matched: wasn't supposed to
   - re: OSRS nimby's Suck the fun out of the game
   - https://www.reddit.com/r/ironscape/comments/1w6bhkt/osrs_nimbys_suck_the_fun_out_of_the_game/p7m3qn8/
 - **This is a stupid comment. It's specifically an early-mid game item they added. It's not supposed to be bis for anything lmfao. Give your head a shake**
-  - comment · 1h ago · tekno21 · score 13
+  - comment · 2h ago · tekno21 · score 13
   - matched: not supposed to
   - re: OSRS nimby's Suck the fun out of the game
   - https://www.reddit.com/r/ironscape/comments/1w6bhkt/osrs_nimbys_suck_the_fun_out_of_the_game/p7m02od/
 - **I believe one of the jmods mentioned (in a podcast of course) the extractor issue came from the station slots being much more restricted early on. The Extractor could originally on**
-  - comment · 2h ago · Tykras · score 13
+  - comment · 3h ago · Tykras · score 13
   - matched: unintended
   - re: Jagex should not be getting consistently surprised
   - https://www.reddit.com/r/2007scape/comments/1w6ana9/jagex_should_not_be_getting_consistently/p7lsfkq/
 - **np, nether am i. jagex is generally pretty open about these things when they come up in interviews and such but theres rarely much impetus to talk about it so it's not like they're**
-  - comment · 2h ago · Kaydie · score 13
+  - comment · 3h ago · Kaydie · score 13
   - matched: bug
   - re: Recommendation for the JMods: Stop using Reddit as
   - https://www.reddit.com/r/2007scape/comments/1w6b8vv/recommendation_for_the_jmods_stop_using_reddit_as/p7lrqqv/
 - **>The words you quoted don’t say it takes 93 Slayer to equip an Occult necklace. … > equipped mine before 93 slayer Reading comprehension not really your thing, huh? >drop of an occ**
-  - comment · 2h ago · Zuby_Hype_Train · score 13
+  - comment · 3h ago · Zuby_Hype_Train · score 13
   - matched: glitch
   - re: The new amulets aren't 'busted'
   - https://www.reddit.com/r/2007scape/comments/1w5pqvb/the_new_amulets_arent_busted/p7loccr/
 - **I bought and equipped mine before 93 slayer, glitch?**
-  - comment · 2h ago · RedactedSpatula · score 13
+  - comment · 3h ago · RedactedSpatula · score 13
   - matched: glitch
   - re: The new amulets aren't 'busted'
   - https://www.reddit.com/r/2007scape/comments/1w5pqvb/the_new_amulets_arent_busted/p7lnneh/
 - **If this was a “bug”, then Jagex wouldn’t have logged into a single account or used a single elemental spell with the amulet equipped lol. It is a nerf after immediate backlash. **
-  - comment · 2h ago · HpsiEpsi · score 13
+  - comment · 3h ago · HpsiEpsi · score 13
   - matched: bug
   - re: Rune Scimmy Should be BIS Mage
   - https://www.reddit.com/r/2007scape/comments/1w6ar58/rune_scimmy_should_be_bis_mage/p7lm5it/
 - **Nobody thinks big updates shouldn't have bugs. But adding a very simple item that's obviously op then being shocked that it's op is just them being dumb. **
-  - comment · 2h ago · reinfleche · score 13
+  - comment · 3h ago · reinfleche · score 13
   - matched: bugs
   - re: Jagex should not be getting consistently surprised
   - https://www.reddit.com/r/2007scape/comments/1w6ana9/jagex_should_not_be_getting_consistently/p7lj7m8/
 - **When the amulets were first announced, they were explicitly described as adding +2 to elemental damage, intended for *early game* progression. It doesn’t take a lot of commons sens**
-  - comment · 2h ago · The_Real_MikeOxlong · score 13
+  - comment · 3h ago · The_Real_MikeOxlong · score 13
   - matched: bug
   - re: Rune Scimmy Should be BIS Mage
   - https://www.reddit.com/r/2007scape/comments/1w6ar58/rune_scimmy_should_be_bis_mage/p7liom0/
 - **Charged for renewing membership on 9/1**
-  - r/2007scape · 3h ago · Arya_the_God · score 13
+  - r/2007scape · 4h ago · Arya_the_God · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w6atg8/charged_for_renewing_membership_on_91/
 - **Corrupted Gauntlet Woodcutting Bug**
-  - r/2007scape · 3h ago · Top_Negotiation_3622 · score 13
+  - r/2007scape · 4h ago · Top_Negotiation_3622 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w69ye1/corrupted_gauntlet_woodcutting_bug/
 - **Yes but that was the point of the item. It wasn't supposed to be something for endgame, it was supposed to be something nice for early-mid game.**
-  - comment · 4h ago · Huskiterian · score 13
+  - comment · 5h ago · Huskiterian · score 13
   - matched: wasn't supposed to
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7kzx4l/
 - **Also was it really that controversial? There were definitely some balancing problems for a bit after release but it would be weirder if there wasn't. That along with OP saying most**
-  - comment · 4h ago · siccoblue · score 13
+  - comment · 5h ago · siccoblue · score 13
   - matched: bugs
   - re: Sailing kinda awesome?
   - https://www.reddit.com/r/2007scape/comments/1w5pud9/sailing_kinda_awesome/p7kwouo/
 - **Any update on fixing the bug where your pet just disappears after using a fairy ring?**
-  - comment · 4h ago · TheOriginalMeanhorn · +3 more in this thread on the same terms · score 13
+  - comment · 5h ago · TheOriginalMeanhorn · +3 more in this thread on the same terms · score 13
   - matched: bug
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7kwd8m/
 - **Because it probably has a very rare name, or it has some weird account quirk where it was rolled back improperly so it on tut island with something or some skill it shouldn't have**
-  - comment · 6h ago · Kamay1770 · score 13
+  - comment · 7h ago · Kamay1770 · score 13
   - matched: rolled back
   - re: Banning bought accounts
   - https://www.reddit.com/r/2007scape/comments/1w658f7/banning_bought_accounts/p7k7box/
 - **I might have the record for XP/hr**
-  - r/osrs · 6h ago · CaptainSkittles145 · score 13
+  - r/osrs · 7h ago · CaptainSkittles145 · score 13
   - matched: glitch
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w65ap8/i_might_have_the_record_for_xphr/
 - **What's the bug?**
-  - comment · 7h ago · SwagDrQueefChief · score 13
+  - comment · 8h ago · SwagDrQueefChief · score 13
   - matched: bug
   - re: Mes Runecraft bug warning
   - https://www.reddit.com/r/2007scape/comments/1w64r55/mes_runecraft_bug_warning/p7k2yte/
 - **Mes Runecraft bug warning**
-  - r/2007scape · 7h ago · ArrgsMax · score 13
+  - r/2007scape · 8h ago · ArrgsMax · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w64r55/mes_runecraft_bug_warning/
 - **wait, this means we can finally have proper "walk to" reordering on mobile?? that was a bug for the longest time**
-  - comment · 8h ago · loopuleasa · +4 more in this thread on the same terms · score 13
+  - comment · 9h ago · loopuleasa · +4 more in this thread on the same terms · score 13
   - matched: bug
   - re: Menu Entry Swapper Overhaul
   - https://www.reddit.com/r/2007scape/comments/1w62v3k/menu_entry_swapper_overhaul/p7ju1rc/
 - **Remember the lion king bug popsicles, those slapped. **
-  - comment · 8h ago · Dusty_Book_69 · score 13
+  - comment · 9h ago · Dusty_Book_69 · score 13
   - matched: bug
   - re: The elemental gems have to be some of the tastiest
   - https://www.reddit.com/r/2007scape/comments/1w601je/the_elemental_gems_have_to_be_some_of_the/p7jt7th/
 - **I did, the entire problem seems to be elemental weaknesses being boosted by the new amulets beating shadow out at bosses that have elemental weaknesses that can be exploited. Thus **
-  - comment · 8h ago · casuallybadatgames · score 13
+  - comment · 9h ago · casuallybadatgames · score 13
   - matched: exploited
   - re: The *real* problem with the new magic amulets
   - https://www.reddit.com/r/2007scape/comments/1w62o73/the_real_problem_with_the_new_magic_amulets/p7jp923/
 - **Unless you are a level 3 account aiming for highscores, I dont think a majority of players care. Dont take this as me glazing Rendi, but some of the stuff Rendi does, no other play**
-  - comment · 9h ago · XionicAihara · score 13
+  - comment · 10h ago · XionicAihara · score 13
   - matched: bug
   - re: hot take: make the priest in peril/fremennik trial
   - https://www.reddit.com/r/2007scape/comments/1w627xb/hot_take_make_the_priest_in_perilfremennik_trials/p7jkx3k/
 - **I simply pointed out that even at maggot king which is probably the highest level content impacted by this, the effect is not the "game breaking unbalanced bullshit" that the last **
-  - comment · 9h ago · barcode-lz · score 13
+  - comment · 10h ago · barcode-lz · score 13
   - matched: game breaking
   - re: Amulet of Fire gives +5 max hit over Occult at Mag
   - https://www.reddit.com/r/2007scape/comments/1w61z5c/amulet_of_fire_gives_5_max_hit_over_occult_at/p7jk8eg/
 - **I also don't think it's game breaking. I guess I just have a more conservative view on what I like to see added to the game. And I feel like people get unnecessarily aggro when you**
-  - comment · 13h ago · mudley3 · score 13
+  - comment · 14h ago · mudley3 · score 13
   - matched: game breaking
   - re: Discourse surrounding the mage amulets is exactly 
   - https://www.reddit.com/r/2007scape/comments/1w5wlb8/discourse_surrounding_the_mage_amulets_is_exactly/p7ioo0i/
 - **i didn't. you missed MY first comment. I explicitly said that the value of clues in the deep wilderness is based on the implied risk of going there to get them done. you can scroll**
-  - comment · 13h ago · SuchDriver7770 · score 13
+  - comment · 14h ago · SuchDriver7770 · score 13
   - matched: not intended
   - re: Mod Ayiza asks a good question to pkers
   - https://www.reddit.com/r/2007scape/comments/1w4qpng/mod_ayiza_asks_a_good_question_to_pkers/p7ineqj/
 - **I remember someone mentioning a bug with claiming rewards with a full inventory **
-  - comment · 16h ago · ExcessiveAxe · score 13
+  - comment · 17h ago · ExcessiveAxe · score 13
   - matched: bug
   - re: I'm so confused... Is there a bug with vampyre kra
   - https://www.reddit.com/r/2007scape/comments/1w5t3pd/im_so_confused_is_there_a_bug_with_vampyre_krakens/p7hwvmj/
 - **Planting does. It’s just on harvest/ dig up dead plant to avoid exploits because you can dig up the plant to change what is in the patch without waiting now. Raking also does.**
-  - comment · 17h ago · maverick935 · score 13
+  - comment · 18h ago · maverick935 · score 13
   - matched: exploits
   - re: Are there any actions in the game that don’t give 
   - https://www.reddit.com/r/2007scape/comments/1w5sr4o/are_there_any_actions_in_the_game_that_dont_give/p7hpsmv/
 - **I'm so confused... Is there a bug with vampyre krakens?**
-  - r/2007scape · 17h ago · RespondMountain458 · score 13
+  - r/2007scape · 18h ago · RespondMountain458 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w5t3pd/im_so_confused_is_there_a_bug_with_vampyre_krakens/
@@ -347,47 +377,47 @@
   - re: Process of Coral Vs Herbs
   - https://www.reddit.com/r/ironscape/comments/1w5eamx/process_of_coral_vs_herbs/p7hioej/
 - **It happens a lot, and so does the gim storage bug. They are both more common than they should be**
-  - comment · 18h ago · MasterArCtiK · score 13
+  - comment · 19h ago · MasterArCtiK · score 13
   - matched: bug
   - re: How common is missing items from GIM group bank?
   - https://www.reddit.com/r/2007scape/comments/1w5q9sx/how_common_is_missing_items_from_gim_group_bank/p7hhozl/
 - **Im so glad to hear im not the only one with this bug. It seems like its been broken for the 2 or 3 updates now? **
-  - comment · 18h ago · yellahammer · score 13
+  - comment · 19h ago · yellahammer · score 13
   - matched: bug
   - re: GAME UPDATE: Summer Sweep Up Miscellaneous
   - https://www.reddit.com/r/2007scape/comments/1w55q4m/game_update_summer_sweep_up_miscellaneous/p7hedog/
 - **About every new item requires (and sometimes gets) balancing today but this is a long awaited update. Excluding jamflex oversights/bugs it's not breaking any fundamentals. Relevant**
-  - comment · 18h ago · Helsinking · score 13
+  - comment · 19h ago · Helsinking · score 13
   - matched: bugs
   - re: [Game Update] Summer Sweep Up Miscellaneous
   - https://www.reddit.com/r/ironscape/comments/1w563lx/game_update_summer_sweep_up_miscellaneous/p7habyh/
 - **the cynic in me would also think this at first but it's such a widespread problem that i now automatically assume the system bugged**
-  - comment · 18h ago · Otherwise_Economics2 · score 13
+  - comment · 19h ago · Otherwise_Economics2 · score 13
   - matched: bugged
   - re: How common is missing items from GIM group bank?
   - https://www.reddit.com/r/2007scape/comments/1w5q9sx/how_common_is_missing_items_from_gim_group_bank/p7h9qfi/
 - **Once each year you go to log on, only you have none of your gear, just a set of bronze armor and your also in falador. Your confused as hell because you didn't read that one post a**
-  - comment · 18h ago · pichael289 · score 13
+  - comment · 19h ago · pichael289 · score 13
   - matched: rolled back
   - re: Runescape If Durial321 Didn't Murder Those People
   - https://www.reddit.com/r/2007scape/comments/1w5nem0/runescape_if_durial321_didnt_murder_those_people/p7h96c6/
 - **I'm convinced some of the rates are bugged. I went 203 at killerwats and 196 at infernal mages. Buddy in my clan is 360 killerwats no drop **
-  - comment · 19h ago · thestonkinator · score 13
+  - comment · 20h ago · thestonkinator · score 13
   - matched: bugged
   - re: [Game Update] Summer Sweep Up Miscellaneous
   - https://www.reddit.com/r/ironscape/comments/1w563lx/game_update_summer_sweep_up_miscellaneous/p7h7ddj/
 - **occult still *isn't* bad, it still does more damage when you can't exploit elemental weakness. my point is that occult is part of OSRS' hollow midgame for irons. mains can purchase**
-  - comment · 19h ago · Stunning_Comb_5707 · score 13
+  - comment · 20h ago · Stunning_Comb_5707 · score 13
   - matched: exploit
   - re: New Amulet is Busted
   - https://www.reddit.com/r/ironscape/comments/1w5jk2b/new_amulet_is_busted/p7h6npo/
 - **meanwhile the pillar HP bars are still bugged, how about instead of banning things that make the game better we fix the actual game **
-  - comment · 19h ago · lifeisbeach69 · score 13
+  - comment · 20h ago · lifeisbeach69 · score 13
   - matched: bugged
   - re: Object Marker Radius Overlay Plugin Disabled
   - https://www.reddit.com/r/2007scape/comments/1w0vlir/object_marker_radius_overlay_plugin_disabled/p7h45u2/
 - **Bugged or am i really unlucky ?**
-  - r/osrs · 19h ago · LambordziniGigardo · score 13
+  - r/osrs · 20h ago · LambordziniGigardo · score 13
   - matched: bugged
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w5q5p7/bugged_or_am_i_really_unlucky/
@@ -397,32 +427,32 @@
   - re: Loot from 169,738 elves
   - https://www.reddit.com/r/2007scape/comments/1w5ohzk/loot_from_169738_elves/p7gx5yk/
 - **How does that even work lol, I’m guessing it’s a bug it’s applying before calculations **
-  - comment · 20h ago · Unplayed_untamed · score 13
+  - comment · 21h ago · Unplayed_untamed · score 13
   - matched: bug
   - re: Love the new magic amulets
   - https://www.reddit.com/r/2007scape/comments/1w5m5d1/love_the_new_magic_amulets/p7gsudp/
 - **Freeze timer**
-  - r/osrs · 20h ago · Euphoric-Ice6927 · score 13
+  - r/osrs · 21h ago · Euphoric-Ice6927 · score 13
   - matched: bugged
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w5ohqc/freeze_timer/
 - **That sounds cool and all but pigeon hole content sucks when Jagex are the ones that design it rather than it be something emergent. E.g. Tob vs ToA. Jagex tried to be fancy with To**
-  - comment · 21h ago · rabidai · score 13
+  - comment · 22h ago · rabidai · score 13
   - matched: unintended
   - re: The new elemental amulet adds +3 maxes over occult
   - https://www.reddit.com/r/2007scape/comments/1w5gnux/the_new_elemental_amulet_adds_3_maxes_over_occult/p7ginzo/
 - **They were 100% not intended to be this and arent going to be polled like this if they are polled**
-  - comment · 21h ago · Combat_Orca · score 13
+  - comment · 22h ago · Combat_Orca · score 13
   - matched: not intended
   - re: CMV: Elemental amulets should be polled on princip
   - https://www.reddit.com/r/2007scape/comments/1w5lg7j/cmv_elemental_amulets_should_be_polled_on/p7gazie/
 - **That's what you also said in the post and proved you can't do the math. But I guess the game must be bugged.**
-  - comment · 21h ago · Erksike · score 13
+  - comment · 22h ago · Erksike · score 13
   - matched: bugged
   - re: Risk value inaccurate
   - https://www.reddit.com/r/2007scape/comments/1w5mad7/risk_value_inaccurate/p7g8mr6/
 - **probably to be able to bug test immediately if necessary**
-  - comment · 21h ago · DkKoba · score 13
+  - comment · 22h ago · DkKoba · score 13
   - matched: bug
   - re: Just a casual bot farm
   - https://www.reddit.com/r/2007scape/comments/1w5mdag/just_a_casual_bot_farm/p7g8ksa/
@@ -432,17 +462,17 @@
   - re: How to fix the new amulet
   - https://www.reddit.com/r/2007scape/comments/1w5m6sn/how_to_fix_the_new_amulet/p7g7wny/
 - **At this point I fully believe you've been staring at a black screen and the computer isn't even on**
-  - comment · 22h ago · West_Database9221 · score 13
+  - comment · 23h ago · West_Database9221 · score 13
   - matched: black screen
   - re: How do I make a new character
   - https://www.reddit.com/r/2007scape/comments/1w5imvd/how_do_i_make_a_new_character/p7g2xwi/
 - **Anyone else still having sound bug of hearing them take damage? **
-  - comment · 22h ago · Toxickhaos · score 13
+  - comment · 23h ago · Toxickhaos · score 13
   - matched: bug
   - re: GAME UPDATE: Summer Sweep Up Miscellaneous
   - https://www.reddit.com/r/2007scape/comments/1w55q4m/game_update_summer_sweep_up_miscellaneous/p7fzy6m/
 - **Sound Bug Still in Game**
-  - r/2007scape · 22h ago · Rabidwooz · score 13
+  - r/2007scape · 23h ago · Rabidwooz · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w5leob/sound_bug_still_in_game/
@@ -451,526 +481,511 @@
   - matched: bug
   - re: Poll for New Amulets?
   - https://www.reddit.com/r/2007scape/comments/1w5hr5k/poll_for_new_amulets/p7fttfo/
-- **And that’s only the 4th best money maker because it’s still relatively new to the game and people are soft locked out of killing the boss because they’re incapable of doing the que**
-  - comment · 23h ago · rimwald · score 13
-  - matched: soft locked
-  - re: I am hyped for any and all power creep polled or u
-  - https://www.reddit.com/r/2007scape/comments/1w5i9cl/i_am_hyped_for_any_and_all_power_creep_polled_or/p7fmx2g/
-- **A game breaking elemental amulet that raises your end game elemental damage by .4dps oh golly ghee watch out **
-  - comment · 23h ago · kenwhopper · score 13
-  - matched: game breaking
-  - re: Where do we go from here? (Power Creep)
-  - https://www.reddit.com/r/2007scape/comments/1w5j69b/where_do_we_go_from_here_power_creep/p7fi1qm/
-- **Second the issue FreePreview has raised yesterday, Araxxor still seems to be bugged - just went to do my Araxite task and mirroback seems to be reflecting damage twice. https://pre**
-  - comment · 23h ago · sosolid2k · score 13
-  - matched: bugs
-  - re: Araxxor Mirrorback reflects 50% of damage to playe
-  - https://www.reddit.com/r/2007scape/comments/1vyub6x/araxxor_mirrorback_reflects_50_of_damage_to_player/p7fh2pd/
 
-## Jagex & J-Mod  (7)
+## Jagex & J-Mod  (6)
 
 - **(Blog Update) Elemental Amulet Discussion + Shark Lure Clarifications - Game Update**
-  - r/2007scape · 4h ago · JagexGoblin · score 40
+  - r/2007scape · 5h ago · JagexGoblin · score 40
   - matched: J-Mod, game update
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/
 - **📰 Menu Entry Swapper Overhaul - Live Now!**
-  - news · 8h ago · Shayani · score 34
+  - news · 9h ago · Shayani · score 34
   - matched: newspost
   - Created page with "{{Update|date=03 September 2026|url=https
   - https://oldschool.runescape.wiki/w/Update%3AMenu_Entry_Swapper_Overhaul_-_Live_Now!
 - **🟣 16 J-Mod replies — (Blog Update) Elemental Amulet Discussion + Shark Lure Clarifications - Game Update**
-  - comment · 4h ago · JagexGoblin · score 30
+  - comment · 5h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 16, JagexGoblin: TFA does have Elemental Fragments coming which add +2 to elemental spe
   - https://www.reddit.com/comments/1w689k3
 - **🟣 50 J-Mod replies — Menu Entry Swapper Overhaul**
-  - comment · 7h ago · JagexSarnie · score 30
+  - comment · 8h ago · JagexSarnie · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 50, JagexSarnie: Something we've raised with the team. Cheers for flagging!
   - https://www.reddit.com/comments/1w62v3k
 - **Yes, it wouldn't be game breaking, but that is the reason Mod Ash gave when it was released as part of the clue scroll expansion of 2019. Iirc the gilded spade was never mentioned **
-  - comment · 5h ago · Person_of_Earth · score 28
+  - comment · 6h ago · Person_of_Earth · score 28
   - matched: game breaking, mod ash
   - re: Gilded Spade
   - https://www.reddit.com/r/2007scape/comments/1w648xq/gilded_spade/p7kfo12/
 - **hot take: make the priest in peril/fremennik trials xp rewards optional lamps or force Rendi and other bug abusers to take the combat xp rewards**
-  - r/2007scape · 9h ago · SensitiveAd7243 · score 28
+  - r/2007scape · 10h ago · SensitiveAd7243 · score 28
   - matched: bug, integrity
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w627xb/hot_take_make_the_priest_in_perilfremennik_trials/
-- **Connection issues post game update 9/2?**
-  - r/2007scape · 23h ago · Natural-Coach-4154 · score 15
-  - matched: anyone else having, runelite, forfeit, game update
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w5kgp5/connection_issues_post_game_update_92/
 
 ## "You can do this" finds  (16)
 
 - **Top left to bottom right: Ancient Godsword. It's special attack does a fat damage hit, and heals you for 25 a few moments later. Super Combat Potion. Boosts Attack, Strength, and D**
-  - comment · 7h ago · Ingavar_Oakheart · score 50
+  - comment · 8h ago · Ingavar_Oakheart · score 50
   - matched: ⚡ food per inventory slot, combo eat, herb sack, seed box
   - re: The Magical Conch item proposal
   - https://www.reddit.com/r/2007scape/comments/1w5vwai/the_magical_conch_item_proposal/p7jw54x/
 - **Are you dense? Because the standard spellbook was *especially* useless for near a decade. It’s only been given love the last couple years. And even then, it’s still *mostly* useles**
-  - comment · 40m ago · VanRenss · score 38
+  - comment · 1h ago · VanRenss · score 38
   - matched: ⚡ food per inventory slot, bones to bananas
   - re: All this love for elemental magic, where's the anc
   - https://www.reddit.com/r/2007scape/comments/1w6e377/all_this_love_for_elemental_magic_wheres_the/p7mfna5/
 - **I would argue that the diversity of spellbooks and magic should be more interesting than just using a specific elemental damage. I would rather elemental spells have more variety t**
-  - comment · 13h ago · Outrageous_Kiwi942 · score 43
+  - comment · 14h ago · Outrageous_Kiwi942 · score 43
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Elemental amulets are not the problem. You are
   - https://www.reddit.com/r/2007scape/comments/1w5vok7/elemental_amulets_are_not_the_problem_you_are/p7io7xa/
 - **If we're going all the way to end-game, how is it brute forcing when you're expected to be higher leveled? It makes no sense really. > and yeah it does matter if 2 hits or 20, you **
-  - comment · 7h ago · Oniichanplsstop · score 38
+  - comment · 8h ago · Oniichanplsstop · score 38
   - matched: ⚡ food per inventory slot, infinite prayer
   - re: This meme was made while at Crab
   - https://www.reddit.com/r/2007scape/comments/1w6038j/this_meme_was_made_while_at_crab/p7jwfk3/
 - **PSA: Make sure you understand what the superiors can do compared to the normal monster. I learned an important lesson safespot semi-afking Basilisk Knights recently....**
-  - comment · 4h ago · VegetableGrape4857 · score 31
+  - comment · 5h ago · VegetableGrape4857 · score 31
   - matched: psa:, safespot
   - re: PSA: Unlock Superiors as early as possible
   - https://www.reddit.com/r/ironscape/comments/1w5ni86/psa_unlock_superiors_as_early_as_possible/p7krczd/
 - **The fact that you already have a Belle's Folly proves that you are way above the intended level of these monsters. Have you tried killing them at their intended levels? Killerwatts**
-  - comment · 8h ago · YHJMutlu · score 26
+  - comment · 9h ago · YHJMutlu · score 26
   - matched: ⚡ food per inventory slot
   - re: Elemental amulet gems are too common
   - https://www.reddit.com/r/2007scape/comments/1w61zhv/elemental_amulet_gems_are_too_common/p7jnv2h/
 - **Personally I don't like their appearance, but I'll be damned if I don't appreciate stuff like this being added, polled or not. Ancient magicks hit like an absolute dump truck, free**
-  - comment · 19h ago · IT_Unknown · score 26
+  - comment · 20h ago · IT_Unknown · score 26
   - matched: ⚡ food per inventory slot
   - re: Poll the amulets
   - https://www.reddit.com/r/2007scape/comments/1w5ow95/poll_the_amulets/p7gzrvx/
 - **Yeah CG has paid for my construction levels and POH upgrades plus runes and shit so its not all bad. I havent had too many crazy spoons. I'm dry on Zenytes, Synapses, went giga dry**
-  - comment · 7h ago · xifdp · score 24
+  - comment · 8h ago · xifdp · score 24
   - matched: bottomless, bottomless bucket
   - re: I don’t ever want to leave this place
   - https://www.reddit.com/r/ironscape/comments/1w4sd64/i_dont_ever_want_to_leave_this_place/p7k2hil/
 - **yama is absolutely too easy and low requirement for the tier of gear it drops, which is end-game bis. Doom is also as close as it reasonably can be to no requirement, with drops av**
-  - comment · 22h ago · Spencejliv · score 22
+  - comment · 23h ago · Spencejliv · score 22
   - matched: for some reason, no requirement
   - re: Where do we go from here? (Power Creep)
   - https://www.reddit.com/r/2007scape/comments/1w5j69b/where_do_we_go_from_here_power_creep/p7g3rhw/
 - **The damage boost from the amulet is similar to the DPS boost from thralls (against ele weak bosses obviously). That's not really a downside, that's an upside. You get thrall damage**
-  - comment · 19m ago · StinkButt9001 · score 16
+  - comment · 1h ago · StinkButt9001 · score 16
   - matched: without needing, thralls
   - re: Rise up, dont let the new ammy get nerfed, we want
   - https://www.reddit.com/r/ironscape/comments/1w6bb8d/rise_up_dont_let_the_new_ammy_get_nerfed_we_want/p7mknjs/
 - **Yeah lol, OP is right for the wrong reasons. It's bad for the game that you can skip the normal warped sceptre -> trident -> swamp trident progression and just get demonbane and fa**
-  - comment · 48m ago · BlackenedGem · score 16
+  - comment · 1h ago · BlackenedGem · score 16
   - matched: you can skip, demonbane
   - re: Ayak needs to be nerfed
   - https://www.reddit.com/r/2007scape/comments/1w6a7jt/ayak_needs_to_be_nerfed/p7mdqb0/
 - **Completed BMR a couple of days ago; the fight took me like 7-8 attempts, guideless. Honestly, just pattern recognition of his attacks and getting comfortable reacting is 90% of the**
-  - comment · 4h ago · 00mattt · score 17
+  - comment · 5h ago · 00mattt · score 17
   - matched: inventory slot, per inventory slot
   - re: Seriously struggling with Drakan
   - https://www.reddit.com/r/2007scape/comments/1w65um8/seriously_struggling_with_drakan/p7l3dht/
 - **PSA: When Trawaling, If You DC or Log Out, And Have More Fish Than Cargo Space (CRATES DONT COUNT) The Fish is Deleted**
-  - r/ironscape · 5h ago · boforbojack · score 16
+  - r/ironscape · 6h ago · boforbojack · score 16
   - matched: psa:, cargo
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w67gd0/psa_when_trawaling_if_you_dc_or_log_out_and_have/
 - **I feel like I'm on crazy pills out here because no one talks about thralls but I haaaaate them. Good to see it's not just me. **
-  - comment · 7h ago · Call_me_Tomcat · score 16
+  - comment · 8h ago · Call_me_Tomcat · score 16
   - matched: no one talks about, thralls
   - re: The new elemental amulet adds +3 maxes over occult
   - https://www.reddit.com/r/2007scape/comments/1w5gnux/the_new_elemental_amulet_adds_3_maxes_over_occult/p7k37cr/
 - **Well first of all, stop attacking yourself irl or you'll keep nerfng yourself in game. You CAN do the fight as you build up the muscle memory, and you have infinite supplies to pra**
-  - comment · 6h ago · Headwrapper · score 15
+  - comment · 7h ago · Headwrapper · score 15
   - matched: ⚡ food per inventory slot, runelite, metronome
   - re: Seriously struggling with Drakan
   - https://www.reddit.com/r/2007scape/comments/1w65um8/seriously_struggling_with_drakan/p7kctgr/
 - **Your post is correct, but I wanted to give a shoutout to the camulet for being a much closer tele to the pyramid than what you described doing. You can either get unlimited charges**
-  - comment · 4h ago · SEND_ME_UR_SLEEPERS · score 12
+  - comment · 5h ago · SEND_ME_UR_SLEEPERS · score 12
   - matched: unlimited charges
   - re: PSA Switching spellbook
   - https://www.reddit.com/r/ironscape/comments/1w60ayi/psa_switching_spellbook/p7kzkkn/
 
-## Mechanics & wiki corrections  (76)
+## Mechanics & wiki corrections  (77)
 
 - **>I personally have a different stance to you. Id say about 90% of pvm content are already catered to you guys, not sure why you want to change the remaining 10%. The only part I wa**
-  - comment · 2h ago · Tyoccial · score 34
+  - comment · 3h ago · Tyoccial · score 34
   - matched: on rs3, anchor scroll
   - re: Having PVP content in the game is better than havi
   - https://www.reddit.com/r/2007scape/comments/1w555ov/having_pvp_content_in_the_game_is_better_than/p7lqakv/
-- **I'm happy planning for exceptions to avoid Rendi junk, just wanna think about where. 10-20 minute quest fights? All for it. Hours of tick eating and interface stalling? Not my cup **
-  - comment · 1h ago · RyderJ · score 26
-  - matched: tick eating, stalling
-  - re: Have a question about the game or the subreddit? A
-  - https://www.reddit.com/r/2007scape/comments/1w5yw7x/have_a_question_about_the_game_or_the_subreddit/p7lxplf/
-- **Elemental can only be meta when a boss has the weakness. thralls max hit 3 attacked every 4 seconds. even if Fire surge has +4 it still less max dps with a harm orb than lvl 99 hea**
-  - comment · 1h ago · Scared_Signature1337 · score 25
-  - matched: max hit, max hit of, thralls
-  - re: OSRS Nimby's are taking the fun out of the game!
-  - https://www.reddit.com/r/2007scape/comments/1w6blsz/osrs_nimbys_are_taking_the_fun_out_of_the_game/p7m54un/
 - **No its the fact that there’s a reward like the lucky penny from masters 1 under the req that is do all combat tasks that is basically never used because it’s so inconvenient to use**
-  - comment · 17h ago · Stase1 · score 28
+  - comment · 18h ago · Stase1 · score 28
   - matched: tick eating, prayer flick, tick eat
   - re: Jagex catering to bad players
   - https://www.reddit.com/r/2007scape/comments/1w5ri1m/jagex_catering_to_bad_players/p7hoolu/
 - **It's pretty contradictory at first glance, but yeah! Just gave a bit more explanation in [this comment above us,](https://www.reddit.com/r/2007scape/comments/1w5m6sn/comment/p7g9zk**
-  - comment · 21h ago · Assaltwaffle · score 28
+  - comment · 22h ago · Assaltwaffle · score 28
   - matched: breakpoint, max hit, max hit of
   - re: How to fix the new amulet
   - https://www.reddit.com/r/2007scape/comments/1w5m6sn/how_to_fix_the_new_amulet/p7gc1ii/
-- **Thralls are a symptom of a problem, not the problem themselves. Powered Staves are the real source of the problem, and always have been. If Powered Staves did not exist, then Thral**
-  - comment · 1h ago · TheForsakenRoe · score 22
-  - matched: thralls, demonbane
-  - re: Don't stop with just the amulets, it's time to loo
-  - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7m5943/
+- **I'm happy planning for exceptions to avoid Rendi junk, just wanna think about where. 10-20 minute quest fights? All for it. Hours of tick eating and interface stalling? Not my cup **
+  - comment · 2h ago · RyderJ · score 26
+  - matched: tick eating, stalling
+  - re: Have a question about the game or the subreddit? A
+  - https://www.reddit.com/r/2007scape/comments/1w5yw7x/have_a_question_about_the_game_or_the_subreddit/p7lxplf/
+- **Shadow is the worst megarare cause it's a gear multiplier, you can use a tbow in rags and it's still really good, you can use scythe in bandos/moons gear and it's pretty decent, bu**
+  - comment · 16m ago · thpocs · score 20
+  - matched: max hit, max hit of
+  - re: Who could have seen this coming
+  - https://www.reddit.com/r/2007scape/comments/1w6cglm/who_could_have_seen_this_coming/p7myj1a/
 - **Alright you got me, better delete spiked manacles and ranger boots. Can’t have dragon boot levels of strength bonus from medium clues… Quit comparing weapons to non weapons. Zerk r**
-  - comment · 13m ago · 4percent4 · score 20
+  - comment · 1h ago · 4percent4 · score 20
   - matched: safespot
   - re: Update: Elemental amulets will be receiving a nerf
   - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7mm38u/
 - **Zerk ring comes from a boss you can safe spot for hours at a time. Then we buffed it. Then eventually we made a better ring. Ranger boots BIS until you upgrade them. Strength amule**
-  - comment · 24m ago · 4percent4 · score 20
+  - comment · 1h ago · 4percent4 · score 20
   - matched: safe spot
   - re: Update: Elemental amulets will be receiving a nerf
   - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7mjg13/
 - **Take a day off to rest and come back fresh. Then have another look at the wiki and try the ranged safespot method. Make sure you have stake and garlic. You got this, beast.**
-  - comment · 50m ago · aosredrum123 · score 20
+  - comment · 1h ago · aosredrum123 · score 20
   - matched: safespot
   - re: Seriously struggling with Drakan
   - https://www.reddit.com/r/2007scape/comments/1w65um8/seriously_struggling_with_drakan/p7md68b/
 - **It hits people 69 times if their name is VeritasOmicron. It rolls defense every time and has a max hit of 420 for each hit splat.**
-  - comment · 55m ago · NerdyTimes_IDK · score 20
+  - comment · 1h ago · NerdyTimes_IDK · score 20
   - matched: max hit, max hit of
   - re: NERF DARKBOW
   - https://www.reddit.com/r/2007scape/comments/1w6dr5h/nerf_darkbow/p7mc2vo/
-- **Personally don't mind the new amulets, maybe a bit strong and I agree with the nerfs. So here's my counterpoint - I think it is a bit disingenuous to compare it to a strength amule**
-  - comment · 1h ago · fuduckles · score 20
-  - matched: max hit, max hit of
-  - re: Elemental amulets are not the problem. You are
-  - https://www.reddit.com/r/2007scape/comments/1w5vok7/elemental_amulets_are_not_the_problem_you_are/p7m4riw/
-- **I am definitely not saying that. But do we want to live in a world where a new player can see "This is wind strike, it does max 2 damage. If attack a ghost, it can do a max of 3 da**
-  - comment · 1h ago · Hasire · score 20
-  - matched: max hit, max hit of
-  - re: The elemental necklace nerf is good for the game.
-  - https://www.reddit.com/r/2007scape/comments/1w6annf/the_elemental_necklace_nerf_is_good_for_the_game/p7m3pd6/
-- **That's a good shout and my bad on the calc, so a +4 increase to the base max hit of Surge Spells against a monster with 100% weakness would only result in a +9.64 increase to max h**
-  - comment · 1h ago · Rich-Badger-7601 · score 20
-  - matched: max hit, max hit of
-  - re: Update: Elemental amulets will be receiving a nerf
-  - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7m2z0v/
+- **Elemental can only be meta when a boss has the weakness. thralls max hit 3 attacked every 4 seconds. even if Fire surge has +4 it still less max dps with a harm orb than lvl 99 hea**
+  - comment · 2h ago · Scared_Signature1337 · score 25
+  - matched: max hit, max hit of, thralls
+  - re: OSRS Nimby's are taking the fun out of the game!
+  - https://www.reddit.com/r/2007scape/comments/1w6blsz/osrs_nimbys_are_taking_the_fun_out_of_the_game/p7m54un/
 - **Are you rushing 99 for maxing? If you are, Pyramid Plunder is great xp/fun/good for getting two scepters (one builds spellbook swap altar in poh, the other for teles from bank) If **
-  - comment · 14h ago · RazkaTaz · score 24
+  - comment · 15h ago · RazkaTaz · score 24
   - matched: spellbook swap, pyramid plunder
   - re: What's an underrated thieving method that mains ov
   - https://www.reddit.com/r/ironscape/comments/1w5v4rr/whats_an_underrated_thieving_method_that_mains/p7illlg/
 - **It's to prevent hiding letveks during baiting If you use your last letvek while baiting, you always use 1 not 3, this would let you smuggle them. It can't change until they add the**
-  - comment · 16h ago · Cyberslasher · score 24
+  - comment · 17h ago · Cyberslasher · score 24
   - matched: smuggle, tackle box
   - re: GAME UPDATE: Summer Sweep Up Miscellaneous
   - https://www.reddit.com/r/2007scape/comments/1w55q4m/game_update_summer_sweep_up_miscellaneous/p7hya0h/
 - **What OP is showing is literally this, but worse, is my point. The only difference between the two is that OP is waiting for a timing to click, but that is unneeded and shouldn't be**
-  - comment · 20h ago · noobtablet9 · score 24
+  - comment · 21h ago · noobtablet9 · score 24
   - matched: same tick, both players won
   - re: Imprecise, Simple method to never take damage in P
   - https://www.reddit.com/r/2007scape/comments/1w5b4nq/imprecise_simple_method_to_never_take_damage_in/p7gts3d/
 - **could do with another slayer boss in the 70s, yeah. annoying that most of the bosses are stacked in the late 80s - 90s for some reason**
-  - comment · 12h ago · rdthraw2 · score 23
+  - comment · 13h ago · rdthraw2 · score 23
   - matched: for some reason, stacked
   - re: Elemental amulets are not the problem. You are
   - https://www.reddit.com/r/2007scape/comments/1w5vok7/elemental_amulets_are_not_the_problem_you_are/p7izwso/
+- **Spellbook swap stalling kephri dung is why I will continue to use the objectively worse strategy in toa forever People's brains break**
+  - comment · 9m ago · Cyberslasher · score 18
+  - matched: stalling, spellbook swap
+  - re: Don't stop with just the amulets, it's time to loo
+  - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7n0882/
+- **Thralls are a symptom of a problem, not the problem themselves. Powered Staves are the real source of the problem, and always have been. If Powered Staves did not exist, then Thral**
+  - comment · 2h ago · TheForsakenRoe · score 22
+  - matched: thralls, demonbane
+  - re: Don't stop with just the amulets, it's time to loo
+  - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7m5943/
+- **Personally don't mind the new amulets, maybe a bit strong and I agree with the nerfs. So here's my counterpoint - I think it is a bit disingenuous to compare it to a strength amule**
+  - comment · 2h ago · fuduckles · score 20
+  - matched: max hit, max hit of
+  - re: Elemental amulets are not the problem. You are
+  - https://www.reddit.com/r/2007scape/comments/1w5vok7/elemental_amulets_are_not_the_problem_you_are/p7m4riw/
+- **I am definitely not saying that. But do we want to live in a world where a new player can see "This is wind strike, it does max 2 damage. If attack a ghost, it can do a max of 3 da**
+  - comment · 2h ago · Hasire · score 20
+  - matched: max hit, max hit of
+  - re: The elemental necklace nerf is good for the game.
+  - https://www.reddit.com/r/2007scape/comments/1w6annf/the_elemental_necklace_nerf_is_good_for_the_game/p7m3pd6/
+- **That's a good shout and my bad on the calc, so a +4 increase to the base max hit of Surge Spells against a monster with 100% weakness would only result in a +9.64 increase to max h**
+  - comment · 2h ago · Rich-Badger-7601 · score 20
+  - matched: max hit, max hit of
+  - re: Update: Elemental amulets will be receiving a nerf
+  - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7m2z0v/
 - **Raids 4 was worded the same as the amulets, so since the amulets were pre-calc, we can assume the raids4 would be pre-calc. >The Elemental Amulet provides +2 to the max hit of all **
-  - comment · 2h ago · Oniichanplsstop · +2 more in this thread on the same terms · score 20
+  - comment · 3h ago · Oniichanplsstop · +2 more in this thread on the same terms · score 20
   - matched: max hit, max hit of
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7lt6i3/
 - **This reads like someone who found out you can safespot with ranged and magic in early game and then figured that melee was the lesser of the three categories. Tons of bosses are de**
-  - comment · 2h ago · Prudent-Durian-6380 · score 20
+  - comment · 3h ago · Prudent-Durian-6380 · score 20
   - matched: safespot
   - re: Strength amulets are not the problem. You are
   - https://www.reddit.com/r/2007scape/comments/1w6c02b/strength_amulets_are_not_the_problem_you_are/p7lsqnm/
 - **If he just needs dwh he could as well do them off task with the safespot method for example. Look, I care about efficiency but after 95 I feel like slayer is just completed xp wise**
-  - comment · 2h ago · ExplanationCreepy117 · score 20
+  - comment · 3h ago · ExplanationCreepy117 · score 20
   - matched: safespot
   - re: Completing Slayer
   - https://www.reddit.com/r/ironscape/comments/1w3cjqh/completing_slayer/p7lmqdi/
 - **Except str ammy is basically2(with 2 bonus overflow for a potential 3rd) max hits, so this weakened amulet is literally a str ammy already. The pre nerf version gave twinflame a +7**
-  - comment · 3h ago · one_shuckle_boy · score 20
+  - comment · 4h ago · one_shuckle_boy · score 20
   - matched: max hit, overflow
   - re: The amulet is cool, and should be strong. A simple
   - https://www.reddit.com/r/2007scape/comments/1w6a0d7/the_amulet_is_cool_and_should_be_strong_a_simple/p7ldnfu/
 - **If you bring range or mage you can trap him on a certain corner of the arena (google it) and just safespot him**
-  - comment · 3h ago · aosredrum123 · score 20
+  - comment · 4h ago · aosredrum123 · score 20
   - matched: safespot
   - re: Seriously struggling with Drakan
   - https://www.reddit.com/r/2007scape/comments/1w65um8/seriously_struggling_with_drakan/p7ld4ao/
 - **Consider using ranged/mage and a safespot. Obviates the need for prayer pots, but not available for every monster. You can safespot hellhounds in almost every zone they exist in ho**
-  - comment · 4h ago · zitzenator · score 20
+  - comment · 5h ago · zitzenator · score 20
   - matched: safespot
   - re: New player struggling with prayer
   - https://www.reddit.com/r/ironscape/comments/1w66ub0/new_player_struggling_with_prayer/p7kx9q2/
 - **what do you mean nerf? it's just an amulet of magic with +2 to elemental spell max hit. the issue is that ALL mage upgrades are terrible. Occult (5%) won't even give you a single m**
-  - comment · 5h ago · Voidot · score 20
+  - comment · 6h ago · Voidot · score 20
   - matched: max hit, max hit of
   - re: Where is gnomonkey with our opinion video on the a
   - https://www.reddit.com/r/2007scape/comments/1w630ew/where_is_gnomonkey_with_our_opinion_video_on_the/p7kmtqp/
 - **Safe spot Slayer more. Hellhounds have nothing of value, so sit in a 1x1 hallway and cross bow them. **
-  - comment · 5h ago · Funny_Satisfaction39 · score 20
+  - comment · 6h ago · Funny_Satisfaction39 · score 20
   - matched: safe spot
   - re: New player struggling with prayer
   - https://www.reddit.com/r/ironscape/comments/1w66ub0/new_player_struggling_with_prayer/p7kmi17/
 - **Hot take, crab took away a lot of unique pathing in players progress. **
-  - comment · 5h ago · Fabulous-Put8401 · score 20
+  - comment · 6h ago · Fabulous-Put8401 · score 20
   - matched: pathing
   - re: This meme was made while at Crab
   - https://www.reddit.com/r/2007scape/comments/1w6038j/this_meme_was_made_while_at_crab/p7ki9r4/
 - **You would need a max hit of 70 combined damage with the Twinflame Staff to hit the 50 hitsplat cap at Zulrah because the staff breaks damage into two separate hitsplats. Also, even**
-  - comment · 6h ago · AWildMurlocAppears · score 20
+  - comment · 7h ago · AWildMurlocAppears · score 20
   - matched: max hit, max hit of
   - re: Is this a dps increase?
   - https://www.reddit.com/r/ironscape/comments/1w64971/is_this_a_dps_increase/p7kajm0/
 - **> Yeah it makes twinflame hit harder than other staves as the bonus is indirectly affecting 2 hitsplats. It's a little better on twinflame than surge staves, but not really for tha**
-  - comment · 7h ago · Richybabes · score 20
+  - comment · 8h ago · Richybabes · score 20
   - matched: max hit, max hit of
   - re: The new amulets aren't 'busted'
   - https://www.reddit.com/r/2007scape/comments/1w5pqvb/the_new_amulets_arent_busted/p7jwaf6/
 - **Correct me if I'm wrong but fire surge has a base max hit of 24. The amulet gives +2 to the base max hit whereas occult gives +5% magic damage. So if you have 0% magic damage you g**
-  - comment · 14h ago · likesleague · score 20
+  - comment · 15h ago · likesleague · score 20
   - matched: max hit, max hit of
   - re: Elemental amulets are not the problem. You are
   - https://www.reddit.com/r/2007scape/comments/1w5vok7/elemental_amulets_are_not_the_problem_you_are/p7ijpdu/
 - **Yea I mean anything with Rick options. Barbarian fishing is an easy afk/drop but also has the option of being sweaty. Same thing for certain trees being able to afk them or add tic**
-  - comment · 14h ago · B_O_R_Q · score 20
+  - comment · 15h ago · B_O_R_Q · score 20
   - matched: tick manipulation, stacked
   - re: What single activity can be both intensive or chil
   - https://www.reddit.com/r/ironscape/comments/1w5r6w4/what_single_activity_can_be_both_intensive_or/p7iek1k/
 - **As an iron I just went on a month grind to collect dragon parts and nails and was honestly kinda fun got a shit ton of prayer xp out of it. I abused salvaging xp when it first came**
-  - comment · 17h ago · ResponsibleAd8978 · score 20
+  - comment · 18h ago · ResponsibleAd8978 · score 20
   - matched: safe spot
   - re: Sailing kinda awesome?
   - https://www.reddit.com/r/2007scape/comments/1w5pud9/sailing_kinda_awesome/p7hqvcr/
 - **This is what I've been saying about the OSRS Wilderness. We don't need to get rid of PVP, just make it optional, and convert the Wilderness into an incredibly hostile place, with t**
-  - comment · 19h ago · Dreviore · score 20
+  - comment · 20h ago · Dreviore · score 20
   - matched: pathing
   - re: POV: Jmods are proposing a new wilderness update.
   - https://www.reddit.com/r/2007scape/comments/1w4dhl8/pov_jmods_are_proposing_a_new_wilderness_update/p7h2pz9/
 - **And then it failed a restricted poll that half of Reddit wasn't even allowed to vote in, making the Reddit Boogeyman moot. Unless you're going to try and argue that half of the peo**
-  - comment · 19h ago · AssassinAragorn · score 20
+  - comment · 20h ago · AssassinAragorn · score 20
   - matched: safe spot
   - re: Having PVP content in the game is better than havi
   - https://www.reddit.com/r/2007scape/comments/1w555ov/having_pvp_content_in_the_game_is_better_than/p7gzyc1/
+- **Glory/fury doesn't boost max hit of range or mage. The new amulets are meant to fill the gap. It's not like if zenyte came from greater demons at all, they're not that good. Occult**
+  - comment · 22h ago · Any_Promise_449 · score 20
+  - matched: max hit, max hit of
+  - re: New Amulet is Busted
+  - https://www.reddit.com/r/ironscape/comments/1w5jk2b/new_amulet_is_busted/p7ga6b0/
 - **Is increasing the max hit of elemental that impactful? I could see it if the base hit was increased and then received a bunch of multipliers, but a flat +2 damage at the top end se**
-  - comment · 22h ago · GoodTimber · score 20
+  - comment · 23h ago · GoodTimber · score 20
   - matched: max hit, max hit of
   - re: CMV: Elemental amulets should be polled on princip
   - https://www.reddit.com/r/2007scape/comments/1w5lg7j/cmv_elemental_amulets_should_be_polled_on/p7g78tt/
 - **Just wait till we get the Motes from Raids 4, that will boost Elemental Spell Max Hit by another +2, now that will be wild With nothing but the new Amulet equipped (and a Fire Mote**
-  - comment · 22h ago · TheForsakenRoe · score 20
+  - comment · 23h ago · TheForsakenRoe · score 20
   - matched: max hit, max hit of
   - re: The new elemental amulet adds +3 maxes over occult
   - https://www.reddit.com/r/2007scape/comments/1w5gnux/the_new_elemental_amulet_adds_3_maxes_over_occult/p7g41dm/
 - **Yes The Occult's effect of 5% of 20 (Wave spells) is a Max Hit increase of 1, and 5% of 24 (Surge spells) is a Max Hit increase of 1.2 This thing is +2 flat and is applied to the B**
-  - comment · 22h ago · TheForsakenRoe · score 20
+  - comment · 23h ago · TheForsakenRoe · score 20
   - matched: max hit, max hit of
   - re: The new elemental amulet adds +3 maxes over occult
   - https://www.reddit.com/r/2007scape/comments/1w5gnux/the_new_elemental_amulet_adds_3_maxes_over_occult/p7g113z/
 - **“Early game osrs players don’t feel any significant power increase” is the most backwards claim I have ever heard. Objectively wrong. A max hit of 1 to a max hit of 2 is alone a 50**
-  - comment · 22h ago · Neat-Second9923 · score 20
+  - comment · 23h ago · Neat-Second9923 · score 20
   - matched: max hit, max hit of
   - re: New mage amulets are WAY overtuned.
   - https://www.reddit.com/r/2007scape/comments/1w5jv2n/new_mage_amulets_are_way_overtuned/p7fx6vi/
-- **I think mage tanking holds you back from figuring out wave spawns. A lot of the time, not figuring out that one tile you can move to to corner trap and safespot/stack the rangers a**
-  - comment · 23h ago · Plane-Session-6624 · score 20
-  - matched: safespot
-  - re: The "Only 1 Inferno Kill" experience
-  - https://www.reddit.com/r/2007scape/comments/1w59r6g/the_only_1_inferno_kill_experience/p7fs6ex/
-- **Absolutely, i was curious how it would stack with chaos gauntlets for shits and giggles. Took it to barrows. Blue moons heln top bottom, twinflame, imbued cape, chaos gauntlets and**
-  - comment · 23h ago · Informal_Ad2658 · +2 more in this thread on the same terms · score 20
+- **I haven't used twin flame before, but just so I have this right, it's a 6 tick weapon that has a max hit of 54 damage? That does not seem broken.**
+  - comment · 23h ago · teraflux · score 20
   - matched: max hit, max hit of
   - re: New Amulet is Busted
-  - https://www.reddit.com/r/ironscape/comments/1w5jk2b/new_amulet_is_busted/p7fqdox/
+  - https://www.reddit.com/r/ironscape/comments/1w5jk2b/new_amulet_is_busted/p7fto0c/
 - **Glad to see this. The amulets seemed really unhealthy for the game as they were. Speaking of unhealthy for the game, is polling just dead or what? Why were these added to the game **
-  - comment · 3h ago · StinkButt9001 · score 19
+  - comment · 4h ago · StinkButt9001 · score 19
   - matched: for some reason, max hit
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7la095/
 - **✎ Tiny port reward bag — no longer given for bounties**
-  - wiki · 4h ago · Joeytje50 · score 19
+  - wiki · 5h ago · Joeytje50 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Tiny_port_reward_bag
 - **✎ Small port reward bag — no longer given for bounties**
-  - wiki · 4h ago · Joeytje50 · score 19
+  - wiki · 5h ago · Joeytje50 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Small_port_reward_bag
 - **✎ Medium port reward bag — no longer given for bounties**
-  - wiki · 4h ago · Joeytje50 · score 19
+  - wiki · 5h ago · Joeytje50 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Medium_port_reward_bag
 - **✎ Large port reward bag — no longer given for bounties**
-  - wiki · 4h ago · Joeytje50 · score 19
+  - wiki · 5h ago · Joeytje50 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Large_port_reward_bag
 - **✎ Huge port reward bag — no longer given for bounties**
-  - wiki · 4h ago · Joeytje50 · score 19
+  - wiki · 5h ago · Joeytje50 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Huge_port_reward_bag
 - **✎ Revenant dragon — No longer the case**
-  - wiki · 12h ago · ~2026-EarmuffsResistanceIsland16401 · score 19
+  - wiki · 13h ago · ~2026-EarmuffsResistanceIsland16401 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Revenant_dragon
 - **✎ Ghommal's hilt 5 — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Ghommal's_hilt_5
 - **✎ Dizana's quiver — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Dizana's_quiver
 - **✎ The Hueycoatl/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/The_Hueycoatl%2FStrategies
 - **✎ Down Do Specs — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Down_Do_Specs
 - **✎ Amoxliatl/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Amoxliatl%2FStrategies
 - **✎ Vardorvis/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Vardorvis%2FStrategies
 - **✎ Duke Sucellus/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Duke_Sucellus%2FStrategies
 - **✎ Shellbane gryphon/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Shellbane_gryphon%2FStrategies
 - **✎ Chompington — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Chompington
 - **✎ Kraken/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Kraken%2FStrategies
 - **✎ Theatre of Blood/Hard Mode — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Theatre_of_Blood%2FHard_Mode
 - **✎ Theatre of Blood/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Theatre_of_Blood%2FStrategies
 - **✎ Phosani's Nightmare/Strategies — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Phosani's_Nightmare%2FStrategies
 - **✎ Volcanic Mine — penny can no longer be equipped**
-  - wiki · 19h ago · YoshiFan12 · score 19
+  - wiki · 20h ago · YoshiFan12 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Volcanic_Mine
 - **✎ Rubium deposit — Confirmed that Varrock Armour 1 has no effect on Rubium deposit (mined 100 geodes without any doubling effect; there is **
-  - wiki · 20h ago · 10k Lakes · score 19
+  - wiki · 21h ago · 10k Lakes · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Rubium_deposit
 - **✎ Rubium rocks — Confirmed that Varrock Armour 1 has no effect on Rubium rock (mined 300 fragments without any doubling effect)**
-  - wiki · 20h ago · 10k Lakes · score 19
+  - wiki · 21h ago · 10k Lakes · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Rubium_rocks
 - **Once you get the level for gem stalls you can do the two gem stalls inbetween the the wealthy citizens. The real meta here tho is world hopping and only doing the two gem stalls, i**
-  - comment · 11h ago · Alone-Sentence-4045 · score 18
+  - comment · 12h ago · Alone-Sentence-4045 · score 18
   - matched: stalls, stalls you
   - re: What's an underrated thieving method that mains ov
   - https://www.reddit.com/r/ironscape/comments/1w5v4rr/whats_an_underrated_thieving_method_that_mains/p7j4dow/
 - **Ayak and Shadow are both fun to use so yeah, good idea. And ideally it wouldn't be just thralls but also a combo of spellbook swap/venge/death charge**
-  - comment · 2h ago · MLut541 · +2 more in this thread on the same terms · score 17
+  - comment · 3h ago · MLut541 · +2 more in this thread on the same terms · score 17
   - matched: spellbook swap, thralls
   - re: Don't stop with just the amulets, it's time to loo
   - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7ls2zb/
 - **you could bring runes for thralls venge and spellbook swap i guess. I'd say that's way more common at tob though. Some absolute freak gamers will even spellbook swap freeze at tob **
-  - comment · 3h ago · highcarlos · score 17
+  - comment · 4h ago · highcarlos · score 17
   - matched: spellbook swap, thralls
   - re: Elemental spells
   - https://www.reddit.com/r/2007scape/comments/1w69dyv/elemental_spells/p7l83vk/
 - **Jagex, please reconsider nerfing the elemental amulets. The trade-off of losing Thralls, Vengeance, and/or Death Charge for relying on Standard spells should be properly compensate**
-  - comment · 4h ago · TheWalrius · score 17
+  - comment · 5h ago · TheWalrius · score 17
   - matched: thralls, compensated
   - re: Update: Elemental amulets will be receiving a nerf
   - https://www.reddit.com/r/ironscape/comments/1w68iz0/update_elemental_amulets_will_be_receiving_a_nerf/p7l0wqb/
 - **I am in favor of having more crucial information be told to the player in a diegetic way. I think that the approach of buffing the Monster Examine spell from the lunar spellbook co**
-  - comment · 5h ago · Pheubel · score 17
+  - comment · 6h ago · Pheubel · score 17
   - matched: monster examine, drop table
   - re: Improve Ingame Slayer Droplog
   - https://www.reddit.com/r/2007scape/comments/1w5fywu/improve_ingame_slayer_droplog/p7kq6a9/
 - **That and the eqippable Large Spade from 500 easy clues. It just feels wrong to not allow these to be functional. I mean the golden chef's hat works to.letbyoi into the cooks guild **
-  - comment · 6h ago · jakemp1 · score 17
+  - comment · 7h ago · jakemp1 · score 17
   - matched: crafting guild, chef's hat
   - re: Gilded Spade
   - https://www.reddit.com/r/2007scape/comments/1w648xq/gilded_spade/p7kbl8g/
 - **in runescape classic there were no mobs that dropped rune items, the first was the greater demon that started dropping rune full helm if you were a smith in runescape classic you w**
-  - comment · 9h ago · loopuleasa · score 17
+  - comment · 10h ago · loopuleasa · score 17
   - matched: classic, runescape classic
   - re: [Serious] How would a good smithing rework look li
   - https://www.reddit.com/r/2007scape/comments/1w61fhl/serious_how_would_a_good_smithing_rework_look_like/p7jitpn/
 - **the problem with rune at 99 is that back in runescape classic, there were NO monsters that dropped rune gear imagine as an ironman in 2026 in an alternate universe we were playing **
-  - comment · 9h ago · loopuleasa · score 17
+  - comment · 10h ago · loopuleasa · score 17
   - matched: classic, runescape classic
   - re: [Serious] How would a good smithing rework look li
   - https://www.reddit.com/r/2007scape/comments/1w61fhl/serious_how_would_a_good_smithing_rework_look_like/p7jik25/
 - **It really is annoying how unless you're doing a fight that necessitates bringing another spellbook, you should always just camp Arceuus. And even the fights that theoretically "nec**
-  - comment · 10h ago · Daniel_Is_I · score 17
+  - comment · 11h ago · Daniel_Is_I · score 17
   - matched: spellbook swap, thralls
   - re: The new elemental amulet adds +3 maxes over occult
   - https://www.reddit.com/r/2007scape/comments/1w5gnux/the_new_elemental_amulet_adds_3_maxes_over_occult/p7jfa5l/
 - **Thrall isn't the problem but rather a symptom for adding BiS new spellbook. Even if we nerf thrall today (which is unlikely), double death charge will still edge out normal spellbo**
-  - comment · 12h ago · Even-Ant7872 · score 17
+  - comment · 13h ago · Even-Ant7872 · score 17
   - matched: spellbook swap, thralls
   - re: The new elemental amulet adds +3 maxes over occult
   - https://www.reddit.com/r/2007scape/comments/1w5gnux/the_new_elemental_amulet_adds_3_maxes_over_occult/p7izsbu/
 - **it isn't. about same kill times and without tome, twinflame is using 7 sunfire runes per cast. magic would be better if i had tome but i'd spend more time doing wt than killing mk.**
-  - comment · 19h ago · Otherwise_Economics2 · score 17
+  - comment · 20h ago · Otherwise_Economics2 · score 17
   - matched: thralls, maul spec
   - re: Bad luck mitigation for Corrupted Gauntlet ?
   - https://www.reddit.com/r/2007scape/comments/1w5mwjo/bad_luck_mitigation_for_corrupted_gauntlet/p7gxi1s/
 - **I was allowed 2hrs per day to play the pc back in runescape classic. I would spend the entire time at barbarian village mining coal and selling for like 330gp. Truly amazing times.**
-  - comment · 20h ago · LenryHenry · score 17
+  - comment · 21h ago · LenryHenry · score 17
   - matched: classic, runescape classic
   - re: Biggest stack of items I've ever sold in my entire
   - https://www.reddit.com/r/2007scape/comments/1w5femk/biggest_stack_of_items_ive_ever_sold_in_my_entire/p7grmm9/
-- **I remember hearing that nightshade was going to be adjusted for poison dynamite during the rest of the Summer Sweep Up changes, has that been delayed or something? I would love an **
-  - comment · 23h ago · PM_A_HAPPY_STORY_PLZ · score 17
-  - matched: poison dynamite, nightshade
-  - re: GAME UPDATE: Summer Sweep Up Miscellaneous
-  - https://www.reddit.com/r/2007scape/comments/1w55q4m/game_update_summer_sweep_up_miscellaneous/p7fhs2j/
 - **Unpolled powercreep**
-  - r/ironscape · 13h ago · Maximum_Education_13 · score 13
+  - r/ironscape · 14h ago · Maximum_Education_13 · score 13
   - matched: max hit, mega rare
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w5xyyl/unpolled_powercreep/
 
 ---
 
-Not included: 915 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 923 findings older than 24h. Widen with `__osrs.report(48)` in the console.
