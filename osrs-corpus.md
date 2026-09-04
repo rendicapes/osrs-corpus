@@ -1,72 +1,63 @@
 # OSRS Signal — last 24h
 
-2026-09-04 21:35 UTC · 124 findings after merging duplicates (from 219 raw hits; 76 single-term floor rows filtered)
+2026-09-04 22:30 UTC · 118 findings after merging duplicates (from 213 raw hits; 71 single-term floor rows filtered)
 
-## Vanished — removed or deleted after posting  (8)
+## Vanished — removed or deleted after posting  (7)
 
-- **🗑 vanished from reddit — removed (deleted) — Fix mobile menu entry swap!?**
-  - vanished · 23h ago · Adohpted · score 48
-  - matched: vanished, bug, for some reason
-  - was r/2007scape, posted 8h before it went
-  - https://www.reddit.com/r/2007scape/comments/1w68hmc/fix_mobile_menu_entry_swap/
+- **🗑 vanished from reddit — removed (deleted) — Bug: Cant mine Rune Essence**
+  - r/2007scape, vanished · 40m ago · justanotherkraut · seen 2x · score 45
+  - matched: vanished, bug
+  - was r/2007scape, posted 9h before it went
+  - https://www.reddit.com/r/2007scape/comments/1w72zez/bug_cant_mine_rune_essence/
+- **🗑 vanished from reddit — removed (deleted) — PNM pillars**
+  - r/2007scape, vanished · 40m ago · Bubbly_Attention5771 · seen 2x · score 45
+  - matched: vanished, bugged
+  - was r/2007scape, posted 9h before it went
+  - https://www.reddit.com/r/2007scape/comments/1w73epf/pnm_pillars/
   - captured before it went:
-    > Menu entry swap has been broken on mobile where when tapping a player makes you follow them. This occurs when you switch the talk to banker to prioritize bank banker. I’m pretty sure this happens with all NPCs and for some reason it breaks just walking through players on a normal tap. I play mobile at least a hour or 2 per day if not near my PC it makes such a hassle to train skills anywhere in social areas. How do we do a full update to menu entry swap on the client but cant fix a decently big mobile bug??
+    > So... they said they fixed the pillars but they are still bugged showing their "hp"? half health shown but its "dead"?
+- **🗑 vanished from reddit — removed by a moderator — You don’t like them locking an item in 55 multi combat that requires non pvp gear to do. Shocked I tell ya, shocked!**
+  - vanished · 22m ago · OldBay-Szn · score 40
+  - matched: vanished, multi combat
+  - was comment, posted 1d before it went
+  - https://www.reddit.com/r/2007scape/comments/1w4dhl8/pov_jmods_are_proposing_a_new_wilderness_update/p7gwuoe/
+- **🗑 vanished from reddit — removed (deleted) — Can we get one more runescape game running?**
+  - r/2007scape, vanished · 40m ago · Jxllll · seen 2x · score 40
+  - matched: vanished, same tick
+  - was r/2007scape, posted 19h before it went
+  - https://www.reddit.com/r/2007scape/comments/1w6rr9c/can_we_get_one_more_runescape_game_running/
+- **🗑 vanished from reddit — deleted by the author — Kitten deathmatches at the Ardougne Rat Pits. **
+  - comment, vanished · 51m ago · Direct_Juice · seen 2x · score 40
+  - matched: vanished, rat pits
+  - was comment, posted 2h before it went
+  - https://www.reddit.com/r/2007scape/comments/1w7cr86/random_friday_event_top_comment_decides/p7tz5yt/
 - **🗑 vanished from reddit — deleted by the author — Any update on fixing the bug where your pet just disappears after using a fairy ring? **
-  - vanished · 22h ago · TheOriginalMeanhorn · score 45
+  - vanished · 23h ago · TheOriginalMeanhorn · score 45
   - matched: vanished, bug
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1w55q4m/game_update_summer_sweep_up_miscellaneous/p7co22q/
   - captured before it went:
     > Any update on fixing the bug where your pet just disappears after using a fairy ring?
-- **🗑 vanished from reddit — removed (deleted) — Mes Runecraft bug warning**
-  - vanished · 23h ago · ArrgsMax · score 45
-  - matched: vanished, bug
-  - was r/2007scape, posted 10h before it went
-  - https://www.reddit.com/r/2007scape/comments/1w64r55/mes_runecraft_bug_warning/
-- **🗑 vanished from reddit — deleted by the author — Some of those examples yes, but I'm not sure occult was nerfed only because it was more impactful than full robes. I'd argue confl**
-  - vanished · 23h ago · PurpleInitiative2346 · score 45
-  - matched: vanished, game breaking
-  - was comment, posted 1h before it went
-  - https://www.reddit.com/r/2007scape/comments/1w6diq3/can_we_rebalance_some_so_unbalanced_and_easily/p7nelv5/
-  - captured before it went:
-    > Some of those examples yes, but I'm not sure occult was nerfed only because it was more impactful than full robes. I'd argue confliction gauntlets became a similar thing later, tho shadow makes that a bit more complicated. I think leaving room for future upgrades probably matters too, but that's still just one item. Blowpipe is a different case tho. It was so strong that it basically redefined the whole combat meta, so yeah, that needed to be nerfed/rebalanced. But that's the extreme end of what I'm talking about. I'm more asking whether things that are disproportionately good for a while, or change how you play for a certain stage of progression, can exist without becoming game breaking. Spirit trees are my example. You unlock them relatively early and suddenly a huge part of the map becomes much easier to move around. You don't really need them at endgame, but when you get them they're a massive powerspike in mobility. There used to be more things like that in runescape. I feel like osrs is much more careful about introducing them now. Everything is made to fit neatly into the existing progression and leave room for the next upgrade. And that's where I think there's a bigger issu
-- **🗑 vanished from reddit — deleted by the author — Design intentions. The elemental amulets are explicitly designed to be an early game boss. Their strength upon release is not inte**
-  - vanished · 23h ago · _GregTheGreat_ · score 45
-  - matched: vanished, not intended
-  - was comment, posted 2h before it went
-  - https://www.reddit.com/r/2007scape/comments/1w6hbcd/protect_occult_at_all_cost/p7n19i7/
-  - captured before it went:
-    > Design intentions. The elemental amulets are explicitly designed to be an early game boss. Their strength upon release is not intended and was quickly fixed for a reason. Salve Ammy is a quest item that requires beating a reasonably challenging boss and is explicitly designed to be BIS or near-BIS against undead creatures.
 - **🗑 vanished from reddit — deleted by the author — No it’s has nothing to do with you eating, you can absolutely eat, it is because you yellow-clicked past your food, you didn’t red**
-  - comment, vanished · 20h ago · medted22 · seen 2x · score 44
+  - comment, vanished · 21h ago · medted22 · seen 2x · score 44
   - matched: vanished, pathing, red x
   - was comment, posted 2m before it went
   - https://www.reddit.com/r/ironscape/comments/1w6ou9l/flinching_mechanics_question/p7otwz7/
   - captured before it went:
     > No it’s has nothing to do with you eating, you can absolutely eat, it is because you yellow-clicked past your food, you didn’t red-X which causes pathing to change on the one you got hit. The cycle where you didn’t get hit, you red x’ed properly
-- **🗑 vanished from reddit — deleted by the author — To be honest I really dislike the fact that most of magic combat revolves around charged staves and thus doesn't really feel that **
-  - vanished · 23h ago · GlumTruffle · score 40
-  - matched: vanished, directional
-  - was comment, posted 10h before it went
-  - https://www.reddit.com/r/2007scape/comments/1w5vok7/elemental_amulets_are_not_the_problem_you_are/p7k1dc8/
-- **🗑 vanished from reddit — deleted by the author — To be totally honest? I was on a mission to get my Castle Wars pee armor set; I played a lot of matches—including against some rea**
-  - vanished · 23h ago · Revenue_Every · score 40
-  - matched: vanished, splashing
-  - was comment, posted 9h before it went
-  - https://www.reddit.com/r/2007scape/comments/1w44w9s/castle_wars_is_everyone_afk_or_throwing/p7kk54x/
 
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel started COLD — no prior membership stored, so nothing before now can be detected as added or removed**
-  - bugs · 3s ago · score 30
+  - bugs · 55m ago · score 30
   - matched: channel cold start
   - first poll of a fresh store — today’s adds and removals are invisible
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (69)
+## Bugs & exploits  (66)
 
 - **Fun fact: Killerwatts are one of the only enemies in the game that are aggro *on click* instead of aggro on hit, even if you are at max render distance. They can also be glitched i**
-  - comment · 18h ago · Teary_Gamer · score 36
+  - comment · 19h ago · Teary_Gamer · score 36
   - matched: glitched, for some reason, render distance
   - re: Killerwats when their peace is disturbed after tod
   - https://www.reddit.com/r/2007scape/comments/1w5aac7/killerwats_when_their_peace_is_disturbed_after/p7pjksf/
@@ -76,122 +67,122 @@
   - re: Drakan's Medallion activated shroom mode
   - https://www.reddit.com/r/2007scape/comments/1w701v3/drakans_medallion_activated_shroom_mode/p7rmwrv/
 - **Movement techs, of which there are multiple, item smuggle exploits, again, multiple versions of this. There are more, go watch some content about the old duel arena if you don't be**
-  - comment · 13h ago · Robothuck · score 30
+  - comment · 14h ago · Robothuck · score 30
   - matched: exploits, smuggle, duel arena
   - re: Is betting money on the outcome of a high fight al
   - https://www.reddit.com/r/2007scape/comments/1w6xkh7/is_betting_money_on_the_outcome_of_a_high_fight/p7qmedf/
 - **In last weeks blog post it was updated and put in the bugs section that they would be removing them. Seems like it may have been unintended to begin with. **
-  - comment · 7h ago · Zealousideal-Run9609 · score 26
+  - comment · 8h ago · Zealousideal-Run9609 · score 26
   - matched: bugs, unintended
   - re: Big nerf to port bounty tasks hidden in the elemen
   - https://www.reddit.com/r/2007scape/comments/1w75edp/big_nerf_to_port_bounty_tasks_hidden_in_the/p7s7yo5/
-- **Yeah it’s not that simple. Those haxunit guys would trade bugs for unbanning accounts that were fairly banned and shit like that. The relationship of a player having one up and som**
-  - comment · 1h ago · tehbands1126 · score 18
-  - matched: bug, rotten potato
-  - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
-  - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7uizhp/
 - **+2 max hit vs a minimum of +4 is a huge difference is why. You have to remember all this gear is early game not late game. It's not supposed to scale well**
-  - comment · 3h ago · jefftiffy · score 21
+  - comment · 4h ago · jefftiffy · score 21
   - matched: not supposed to, max hit
   - re: Why nerf the elemental amulet to only +2 after wea
   - https://www.reddit.com/r/2007scape/comments/1w7bbbv/why_nerf_the_elemental_amulet_to_only_2_after/p7tlc8d/
 - **Elite Void bug Doom query**
-  - r/osrs · 5h ago · Lids_11 · score 21
+  - r/osrs · 6h ago · Lids_11 · score 21
   - matched: bug, max hit
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w785wq/elite_void_bug_doom_query/
 - **Also one thing people don't seem to realise, is that there can always be space create a stronger variant further down the line, some kind of slayer boss a la cerb dropping an item **
-  - comment · 10h ago · Background-Dress-641 · score 21
+  - comment · 11h ago · Background-Dress-641 · score 21
   - matched: not supposed to, max hit
   - re: Better nerf Amulet of Strength
   - https://www.reddit.com/r/2007scape/comments/1w6lbda/better_nerf_amulet_of_strength/p7r63qo/
+- **Yeah it’s not that simple. Those haxunit guys would trade bugs for unbanning accounts that were fairly banned and shit like that. The relationship of a player having one up and som**
+  - comment · 2h ago · tehbands1126 · score 18
+  - matched: bug, rotten potato
+  - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
+  - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7uizhp/
 - **I don’t think Jagex will get any victim compensation from a criminal case, they still bear some responsibility, if there are any damages to them they will likely have to sue him th**
-  - comment · 2h ago · LegendDota · score 18
+  - comment · 3h ago · LegendDota · score 18
   - matched: exploit, compensation
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7u4ab8/
 - **Molanisk drop table bugged?**
-  - r/2007scape · 3h ago · TeunTerreurNL · score 18
+  - r/2007scape · 4h ago · TeunTerreurNL · score 18
   - matched: bugged, drop table
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w7c5z8/molanisk_drop_table_bugged/
 - **Mobile Bug (Incomplete Menu) when casting telekinetic grab**
-  - r/2007scape · 9h ago · Any-Ranger-2599 · score 18
+  - r/2007scape · 10h ago · Any-Ranger-2599 · score 18
   - matched: bug, telekinetic grab
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w72p93/mobile_bug_incomplete_menu_when_casting/
 - **I was yapping with a friend earlier and decided to just give some theoretical calculator peeks at Zulrah for comparison sake. First is absolute max with shadow (not including thral**
-  - comment · 22h ago · Fanci_ · score 18
+  - comment · 23h ago · Fanci_ · score 18
   - matched: game breaking, thralls
   - re: The amulets themselves aren't what was so powerful
   - https://www.reddit.com/r/2007scape/comments/1w6me6p/the_amulets_themselves_arent_what_was_so_powerful/p7ocf30/
 - **We aren’t far out from receiving another elemental buff from raids 4, which would give another +2 max hits. That would make pre nerf better than thralls. A 50 slayer, 59 magic unlo**
-  - comment · 22h ago · im-bad-at_usernames- · score 18
+  - comment · 23h ago · im-bad-at_usernames- · score 18
   - matched: not intended, thralls
   - re: Why are people only talk about the new amulets now
   - https://www.reddit.com/r/2007scape/comments/1w6m6qo/why_are_people_only_talk_about_the_new_amulets/p7oa0hh/
 - **I think for the purpose of this conversation, most people might agree that minor issue amounts to an inconvenience or a perceived flaw of design or intent. Whereas a major issue is**
-  - comment · 18m ago · Wild_Moose_763 · score 13
+  - comment · 1h ago · Wild_Moose_763 · score 13
   - matched: bugs
   - re: Reading update posts these days
   - https://www.reddit.com/r/2007scape/comments/1w743os/reading_update_posts_these_days/p7uw01f/
+- **I was a staking degen, im aware. Smuggles and glitches were not common.. runelite !duels command has me at 12k duels and I staked a ton on osbusdy before RL tracker as well. Peaked**
+  - comment · 14h ago · One-Associate-9341 · score 14
+  - matched: glitch, runelite, smuggle, staking
+  - re: Is betting money on the outcome of a high fight al
+  - https://www.reddit.com/r/2007scape/comments/1w6xkh7/is_betting_money_on_the_outcome_of_a_high_fight/p7qmwr0/
 - **>The activity stopped briefly so the team initially put it down to a glitch in the system Top. Men.**
-  - comment · 1h ago · Doctor_Sauce · score 13
+  - comment · 2h ago · Doctor_Sauce · score 13
   - matched: glitch
   - re: Mod Jed Pleads Guilty to stealing $400k+ in GP and
   - https://www.reddit.com/r/2007scape/comments/1w7f465/mod_jed_pleads_guilty_to_stealing_400k_in_gp_and/p7ui4hs/
 - **What's funny is he could have got away with it if he'd not been greedy and quit while he was ahead. They wrote it off as a glitch, if he'd never started up again, he'd have been fi**
-  - comment · 1h ago · steelcryo · score 13
+  - comment · 2h ago · steelcryo · score 13
   - matched: glitch
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7ugx74/
 - **Getting this on mobile as of today. Apo updated at 1:37am last night. Spent a couple of hours trying everything to fix, seems to be a bug in the app.**
-  - comment · 1h ago · AdvizeGH · score 13
+  - comment · 2h ago · AdvizeGH · score 13
   - matched: bug
   - re: XP Box Bug
   - https://www.reddit.com/r/2007scape/comments/1w79ey9/xp_box_bug/p7ud5tf/
 - **My first character was abandoned due to climbing a ladder with roofs on and not knowing i could rotate the camera. Thought i glitched the game and it was no longer playable. 😂 **
-  - comment · 1h ago · JewelerBackground420 · score 13
+  - comment · 2h ago · JewelerBackground420 · score 13
   - matched: glitched
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7ud05z/
-- **I was a staking degen, im aware. Smuggles and glitches were not common.. runelite !duels command has me at 12k duels and I staked a ton on osbusdy before RL tracker as well. Peaked**
-  - comment · 13h ago · One-Associate-9341 · score 14
-  - matched: glitch, runelite, smuggle, staking
-  - re: Is betting money on the outcome of a high fight al
-  - https://www.reddit.com/r/2007scape/comments/1w6xkh7/is_betting_money_on_the_outcome_of_a_high_fight/p7qmwr0/
 - **Yes it is bugged. Thank you for reporting the issue, you can stop killing the Molanisks now for the next few months. Thank you, thank you.**
-  - comment · 2h ago · Dessiato · score 13
+  - comment · 3h ago · Dessiato · score 13
   - matched: bugged
   - re: Molanisk drop table bugged?
   - https://www.reddit.com/r/2007scape/comments/1w7c5z8/molanisk_drop_table_bugged/p7u41tr/
 - **That would make more sense. Ive died so many times to akkha simply because the rng isnt there. I shouldnt be able to die in max mage gear clicking the moment it becomes availeble**
-  - comment · 2h ago · muchderanged · score 13
+  - comment · 3h ago · muchderanged · score 13
   - matched: shouldnt be able
   - re: How do you want Raids 4 bosses?
   - https://www.reddit.com/r/2007scape/comments/1w7b7em/how_do_you_want_raids_4_bosses/p7u1q9b/
 - **Context: I'm an OG bug hunter from the pre eoc era. I had a small glitching team and we would go around tearing up the game for fun. If you've ever seen any haxunit videos it's fro**
-  - comment · 2h ago · weedwizardx · +5 more in this thread on the same terms · score 13
+  - comment · 3h ago · weedwizardx · +6 more in this thread on the same terms · score 13
   - matched: bug
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7u1ime/
 - **logically inconsistent voting and spite voting and stuff like not fixing audio bugs (extremely loud sounds) are all indicators that the playerbase cant handle the power of voting**
-  - comment · 2h ago · Meriipu · score 13
+  - comment · 3h ago · Meriipu · score 13
   - matched: bugs
   - re: Reading update posts these days
   - https://www.reddit.com/r/2007scape/comments/1w743os/reading_update_posts_these_days/p7tzeah/
 - **reported for bug abuse**
-  - comment · 2h ago · PkerBadRs3Good · score 13
+  - comment · 3h ago · PkerBadRs3Good · score 13
   - matched: bug
   - re: Tip for Players who have never attacked a Killerwa
   - https://www.reddit.com/r/2007scape/comments/1w6tvkt/tip_for_players_who_have_never_attacked_a/p7txd4z/
 - **No where near a large enough sample size to says it's bugged. You just have bad RNG. **
-  - comment · 3h ago · ISeeYaa · score 13
+  - comment · 4h ago · ISeeYaa · score 13
   - matched: bugged
   - re: Molanisk drop table bugged?
   - https://www.reddit.com/r/2007scape/comments/1w7c5z8/molanisk_drop_table_bugged/p7tqz13/
 - **Can we start polling new rewards and new content independently?**
-  - r/2007scape · 3h ago · CallIllustrious2538 · score 13
+  - r/2007scape · 4h ago · CallIllustrious2538 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w7begn/can_we_start_polling_new_rewards_and_new_content/
@@ -206,27 +197,27 @@
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7th6e3/
 - **Holy shit I did this too 🤣 I still remember my first "main" was SevenSeas23 (I had just saw a TV commercial about traveling the 7 blue seas when i started). I started on seas1 and**
-  - comment · 4h ago · OsmiumOG · score 13
+  - comment · 5h ago · OsmiumOG · score 13
   - matched: bug
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7tg5lb/
 - **They can't complete a kingdom divided, they are still stuck at barrows gloves grind.**
-  - comment · 4h ago · oneonethousandone · score 13
+  - comment · 5h ago · oneonethousandone · score 13
   - matched: can't complete
   - re: The main reason why the elemental necklaces were a
   - https://www.reddit.com/r/2007scape/comments/1w77qnf/the_main_reason_why_the_elemental_necklaces_were/p7tdent/
 - **Pretty lame sounds in pvm are still bugged after one and a half weeks.**
-  - r/2007scape · 4h ago · IntWatcher · score 13
+  - r/2007scape · 5h ago · IntWatcher · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w7ah8f/pretty_lame_sounds_in_pvm_are_still_bugged_after/
 - **Corsair Curse is a little awkward after Sailing**
-  - r/2007scape · 4h ago · DiffidentAlice · score 13
+  - r/2007scape · 5h ago · DiffidentAlice · score 13
   - matched: bugs
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w79njr/corsair_curse_is_a_little_awkward_after_sailing/
 - **XP Box Bug**
-  - r/2007scape · 4h ago · Neosword098 · score 13
+  - r/2007scape · 5h ago · Neosword098 · score 13
   - matched: bug
   - 0c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1w79ey9/xp_box_bug/
@@ -236,107 +227,97 @@
   - re: So this just happened..
   - https://www.reddit.com/r/ironscape/comments/1w77kv3/so_this_just_happened/p7t3jar/
 - **Monkey madness 2**
-  - r/2007scape · 5h ago · Solvableacorn7 · score 13
+  - r/2007scape · 6h ago · Solvableacorn7 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w792fj/monkey_madness_2/
 - **Mobile is bugged - No left click attack option**
-  - r/2007scape · 5h ago · fingeritoutdude · score 13
+  - r/2007scape · 6h ago · fingeritoutdude · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w78zf7/mobile_is_bugged_no_left_click_attack_option/
 - **I discovered the 5 chaos rune spawn in the dark warrior fortress and thought I’d discovered an infinite money glitch even though it had a 10 minute respawn time and I didn’t even r**
-  - comment · 6h ago · Retr0virus11 · score 13
+  - comment · 7h ago · Retr0virus11 · score 13
   - matched: glitch
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7soe5z/
 - **When sailing came out there was a visual bug(?) that I had which flattened the boats instead of turning them into shadows. I thought it was intended and pretty neat looking. https:**
-  - comment · 6h ago · alakafox · score 13
+  - comment · 7h ago · alakafox · score 13
   - matched: bug
   - re: I wish I could customize how agressive the game de
   - https://www.reddit.com/r/2007scape/comments/1w73w34/i_wish_i_could_customize_how_agressive_the_game/p7semxn/
 - **They were never intended to come from bounty tasks. This isn’t a nerf this is a bug fix**
-  - comment · 6h ago · bpthepharmd · score 13
+  - comment · 7h ago · bpthepharmd · score 13
   - matched: bug
   - re: Big nerf to port bounty tasks hidden in the elemen
   - https://www.reddit.com/r/2007scape/comments/1w75edp/big_nerf_to_port_bounty_tasks_hidden_in_the/p7sdb0g/
 - **They were never intended to come from bounty tasks. So it’s not a nerf, it’s a fix of a bug**
-  - comment · 6h ago · bpthepharmd · score 13
+  - comment · 7h ago · bpthepharmd · score 13
   - matched: bug
   - re: Huge nerf to port bounty tasks flew under the rada
   - https://www.reddit.com/r/ironscape/comments/1w75b8z/huge_nerf_to_port_bounty_tasks_flew_under_the/p7scyuk/
 - **No way some bug only takes the valuable items and leaves the cheap stuff. One of your group took it**
-  - comment · 6h ago · JadedRequirement8556 · +2 more in this thread on the same terms · score 13
+  - comment · 7h ago · JadedRequirement8556 · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: Group Storage Bug?
   - https://www.reddit.com/r/ironscape/comments/1w7632i/group_storage_bug/p7scgvp/
 - **How about they fix the bug of dialogue glitching when going to get the cuppa and you don’t get anything**
-  - comment · 7h ago · alekou8 · score 13
+  - comment · 8h ago · alekou8 · score 13
   - matched: bug
   - re: Can mahogany homes get a lil love
   - https://www.reddit.com/r/2007scape/comments/1w5qfnx/can_mahogany_homes_get_a_lil_love/p7s50df/
-- **PNM pillars**
-  - r/2007scape · 8h ago · Bubbly_Attention5771 · score 13
-  - matched: bugged
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w73epf/pnm_pillars/
 - **Assuming Shadow gets reworked, maybe add the Occult to Dust Devils with a lower droprate (Smoke Devils would keep it with the same droprate it has now), and give Thermy a new uniqu**
-  - comment · 8h ago · TheForsakenRoe · score 13
+  - comment · 9h ago · TheForsakenRoe · score 13
   - matched: intended?
   - re: Protect occult at all cost
   - https://www.reddit.com/r/2007scape/comments/1w6hbcd/protect_occult_at_all_cost/p7rp4dh/
-- **Bug: Cant mine Rune Essence**
-  - r/2007scape · 9h ago · justanotherkraut · score 13
-  - matched: bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w72zez/bug_cant_mine_rune_essence/
 - **Were some Combat Achievements removed?**
-  - r/2007scape · 9h ago · PaesChild · score 13
+  - r/2007scape · 10h ago · PaesChild · score 13
   - matched: rolled back
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w72td4/were_some_combat_achievements_removed/
 - **The only good bug is a dead bug!!**
-  - comment · 11h ago · bojangles_776 · score 13
+  - comment · 12h ago · bojangles_776 · score 13
   - matched: bug
   - re: Slayer task bug (?) Blocked Kalphites, get a Kalph
   - https://www.reddit.com/r/2007scape/comments/1w6wu3k/slayer_task_bug_blocked_kalphites_get_a_kalphites/p7qxl1q/
 - **This would never be treated as bug abuse. **
-  - comment · 12h ago · ulfalda · score 13
+  - comment · 13h ago · ulfalda · score 13
   - matched: bug
   - re: Wrymscraig River
   - https://www.reddit.com/r/2007scape/comments/1w6yghs/wrymscraig_river/p7quozr/
 - **Is this bugged? The icon won’t open anything for me. **
-  - comment · 12h ago · MagicalBadgers · +2 more in this thread on the same terms · score 13
+  - comment · 13h ago · MagicalBadgers · +2 more in this thread on the same terms · score 13
   - matched: bugged
   - re: Menu Entry Swapper Overhaul
   - https://www.reddit.com/r/2007scape/comments/1w62v3k/menu_entry_swapper_overhaul/p7queg6/
 - **Seems like an oversight that Jagex could treat as bug abuse**
-  - comment · 12h ago · Rasenshuriken2 · score 13
+  - comment · 13h ago · Rasenshuriken2 · score 13
   - matched: bug
   - re: Wrymscraig River
   - https://www.reddit.com/r/2007scape/comments/1w6yghs/wrymscraig_river/p7qqr3a/
 - **MES bug**
-  - r/osrs · 13h ago · Alarming_Air420 · score 13
+  - r/osrs · 14h ago · Alarming_Air420 · score 13
   - matched: bug
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w6y2ri/mes_bug/
 - **How did that saying go again? Abuse often, abuse early. What *new* information happened that there suddenly is the realisation that the amulet shouldn't work like it does now. Noth**
-  - comment · 14h ago · Paradoxjjw · score 13
+  - comment · 15h ago · Paradoxjjw · score 13
   - matched: shouldn't work
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7qfi4d/
 - **"if this is a bug" Sure is about 176 of em**
-  - comment · 14h ago · Educational-Onion357 · score 13
+  - comment · 15h ago · Educational-Onion357 · score 13
   - matched: bug
   - re: Slayer task bug (?) Blocked Kalphites, get a Kalph
   - https://www.reddit.com/r/2007scape/comments/1w6wu3k/slayer_task_bug_blocked_kalphites_get_a_kalphites/p7qdac3/
 - **Slayer task bug (?) Blocked Kalphites, get a Kalphites assignment.**
-  - r/2007scape · 14h ago · Masterfadedglory · score 13
+  - r/2007scape · 15h ago · Masterfadedglory · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w6wu3k/slayer_task_bug_blocked_kalphites_get_a_kalphites/
 - **Giga dry - seeking advice**
-  - r/2007scape · 14h ago · chimkienuggie · score 13
+  - r/2007scape · 15h ago · chimkienuggie · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w6wrw8/giga_dry_seeking_advice/
@@ -346,138 +327,128 @@
   - re: Reinstated after 1 Hour
   - https://www.reddit.com/r/2007scape/comments/1w6us1j/reinstated_after_1_hour/p7qas28/
 - **a 150 and dying then proceeding to rage on reddit. damn you just leveled up. lets gooooooooo.. also no? you get bug snacks to eat if you didnt take the 'no food' invo**
-  - comment · 16h ago · Mr_Mc_Ronald · score 13
+  - comment · 17h ago · Mr_Mc_Ronald · score 13
   - matched: bug
   - re: Dying in 150 toa
   - https://www.reddit.com/r/2007scape/comments/1w6uy5b/dying_in_150_toa/p7q1d64/
 - **Nope, they just never intended for it to interact with other multipliers like this, making it stronger than intended. And considering how easy it is to get, there isnt really a rea**
-  - comment · 16h ago · CommercialYam7188 · score 13
+  - comment · 17h ago · CommercialYam7188 · score 13
   - matched: unintended
   - re: OSRS nimby's Suck the fun out of the game
   - https://www.reddit.com/r/ironscape/comments/1w6bhkt/osrs_nimbys_suck_the_fun_out_of_the_game/p7q0z4a/
 - **Tip for Players who have never attacked a Killerwatt in their entire account life: you can glitch them into permanent melee only mode**
-  - r/2007scape · 17h ago · Teary_Gamer · score 13
+  - r/2007scape · 18h ago · Teary_Gamer · score 13
   - matched: glitch
   - 0c · 2↑
   - https://www.reddit.com/r/2007scape/comments/1w6tvkt/tip_for_players_who_have_never_attacked_a/
 - **Nah. Vibe writing is the way. But here's coherent thought: Start a fresh 2007server and give developers freedom to do updates they want as long as they don't change the combat syst**
-  - comment · 18h ago · Jxllll · score 13
+  - comment · 19h ago · Jxllll · score 13
   - matched: game breaking
   - re: Can we get one more runescape game running?
   - https://www.reddit.com/r/2007scape/comments/1w6rr9c/can_we_get_one_more_runescape_game_running/p7ph24h/
 - **About to get banned for bug abuse. Gg. **
-  - comment · 19h ago · cj2dobso · score 13
+  - comment · 20h ago · cj2dobso · score 13
   - matched: bug
   - re: 10 Arder-musca poison at Duke?
   - https://www.reddit.com/r/2007scape/comments/1w6qso2/10_ardermusca_poison_at_duke/p7p3y9i/
 - **Scrying pool bugfix?**
-  - r/2007scape · 20h ago · NukaColaBear · score 13
+  - r/2007scape · 21h ago · NukaColaBear · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w6psmr/scrying_pool_bugfix/
 - **Were the GOTR portal timers changed in a recent update?**
-  - r/2007scape · 20h ago · californiacarguy22 · score 13
+  - r/2007scape · 21h ago · californiacarguy22 · score 13
   - matched: bug
   - 0c · 2↑
   - https://www.reddit.com/r/2007scape/comments/1w6poi6/were_the_gotr_portal_timers_changed_in_a_recent/
 - **I'm so sick of "its been in the game longer so its fine." It's such a lazy take. Its not nearly as absurdly strong as its being made out to be. Considering most players are not iro**
-  - comment · 21h ago · nashpotato · score 13
+  - comment · 22h ago · nashpotato · score 13
   - matched: unintended
   - re: Why are people only talk about the new amulets now
   - https://www.reddit.com/r/2007scape/comments/1w6m6qo/why_are_people_only_talk_about_the_new_amulets/p7omuzt/
 - **Listening to a podcast basically they didn't do xp balancing till very late and the crystal extractor was supposed to be balanced around 2 tick salvage and the interaction wasn't s**
-  - comment · 21h ago · TheRebuild28 · score 13
+  - comment · 22h ago · TheRebuild28 · score 13
   - matched: wasn't supposed to
   - re: Jagex should not be getting consistently surprised
   - https://www.reddit.com/r/2007scape/comments/1w6ana9/jagex_should_not_be_getting_consistently/p7ol7s6/
 - **NPC display names bug?**
-  - r/2007scape · 21h ago · definetlynotromanian · score 13
+  - r/2007scape · 22h ago · definetlynotromanian · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w6oinw/npc_display_names_bug/
 - **anyone know why sra ornament kit doesnt make it an always protected item on death? in the same vein - there seems to be inconsistencies now. i have torva pl8, eldritch, maul, sgs o**
-  - comment · 22h ago · xPofsx · score 13
+  - comment · 23h ago · xPofsx · score 13
   - matched: bug
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w5yw7x/have_a_question_about_the_game_or_the_subreddit/p7o8bek/
 - **T90 or T95 gear would have to offer serious penalties and serious buffs for its intended use. I specified that negative prayer would be used because prayer is essential at high lev**
-  - comment · 22h ago · JamesDerecho · score 13
+  - comment · 23h ago · JamesDerecho · score 13
   - matched: exploited
   - re: Jagex, amulet of strength needs to be nerfed.
   - https://www.reddit.com/r/2007scape/comments/1w65skj/jagex_amulet_of_strength_needs_to_be_nerfed/p7o65ip/
-- **I'm okay with them being an early game item tbh. So many other things are acquired way after they feel meaningful anymore. Like the occult, no reason you shouldn't be able to get i**
-  - comment · 23h ago · floppintoms · score 13
-  - matched: shouldn't be able
-  - re: This nerf feels rushed and unintutiv
-  - https://www.reddit.com/r/2007scape/comments/1w6kty0/this_nerf_feels_rushed_and_unintutiv/p7numd0/
 
-## Jagex & J-Mod  (4)
+## Jagex & J-Mod  (3)
 
 - **I started in 2005 and played literally every double xp weekend pre-EOC and **WE FUCKING LOVED THEM.** It’s actually crazy how many salty people bitch about game integrity when it’s**
-  - comment · 11h ago · Vhu · score 33
+  - comment · 12h ago · Vhu · score 33
   - matched: not supposed to, in rs3, integrity
   - re: Double xp weekend
   - https://www.reddit.com/r/2007scape/comments/1w70at7/double_xp_weekend/p7r2vit/
 - **I mean as far as we know nothing bad reach did ever made it into the game (the corp bug was made by mod ash and he confirmed as such) . I believe mod ash or MMK said it at some poi**
-  - comment · 3h ago · Devdeve · score 28
+  - comment · 4h ago · Devdeve · score 28
   - matched: bug, mod ash
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7to7bt/
 - **The whole point of the osrs model is to poll every change that isn’t a bug fix or something considered so strong it breaks to games integrity. It was literally built on as the enti**
-  - comment · 21h ago · Ornstein24 · score 28
+  - comment · 22h ago · Ornstein24 · score 28
   - matched: bug, integrity
   - re: Mage ammy affects meta but wasn't polled. Bronzema
   - https://www.reddit.com/r/2007scape/comments/1w6ntyi/mage_ammy_affects_meta_but_wasnt_polled_bronzeman/p7og5pt/
-- **Did Odablock just prove that Jagex heavily manipulates the price of Dex scrolls?**
-  - r/2007scape · 23h ago · WaveDashSpeedKick · score 15
-  - matched: mod ash
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w6l99j/did_odablock_just_prove_that_jagex_heavily/
 
-## "You can do this" finds  (15)
+## "You can do this" finds  (14)
 
 - **PSA: Added a mage safespot for Armored Krakens to the wiki for those of you that need Bottled Storm for the boat Greater Tele Focus, but lack the eternal brazier**
-  - r/ironscape · 8h ago · loopuleasa · score 31
+  - r/ironscape · 9h ago · loopuleasa · score 31
   - matched: psa:, safespot
   - 1c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1w736ns/psa_added_a_mage_safespot_for_armored_krakens_to/
 - **Let us make thralls tablets so we can summon them while on other spellbooks, just like enchant, bones to peaches, and teleport tabs**
-  - comment · 3h ago · Ill-Present-7156 · seen 2x · score 26
+  - comment · 4h ago · Ill-Present-7156 · seen 2x · score 26
   - matched: ⚡ food per inventory slot, thralls, bones to peaches
   - re: The main reason why the elemental necklaces were a
   - https://www.reddit.com/r/2007scape/comments/1w77qnf/the_main_reason_why_the_elemental_necklaces_were/p7tu0kn/
 - **Bones to peaches**
-  - comment · 3h ago · Zwayze · score 26
+  - comment · 4h ago · Zwayze · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Odablock suspended for side bets
   - https://www.reddit.com/r/2007scape/comments/1w7b6v6/odablock_suspended_for_side_bets/p7trtl5/
 - **Do every 10th at konar or do wildy slayer if you insist on using slayer points. I would use MTA or LMS personally. I did LMS on new account I made, hadn't ever done it before and w**
-  - comment · 3h ago · NeverTrustFarts · score 26
+  - comment · 4h ago · NeverTrustFarts · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Best routing for Slayers' Point's? need 225 more f
   - https://www.reddit.com/r/ironscape/comments/1w7b97m/best_routing_for_slayers_points_need_225_more_for/p7tpeaa/
 - **there is nothing to be scared about it's absolutely free if you die. You don't even need to bring potions or food they give you infinite brews restores and super attacks as well as**
-  - comment · 4h ago · uneenviedechier · +6 more in this thread on the same terms · score 26
+  - comment · 5h ago · uneenviedechier · +6 more in this thread on the same terms · score 26
   - matched: ⚡ food per inventory slot
   - re: I'm super scared of the Blood Moon Rises boss figh
   - https://www.reddit.com/r/2007scape/comments/1w79j1h/im_super_scared_of_the_blood_moon_rises_boss_fight/p7t5iwl/
 - **(I was like 6 y/o at the start) rs2, I must’ve spent 100 hours chopping down logs in the GE and selling them immediately. Normal logs. It was the first time I ever discovered somet**
-  - comment · 5h ago · cedric1234_ · score 26
+  - comment · 6h ago · cedric1234_ · score 26
   - matched: ⚡ food per inventory slot
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7t14ra/
 - **You need 15 Sailing to dock at Port Piscarilius. You also need at least one crewmember. When you dock, your crewmember will be standing right there. Right click to bank your cargo **
-  - comment · 9h ago · abh34567hrdr6a · score 26
+  - comment · 10h ago · abh34567hrdr6a · score 26
   - matched: ⚡ food per inventory slot, cargo, fish barrel
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w6vw5v/have_a_question_about_the_game_or_the_subreddit/p7rksq0/
 - **At 0 invo can die infinite amount of times and will get free food. Just bring all 3 styles, try to finish the room and watch yt guides in between if you can't figure it out. Hardes**
-  - comment · 12h ago · popovitsj · score 26
+  - comment · 13h ago · popovitsj · score 26
   - matched: ⚡ food per inventory slot
   - re: Raids
   - https://www.reddit.com/r/2007scape/comments/1w6ytxu/raids/p7queke/
 - **R.I.P. my Heka <\\3 I was so excited about the possibilities that weapon could produce. The type of content they could design around it. They were even setting up a “support role” **
-  - comment · 14h ago · snaplocket · score 26
+  - comment · 15h ago · snaplocket · score 26
   - matched: ⚡ food per inventory slot
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7qeo9j/
@@ -487,27 +458,22 @@
   - re: Dying in 150 toa
   - https://www.reddit.com/r/2007scape/comments/1w6uy5b/dying_in_150_toa/p7q2zg7/
 - **Hey man, as an early Ironman, and newish to the game just focus on lazy flicking. You tube it, but basically you turn you prayer on just before it attacks then off again. You don’t**
-  - comment · 22h ago · mrdoubleNZ · score 26
+  - comment · 23h ago · mrdoubleNZ · score 26
   - matched: ⚡ food per inventory slot
   - re: New player struggling with prayer
   - https://www.reddit.com/r/ironscape/comments/1w66ub0/new_player_struggling_with_prayer/p7od0kx/
-- **The moonlight moths (75 hunter) can restore prayer in large doses without having to make more potions. At 85 you can just sprint by and have full prayer on the way to the next moon**
-  - comment · 23h ago · Traditional_Cheek931 · score 26
-  - matched: ⚡ food per inventory slot
-  - re: What's the next grind for main
-  - https://www.reddit.com/r/2007scape/comments/1w6iltp/whats_the_next_grind_for_main/p7o1jbp/
 - **Megarare Concept: Powercrept Harm Lamppost**
-  - r/2007scape · 2h ago · MissItalia2022 · score 24
+  - r/2007scape · 3h ago · MissItalia2022 · score 24
   - matched: 25% chance, infinite supply
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w7dh1v/megarare_concept_powercrept_harm_lamppost/
 - **I tried to reason with a plant brother, Hespori keeps leaving me on read anytime I talk about a bottomless bucket.**
-  - comment · 10h ago · cheezyeazyEez · score 24
+  - comment · 11h ago · cheezyeazyEez · score 24
   - matched: bottomless, bottomless bucket
   - re: Saradomin forbid a Midgame Iron get a lil motion
   - https://www.reddit.com/r/2007scape/comments/1w6z05d/saradomin_forbid_a_midgame_iron_get_a_lil_motion/p7r6toi/
 - **Genuinely and unironically I would vote yes on this in a heartbeat. Its the dumbest most unbalance piece of shit content ever. For basically no requirement you get almost 2 max hit**
-  - comment · 19h ago · guyman3 · score 16
+  - comment · 20h ago · guyman3 · score 16
   - matched: no requirement, thralls
   - re: Don't stop with just the amulets, it's time to loo
   - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7p4raw/
@@ -515,77 +481,77 @@
 ## Mechanics & wiki corrections  (27)
 
 - **First day of being a member (Christmas of 2005) and I really wanted to check out the duel arena. Guy ends up kicking my ass a few times, using a g maul spec. I had no idea what the**
-  - comment · 1h ago · Easy-Reception-1159 · score 26
+  - comment · 2h ago · Easy-Reception-1159 · score 26
   - matched: equip option, maul spec
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7uibd2/
 - **I use spells in slayer all the time when I wanna be lazy and safe spot I'd they have an ele weakness. Now I have +2 max hit. **
-  - comment · 5h ago · cardgamesareforplay · score 26
+  - comment · 6h ago · cardgamesareforplay · score 26
   - matched: max hit, safe spot
   - re: The new amulets should be viewed like the salve am
   - https://www.reddit.com/r/2007scape/comments/1w6dfbz/the_new_amulets_should_be_viewed_like_the_salve/p7srk4z/
 - **I'm trying to finish up my quest cape (currently working on DT2, only While Guthix Sleeps and Blood Moon Rises after), and I'm really struggling with the fights in DT2. Just beat V**
-  - comment · 15h ago · RojinShiro · score 26
+  - comment · 16h ago · RojinShiro · score 26
   - matched: line of sight, vent
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w5yw7x/have_a_question_about_the_game_or_the_subreddit/p7q6ska/
 - **You can safespot krakens and get a bottled storm to build a greater teleport focus on a boat. Once you have that you can tp to boat while its docked at lunar isle. This cuts down o**
-  - comment · 21h ago · Just_me_man · score 26
+  - comment · 22h ago · Just_me_man · score 26
   - matched: safespot, teleport focus, greater teleport focus
   - re: Preferred astral rune method
   - https://www.reddit.com/r/ironscape/comments/1w6oib2/preferred_astral_rune_method/p7olzc8/
-- **they said themselves in the amulet nerf blogpost that it's an elephant in the room that needs addressing. attacking 20% faster is just such an enormous dps boost that it is certain**
-  - comment · 1h ago · Austrum · score 20
-  - matched: max hit, max hit of
-  - re: Harmonized staff should be nerfed
-  - https://www.reddit.com/r/2007scape/comments/1w7f5g8/harmonized_staff_should_be_nerfed/p7ugjf6/
 - **back in rs2 I used to not ever want to bank while doing slayer. I had ancients, so I did slayer mostly melee, but with a staff of light as my weapon. I would manual cast blood blit**
-  - comment · 5h ago · DarkTemplar_of_Chaos · score 24
+  - comment · 6h ago · DarkTemplar_of_Chaos · score 24
   - matched: manual cast, void knight
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7sxzog/
 - **I think it would be cool if the engine picked one player and their boat to show in these piles. Just make whoever has the lowest PID. the game already does this when more than one **
-  - comment · 6h ago · 99-Runecrafting · score 24
+  - comment · 7h ago · 99-Runecrafting · score 24
   - matched: pid, stacked
   - re: I wish I could customize how agressive the game de
   - https://www.reddit.com/r/2007scape/comments/1w73w34/i_wish_i_could_customize_how_agressive_the_game/p7sfnt7/
 - **Even with damage cap harm + elemental is hardly outclassing shadow. That's why this is a easy calc to use for example. Harm *should* be outclassing shadow there, I agree. But looki**
-  - comment · 22h ago · Fanci_ · score 24
+  - comment · 23h ago · Fanci_ · score 24
   - matched: for some reason, damage cap, thralls
   - re: The amulets themselves aren't what was so powerful
   - https://www.reddit.com/r/2007scape/comments/1w6me6p/the_amulets_themselves_arent_what_was_so_powerful/p7of5vj/
+- **Forgetting your sleeping bag when you went mining or woodcutting, oops! Nvm that was classic 🤣**
+  - comment · 36m ago · Zealousideal-Turn277 · score 17
+  - matched: classic, sleeping bag
+  - re: What is literally stupidest thing you did as kid /
+  - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7v3m3u/
 - **Has a RuneScape classic feel to it, love it**
-  - comment · 34m ago · FarmerAcceptable5860 · score 17
+  - comment · 1h ago · FarmerAcceptable5860 · score 17
   - matched: classic, runescape classic
   - re: Fresh Spawn Painting
   - https://www.reddit.com/r/2007scape/comments/1w77sry/fresh_spawn_painting/p7usi6b/
-- **He had dropped untradeable items. So, Infernal capes, fire capes, void knight pieces, etc. **
-  - comment · 1h ago · Just_Craft6690 · score 17
-  - matched: untradeable, void knight
-  - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
-  - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7ukucu/
+- **they said themselves in the amulet nerf blogpost that it's an elephant in the room that needs addressing. attacking 20% faster is just such an enormous dps boost that it is certain**
+  - comment · 2h ago · Austrum · score 20
+  - matched: max hit, max hit of
+  - re: Harmonized staff should be nerfed
+  - https://www.reddit.com/r/2007scape/comments/1w7f5g8/harmonized_staff_should_be_nerfed/p7ugjf6/
 - **Wow I never would have thought. I mean, unshielded goes to the mage because of the max hit of 64, but obviously that's just for one hit. You are right though.**
-  - comment · 4h ago · Downvote_Addiction · score 20
+  - comment · 5h ago · Downvote_Addiction · score 20
   - matched: max hit, max hit of
   - re: This is getting ridiculous
   - https://www.reddit.com/r/ironscape/comments/1w5nxpk/this_is_getting_ridiculous/p7tdhh2/
 - **I’m not a huge fan of them but I do them occasionally to break up the grind a bit. The safe spot helps but sometimes I just go in the centre and tank the hits**
-  - comment · 5h ago · lionsurvivor2 · score 20
+  - comment · 6h ago · lionsurvivor2 · score 20
   - matched: safe spot
   - re: Loot from 82-92 Sailing via Bounty Tasks
   - https://www.reddit.com/r/ironscape/comments/1w76sp3/loot_from_8292_sailing_via_bounty_tasks/p7sqn6r/
 - **credit to the safe spot discovery to u/[Impossible\_Cherry285](https://www.reddit.com/user/Impossible_Cherry285/) from 3 months ago [https://www.reddit.com/r/ironscape/comments/1u1**
-  - comment · 8h ago · loopuleasa · score 20
+  - comment · 9h ago · loopuleasa · score 20
   - matched: safe spot
   - re: PSA: Added a mage safespot for Armored Krakens to 
   - https://www.reddit.com/r/ironscape/comments/1w736ns/psa_added_a_mage_safespot_for_armored_krakens_to/p7rnnlz/
 - **First of all check the ladlor chart, I gave advice that's highly based on that while you give advice based on reddit advice(bad). This anti efficiency thing in terms of bossing doe**
-  - comment · 10h ago · AssholeHealth · score 20
+  - comment · 11h ago · AssholeHealth · score 20
   - matched: pathing
   - re: Order for Zenyte Crafting?
   - https://www.reddit.com/r/ironscape/comments/1w6v1g0/order_for_zenyte_crafting/p7rb71c/
 - **mate comparing something that a lvl 70 cb could kill vs something that requires grandmaster quest to kill and huge gear investment. Dude you could safe spot venanatis/calisto/vetio**
-  - comment · 11h ago · Money-Tutor-5847 · score 20
+  - comment · 12h ago · Money-Tutor-5847 · score 20
   - matched: safe spot
   - re: PVP update to save the game
   - https://www.reddit.com/r/2007scape/comments/1w6rtrv/pvp_update_to_save_the_game/p7qy7t3/
@@ -595,47 +561,52 @@
   - re: Preferred astral rune method
   - https://www.reddit.com/r/ironscape/comments/1w6oib2/preferred_astral_rune_method/p7plowj/
 - **On my uim I safe spot ogresses with magic for alchs **
-  - comment · 22h ago · Definition92 · score 20
+  - comment · 23h ago · Definition92 · score 20
   - matched: safe spot
   - re: Advice: Money makers for early mid game newbie?
   - https://www.reddit.com/r/ironscape/comments/1w6gjap/advice_money_makers_for_early_mid_game_newbie/p7o8dtj/
+- **He had dropped untradeable items. So, Infernal capes, fire capes, void knight pieces, etc. **
+  - comment · 2h ago · Just_Craft6690 · score 17
+  - matched: untradeable, void knight
+  - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
+  - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7ukucu/
 - **Make Solo HC Behavior Consistent With Group HC**
-  - r/2007scape · 3h ago · tbko97 · score 17
+  - r/2007scape · 4h ago · tbko97 · score 17
   - matched: classic, hardcore status
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w7cddq/make_solo_hc_behavior_consistent_with_group_hc/
 - **That's the point, Jagex needs to remove them. Just rip the band-aid off: yank that shit the fuck out of the game and replace every extant book of the dead with a cabbage codex. No **
-  - comment · 3h ago · no1singlemomghoster · score 17
+  - comment · 4h ago · no1singlemomghoster · score 17
   - matched: thralls, to be equipped
   - re: The main reason why the elemental necklaces were a
   - https://www.reddit.com/r/2007scape/comments/1w77qnf/the_main_reason_why_the_elemental_necklaces_were/p7tlzpe/
 - **Eating breaks the flinch state associated with a red x click. I'm not sure if that is what happens in this video, but one of the more common door/altar mistakes (a diff bandos meth**
-  - comment · 4h ago · OSRS_YeeHaw · +2 more in this thread on the same terms · score 17
+  - comment · 5h ago · OSRS_YeeHaw · +2 more in this thread on the same terms · score 17
   - matched: red x, flinch
   - re: Flinching mechanics question
   - https://www.reddit.com/r/ironscape/comments/1w6ou9l/flinching_mechanics_question/p7t7qhf/
 - **atleast for oda's case he lost, so no one called it rigged. would be another whole shitshow if he won 400b+ from his viewers duel arena time it was fair 50-50, only pid matter. thi**
-  - comment · 13h ago · Agreeable_Job_45 · score 17
+  - comment · 14h ago · Agreeable_Job_45 · score 17
   - matched: pid, duel arena
   - re: Is betting money on the outcome of a high fight al
   - https://www.reddit.com/r/2007scape/comments/1w6xkh7/is_betting_money_on_the_outcome_of_a_high_fight/p7qkgq6/
 - **They could bring RuneScape classic back**
-  - comment · 17h ago · Fuggedd · score 17
+  - comment · 18h ago · Fuggedd · score 17
   - matched: classic, runescape classic
   - re: Could it be possible to have one more version of r
   - https://www.reddit.com/r/2007scape/comments/1w6t672/could_it_be_possible_to_have_one_more_version_of/p7pnnmp/
 - **I appreciate the insight. I have yet to give just using Emberlight spec a shot for a more consistent experience. That'll miss 1/4 times vs the DWH missing 2/5 times, though I only **
-  - comment · 17h ago · Parthhay000 · score 17
+  - comment · 18h ago · Parthhay000 · score 17
   - matched: emberlight, stacked
   - re: Am I missing something, or does Sire just suck?
   - https://www.reddit.com/r/ironscape/comments/1w6sckk/am_i_missing_something_or_does_sire_just_suck/p7pmu66/
 - **There’s a method to stun it using a scorching bow, keeping it teleporting you and stepping back until it has like 50 health left using no protection prayers, then step under and le**
-  - comment · 17h ago · neon_cg · score 17
+  - comment · 18h ago · neon_cg · score 17
   - matched: scorching bow, killing blow
   - re: Am I missing something, or does Sire just suck?
   - https://www.reddit.com/r/ironscape/comments/1w6sckk/am_i_missing_something_or_does_sire_just_suck/p7ply64/
 - **Legit man, thralls genuinely are just so ubiquitous. And unlike veng which has clear tradeoffs like like timing, making sure you have the food to tank, and actually needing to take**
-  - comment · 21h ago · PsychologyRS · score 17
+  - comment · 22h ago · PsychologyRS · score 17
   - matched: spellbook swap, thralls
   - re: Don't stop with just the amulets, it's time to loo
   - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7oodf0/
@@ -644,12 +615,7 @@
   - matched: you don't need, entrana
   - re: i need a plan for my UIM
   - https://www.reddit.com/r/ironscape/comments/1w6w4tp/i_need_a_plan_for_my_uim/p7rmgm7/
-- **I was going to retract the part where I called you a liar since you were just unintentionally wrong, but if you're doubling down and saying this was your point then actually I gues**
-  - comment · 23h ago · WryGoat · score 14
-  - matched: damage cap, stalling
-  - re: Jagex, amulet of strength needs to be nerfed.
-  - https://www.reddit.com/r/2007scape/comments/1w65skj/jagex_amulet_of_strength_needs_to_be_nerfed/p7o1ewp/
 
 ---
 
-Not included: 854 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 870 findings older than 24h. Widen with `__osrs.report(48)` in the console.
