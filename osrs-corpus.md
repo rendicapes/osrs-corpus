@@ -1,6 +1,6 @@
 # OSRS Signal — last 24h
 
-2026-09-04 21:30 UTC · 124 findings after merging duplicates (from 219 raw hits; 76 single-term floor rows filtered)
+2026-09-04 21:35 UTC · 124 findings after merging duplicates (from 219 raw hits; 76 single-term floor rows filtered)
 
 ## Vanished — removed or deleted after posting  (8)
 
@@ -55,6 +55,14 @@
   - was comment, posted 9h before it went
   - https://www.reddit.com/r/2007scape/comments/1w44w9s/castle_wars_is_everyone_afk_or_throwing/p7kk54x/
 
+## Active bug notices (wiki)  (1)
+
+- **⚠ wiki notice channel started COLD — no prior membership stored, so nothing before now can be detected as added or removed**
+  - bugs · 3s ago · score 30
+  - matched: channel cold start
+  - first poll of a fresh store — today’s adds and removals are invisible
+  - https://oldschool.runescape.wiki/w/Template:Bug
+
 ## Bugs & exploits  (69)
 
 - **Fun fact: Killerwatts are one of the only enemies in the game that are aggro *on click* instead of aggro on hit, even if you are at max render distance. They can also be glitched i**
@@ -63,7 +71,7 @@
   - re: Killerwats when their peace is disturbed after tod
   - https://www.reddit.com/r/2007scape/comments/1w5aac7/killerwats_when_their_peace_is_disturbed_after/p7pjksf/
 - **Is this a bug?**
-  - comment · 8h ago · Shartfoot · score 34
+  - comment · 9h ago · Shartfoot · score 34
   - matched: bug, is this a bug
   - re: Drakan's Medallion activated shroom mode
   - https://www.reddit.com/r/2007scape/comments/1w701v3/drakans_medallion_activated_shroom_mode/p7rmwrv/
@@ -123,7 +131,7 @@
   - re: Why are people only talk about the new amulets now
   - https://www.reddit.com/r/2007scape/comments/1w6m6qo/why_are_people_only_talk_about_the_new_amulets/p7oa0hh/
 - **I think for the purpose of this conversation, most people might agree that minor issue amounts to an inconvenience or a perceived flaw of design or intent. Whereas a major issue is**
-  - comment · 13m ago · Wild_Moose_763 · score 13
+  - comment · 18m ago · Wild_Moose_763 · score 13
   - matched: bugs
   - re: Reading update posts these days
   - https://www.reddit.com/r/2007scape/comments/1w743os/reading_update_posts_these_days/p7uw01f/
@@ -188,12 +196,12 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w7begn/can_we_start_polling_new_rewards_and_new_content/
 - **>Like, he’s an IT guy, he should have known that every action he was taking was being fingerprinted. Clearly they weren't. Had he stopped earlier, when they still thought it was a **
-  - comment · 3h ago · Vegetable-Willow6702 · score 13
+  - comment · 4h ago · Vegetable-Willow6702 · score 13
   - matched: glitch
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7th7v8/
 - **I mean even back then the account recovery system was a known huge exploit that could never be closed. My point, was that people STILL act like a rouge JMod is a likely scenario be**
-  - comment · 3h ago · Zestyclose-Tough7451 · score 13
+  - comment · 4h ago · Zestyclose-Tough7451 · score 13
   - matched: exploit
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p7th6e3/
@@ -223,7 +231,7 @@
   - 0c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1w79ey9/xp_box_bug/
 - **pffftttt thats what you get for going for a bug abuse method lmao**
-  - comment · 4h ago · Fthepreviousowners · score 13
+  - comment · 5h ago · Fthepreviousowners · score 13
   - matched: bug
   - re: So this just happened..
   - https://www.reddit.com/r/ironscape/comments/1w77kv3/so_this_just_happened/p7t3jar/
@@ -333,7 +341,7 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w6wrw8/giga_dry_seeking_advice/
 - **Friendly reminder that u/pickleby07 still hasn't got an answer back since jagex made him lose his avernic *twice* to the same bug**
-  - comment · 14h ago · Fanci_ · score 13
+  - comment · 15h ago · Fanci_ · score 13
   - matched: bug
   - re: Reinstated after 1 Hour
   - https://www.reddit.com/r/2007scape/comments/1w6us1j/reinstated_after_1_hour/p7qas28/
@@ -474,7 +482,7 @@
   - re: (Blog Update) Elemental Amulet Discussion + Shark 
   - https://www.reddit.com/r/2007scape/comments/1w689k3/blog_update_elemental_amulet_discussion_shark/p7qeo9j/
 - **How? Cox you just respawn and keep going and can make more supplies if needed, I don't see how that is less forgiving. I suppose ToB is less forgiving, if the team wipes it's GG**
-  - comment · 15h ago · Parking-Cut8840 · score 26
+  - comment · 16h ago · Parking-Cut8840 · score 26
   - matched: ⚡ food per inventory slot
   - re: Dying in 150 toa
   - https://www.reddit.com/r/2007scape/comments/1w6uy5b/dying_in_150_toa/p7q2zg7/
@@ -504,18 +512,13 @@
   - re: Don't stop with just the amulets, it's time to loo
   - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7p4raw/
 
-## Mechanics & wiki corrections  (28)
+## Mechanics & wiki corrections  (27)
 
 - **First day of being a member (Christmas of 2005) and I really wanted to check out the duel arena. Guy ends up kicking my ass a few times, using a g maul spec. I had no idea what the**
   - comment · 1h ago · Easy-Reception-1159 · score 26
   - matched: equip option, maul spec
   - re: What is literally stupidest thing you did as kid /
   - https://www.reddit.com/r/2007scape/comments/1w779nc/what_is_literally_stupidest_thing_you_did_as_kid/p7uibd2/
-- **This nerf feels rushed and unintutiv**
-  - r/2007scape · 23h ago · sparksen · score 28
-  - matched: max hit, damage formula, max hit of
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1w6kty0/this_nerf_feels_rushed_and_unintutiv/
 - **I use spells in slayer all the time when I wanna be lazy and safe spot I'd they have an ele weakness. Now I have +2 max hit. **
   - comment · 5h ago · cardgamesareforplay · score 26
   - matched: max hit, safe spot
@@ -552,7 +555,7 @@
   - re: The amulets themselves aren't what was so powerful
   - https://www.reddit.com/r/2007scape/comments/1w6me6p/the_amulets_themselves_arent_what_was_so_powerful/p7of5vj/
 - **Has a RuneScape classic feel to it, love it**
-  - comment · 29m ago · FarmerAcceptable5860 · score 17
+  - comment · 34m ago · FarmerAcceptable5860 · score 17
   - matched: classic, runescape classic
   - re: Fresh Spawn Painting
   - https://www.reddit.com/r/2007scape/comments/1w77sry/fresh_spawn_painting/p7usi6b/
@@ -587,7 +590,7 @@
   - re: PVP update to save the game
   - https://www.reddit.com/r/2007scape/comments/1w6rtrv/pvp_update_to_save_the_game/p7qy7t3/
 - **I haven't even built a cannon yet on my sloop lol those are definitely on my radar I didn't know they had a safe spot thank you much! **
-  - comment · 17h ago · CptSmackThat · score 20
+  - comment · 18h ago · CptSmackThat · score 20
   - matched: safe spot
   - re: Preferred astral rune method
   - https://www.reddit.com/r/ironscape/comments/1w6oib2/preferred_astral_rune_method/p7plowj/
@@ -637,7 +640,7 @@
   - re: Don't stop with just the amulets, it's time to loo
   - https://www.reddit.com/r/2007scape/comments/1w6b53j/dont_stop_with_just_the_amulets_its_time_to_look/p7oodf0/
 - **Your going to see SOTE suggested a lot but I'd try to get it done as the convenience is huge if you have any reason to deathpile. Finishing lumby elite is also huge qol for fairy r**
-  - comment · 8h ago · Not_Milta · score 15
+  - comment · 9h ago · Not_Milta · score 15
   - matched: you don't need, entrana
   - re: i need a plan for my UIM
   - https://www.reddit.com/r/ironscape/comments/1w6w4tp/i_need_a_plan_for_my_uim/p7rmgm7/
@@ -649,4 +652,4 @@
 
 ---
 
-Not included: 1069 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 854 findings older than 24h. Widen with `__osrs.report(48)` in the console.
