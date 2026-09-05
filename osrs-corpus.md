@@ -1,6 +1,6 @@
 # OSRS Signal — last 24h
 
-2026-09-05 01:56 UTC · 110 findings after merging duplicates (from 212 raw hits; 70 single-term floor rows filtered)
+2026-09-05 01:58 UTC · 110 findings after merging duplicates (from 212 raw hits; 70 single-term floor rows filtered)
 
 ## Vanished — removed or deleted after posting  (5)
 
@@ -35,7 +35,7 @@
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel started COLD — no prior membership stored, so nothing before now can be detected as added or removed**
-  - bugs · 7s ago · seen 2x · score 30
+  - bugs · 1m ago · seen 2x · score 30
   - matched: channel cold start
   - first poll of a fresh store — today’s adds and removals are invisible
   - https://oldschool.runescape.wiki/w/Template:Bug
@@ -53,12 +53,12 @@
   - re: Drakan's Medallion activated shroom mode
   - https://www.reddit.com/r/2007scape/comments/1w701v3/drakans_medallion_activated_shroom_mode/p7rmwrv/
 - **Prayer flicking wasnt figured out but it is a product of the games engine. Its technically a bug exploit that has existed sense rs2 was released. Activating a prayer did NOT cancel**
-  - comment · 25m ago · 02bluehawk · score 26
+  - comment · 26m ago · 02bluehawk · score 26
   - matched: bug, exploit
   - re: Any old timers remember when OSRS didn’t have G.E
   - https://www.reddit.com/r/2007scape/comments/1w7jl7x/any_old_timers_remember_when_osrs_didnt_have_ge/p7w6pop/
 - **Yeah that’s what happens when you stream on a site with virtually zero ToS while playing a game that does have ToS. Bound to break it eventually, you see it all the time on kick be**
-  - comment · 59m ago · dmfuller · score 26
+  - comment · 1h ago · dmfuller · score 26
   - matched: bugs, glitches
   - re: Odablock suspended for side bets
   - https://www.reddit.com/r/2007scape/comments/1w7b6v6/odablock_suspended_for_side_bets/p7w0zv4/
@@ -108,7 +108,7 @@
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w72p93/mobile_bug_incomplete_menu_when_casting/
 - **Everyone who's ever done it has been given leeway, and now that Jagex has taken a clear stance and used Oda as an example Im sure people doing it in the future will be punished har**
-  - comment · 43m ago · Anything_ThatWorks · score 13
+  - comment · 45m ago · Anything_ThatWorks · score 13
   - matched: bug
   - re: Odablock suspended for side bets
   - https://www.reddit.com/r/2007scape/comments/1w7b6v6/odablock_suspended_for_side_bets/p7w3leo/
@@ -356,7 +356,7 @@
 ## Jagex & J-Mod  (3)
 
 - **There's a bunch of bugs that got added with the mobile update yesterday, I don't think there's anything you can do about that one until it gets fixed. It's listed as a known issue **
-  - comment · 10m ago · cucumberflant · score 28
+  - comment · 11m ago · cucumberflant · score 28
   - matched: bugs, known issue
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w6vw5v/have_a_question_about_the_game_or_the_subreddit/p7w961b/
@@ -434,7 +434,7 @@
   - re: Saradomin forbid a Midgame Iron get a lil motion
   - https://www.reddit.com/r/2007scape/comments/1w6z05d/saradomin_forbid_a_midgame_iron_get_a_lil_motion/p7r6toi/
 - **> my main goal was to get some solid tank gear for Zulrah Problem here is zulrah is too accurate for tank to be much use. Also, you generally are tanking ranged attacks and mage ro**
-  - comment · 36m ago · uscrick · score 16
+  - comment · 38m ago · uscrick · score 16
   - matched: without needing, demonbane
   - re: Where should I go next with my gear progression?
   - https://www.reddit.com/r/ironscape/comments/1w6skok/where_should_i_go_next_with_my_gear_progression/p7w4sh4/
@@ -467,7 +467,7 @@
   - re: I wish I could customize how agressive the game de
   - https://www.reddit.com/r/2007scape/comments/1w73w34/i_wish_i_could_customize_how_agressive_the_game/p7sfnt7/
 - **I have a hardcore UIM. Well I died a few times, but I haven't used any death storage or death piling. I'm 1595 total level. I have barrows gloves, I've done all quest that require **
-  - comment · 48m ago · High-Yield-Only · score 17
+  - comment · 49m ago · High-Yield-Only · score 17
   - matched: max cape, entrana
   - re: I made an UIM, wish me luck!
   - https://www.reddit.com/r/ironscape/comments/1w746i7/i_made_an_uim_wish_me_luck/p7w2uf6/
@@ -574,4 +574,4 @@
 
 ---
 
-Not included: 865 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 861 findings older than 24h. Widen with `__osrs.report(48)` in the console.
