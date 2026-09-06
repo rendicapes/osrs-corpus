@@ -1,32 +1,33 @@
 # OSRS Signal — last 24h
 
-2026-09-06 20:37 UTC · 85 findings after merging duplicates (from 136 raw hits; 40 single-term floor rows filtered)
+2026-09-06 20:45 UTC · 85 findings after merging duplicates (from 136 raw hits; 40 single-term floor rows filtered)
+collector health · bugpages: ok (173 flagged · coverage: continuous) · 3s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 5s ago · search: ok · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 1s ago
 
 ## Vanished — removed or deleted after posting  (5)
 
 - **🗑 vanished from reddit — removed (deleted) — Hunter Rumour Bug?? Wild Kebbit**
-  - vanished · 14h ago · IndependentBox433 · score 48
+  - vanished · 15h ago · IndependentBox433 · score 48
   - matched: vanished, bug, for some reason
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1w7o4xo/hunter_rumour_bug_wild_kebbit/
   - captured before it went:
     > Can anyone explain to me why this particular task is not counting for some reason? Despite hunting the correct monster and claiming loot but not progressing the task?? Unless if I am missing something, this has been driving me up the wall. [1. Trap Set](https://preview.redd.it/31s4sy3w2mnh1.png?width=1646&format=png&auto=webp&s=1b495d193f47fcb9c0c0c001f14da4f08ed0ec09) https://preview.redd.it/wsydl0803mnh1.png?width=1624&format=png&auto=webp&s=5b67aea946350aed62ef2d0d3e181011290abe9d [3. Claiming loot but no progression on the task.](https://preview.redd.it/ww5w79b33mnh1.png?width=1637&format=png&auto=webp&s=529e20b3adc8c754487861dbe87ea21756bc53a4) [4. The correct monster to hunt yet not counting](https://preview.redd.it/hb9c83mj3mnh1.png?width=1883&format=png&auto=webp&s=e39ef2b777ce2f129ac86ad0b0fee893a7840657)
 - **🗑 vanished from reddit — removed (deleted) — Viggora glitch on master clue scroll step**
-  - r/2007scape, vanished · 14h ago · Eptasticfail · seen 2x · score 48
+  - r/2007scape, vanished · 15h ago · Eptasticfail · seen 2x · score 48
   - matched: vanished, glitch, can't complete
   - was r/2007scape, posted 6h before it went
   - https://www.reddit.com/r/2007scape/comments/1w8fkhf/viggora_glitch_on_master_clue_scroll_step/
   - captured before it went:
     > I've tried just about everything at this stage. Has anyone else had this issue? I see Viggora spawned at the slayer tower and in the wildy but he's named "mysterious ghost," and he does not spawn in Edgeville. I can't complete my master clue scroll because of this, has anyone else had this problem?
 - **🗑 vanished from reddit — deleted by the author — I'm pretty bad at the game too, I only have hard CAs and can 1 flick almost consistently. Interval timing is the problem here, sho**
-  - vanished · 14h ago · Ceronash8418 · score 45
+  - vanished · 15h ago · Ceronash8418 · score 45
   - matched: vanished, shouldn't be able
   - was comment, posted 23h before it went
   - https://www.reddit.com/r/2007scape/comments/1w7rvej/content_creatorsstreamers_and_auto_clickers/p7xaesq/
   - captured before it went:
     > I'm pretty bad at the game too, I only have hard CAs and can 1 flick almost consistently. Interval timing is the problem here, shouldn't be able to leave the orb and return with no loss in interval. Interval should naturally start over if you leave.
 - **🗑 vanished from reddit — removed (reddit) — Mobile bugs**
-  - vanished · 14h ago · PragmaticQ · score 45
+  - vanished · 15h ago · PragmaticQ · score 45
   - matched: vanished, bugs
   - was r/2007scape, posted 16h before it went
   - https://www.reddit.com/r/2007scape/comments/1w80ffz/mobile_bugs/
@@ -66,12 +67,12 @@
   - re: Oda getting a 3 day is unreal
   - https://www.reddit.com/r/2007scape/comments/1w87bgc/oda_getting_a_3_day_is_unreal/p82avlz/
 - **HOLD. Genuinely never worth taking off any iron. Some day they might add more uses for enh, you could die twice on accident and lose it, weird quest instances, strange bugs, wilder**
-  - comment · 21h ago · uscrick · score 26
+  - comment · 22h ago · uscrick · score 26
   - matched: bugs, exploits
   - re: Should I turn the extra into crystals?
   - https://www.reddit.com/r/ironscape/comments/1w863r9/should_i_turn_the_extra_into_crystals/p824hr2/
 - **Twinflame and Mad Angel Bug**
-  - r/2007scape · 19h ago · StrongLog4876 · score 25
+  - r/2007scape · 20h ago · StrongLog4876 · score 25
   - matched: bug, wiki says
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w8hivo/twinflame_and_mad_angel_bug/
@@ -86,7 +87,7 @@
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1w8nt96/have_a_question_about_the_game_or_the_subreddit/p855imh/
 - **[Bug?] Ring of wealth imbued**
-  - r/2007scape · 13h ago · Carrot-Time-417 · score 18
+  - r/2007scape · 14h ago · Carrot-Time-417 · score 18
   - matched: bug, ring of wealth
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1w8ojp3/bug_ring_of_wealth_imbued/
@@ -101,27 +102,27 @@
   - re: What is the longest recorded dry streak?
   - https://www.reddit.com/r/2007scape/comments/1w8elbu/what_is_the_longest_recorded_dry_streak/p828o01/
 - **That was a bug in rs3 and it was a specific sequence of unlocks and events that caused the bug, nothing to do with a "seed" or the account's rsn or anything. He did things in an un**
-  - comment · 21h ago · Om3gaWeird · score 18
+  - comment · 22h ago · Om3gaWeird · score 18
   - matched: bug, in rs3
   - re: What is the longest recorded dry streak?
   - https://www.reddit.com/r/2007scape/comments/1w8elbu/what_is_the_longest_recorded_dry_streak/p8247jo/
 - **yea looks like a glitch, you should've gotten it. also 74% tick usage is really bad you gotta get that up, although it's not THAT bad if you're hyperfocusing on everything else to **
-  - comment · 1m ago · NeoWonderfulDeath · score 13
+  - comment · 9m ago · NeoWonderfulDeath · score 13
   - matched: glitch
   - re: Perfect Hunllef
   - https://www.reddit.com/r/2007scape/comments/1w973qh/perfect_hunllef/p88aq76/
 - **Had the same bug happen to me, was stoked how clean of a kill I had and didn’t get the achievement. **
-  - comment · 5m ago · Luckythelock · score 13
+  - comment · 13m ago · Luckythelock · score 13
   - matched: bug
   - re: Perfect Hunllef
   - https://www.reddit.com/r/2007scape/comments/1w973qh/perfect_hunllef/p889ryj/
 - **Yes they're broken, you've gotten far too many unique rolls. Report bug to Jagex, they should remove those 3 extra claws for ya**
-  - comment · 29m ago · Grand-Letterhead-813 · score 13
+  - comment · 36m ago · Grand-Letterhead-813 · score 13
   - matched: bug
   - re: Are my TD's broken??
   - https://www.reddit.com/r/ironscape/comments/1w96mhf/are_my_tds_broken/p884wwc/
 - **How to board the Zenith ship in Red Reef Quest**
-  - search · 29m ago · jameilious · score 13
+  - search · 37m ago · jameilious · score 13
   - matched: bugged
   - 2c
   - https://www.reddit.com/r/2007scape/comments/1w96qw7/how_to_board_the_zenith_ship_in_red_reef_quest/
@@ -176,17 +177,17 @@
   - re: Allow us to Opt out of dropping wilderness keys on
   - https://www.reddit.com/r/2007scape/comments/1w8q8iw/allow_us_to_opt_out_of_dropping_wilderness_keys/p84jpqk/
 - **Brother I just want something to break free from the mental curse of "what if my accounts bugged" **
-  - comment · 13h ago · Personalberet49 · score 13
+  - comment · 14h ago · Personalberet49 · score 13
   - matched: bugged
   - re: What logging on to do most PVM feels like these da
   - https://www.reddit.com/r/2007scape/comments/1w8lzo2/what_logging_on_to_do_most_pvm_feels_like_these/p846kwb/
 - **Nah they're pretty responsive to bugs like this, credit where it's due.**
-  - comment · 15h ago · autosear · score 13
+  - comment · 16h ago · autosear · score 13
   - matched: bugs
   - re: Jagex, please look into the US servers ASAP
   - https://www.reddit.com/r/2007scape/comments/1w88f0d/jagex_please_look_into_the_us_servers_asap/p83s2yh/
 - **I cant tap to attack anyone anymore. its long press regardless of my setting being "tap where available" ive tried everything. they better fix that. it makes pvp unplayable. ive be**
-  - comment · 15h ago · Daglawrence · score 13
+  - comment · 16h ago · Daglawrence · score 13
   - matched: bugs
   - re: Osrs Mobile Rant
   - https://www.reddit.com/r/2007scape/comments/1w7kpmr/osrs_mobile_rant/p83rs76/
@@ -206,7 +207,7 @@
   - re: Mobile MES Appretiation
   - https://www.reddit.com/r/2007scape/comments/1w8jwi7/mobile_mes_appretiation/p839w52/
 - **sure, he was fired, didn't quit, i remembered that part wrong. if that makes you feel better. it's still confirmed by multiple people that he wasn't behind or exploiting the corp b**
-  - comment · 17h ago · Klanks-gauntlets · score 13
+  - comment · 18h ago · Klanks-gauntlets · score 13
   - matched: bug
   - re: Hacker Andrew Lakeman, 32, formerly Jed Sanderson 
   - https://www.reddit.com/r/2007scape/comments/1w7acbt/hacker_andrew_lakeman_32_formerly_jed_sanderson/p8394ro/
@@ -221,7 +222,7 @@
   - re: ELI5 updates that “cater to ironmen”; what that ev
   - https://www.reddit.com/r/2007scape/comments/1w7g4d0/eli5_updates_that_cater_to_ironmen_what_that_even/p830x5a/
 - **Do people genuinely give a fuck about osrs leaderboards? I thought it was a collective meme like shitting on green helms. End of the day osrs is a single player game and for most p**
-  - comment · 18h ago · Expensive_Parties · score 13
+  - comment · 19h ago · Expensive_Parties · score 13
   - matched: glitches
   - re: Oda getting a 3 day is unreal
   - https://www.reddit.com/r/2007scape/comments/1w87bgc/oda_getting_a_3_day_is_unreal/p82zic4/
@@ -241,7 +242,7 @@
   - re: Thanks for MES update, Jagex
   - https://www.reddit.com/r/2007scape/comments/1w7q9lp/thanks_for_mes_update_jagex/p82qzp7/
 - **Last mobile update is bugged to hell. XP goes to the top left corner when you click your stats and if you tap too quickly through quest dialogue everything freezes until you restar**
-  - comment · 19h ago · CautiouslyPlastic · score 13
+  - comment · 20h ago · CautiouslyPlastic · score 13
   - matched: bugged
   - re: Jagex pls
   - https://www.reddit.com/r/2007scape/comments/1w8gzg6/jagex_pls/p82orow/
@@ -375,7 +376,7 @@
   - re: Which one was it for you the most?
   - https://www.reddit.com/r/2007scape/comments/1w8r6nt/which_one_was_it_for_you_the_most/p85t7f4/
 - **\- TDs punish \- niche long range or accurate into rapid when approaching target for slight DPS increase \- Can AFK train ranged and defense with chins \- Can be useful for last hi**
-  - comment · 11h ago · _spaderdabomb_ · score 20
+  - comment · 12h ago · _spaderdabomb_ · score 20
   - matched: pathing
   - re: Is anyone opposed to this?
   - https://www.reddit.com/r/2007scape/comments/1w8oea1/is_anyone_opposed_to_this/p84l8nm/
@@ -400,7 +401,7 @@
   - re: How does defending my Iron with my maxed main at R
   - https://www.reddit.com/r/ironscape/comments/1w8ewvk/how_does_defending_my_iron_with_my_maxed_main_at/p8297qo/
 - **✎ Ultimate Ironman Guide/Agility — it's hard to describe prif course as low or moderately-low intensity in my opinion, the portals create variability, hard**
-  - wiki · 2h ago · Gazu · score 19
+  - wiki · 3h ago · Gazu · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Ultimate_Ironman_Guide%2FAgility
@@ -410,7 +411,7 @@
   - edit
   - https://oldschool.runescape.wiki/w/Adamantite_ore
 - **Telegrab broken on mobile.**
-  - r/osrs · 5h ago · K3STROS · score 17
+  - r/osrs · 6h ago · K3STROS · score 17
   - matched: item id, telegrab
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1w8y10h/telegrab_broken_on_mobile/
@@ -420,7 +421,7 @@
   - re: No Prayer Pot No Red X Cerb Ghosts
   - https://www.reddit.com/r/ironscape/comments/1w8utzf/no_prayer_pot_no_red_x_cerb_ghosts/p85xkmo/
 - **U can spellbook swap to thralls**
-  - comment · 7h ago · Hot-Insurance-1312 · score 17
+  - comment · 8h ago · Hot-Insurance-1312 · score 17
   - matched: spellbook swap, thralls
   - re: No Prayer Pot No Red X Cerb Ghosts
   - https://www.reddit.com/r/ironscape/comments/1w8utzf/no_prayer_pot_no_red_x_cerb_ghosts/p85gucy/
@@ -452,4 +453,4 @@
 
 ---
 
-Not included: 1001 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 936 findings older than 24h. Widen with `__osrs.report(48)` in the console.
