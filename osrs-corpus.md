@@ -1,17 +1,17 @@
 # OSRS Signal — last 24h
 
-2026-09-10 17:10 UTC · 100 findings after merging duplicates (from 217 raw hits; 87 single-term floor rows filtered)
-collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 16:14Z) · 55m ago · search: ok · 4m ago · vanished: ok (checked 3) · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 20m ago
+2026-09-10 18:06 UTC · 99 findings after merging duplicates (from 211 raw hits; 86 single-term floor rows filtered)
+collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 17:10Z) · 55m ago · search: ok · 0s ago · vanished: ok (checked 1) · 59s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 30m ago
 
-## Bugs & exploits  (40)
+## Bugs & exploits  (39)
 
 - **Kalphite Queen - Bugged**
-  - r/2007scape · 14h ago · NeoRandy · score 39
+  - r/2007scape · 15h ago · NeoRandy · score 39
   - matched: bug, anyone else having, you can still, killing blow
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wc64tk/kalphite_queen_bugged/
 - **Insta Kill Bug at Doom?**
-  - r/2007scape · 22h ago · Good1G0yle · score 34
+  - r/2007scape · 23h ago · Good1G0yle · score 34
   - matched: bug, is this a bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wbtoxf/insta_kill_bug_at_doom/
@@ -21,132 +21,132 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: The new elemental amulets will no longer be nerfed
   - https://www.reddit.com/r/2007scape/comments/1wak7ji/the_new_elemental_amulets_will_no_longer_be_nerfed/p8z61um/
 - **My fairy ring codes are all jumbled on mobile. I have to select Canifis to go to Aldarin for example. Honestly whoever was responsible for the last update should be fired and they **
-  - comment · 5h ago · SMURGwastaken · score 25
+  - comment · 6h ago · SMURGwastaken · score 25
   - matched: rollback
   - re: Anybody else having a hard time with quick prayer 
   - https://www.reddit.com/r/2007scape/comments/1wc8y98/anybody_else_having_a_hard_time_with_quick_prayer/p8xmgwq/
 - **Bug Report**
-  - r/2007scape, r/osrs · 21h ago · FlakyExamination9892 · seen 2x · score 25
+  - r/2007scape, r/osrs · 22h ago · FlakyExamination9892 · seen 2x · score 25
   - matched: bug, colossal pouch
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wbuwtk/bug_report/
-- **> The necklace of fangs didn't try to fill a niche like having bonus crossbow accuracy or something Right the fang fills the niche it was proposed to fill, an in-between item for r**
-  - comment · 1h ago · sosolid2k · score 18
-  - matched: unintended, thralls
-  - re: The new elemental amulets will no longer be nerfed
-  - https://www.reddit.com/r/2007scape/comments/1wak7ji/the_new_elemental_amulets_will_no_longer_be_nerfed/p8yute0/
 - **> Tick manipulation wasn't a game developer decision, it is a result of the mechanics of the game. Sap log is similar. The Sap log was an intentional developer design with an unint**
-  - comment · 17h ago · DivineInsanityReveng · score 21
+  - comment · 18h ago · DivineInsanityReveng · score 21
   - matched: unintended, tick manipulation
   - re: I know I’m late to the party, but I just want to s
   - https://www.reddit.com/r/2007scape/comments/1wa6sbd/i_know_im_late_to_the_party_but_i_just_want_to/p8un7x3/
 - **▶ 8 Year Old Exploit Was Finally Found!**
-  - youtube · 7h ago · Minty · seen 2x · score 19
+  - youtube · 8h ago · Minty · seen 2x · score 19
   - matched: exploit
   - youtube
   - https://www.youtube.com/watch?v=xBd8phNxqxE
 - **As a temporary workaround for the launcher issue you can go to your [character management](https://account.runescape.com/game), click "Edit characters" and hide the characters you **
-  - comment · 19h ago · Anachren · score 19
+  - comment · 20h ago · Anachren · score 19
   - matched: bug, you can still, you don't need
   - re: Jagex’s new AI support “Scaper” is completely brok
   - https://www.reddit.com/r/2007scape/comments/1wbya22/jagexs_new_ai_support_scaper_is_completely_broken/p8txqk1/
+- **> The necklace of fangs didn't try to fill a niche like having bonus crossbow accuracy or something Right the fang fills the niche it was proposed to fill, an in-between item for r**
+  - comment · 2h ago · sosolid2k · score 18
+  - matched: unintended, thralls
+  - re: The new elemental amulets will no longer be nerfed
+  - https://www.reddit.com/r/2007scape/comments/1wak7ji/the_new_elemental_amulets_will_no_longer_be_nerfed/p8yute0/
 - **Clicking chat tabs and spec/prayer orbs are bugged, you often just click right through or not at all. Connection has also been incredibly unstable lately. Difficulty logging in aft**
-  - comment · 1h ago · Snufolupogus · score 13
+  - comment · 2h ago · Snufolupogus · score 13
   - matched: bugged
   - re: Osrs mobile still doesn't work
   - https://www.reddit.com/r/2007scape/comments/1wcm6y8/osrs_mobile_still_doesnt_work/p8yw5sq/
 - **My right-click menu occasionally breaks and becomes unusable - does anyone else have this problem?**
-  - r/2007scape · 1h ago · d00m0 · score 13
+  - r/2007scape · 2h ago · d00m0 · score 13
   - matched: bug
   - 0c · 2↑
   - https://www.reddit.com/r/2007scape/comments/1wcm3ej/my_rightclick_menu_occasionally_breaks_and/
 - **Bug? Reagent Pouch don't work in Vampyrium bank**
-  - r/2007scape · 2h ago · JordhanMK · score 13
+  - r/2007scape · 3h ago · JordhanMK · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wcl4qi/bug_reagent_pouch_dont_work_in_vampyrium_bank/
 - **Exactly!!!! Except for Fire making, VERY IMPORTANT to end it on 50 with the "fair scales" "50/50" appearance.. Think HEAVILY about it and the greed of societal bug/rat/tick/leech/p**
-  - comment · 3h ago · NLS133 · score 13
+  - comment · 4h ago · NLS133 · score 13
   - matched: bug
   - re: Retirement Runescape Remarks for All Leaving Egypt
   - https://www.reddit.com/r/2007scape/comments/1wbzq5u/retirement_runescape_remarks_for_all_leaving/p8yatqu/
 - **Lol it's np, this bug has been in the game for a while, but if you didn't have any pets before then you'd never know.**
-  - comment · 4h ago · Psymonthe2nd · score 13
+  - comment · 5h ago · Psymonthe2nd · score 13
   - matched: bug
   - re: Why do we have to lose dogs on death?
   - https://www.reddit.com/r/2007scape/comments/1wchxsj/why_do_we_have_to_lose_dogs_on_death/p8xz6xx/
 - **There's a bug with any follower where they can become invisible, not sure if it's tied to instances or what. But if you click on the whistle button in your equipment screen, the do**
-  - comment · 4h ago · Psymonthe2nd · score 13
+  - comment · 5h ago · Psymonthe2nd · score 13
   - matched: bug
   - re: Why do we have to lose dogs on death?
   - https://www.reddit.com/r/2007scape/comments/1wchxsj/why_do_we_have_to_lose_dogs_on_death/p8xwiuw/
 - **Can you please look at the chat window on mobile? You can no longer click through it, makes a lot of content annoying to do, seems to always default to right clicking on chat insta**
-  - comment · 5h ago · 0O00O0O00O · +5 more in this thread on the same terms · score 13
+  - comment · 6h ago · 0O00O0O00O · +5 more in this thread on the same terms · score 13
   - matched: bugged
   - re: MES 2.0 Fixes - Client Update
   - https://www.reddit.com/r/2007scape/comments/1wcg2x0/mes_20_fixes_client_update/p8xi2hb/
 - **Would this really have been THAT op?**
-  - r/2007scape · 5h ago · Zorrostrian · score 13
+  - r/2007scape · 6h ago · Zorrostrian · score 13
   - matched: game breaking
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wcg7gc/would_this_really_have_been_that_op/
 - **Well she asks me before downloading cuz she is affraid lol. The default samsung stuff is getting everywhere, sometimes after seeing features i want to give android a try but 10 min**
-  - comment · 7h ago · Cookie_slayer99 · score 13
+  - comment · 8h ago · Cookie_slayer99 · score 13
   - matched: bugs
   - re: New iPhone will let us use our phones while we gam
   - https://www.reddit.com/r/2007scape/comments/1wcd0pe/new_iphone_will_let_us_use_our_phones_while_we/p8x5x7i/
 - **It was made smaller with the major UI overhaul they did a few years back, which was bad, but the recent update bugged it even worse with yellow click click throughs. Bad on top of **
-  - comment · 7h ago · Darksomely · score 13
+  - comment · 8h ago · Darksomely · score 13
   - matched: bugged
   - re: Is it just me or are the prayer/run/spec orbs real
   - https://www.reddit.com/r/2007scape/comments/1warobu/is_it_just_me_or_are_the_prayerrunspec_orbs/p8x37o1/
 - **When people started prayer flicking, and jagex started balancing around it instead of fixing it as a bug, it became a game for sweats, and there's not enough sweats to keep pking a**
-  - comment · 11h ago · ForegroundEclipse · score 13
+  - comment · 12h ago · ForegroundEclipse · score 13
   - matched: bug
   - re: when did things change?
   - https://www.reddit.com/r/2007scape/comments/1wcacrp/when_did_things_change/p8wduzr/
 - **I did this when I was 12 and glitched my gears of war 2 achievements **
-  - comment · 11h ago · controversial_drawer · score 13
+  - comment · 12h ago · controversial_drawer · score 13
   - matched: glitched
   - re: Admitted to “cheating”
   - https://www.reddit.com/r/2007scape/comments/1wcabr1/admitted_to_cheating/p8wcv2s/
 - **That's how most mature software shops code, though. I've been a professional developer for over a decade at this point and the last place I worked at devs mostly just ran three tic**
-  - comment · 11h ago · cplusequals · score 13
+  - comment · 12h ago · cplusequals · score 13
   - matched: bugs
   - re: VICTORY DOWN WITH AI SLOP!
   - https://www.reddit.com/r/2007scape/comments/1wbzupb/victory_down_with_ai_slop/p8wc62q/
 - **The UI bugs are known about and popped up with the client update a week ago, according to a mod comment in the discord they're preparing a fix for a bunch of them but having to get**
-  - comment · 11h ago · cucumberflant · score 13
+  - comment · 12h ago · cucumberflant · score 13
   - matched: bugs
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1wbd48v/have_a_question_about_the_game_or_the_subreddit/p8wbjxo/
 - **I've also experienced this bug and have seen at least one other post about it. If you have reported it in game there isn't much more to do.**
-  - comment · 13h ago · mothmonday · score 13
+  - comment · 14h ago · mothmonday · score 13
   - matched: bug
   - re: Gauntlet Resource Bug
   - https://www.reddit.com/r/2007scape/comments/1wc7uk5/gauntlet_resource_bug/p8vvc3h/
 - **Always glad to help another mobile player. Hope we can ride out MES 2.0 bugs for a few more weeks (months) lol**
-  - comment · 15h ago · Obety · score 13
+  - comment · 16h ago · Obety · score 13
   - matched: bugs
   - re: Puzzle Boxes on Mobile
   - https://www.reddit.com/r/2007scape/comments/1wbp452/puzzle_boxes_on_mobile/p8v3qxr/
 - **Are you sure this isn't the classic entity hider bug with hiding the click options on dead npcs?, sometimes it bugs and you end up with either an alive 1hp NPC with no options or a**
-  - comment · 16h ago · QuirkyRose · score 13
+  - comment · 17h ago · QuirkyRose · score 13
   - matched: bug
   - re: Unkillable great white after disconnect
   - https://www.reddit.com/r/2007scape/comments/1wc1g78/unkillable_great_white_after_disconnect/p8uvr1a/
 - **I actually kinda like writing code, in my experience writing the syntax myself results in having a much better "connection" with what I'm building, like if a certain button has uni**
-  - comment · 16h ago · PM_ME_FUTA_PEACH · score 13
+  - comment · 17h ago · PM_ME_FUTA_PEACH · score 13
   - matched: unintended
   - re: VICTORY DOWN WITH AI SLOP!
   - https://www.reddit.com/r/2007scape/comments/1wbzupb/victory_down_with_ai_slop/p8utsab/
 - **Yea I just hit this bug too :/ waste of a run. I didn't even notice kept thinking oh just grab more bark till I watched it happen in Real time. Bit of a bummer really.**
-  - comment · 17h ago · Fayt_Luxuria · score 13
+  - comment · 18h ago · Fayt_Luxuria · score 13
   - matched: bug
   - re: Corrupted Gauntlet Woodcutting Bug
   - https://www.reddit.com/r/2007scape/comments/1w69ye1/corrupted_gauntlet_woodcutting_bug/p8uk84n/
 - **Yeah when I was getting into learning it all, I asked one dude in a call why the number of lines mattered and he was making it sound like more lines means a stronger product but I’**
-  - comment · 17h ago · bosceltics23 · score 13
+  - comment · 18h ago · bosceltics23 · score 13
   - matched: bugs
   - re: Can we get jagex to send some cease and desist, le
   - https://www.reddit.com/r/2007scape/comments/1wa09o3/can_we_get_jagex_to_send_some_cease_and_desist/p8uh0db/
@@ -161,37 +161,37 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Jagex’s new AI support “Scaper” is completely brok
   - https://www.reddit.com/r/2007scape/comments/1wbya22/jagexs_new_ai_support_scaper_is_completely_broken/p8tq782/
 - **We should introduce DOGE to Runescape, enable all exploits against it and have a wishing well to burn it **
-  - comment · 20h ago · YurpeeTheHerpee · score 13
+  - comment · 21h ago · YurpeeTheHerpee · score 13
   - matched: exploits
   - re: Lost all faith in Jagex. The examine text should o
   - https://www.reddit.com/r/2007scape/comments/1wbwfhx/lost_all_faith_in_jagex_the_examine_text_should/p8tfvyi/
 - **I’m pretty sure they have dedicated teams to fix bugs and do quality of life**
-  - comment · 20h ago · versacexd123 · +2 more in this thread on the same terms · score 13
+  - comment · 21h ago · versacexd123 · +2 more in this thread on the same terms · score 13
   - matched: bugs
   - re: Jagex, Please Stop Adding Content and Fix the Game
   - https://www.reddit.com/r/2007scape/comments/1wbwe15/jagex_please_stop_adding_content_and_fix_the_game/p8tczdp/
 - **I’ve been having the same problem constantly on mobile using WiFi. Definitely seems like some sort of bug that *hopefully* gets fixed soon **
-  - comment · 21h ago · Skyblazed · score 13
+  - comment · 22h ago · Skyblazed · score 13
   - matched: bug
   - re: Lately its been taking 5-10 attempts on mobile to 
   - https://www.reddit.com/r/2007scape/comments/1wbv11w/lately_its_been_taking_510_attempts_on_mobile_to/p8t0ek9/
 - **Why does everyone think OP means that shadow needs a buff? "as good as a megarare should be" in other words, not as strong. Shadow has always needed a nerf to put it on the same le**
-  - comment · 21h ago · OyG5xOxGNK · score 13
+  - comment · 22h ago · OyG5xOxGNK · score 13
   - matched: intended?
   - re: Tumeken's shadow
   - https://www.reddit.com/r/2007scape/comments/1wbueps/tumekens_shadow/p8sztlz/
 - **How can you tell the results of your in game bug report?**
-  - comment · 21h ago · snowhusky5 · +6 more in this thread on the same terms · score 13
+  - comment · 22h ago · snowhusky5 · +6 more in this thread on the same terms · score 13
   - matched: bug
   - re: Bug Report
   - https://www.reddit.com/r/2007scape/comments/1wbuwtk/bug_report/p8sybc9/
 - **Bug Alert part 2 The banking Ultimate Ironman from yesterday now has found a bug that allows trading with other players**
-  - x · 22h ago · @HanahBananaOSRS · score 13
+  - x · 23h ago · @HanahBananaOSRS · score 13
   - matched: bug, gate:handle
   - 24♥ 3c · live:osrs bug since:2026-08-31
   - https://x.com/HanahBananaOSRS/status/2097752359136829605
 - **Interesting proposal! Personally I feel like it's not needed to have an item/gold sink for Prayer if the XP rates are reasonable. Bones on altar already give an insane xp/hr, so if**
-  - comment · 22h ago · kevthegamedev · score 13
+  - comment · 23h ago · kevthegamedev · score 13
   - matched: game breaking
   - re: Prayers vs Zombies: A Plants vs Zombies inspired m
   - https://www.reddit.com/r/2007scape/comments/1wbrh28/prayers_vs_zombies_a_plants_vs_zombies_inspired/p8sjtwu/
@@ -200,46 +200,41 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - matched: bugged
   - re: Gertrude Cat Update?
   - https://www.reddit.com/r/2007scape/comments/1wbr13q/gertrude_cat_update/p8sjnn8/
-- **Known bug, they should be resolving it but the fix won't be immediate **
-  - comment · 23h ago · Metazoick · score 13
-  - matched: bug
-  - re: After the new update on Android, I can no longer s
-  - https://www.reddit.com/r/2007scape/comments/1wbs6c6/after_the_new_update_on_android_i_can_no_longer/p8sb0wz/
 
 ## Jagex & J-Mod  (10)
 
 - **🟣 12 J-Mod replies — where's my arcane?**
-  - comment · 29m ago · JagexArcane · score 30
+  - comment · 1h ago · JagexArcane · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexArcane: hello there
   - https://www.reddit.com/comments/1wcjw5c
 - **The leaf trap instantly fails you if you step into it, so if you click on the center you end up pathing on the edge of it and always fail. I just tested and that's consistent regar**
-  - comment · 21h ago · Beretot · score 35
+  - comment · 22h ago · Beretot · score 35
   - matched: pathing, mod ash
   - re: Fuck this wall in particular
   - https://www.reddit.com/r/2007scape/comments/1wblf72/fuck_this_wall_in_particular/p8szu3o/
 - **🟣 15 J-Mod replies — MES 2.0 Fixes - Client Update**
-  - comment · 5h ago · JagexBlossom · score 30
+  - comment · 6h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 15, JagexBlossom: Hey can you let me know if this is happening after updating to 240.7? 
   - https://www.reddit.com/comments/1wcg2x0
 - **🟣 27 J-Mod replies — Jagex’s new AI support “Scaper” is completely broken and actively gaslights players**
-  - comment · 8h ago · JagexPogo · score 30
+  - comment · 9h ago · JagexPogo · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 27, JagexPogo: Hey! Firstly thanks for letting us know about the dropdown on the Jage
   - https://www.reddit.com/comments/1wbya22
 - **🟣 27 J-Mod replies — Lost all faith in Jagex. The examine text should obviously be "Wow"**
-  - comment · 8h ago · Mod_Oasis · score 30
+  - comment · 9h ago · Mod_Oasis · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 27, Mod_Oasis: Design choice.
   - https://www.reddit.com/comments/1wbwfhx
 - **🟣 27 J-Mod replies — bolt on Linux performance issues ?**
-  - comment · 8h ago · JagexRiver · score 30
+  - comment · 9h ago · JagexRiver · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 27, JagexRiver: Hey, thanks for the feedback. I have good news, two of those issues ha
   - https://www.reddit.com/comments/1wc47xn
 - **🟣 14 J-Mod replies — RuneScape: Dragonwilds Launching September 15th, 2026 on Console & PC!**
-  - comment · 19h ago · JagexDoom · score 30
+  - comment · 20h ago · JagexDoom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 14, JagexDoom: Should do, yep! That's the intent. 
   - https://www.reddit.com/comments/1txywv9
@@ -249,153 +244,143 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wcg2x0/mes_20_fixes_client_update/
 - **Id say the general guidelines we have seen from blog posts and Jmod comments are enough honestly. No sharing for illustrious achievements (ie quiver, infernal cape, Yama contracts,**
-  - comment · 6h ago · Frost_Foxes · score 26
+  - comment · 7h ago · Frost_Foxes · score 26
   - matched: without needing, integrity
   - re: Can I get clarity on account sharing?
   - https://www.reddit.com/r/2007scape/comments/1wc3lpk/can_i_get_clarity_on_account_sharing/p8xfiyc/
 - **Jagex’s new AI support “Scaper” is completely broken and actively gaslights players**
-  - search · 20h ago · Ok_Row_5730 · score 23
+  - search · 21h ago · Ok_Row_5730 · score 23
   - matched: [J-Mod reply], bug, jagex launcher
   - 118c
   - https://www.reddit.com/r/2007scape/comments/1wbya22/jagexs_new_ai_support_scaper_is_completely_broken/
 
-## "You can do this" finds  (13)
+## "You can do this" finds  (15)
 
 - **Inb4 we get "The Crucible", wherein you are unable to bring anything but equipped items and runes. Therein, you are set to face a continuous onslaught of progressively more challen**
-  - comment · 3h ago · LoganJFisher · score 35
+  - comment · 4h ago · LoganJFisher · score 35
   - matched: without needing, spellbook swap, crucible
   - re: God Capes give 0 Prayer bonus
   - https://www.reddit.com/r/2007scape/comments/1wbsvw3/god_capes_give_0_prayer_bonus/p8ybxi0/
 - **To reiterate what others said, lack of dps, spec management, and off prayer hits. Here's my suggestions for them: Lack of dps: watch redeye and see what tiles he attacks on and try**
-  - comment · 3h ago · illegalmist · score 28
+  - comment · 4h ago · illegalmist · score 28
   - matched: without needing, extra tick, overheal
   - re: Sensory Clouding advice needed
   - https://www.reddit.com/r/2007scape/comments/1wc5xkt/sensory_clouding_advice_needed/p8y8mtz/
 - **That's the one I personally favor the most too, but wanted to present some other possibilities. I think they're all appropriately balanced, given how cheap elemental runes are, tha**
-  - comment · 2h ago · LoganJFisher · score 26
+  - comment · 3h ago · LoganJFisher · score 26
   - matched: spellbook swap, inventory slot, one inventory slot
   - re: [Suggestion] The Crucible: A magic-oriented end-ga
   - https://www.reddit.com/r/2007scape/comments/1wclc8k/suggestion_the_crucible_a_magicoriented_endgame/p8yp578/
 - **Anglerfish with fish barrel **
-  - comment · 3h ago · LengthinessOk2080 · score 26
+  - comment · 4h ago · LengthinessOk2080 · score 26
   - matched: ⚡ food per inventory slot, fish barrel
   - re: Afk gp
   - https://www.reddit.com/r/ironscape/comments/1wcjgpy/afk_gp/p8y8yad/
 - **Check deaths coffer, also check to see if the degraded colossal pouch is in your bank. I believe they are different item IDs so if you banked it degraded then it wouldn’t have gone**
-  - comment · 21h ago · bad-at-game · score 26
+  - comment · 22h ago · bad-at-game · score 26
   - matched: ⚡ container misbehaving, colossal pouch
   - re: Bug Report
   - https://www.reddit.com/r/2007scape/comments/1wbuwtk/bug_report/p8t0ew5/
 - **I didn’t realize how lucky I was pulling the bottomless bucket on 3kc until years after**
-  - comment · 11h ago · get_ogre_yourself · score 24
+  - comment · 12h ago · get_ogre_yourself · score 24
   - matched: bottomless, bottomless bucket
   - re: MONOMADNESS on the high scores
   - https://www.reddit.com/r/2007scape/comments/1wc5xgi/monomadness_on_the_high_scores/p8w7mnu/
-- **Bottomless bucket on my first hespori was so nice for my account. Then also 3Kc berserker ring was right up there too**
-  - comment · 23h ago · ping3woodguy · +2 more in this thread on the same terms · score 24
+- **1kc bottomless bucket. Not the craziest thing but it catapulted me into a love of farming.**
+  - comment · 18h ago · Ginger_Bait69 · score 24
   - matched: bottomless, bottomless bucket
   - re: What is the spooniest spoon you have ever spooned?
-  - https://www.reddit.com/r/ironscape/comments/1wbl0v4/what_is_the_spooniest_spoon_you_have_ever_spooned/p8saokq/
+  - https://www.reddit.com/r/ironscape/comments/1wbl0v4/what_is_the_spooniest_spoon_you_have_ever_spooned/p8ul36g/
+- **Bottomless bucket on 2KC**
+  - comment · 21h ago · saywhatski19 · score 24
+  - matched: bottomless, bottomless bucket
+  - re: What is the spooniest spoon you have ever spooned?
+  - https://www.reddit.com/r/ironscape/comments/1wbl0v4/what_is_the_spooniest_spoon_you_have_ever_spooned/p8tk00a/
 - **Folks, this is finally it. We can finally kick off the 5+ years of engine work needed to represent the total count of items in a stack with a 64 bit long. The use case? 92233720368**
-  - comment · 19h ago · gomy1020 · score 17
+  - comment · 20h ago · gomy1020 · score 17
   - matched: inventory slot, single inventory slot
   - re: Is it time for these items to get upgrades?
   - https://www.reddit.com/r/2007scape/comments/1wbyp20/is_it_time_for_these_items_to_get_upgrades/p8tvpdo/
 - **2.147b hp in a single inventory slot? That is op! **
-  - comment · 19h ago · McNikkelsson · score 17
+  - comment · 20h ago · McNikkelsson · score 17
   - matched: inventory slot, single inventory slot
   - re: Is it time for these items to get upgrades?
   - https://www.reddit.com/r/2007scape/comments/1wbyp20/is_it_time_for_these_items_to_get_upgrades/p8tu1g7/
 - **you can skip pretty much everything in the wildy im pretty sure. i remember when the wildy bosses got re-made it was genuinely one of the coolest updates ever different clans going**
-  - comment · 10h ago · kxwbie · score 16
+  - comment · 11h ago · kxwbie · score 16
   - matched: you can skip, safety
   - re: when did things change?
   - https://www.reddit.com/r/2007scape/comments/1wcacrp/when_did_things_change/p8wga69/
 - **He doesn’t use any guide or wiki and he greenlogged scurrius and barrows at really low kc and got a 1kc bottomless bucket so has a misguided view of drop rates so far **
-  - comment · 13h ago · santacruzsourD · score 16
+  - comment · 14h ago · santacruzsourD · score 16
   - matched: bottomless, bottomless bucket, drop-rate complaint
   - re: MONOMADNESS on the high scores
   - https://www.reddit.com/r/2007scape/comments/1wc5xgi/monomadness_on_the_high_scores/p8vvuuo/
 - **1kc bottomless compost bucket Bro is human cereal, destined to be spooned**
-  - comment · 13h ago · Kuwabara03 · score 12
+  - comment · 14h ago · Kuwabara03 · score 12
   - matched: bottomless
   - re: WoW refugees status update
   - https://www.reddit.com/r/2007scape/comments/1wc4r9u/wow_refugees_status_update/p8vu6lu/
-- **Currently at 94 farming and 94 hespri kc, no bottomless compost bucket.**
-  - comment · 23h ago · Tinymac12 · +2 more in this thread on the same terms · score 12
+- **5 venator shards in 61 kc bottomless compost bucket in 5 kc**
+  - comment · 17h ago · WaterMockasin · score 12
   - matched: bottomless
   - re: What is the spooniest spoon you have ever spooned?
-  - https://www.reddit.com/r/ironscape/comments/1wbl0v4/what_is_the_spooniest_spoon_you_have_ever_spooned/p8sa63e/
+  - https://www.reddit.com/r/ironscape/comments/1wbl0v4/what_is_the_spooniest_spoon_you_have_ever_spooned/p8v02dw/
+- **1 kc bottomless compost bucket top that one fellas **
+  - comment · 20h ago · ShinyHonedges · score 12
+  - matched: bottomless
+  - re: What is the spooniest spoon you have ever spooned?
+  - https://www.reddit.com/r/ironscape/comments/1wbl0v4/what_is_the_spooniest_spoon_you_have_ever_spooned/p8tpxbp/
 
-## Mechanics & wiki corrections  (37)
+## Mechanics & wiki corrections  (35)
 
 - **I would help you out but I won’t be on today. If you can’t find someone, here is what has worked for me in the past: 0) Hop worlds and check the hole until you find a free one. Wri**
-  - comment · 9m ago · Bacon_And_Eggss · score 26
+  - comment · 1h ago · Bacon_And_Eggss · score 26
   - matched: safe spot, worked for me
   - re: Help getting to DKs safe spot
   - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8zik3n/
 - **I also don’t understand the argument because you only ever have one pet following you at a time Dogs, a novice quest reward that virtually everyone will have once the quest has bee**
-  - comment · 21h ago · OGDogJaw · score 26
+  - comment · 22h ago · OGDogJaw · score 26
   - matched: pathing, advanced pathing
   - re: Can all pets be updated to dog smart patfhinding? 
   - https://www.reddit.com/r/2007scape/comments/1wbm436/can_all_pets_be_updated_to_dog_smart_patfhinding/p8tajl8/
 - **I followed Reynolds “cheese” video and used tank gear. So justicar and a scythe for sol no spec weapons. The video was helpful but even with the tank gear and pillar running I died**
-  - comment · 22h ago · imnotyourdadd · score 26
+  - comment · 23h ago · imnotyourdadd · score 26
   - matched: safe spot, manticore
   - re: First quiver just killed Sol
   - https://www.reddit.com/r/2007scape/comments/1wb8bz3/first_quiver_just_killed_sol/p8swt79/
 - **I would do it on mobile and if you can get past by agroing only the ranger with protect from range, get into the safespot with the melee then just close the app and you'll log out **
-  - comment · 43m ago · Hughbear69 · score 20
+  - comment · 1h ago · Hughbear69 · score 20
   - matched: safespot
   - re: Help getting to DKs safe spot
   - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8zabi7/
-- **I just hope worlds until I see 2+ people in a world, safe spot and x log. Sometimes it takes a while but it’s whatever**
-  - comment · 1h ago · TheFrozenPoo · score 20
-  - matched: safe spot
-  - re: Help getting to DKs safe spot
-  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8z22in/
-- **You just have to keep trying, it can take a few minutes to set up. Go down, if you're getting hit by anything go back upstairs IMMEDIATELY before it lands. Wait a few seconds, try **
-  - comment · 1h ago · Grezzz · score 20
-  - matched: safe spot
-  - re: Help getting to DKs safe spot
-  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8z1y08/
-- **For the x log method you can pull the aggro of 1 and be fine with overhead. It’s only an issue if mage and range both aggro so spam ladder and hug the edge until you reach the safe**
-  - comment · 1h ago · brndiinoo · score 20
-  - matched: safespot
-  - re: Help getting to DKs safe spot
-  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8z1wlw/
-- **Help getting to DKs safe spot**
-  - r/ironscape · 1h ago · KingOfTheNorth7861 · score 20
-  - matched: safe spot
-  - 0c · 0↑
-  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/
-- **I explain it in the video but basically boils down to the order you tag the healers and standing one tile over from the traditional safespot. **
-  - comment · 1h ago · Mooleta · +2 more in this thread on the same terms · score 20
-  - matched: safespot
-  - re: Friendly Reminder:
-  - https://www.reddit.com/r/2007scape/comments/1wcm0ms/friendly_reminder/p8yv15t/
 - **RCB is quite obsolete for FC nowadays. Sunlight crossy is better dps than a dragon crossbow with regular dragon bolts, and only slightly less accurate. Jad: https://gearscape.net/c**
-  - comment · 17h ago · barcode-lz · score 25
+  - comment · 18h ago · barcode-lz · score 25
   - matched: safespot, thralls
   - re: Please help with Jad
   - https://www.reddit.com/r/2007scape/comments/1wbsja4/please_help_with_jad/p8uf2q3/
 - **Is it time for these items to get upgrades?**
-  - r/2007scape · 19h ago · bubblepop5 · score 24
+  - r/2007scape · 20h ago · bubblepop5 · score 24
   - matched: guthix rest, purple sweets
   - 0c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wbyp20/is_it_time_for_these_items_to_get_upgrades/
 - **For some reason, I literally forget all about death charge with everything else that's going on. I need to find a good spot in the cycle and put a tile down to remind me. Maybe on **
-  - comment · 14h ago · AINT-NOBODY-STUDYING · score 23
+  - comment · 15h ago · AINT-NOBODY-STUDYING · score 23
   - matched: for some reason, start tile
   - re: Sensory Clouding advice needed
   - https://www.reddit.com/r/2007scape/comments/1wc5xkt/sensory_clouding_advice_needed/p8vjegp/
 - **you can practice most contracts in the normal fight by just doing the mechanics. bloodied blows? just do a normal yama but keep low hp. forfeit breath? just do a normal yama but si**
-  - comment · 5h ago · Shot_Bad5114 · score 22
+  - comment · 6h ago · Shot_Bad5114 · score 22
   - matched: scorching bow, spear spec
   - re: I'm bad at pvm, realistically how hard will gettin
   - https://www.reddit.com/r/2007scape/comments/1wcfa6u/im_bad_at_pvm_realistically_how_hard_will_getting/p8xhy8t/
+- **If we were only going by the expected value, then the "correct" answer would be the third age chance. 50% of a 3rd age will always be more money than a TBow. With only one trial, t**
+  - comment · 4m ago · falconfetus8 · score 17
+  - matched: third age, 3rd age
+  - re: Would you rather have a 50% chance at a 3rd age pi
+  - https://www.reddit.com/r/2007scape/comments/1wcjfis/would_you_rather_have_a_50_chance_at_a_3rd_age/p8zx3tb/
 - **I hope Jagex does more polyrhythm in PvM. Right now, I feel like slow hitting weapons are only incentivized during punishes or hits with no attack delay. But I’d like moments in Pv**
-  - comment · 25m ago · SuperCarpenter4450 · score 17
+  - comment · 1h ago · SuperCarpenter4450 · score 17
   - matched: attack speed of, emberlight
   - re: Upcoming ascension crossbows being heavy ranged, w
   - https://www.reddit.com/r/2007scape/comments/1wcobkw/upcoming_ascension_crossbows_being_heavy_ranged/p8zes0l/
@@ -404,23 +389,43 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - matched: before the update, rat pits
   - re: Since dogs can dig for us, let us use our cats to 
   - https://www.reddit.com/r/2007scape/comments/1wc85od/since_dogs_can_dig_for_us_let_us_use_our_cats_to/p8z5txc/
-- **Wilderness Update: Remove wilderness clue step/New content**
-  - r/2007scape · 1h ago · PineappleDevourer · score 17
-  - matched: drop table, mod ayiza
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wcm6s4/wilderness_update_remove_wilderness_clue_stepnew/
+- **I just hope worlds until I see 2+ people in a world, safe spot and x log. Sometimes it takes a while but it’s whatever**
+  - comment · 2h ago · TheFrozenPoo · score 20
+  - matched: safe spot
+  - re: Help getting to DKs safe spot
+  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8z22in/
+- **You just have to keep trying, it can take a few minutes to set up. Go down, if you're getting hit by anything go back upstairs IMMEDIATELY before it lands. Wait a few seconds, try **
+  - comment · 2h ago · Grezzz · score 20
+  - matched: safe spot
+  - re: Help getting to DKs safe spot
+  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8z1y08/
+- **For the x log method you can pull the aggro of 1 and be fine with overhead. It’s only an issue if mage and range both aggro so spam ladder and hug the edge until you reach the safe**
+  - comment · 2h ago · brndiinoo · score 20
+  - matched: safespot
+  - re: Help getting to DKs safe spot
+  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/p8z1wlw/
+- **Help getting to DKs safe spot**
+  - r/ironscape · 2h ago · KingOfTheNorth7861 · score 20
+  - matched: safe spot
+  - 0c · 0↑
+  - https://www.reddit.com/r/ironscape/comments/1wcmlms/help_getting_to_dks_safe_spot/
+- **I explain it in the video but basically boils down to the order you tag the healers and standing one tile over from the traditional safespot. **
+  - comment · 2h ago · Mooleta · +2 more in this thread on the same terms · score 20
+  - matched: safespot
+  - re: Friendly Reminder:
+  - https://www.reddit.com/r/2007scape/comments/1wcm0ms/friendly_reminder/p8yv15t/
 - **\+2 is a small number on the scale of prayer bonus, especially when the previous user said they were "nearly the same as monk robes" which is uh, kind of a stretch. especially give**
-  - comment · 13h ago · DarkTemplar_of_Chaos · score 20
+  - comment · 14h ago · DarkTemplar_of_Chaos · score 20
   - matched: max hit, echo boots
   - re: God Capes give 0 Prayer bonus
   - https://www.reddit.com/r/2007scape/comments/1wbsvw3/god_capes_give_0_prayer_bonus/p8vxx4i/
 - **Just keep trying, stay calm and lure the healers away from jad to kill separately. Do not let healers heal jad to full. Hit each one once then run around to a safe spot safe from j**
-  - comment · 18h ago · Difficult-Bagg · score 20
+  - comment · 19h ago · Difficult-Bagg · score 20
   - matched: safe spot
   - re: Please help with Jad
   - https://www.reddit.com/r/2007scape/comments/1wbsja4/please_help_with_jad/p8u9aqv/
 - **Just do them. You don't have to risk anything, they take like an hour, two at most, and you're incredibly unlikely to get attacked. The only point you *might* get attacked is doing**
-  - comment · 18h ago · Pretend-Dot3557 · score 20
+  - comment · 19h ago · Pretend-Dot3557 · score 20
   - matched: safespot
   - re: God Capes give 0 Prayer bonus
   - https://www.reddit.com/r/2007scape/comments/1wbsvw3/god_capes_give_0_prayer_bonus/p8u594w/
@@ -430,57 +435,57 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Vampyre Krakens
   - https://www.reddit.com/r/ironscape/comments/1wbybzs/vampyre_krakens/p8u31xt/
 - **But if you’re tick eating 5 hp or 10hp doesn’t really change anything at all**
-  - comment · 19h ago · Ancient-Tomato1153 · score 20
+  - comment · 20h ago · Ancient-Tomato1153 · score 20
   - matched: tick eating
   - re: Is it time for these items to get upgrades?
   - https://www.reddit.com/r/2007scape/comments/1wbyp20/is_it_time_for_these_items_to_get_upgrades/p8twzca/
 - **Is this actually true though? I ran the DPS calculator for Iban's Blast vs. Earth Blast + Elemental Amulet against Dagannoth Rex (who has a 35% earth weakness). Because Blast spell**
-  - comment · 19h ago · Old-Chance8786 · score 20
+  - comment · 20h ago · Old-Chance8786 · score 20
   - matched: max hit, max hit of
   - re: an unintended side effect of elemental magic: iban
   - https://www.reddit.com/r/2007scape/comments/1waqxol/an_unintended_side_effect_of_elemental_magic/p8tvovc/
 - **Oh, I'm mistaken. They do have smart pathing! That's neat.**
-  - comment · 19h ago · Nebuli2 · +2 more in this thread on the same terms · score 20
+  - comment · 20h ago · Nebuli2 · +2 more in this thread on the same terms · score 20
   - matched: pathing
   - re: The king pet of all pets became best in slot today
   - https://www.reddit.com/r/2007scape/comments/1wblbmx/the_king_pet_of_all_pets_became_best_in_slot_today/p8tsrbi/
-- **God dhide, chest, legs, coif and vambraces. Rune crossbow, addy bolts regular and then diamond (e) for Jad. Rune kite or better as shield, Ava’s as cape, fury or glory for necklace**
-  - comment · 23h ago · ohioslayer · score 20
-  - matched: safe spot
-  - re: Please help with Jad
-  - https://www.reddit.com/r/2007scape/comments/1wbsja4/please_help_with_jad/p8sfj7f/
 - **✎ Random events — Fixed the random events table. It is no longer a total mess of boxes.**
-  - wiki · 4h ago · Rotce Rider · score 19
+  - wiki · 5h ago · Rotce Rider · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Random_events
 - **✎ Dry Cleaning — It doesn't work with just the helm,cape, legs and body, you need to unequip all items.**
-  - wiki · 12h ago · ~2026-BehindSaikasElizabeths17001 · score 19
+  - wiki · 13h ago · ~2026-BehindSaikasElizabeths17001 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Dry_Cleaning
+- **Wilderness Update: Remove wilderness clue step/New content**
+  - r/2007scape · 2h ago · PineappleDevourer · score 17
+  - matched: drop table, mod ayiza
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wcm6s4/wilderness_update_remove_wilderness_clue_stepnew/
 - **I mean I'd argue a tbow is the most life-changing thing in this game besides the ultra expensive third age items. There's a reason why "sell your entire bank for a tbow and rebuild**
-  - comment · 2h ago · larryjerry1 · score 17
+  - comment · 3h ago · larryjerry1 · score 17
   - matched: third age, 3rd age
   - re: Would you rather have a 50% chance at a 3rd age pi
   - https://www.reddit.com/r/2007scape/comments/1wcjfis/would_you_rather_have_a_50_chance_at_a_3rd_age/p8yo9x2/
 - **And lets u use thralls with spellbook swap.**
-  - comment · 2h ago · Sahib396 · score 17
+  - comment · 3h ago · Sahib396 · score 17
   - matched: spellbook swap, thralls
   - re: Araxxor tips - How to deal with venom? I’m 84 herb
   - https://www.reddit.com/r/ironscape/comments/1wch1id/araxxor_tips_how_to_deal_with_venom_im_84_herb/p8ymxcy/
 - **Continuing the new game mode discussion**
-  - r/2007scape · 18h ago · Independent-Top-9016 · score 17
+  - r/2007scape · 19h ago · Independent-Top-9016 · score 17
   - matched: tutorial island, ruleset
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wc10vo/continuing_the_new_game_mode_discussion/
 - **Red X still works? As in attacking, stepping under and then clicking the door?**
-  - comment · 20h ago · Former_Rip9229 · score 17
+  - comment · 21h ago · Former_Rip9229 · score 17
   - matched: red x, still works
   - re: Which is easier cerberus or alchemcial hydra?
   - https://www.reddit.com/r/ironscape/comments/1wboxdn/which_is_easier_cerberus_or_alchemcial_hydra/p8tk75c/
 - **Pretty solid proposal - I was just musing about an Entrana quest today that gives a reward of some ability to enter Entrana with weapons for the sake of not needing to regear const**
-  - comment · 20h ago · Jakey_Poo · score 17
+  - comment · 21h ago · Jakey_Poo · score 17
   - matched: untradeable, entrana
   - re: Prayers vs Zombies: A Plants vs Zombies inspired m
   - https://www.reddit.com/r/2007scape/comments/1wbrh28/prayers_vs_zombies_a_plants_vs_zombies_inspired/p8ti9y1/
@@ -489,32 +494,22 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - matched: thralls, guaranteed damage
   - re: Did Jagex forget about Slayer Dart/God spells?
   - https://www.reddit.com/r/2007scape/comments/1wbsga2/did_jagex_forget_about_slayer_dartgod_spells/p8sjl4l/
-- **“Following the [Trouver System Rework](https://oldschool.runescape.wiki/w/Update:Bank_Tags,_Trouver_System_Rework_%26_More!), untradeable items like clues and caskets go to the [gr**
-  - comment · 23h ago · Random-Lurker-117 · score 17
-  - matched: untradeable, death's office
-  - re: im still salty from losing a master in deep wildy
-  - https://www.reddit.com/r/2007scape/comments/1wbrpc2/im_still_salty_from_losing_a_master_in_deep_wildy/p8sbb44/
-- **For the entrana teleport item my pitch is for it to be a tiny hand held golem that pats you down before it teleports you. Looks like one of those gold guys from award ceremonies, c**
-  - comment · 23h ago · shoulder-soldier · score 17
-  - matched: entrana, teleport item
-  - re: Prayers vs Zombies: A Plants vs Zombies inspired m
-  - https://www.reddit.com/r/2007scape/comments/1wbrh28/prayers_vs_zombies_a_plants_vs_zombies_inspired/p8s77i2/
 - **Update Issues on Mobile**
-  - r/osrs · 22h ago · UncleSamTheMan · score 16
+  - r/osrs · 23h ago · UncleSamTheMan · score 16
   - matched: anyone else having, click box
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wbtjxm/update_issues_on_mobile/
 - **where's my arcane?**
-  - r/2007scape · 3h ago · LimpExtension1631 · score 13
+  - r/2007scape · 4h ago · LimpExtension1631 · score 13
   - matched: J-Mod reply · no bug content
   - 10c · 4↑
   - https://www.reddit.com/r/2007scape/comments/1wcjw5c/wheres_my_arcane/
 - **Smart pathing + a small chance to not spawn wizards if you’ve at least done enough clues to hit drop rate. If you’ve done 1000 masters imo you deserve a little bit of QoL when clog**
-  - comment · 16h ago · DamonHay · score 12
+  - comment · 17h ago · DamonHay · score 12
   - matched: pathing, drop-rate complaint
   - re: The king pet of all pets became best in slot today
   - https://www.reddit.com/r/2007scape/comments/1wblbmx/the_king_pet_of_all_pets_became_best_in_slot_today/p8uygnu/
 
 ---
 
-Not included: 1183 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1189 findings older than 24h. Widen with `__osrs.report(48)` in the console.
