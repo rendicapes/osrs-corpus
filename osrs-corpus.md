@@ -1,202 +1,207 @@
 # OSRS Signal — last 24h
 
-2026-09-12 08:05 UTC · 113 findings after merging duplicates (from 250 raw hits; 129 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 07:09Z) · 55m ago · search: ok · 0s ago · vanished: ok (nothing pending) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 41m ago
+2026-09-12 09:01 UTC · 111 findings after merging duplicates (from 250 raw hits; 129 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 08:05Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 7m ago
 
-## Bugs & exploits  (45)
+## Bugs & exploits  (44)
 
 - **It doesn't feel real, like they bugged the pet and there's gonna be a rollback or something lmao**
-  - comment · 22h ago · EFCgaming · score 38
+  - comment · 23h ago · EFCgaming · score 38
   - matched: bugged, rollback
   - re: Unbelievable RNG
   - https://www.reddit.com/r/ironscape/comments/1wdb0aa/unbelievable_rng/p94extw/
 - **The whole MLM needs a rebalancing. The upper level is barely better than the bottom, and you still have to go downstairs for these wheels and the hopper and banking. Why can I afk **
-  - comment · 19h ago · Lost_Internet532 · score 32
+  - comment · 20h ago · Lost_Internet532 · score 32
   - matched: bug, for some reason, tick manipulation
   - re: Remove the Waterwheel interaction in MLM.
   - https://www.reddit.com/r/2007scape/comments/1wdds96/remove_the_waterwheel_interaction_in_mlm/p957tz9/
 - **My friend tried to do this to a guy who befriended him out of nowhere and did godwars with him. The guy then tried to convince my friend that he had an opportunity to anti-lure som**
-  - comment · 17m ago · LabTeq · score 24
+  - comment · 1h ago · LabTeq · score 24
   - matched: bug, out of nowhere
   - re: How to waste lure/beg scammer’s time in OSRS?
   - https://www.reddit.com/r/2007scape/comments/1we5ydd/how_to_waste_lurebeg_scammers_time_in_osrs/p9b8op3/
 - **Not to mention lost status, but I don't expect a rollback, but some acknowledgement **
-  - comment · 17h ago · SourceAwkward · score 25
+  - comment · 18h ago · SourceAwkward · score 25
   - matched: rollback
   - re: Update On Recent Connectivity Issues
   - https://www.reddit.com/r/2007scape/comments/1wdhzva/update_on_recent_connectivity_issues/p961ffk/
 - **Thats not any better 🤣 I shouldn't be able to instafreez cuz i manual cast compared to auto**
-  - comment · 22h ago · Fetweakin · score 25
+  - comment · 23h ago · Fetweakin · score 25
   - matched: shouldn't be able, manual cast
   - re: [Suggestion] Give Players Ability to Autocast Spel
   - https://www.reddit.com/r/2007scape/comments/1wdb1em/suggestion_give_players_ability_to_autocast/p94hywo/
 - **Honest truth it was super fun, no guides or anything people just rushing stuff. Making gp was insanely difficult, like stupidly so, this was before even wintertodt. People in all k**
-  - comment · 7h ago · NoReIevancy · score 23
+  - comment · 8h ago · NoReIevancy · score 23
   - matched: bug, duel arena, wintertodt
   - re: For those who experienced it, what was Ironman mod
   - https://www.reddit.com/r/ironscape/comments/1wdv7z5/for_those_who_experienced_it_what_was_ironman/p99jbw3/
 - **Being a fully solo player is incompatible with group content, but it does not create any additional difficulties for wilderness content to justify separate balancing Being unable t**
-  - comment · 8h ago · OGDogJaw · score 23
+  - comment · 9h ago · OGDogJaw · score 23
   - matched: unintended, kill credit, drop table
   - re: Wilderness is lame when you dont pvp
   - https://www.reddit.com/r/2007scape/comments/1wdfwr3/wilderness_is_lame_when_you_dont_pvp/p996aeq/
 - **Brother, it is literally one of the best money makers right now. I understand game design is not everyone’s interest, but try to understand the goal of MK drop table. It has 2 BIS **
-  - comment · 13h ago · SuperCarpenter4450 · score 18
+  - comment · 14h ago · SuperCarpenter4450 · score 18
   - matched: not supposed to, drop table
   - re: Why is Maggot King's droptable so awful? (Also a g
   - https://www.reddit.com/r/ironscape/comments/1wdns3a/why_is_maggot_kings_droptable_so_awful_also_a/p97j5tm/
 - **No Barronite Guard after 1k+ Body Golem Kills**
-  - r/2007scape · 18h ago · JimberinoILV · score 18
+  - r/2007scape · 19h ago · JimberinoILV · score 18
   - matched: bugged, ring of wealth
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wdg6iv/no_barronite_guard_after_1k_body_golem_kills/
+- **Please jagex just one more bug that drops a body part to fill out the last zenyte jewelry upgrade **
+  - comment · 19m ago · SessionWorking7805 · +2 more in this thread on the same terms · score 13
+  - matched: bug
+  - re: What should the next Desert boss be?
+  - https://www.reddit.com/r/2007scape/comments/1we6yth/what_should_the_next_desert_boss_be/p9bex2r/
 - **DMM R4D Quest lamp Glitch**
-  - r/2007scape · 7m ago · Waterlogger20 · score 13
+  - r/2007scape · 1h ago · Waterlogger20 · score 13
   - matched: glitch
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1we6gmn/dmm_r4d_quest_lamp_glitch/
 - **Well yeah it wasn't supposed to be fun to die it was supposed to make the game more challenging which it did. Dying hardly matters anymore. The system had to be changed though beca**
-  - comment · 1h ago · GoalzRS · score 13
+  - comment · 2h ago · GoalzRS · score 13
   - matched: wasn't supposed to
   - re: 12 years ago today, Random Events were made entire
   - https://www.reddit.com/r/2007scape/comments/1wdpmcg/12_years_ago_today_random_events_were_made/p9aw643/
 - **Doom is my favourite boss. Love that silly bug. Most other content feels drab in comparison. Even after greenlog I’ve still gone back during bingos twice to get more drops. **
-  - comment · 2h ago · AdmiralCreamy · score 13
+  - comment · 3h ago · AdmiralCreamy · score 13
   - matched: bug
   - re: I though I hate Doom, turns out I love Doom and mi
   - https://www.reddit.com/r/ironscape/comments/1wdeafo/i_though_i_hate_doom_turns_out_i_love_doom_and/p9aphu6/
 - **Dogs already have the ability to dig. That’s the difference from every example you just gave. Everywhere in this thread people are predicting an apocalypse that does not exist. Rea**
-  - comment · 3h ago · zoomiedoolie · score 13
+  - comment · 4h ago · zoomiedoolie · score 13
   - matched: game breaking
   - re: Idea: Dogs should be able to dig at Barrows
   - https://www.reddit.com/r/2007scape/comments/1wdv5p5/idea_dogs_should_be_able_to_dig_at_barrows/p9alqqh/
 - **I am convinced Ghommals lucky penny is bugged with blood fury**
-  - r/2007scape · 4h ago · Nabiboulin · score 13
+  - r/2007scape · 5h ago · Nabiboulin · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1we172q/i_am_convinced_ghommals_lucky_penny_is_bugged/
 - **>You're not insane I just think the purpose of boss tasks is a bit lost here. It's not supposed to be an efficient way to grind anything, its a 4fun slayer divertion. I guess I don**
-  - comment · 5h ago · Happy_Background_879 · score 13
+  - comment · 6h ago · Happy_Background_879 · score 13
   - matched: not supposed to
   - re: Boss tasks should be reserved for bosses that don'
   - https://www.reddit.com/r/2007scape/comments/1wdq5mt/boss_tasks_should_be_reserved_for_bosses_that/p9a4hlx/
 - **Iron is very fun until you realize you’re just soft locked into not having anti venom resistance for literal months. The slow marginal increases are fun. Leveling skills without do**
-  - comment · 5h ago · Daishindo · score 13
+  - comment · 6h ago · Daishindo · score 13
   - matched: soft locked
   - re: Almost maxed main, is Iron that much better? Hones
   - https://www.reddit.com/r/2007scape/comments/1wcimtw/almost_maxed_main_is_iron_that_much_better_honest/p99xmc9/
 - **Thieving gnomes is good if you’ve got the level, also harpy bug swarms if you’ve got extra cannonballs **
-  - comment · 6h ago · BRDrake34 · +4 more in this thread on the same terms · score 13
+  - comment · 7h ago · BRDrake34 · +4 more in this thread on the same terms · score 13
   - matched: bug
   - re: Current meta for getting ranger boots?
   - https://www.reddit.com/r/ironscape/comments/1wdylpa/current_meta_for_getting_ranger_boots/p99p7q1/
 - **The beekeeper event was just always bugged and they even acknowledged it**
-  - comment · 6h ago · DeanxDog · score 13
+  - comment · 7h ago · DeanxDog · score 13
   - matched: bugged
   - re: 12 years ago today, Random Events were made entire
   - https://www.reddit.com/r/2007scape/comments/1wdpmcg/12_years_ago_today_random_events_were_made/p99ors7/
 - **Sounds like a bug.**
-  - comment · 6h ago · aspitzer · score 13
+  - comment · 7h ago · aspitzer · score 13
   - matched: bug
   - re: Day 1 of posting until we can put the butter on th
   - https://www.reddit.com/r/2007scape/comments/1wdy8i9/day_1_of_posting_until_we_can_put_the_butter_on/p99nn8c/
 - **Diatomaceous earth wouldn't be armor piercing unless you're a bug**
-  - comment · 9h ago · When_hop · score 13
+  - comment · 10h ago · When_hop · score 13
   - matched: bug
   - re: What exactly is earth magic?
   - https://www.reddit.com/r/2007scape/comments/1wdtx82/what_exactly_is_earth_magic/p98wobm/
 - **You can cut a bush near one of the ladders then go up it anytime something spawns it deaggros if it's a snake or bug. You world hop if it's a tribesman **
-  - comment · 10h ago · cardgamesareforplay · score 13
+  - comment · 11h ago · cardgamesareforplay · score 13
   - matched: bug
   - re: I was supposed to get barrows gloves today.
   - https://www.reddit.com/r/2007scape/comments/1wdt8ng/i_was_supposed_to_get_barrows_gloves_today/p98isr6/
 - **Emir Arena (Mage Arena) glitch?**
-  - r/osrs · 11h ago · JAYJAYDOOM · score 13
+  - r/osrs · 12h ago · JAYJAYDOOM · score 13
   - matched: glitch
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wds67p/emir_arena_mage_arena_glitch/
 - **>Am I insane? You're not insane I just think the purpose of boss tasks is a bit lost here. It's not supposed to be an efficient way to grind anything, its a 4fun slayer divertion. **
-  - comment · 11h ago · PatheticAndTragic · score 13
+  - comment · 12h ago · PatheticAndTragic · score 13
   - matched: not supposed to
   - re: Boss tasks should be reserved for bosses that don'
   - https://www.reddit.com/r/2007scape/comments/1wdq5mt/boss_tasks_should_be_reserved_for_bosses_that/p989bu7/
 - **BMR was the only real quest we got this year. The "new quests" were 5 quests that combined could be finished in under 1hour. It's nice to have them, but they're nothing really spec**
-  - comment · 11h ago · Oniichanplsstop · score 13
+  - comment · 12h ago · Oniichanplsstop · score 13
   - matched: bugs
   - re: What 2027 announcements at Runefest would make 202
   - https://www.reddit.com/r/2007scape/comments/1wdk9hw/what_2027_announcements_at_runefest_would_make/p986p8y/
 - **Im down for that if they fix the untargetable glitches people are using to take no damage.**
-  - comment · 11h ago · CareApart504 · score 13
+  - comment · 12h ago · CareApart504 · score 13
   - matched: glitches
   - re: It's Time to Revisit Spawn Timers at GWD
   - https://www.reddit.com/r/2007scape/comments/1wdr837/its_time_to_revisit_spawn_timers_at_gwd/p985exu/
 - **That is it! Quest Helper bugged out and I thought this meant wrong item. Turned helper off and was able to finish it. Thanks!**
-  - comment · 12h ago · Jumpy_Dealer6560 · score 13
+  - comment · 13h ago · Jumpy_Dealer6560 · score 13
   - matched: bugged
   - re: Need help with SOTE puzzle
   - https://www.reddit.com/r/2007scape/comments/1wdorvb/need_help_with_sote_puzzle/p97tnnb/
 - **I stg the drop rate is bugged. On all my accounts I’ve never gotten flippers before a few hundred KC**
-  - comment · 13h ago · GoodTimber · score 13
+  - comment · 14h ago · GoodTimber · score 13
   - matched: bugged
   - re: What is the item you've gone the most dry on?
   - https://www.reddit.com/r/2007scape/comments/1wdlywg/what_is_the_item_youve_gone_the_most_dry_on/p97fznk/
 - **From the [Summer Sweep Up they were introduced](https://oldschool.runescape.wiki/w/Update:Summer_Sweep_Up:_Combat) >For Elemental Weaknesses, most of them have been applied accordi**
-  - comment · 13h ago · Known_Complaint_1013 · score 13
+  - comment · 14h ago · Known_Complaint_1013 · score 13
   - matched: bug
   - re: Killterwats are weak to Air Magic when they should
   - https://www.reddit.com/r/2007scape/comments/1wdl1vm/killterwats_are_weak_to_air_magic_when_they/p97fvaf/
 - **Came here for this. It works much better. Plus, I think the click-position is bugged for mobile rn. **
-  - comment · 13h ago · Bilamonster · score 13
+  - comment · 14h ago · Bilamonster · score 13
   - matched: bugged
   - re: Do I just have fat fingers, or is it hard to consi
   - https://www.reddit.com/r/2007scape/comments/1wdnyla/do_i_just_have_fat_fingers_or_is_it_hard_to/p97dlq4/
 - **Past week it has been bugged after the MES update where it would click through. It’s fixed for me after the patch yesterday. **
-  - comment · 13h ago · Pj_o7 · score 13
+  - comment · 14h ago · Pj_o7 · score 13
   - matched: bugged
   - re: Do I just have fat fingers, or is it hard to consi
   - https://www.reddit.com/r/2007scape/comments/1wdnyla/do_i_just_have_fat_fingers_or_is_it_hard_to/p97d4tg/
 - **Sad :( I hope a JMod sees this and the bug gets fixed, it would be unlucky if I had to go kill it again :(**
-  - comment · 14h ago · Shortsinabag · score 13
+  - comment · 15h ago · Shortsinabag · score 13
   - matched: bug
   - re: My Chaos Elemental kill didn't count for the Wilde
   - https://www.reddit.com/r/2007scape/comments/1wdn4hy/my_chaos_elemental_kill_didnt_count_for_the/p976eot/
 - **Oh, you mean little bobby tables? [xkcd: Exploits of a Mom](https://xkcd.com/327/)**
-  - comment · 14h ago · Tinyacorn · score 13
+  - comment · 15h ago · Tinyacorn · score 13
   - matched: exploits
   - re: Drop tables should be viewable in-game
   - https://www.reddit.com/r/2007scape/comments/1wdhe3r/drop_tables_should_be_viewable_ingame/p973ykk/
 - **afaik PVPers think the dagger is terrible, I think its the spec accuracy bug though**
-  - comment · 16h ago · thcase · score 13
+  - comment · 17h ago · thcase · score 13
   - matched: bug
   - re: [Suggestion] Improve the Abyssal Dagger
   - https://www.reddit.com/r/2007scape/comments/1wda1de/suggestion_improve_the_abyssal_dagger/p96du0o/
 - **He’s questioning whether it’s a glitch because he believes he had only one left on his task, meaning that he should have received only 200 xp for one demon. He believes the glitch **
-  - comment · 17h ago · CentristOnion · score 13
+  - comment · 18h ago · CentristOnion · score 13
   - matched: glitch
   - re: Slayer question
   - https://www.reddit.com/r/2007scape/comments/1wdhphz/slayer_question/p95vgpq/
 - **Why would this be a glitch? All xp stacks if it can. Like when you use a melee attack it doesn’t split up into str/hp. It just shows one xp drop. **
-  - comment · 17h ago · where_is_your_god · score 13
+  - comment · 18h ago · where_is_your_god · score 13
   - matched: glitch
   - re: Slayer question
   - https://www.reddit.com/r/2007scape/comments/1wdhphz/slayer_question/p95uomd/
 - **Slayer question**
-  - r/2007scape · 17h ago · VillageSlight323 · score 13
+  - r/2007scape · 18h ago · VillageSlight323 · score 13
   - matched: glitch
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wdhphz/slayer_question/
 - **Must be related to that bug that counted battleaxes as woodcutting axes for purposes of using the bronze axe stump**
-  - comment · 18h ago · nekonotjapanese · score 13
+  - comment · 19h ago · nekonotjapanese · score 13
   - matched: bug
   - re: Bug Alert: The tortugan shield does not count as a
   - https://www.reddit.com/r/2007scape/comments/1wd39fw/bug_alert_the_tortugan_shield_does_not_count_as_a/p95osc3/
 - **Why do you think they're good? The point is that you have the tradeoff of being able to be attacked by other players. It's not supposed to be fun when you do, but the rates are int**
-  - comment · 18h ago · RedWingedScreecher · score 13
+  - comment · 19h ago · RedWingedScreecher · score 13
   - matched: not supposed to
   - re: Wilderness is lame when you dont pvp
   - https://www.reddit.com/r/2007scape/comments/1wdfwr3/wilderness_is_lame_when_you_dont_pvp/p95hj6u/
 - **The treadmill was a real suggestion people were pushing for in osrs. That's why I used it as an example. I'm not saying it's an example of rs3's excessive afk xp for everything. Th**
-  - comment · 19h ago · BadPunsGuy · score 13
+  - comment · 20h ago · BadPunsGuy · score 13
   - matched: not intended
   - re: I started playing this game when I was 11. 22 year
   - https://www.reddit.com/r/2007scape/comments/1wcq8g0/i_started_playing_this_game_when_i_was_11_22/p955drc/
@@ -206,65 +211,50 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago
   - re: i know summoning is never coming back, but can we 
   - https://www.reddit.com/r/2007scape/comments/1wcpje0/i_know_summoning_is_never_coming_back_but_can_we/p951qja/
 - **Mine isn’t working. Submitted several bug reports and they ain’t doing NOTHING**
-  - comment · 20h ago · OwlNo206 · score 13
+  - comment · 21h ago · OwlNo206 · score 13
   - matched: bug
   - re: Mobile is bugged - No left click attack option
   - https://www.reddit.com/r/2007scape/comments/1w78zf7/mobile_is_bugged_no_left_click_attack_option/p950vvd/
 - **Probably not. It was used to test run their in game bingo, it wasn't supposed to be a reoccurring event like leagues **
-  - comment · 21h ago · Saucin_6069 · score 13
+  - comment · 22h ago · Saucin_6069 · score 13
   - matched: wasn't supposed to
   - re: Are we ever getting a second Grid Master?
   - https://www.reddit.com/r/2007scape/comments/1wd5v81/are_we_ever_getting_a_second_grid_master/p94r4hj/
 - **It’s not that bad of an idea, I did over 250 at gnomes while my attention was elsewhere. It was very easy and felt like a much better use of my time than the other options. I ended**
-  - comment · 21h ago · Equivalent_Aardvark · score 13
+  - comment · 22h ago · Equivalent_Aardvark · score 13
   - matched: bugs
   - re: Pickpocketing Gnomes viable?
   - https://www.reddit.com/r/ironscape/comments/1wd22rf/pickpocketing_gnomes_viable/p94pvp0/
-- **If you logged out while the chest object was open, it would stay open and unusable on that world indefinitely. In 2018 the servers restarted for the first time in three(?) years an**
-  - comment · 23h ago · Jessveness · score 13
-  - matched: bugged
-  - re: RuneScape classic was my childhood, can’t we just 
-  - https://www.reddit.com/r/2007scape/comments/1wd8pwo/runescape_classic_was_my_childhood_cant_we_just/p948b8w/
-- **They could start by fixing the bugged accuracy on its spec**
-  - comment · 23h ago · AgileMasterpiece991 · score 13
-  - matched: bugged
-  - re: [Suggestion] Improve the Abyssal Dagger
-  - https://www.reddit.com/r/2007scape/comments/1wda1de/suggestion_improve_the_abyssal_dagger/p9489y6/
 
-## Jagex & J-Mod  (7)
+## Jagex & J-Mod  (6)
 
 - **🟣 10 J-Mod replies — These US/US East server issues are incredibly bizarre and shouldn't be dismissed**
-  - comment · 17h ago · JagexSarnie · score 30
+  - comment · 18h ago · JagexSarnie · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 10, JagexSarnie: Thanks for raising! The team are currently in an ongoing investigation
   - https://www.reddit.com/comments/1wcxu6s
 - **🟣 9 J-Mod replies — The Collection Log shouldn't exclude items to avoid upsetting people**
-  - comment · 17h ago · JagexGoblin · score 30
+  - comment · 18h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 9, JagexGoblin: We agree and think we do need to better standardise our stance on what
   - https://www.reddit.com/comments/1wdhg7u
 - **🟣 8 J-Mod replies — Pete Kayer's PvP Challenges are NOT being polled, but the cosmetic cape IS. Why?**
-  - comment · 17h ago · JagexGoblin · score 30
+  - comment · 18h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 8, JagexGoblin: Can see Pete Kayer's Challenges at the bottom of this poll from the Ca
   - https://www.reddit.com/comments/1wdhe61
 - **🟣 37 J-Mod replies — Day 1 of asking for sausage dogs**
-  - comment · 21h ago · Mod_Kieren · score 30
+  - comment · 22h ago · Mod_Kieren · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 37, Mod_Kieren: I just knew as soon as Ruff Situation went out that it was going to be
   - https://www.reddit.com/comments/1wdb8k3
-- **🟣 28 J-Mod replies — Fun Fact: This week's "Crab Quest" was developed by Ian Gower's wife!**
-  - comment · 23h ago · JagexMaylea · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 28, JagexMaylea: In fairness, I have been working on uncredited QOL work for most of my
-  - https://www.reddit.com/comments/1wc43ab
 - **Elite Black (Body/Legs?) x Ferocious Gloves Animation Glitch**
-  - r/2007scape · 4h ago · Prudent_Society_7221 · score 28
+  - r/2007scape · 5h ago · Prudent_Society_7221 · score 28
   - matched: glitch, mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1we19ws/elite_black_bodylegs_x_ferocious_gloves_animation/
 - **Drop tables should be viewable in-game**
-  - r/2007scape · 17h ago · Old-Tax-5308 · score 15
+  - r/2007scape · 18h ago · Old-Tax-5308 · score 15
   - matched: patch notes
   - 0c · 2↑
   - https://www.reddit.com/r/2007scape/comments/1wdhe3r/drop_tables_should_be_viewable_ingame/
@@ -272,42 +262,42 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago
 ## "You can do this" finds  (8)
 
 - **stuff like bones to peaches, blood barrage, kiting, step-under, pathing to off-tick the adds so they can be flicked for 0 damage is really cool and is very uncommonly used, whereas**
-  - comment · 11h ago · Frafabowa · score 26
+  - comment · 12h ago · Frafabowa · score 26
   - matched: ⚡ food per inventory slot, pathing, bones to peaches
   - re: It's Time to Revisit Spawn Timers at GWD
   - https://www.reddit.com/r/2007scape/comments/1wdr837/its_time_to_revisit_spawn_timers_at_gwd/p98bax4/
 - **The obvious one to me would be bones to peaches - not used that much but you may want them at some point. My main question though, is why would you want to remove the room anyway? **
-  - comment · 14h ago · Dangerous-Cable-1816 · score 26
+  - comment · 15h ago · Dangerous-Cable-1816 · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Can I remove lectern/ study room after 99 construc
   - https://www.reddit.com/r/ironscape/comments/1wdncz1/can_i_remove_lectern_study_room_after_99/p976dzp/
 - **Bones to peaches triples your trip length there too, so you want to be on normal spellbook anyway. Then you don't feel bad using tabs for only a few bones**
-  - comment · 20h ago · jameilious · score 26
+  - comment · 21h ago · jameilious · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What is a mechanic or tip that you think nobody se
   - https://www.reddit.com/r/ironscape/comments/1wd8ucd/what_is_a_mechanic_or_tip_that_you_think_nobody/p94y0u8/
 - **Also bones to peaches on shamans makes it a no brainer**
-  - comment · 20h ago · jameilious · score 26
+  - comment · 21h ago · jameilious · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What is a mechanic or tip that you think nobody se
   - https://www.reddit.com/r/ironscape/comments/1wd8ucd/what_is_a_mechanic_or_tip_that_you_think_nobody/p94xure/
 - **Generally what I do is pretty afk activities with minimal input. So fishing certain things like karams with fish barrel or sharks/monks without one. Or with one too of course. Moth**
-  - comment · 18h ago · Informal_Ad2658 · score 23
+  - comment · 19h ago · Informal_Ad2658 · score 23
   - matched: you can skip, fish barrel, log basket
   - re: 13 hour car ride ahead, what mobile activities sho
   - https://www.reddit.com/r/ironscape/comments/1wcpaqv/13_hour_car_ride_ahead_what_mobile_activities/p95obq2/
 - **Pro tip: Use 1 Dose of Compost pot on 1 bucket of compost (buyable from shop) = 1 bucket of super compost. 0 tick action. Adding volcanic ash after is a 2 tick action, but still fa**
-  - comment · 21h ago · themightyteafire · score 23
+  - comment · 22h ago · themightyteafire · score 23
   - matched: pro tip, 0 tick
   - re: What is a mechanic or tip that you think nobody se
   - https://www.reddit.com/r/ironscape/comments/1wd8ucd/what_is_a_mechanic_or_tip_that_you_think_nobody/p94maxo/
 - **With the new herb sack upgrade you usually can do a whole run without needing to note if you use different seeds on the disease free patches and normal ones. Does backload all the **
-  - comment · 22h ago · mackfuckinma · score 23
+  - comment · 23h ago · mackfuckinma · score 23
   - matched: without needing, herb sack
   - re: What did you not find out for an embarrassingly lo
   - https://www.reddit.com/r/ironscape/comments/1wcrfwy/what_did_you_not_find_out_for_an_embarrassingly/p94fs12/
 - **because half of people will finish by like 250 kc statistically. i remember getting tilted 800 kc in and people try saying "you can skip bowfa". yeah i can also flinch iron drags w**
-  - comment · 14h ago · Twin_Turbo · score 16
+  - comment · 15h ago · Twin_Turbo · score 16
   - matched: you can skip, flinch
   - re: My Iron feels like its in purgatory...
   - https://www.reddit.com/r/ironscape/comments/1wdlnne/my_iron_feels_like_its_in_purgatory/p96zrkb/
@@ -315,207 +305,207 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago
 ## Mechanics & wiki corrections  (53)
 
 - **And yes, I kept my notes. Through immensely tedious and stressful efforts slowing down footage for hours with a metronome and trial and error of the underlying mechanics, I underst**
-  - comment · 5h ago · Periwinkleditor · score 26
+  - comment · 6h ago · Periwinkleditor · score 26
   - matched: same tick, metronome
   - re: Reminder to never give up (i am going insane)
   - https://www.reddit.com/r/2007scape/comments/1wdyqxx/reminder_to_never_give_up_i_am_going_insane/p9a6bva/
 - **Tip for stew boosting Get a cat to the overgrown age. Train it to be a wily cat in the rat pits under port sarim (there is a minigame teleport for it). "Training" is as simple as t**
-  - comment · 15h ago · Jiriosity · score 26
+  - comment · 16h ago · Jiriosity · score 26
   - matched: max hit, max hit of, rat pits
   - re: What is a mechanic or tip that you think nobody se
   - https://www.reddit.com/r/ironscape/comments/1wd8ucd/what_is_a_mechanic_or_tip_that_you_think_nobody/p96p5l5/
 - **Or just set your logout timer to 20mins and park up in a safe spot. Many a time I've sorted out a kid mid cox run, it's a small shame cox/tob are less forgiving**
-  - comment · 20h ago · snacky_jack · score 26
+  - comment · 21h ago · snacky_jack · score 26
   - matched: safe spot, logout timer
   - re: The fire cape rant
   - https://www.reddit.com/r/2007scape/comments/1wdcxcv/the_fire_cape_rant/p94z3rg/
 - **ok so listen up if u wanna get into osrs pvp the first thing u absolutely have to do is pick a build like a 1def pure or a zerker or maybe a 60att mid because that dictates EVERYTH**
-  - comment · 21h ago · Unlucky_Strike_3054 · score 26
+  - comment · 22h ago · Unlucky_Strike_3054 · score 26
   - matched: tick eating, max hit, thralls
   - re: [Suggestion] Give Players Ability to Autocast Spel
   - https://www.reddit.com/r/2007scape/comments/1wdb1em/suggestion_give_players_ability_to_autocast/p94ntj8/
 - **Yep I'd honestly be completely fine with the autocast option being 1t slower/having a 1 tick delay from being equipped - which by extension automatically fixes the issue of being a**
-  - comment · 21h ago · Old_Pool9777 · score 26
+  - comment · 22h ago · Old_Pool9777 · score 26
   - matched: manual cast, brewed down
   - re: [Suggestion] Give Players Ability to Autocast Spel
   - https://www.reddit.com/r/2007scape/comments/1wdb1em/suggestion_give_players_ability_to_autocast/p94kgzs/
 - **I dont understand how the method of stepping under is fine in one situation and unbearable in another, literally doesn't make sense, when from tutorial island the game instructs yo**
-  - comment · 3h ago · TripsterStudios · score 25
+  - comment · 4h ago · TripsterStudios · score 25
   - matched: safe spot, tutorial island
   - re: will the ferox NPC that teaches u pvp spam click w
   - https://www.reddit.com/r/2007scape/comments/1wdyak4/will_the_ferox_npc_that_teaches_u_pvp_spam_click/p9aiq1n/
 - **If you want a cheaper option and are fine with not using mage you can just bowfa them from the safespot by the stairs. Not too much slower and only input would be ranging pots and **
-  - comment · 7h ago · Dreamingtoday · score 25
+  - comment · 8h ago · Dreamingtoday · score 25
   - matched: safespot, telegrab
   - re: Maging frost dragons tasks - blast VS wave and sun
   - https://www.reddit.com/r/ironscape/comments/1wdx4g4/maging_frost_dragons_tasks_blast_vs_wave_and/p99miuv/
 - **Watch out, he knows how to tick eat those beers and combo eat the kebabs**
-  - comment · 6h ago · gavriloe · score 24
+  - comment · 7h ago · gavriloe · score 24
   - matched: tick eat, combo eat
   - re: Let us attack random event NPCs in wildy
   - https://www.reddit.com/r/2007scape/comments/1wdpajg/let_us_attack_random_event_npcs_in_wildy/p99pqad/
 - **Summon boat and teleport to boat tabs are amazing and so convenient **
-  - comment · 13h ago · Sharkbeam · score 24
+  - comment · 14h ago · Sharkbeam · score 24
   - matched: summon boat, teleport to boat
   - re: Can I remove lectern/ study room after 99 construc
   - https://www.reddit.com/r/ironscape/comments/1wdncz1/can_i_remove_lectern_study_room_after_99/p97dc9x/
 - **the smallest room i can think of in varlamore is the top of the Aldarin windmill. maybe if you're splashing on a chicken the toy mouse can't move too much. the room should be an l **
-  - comment · 15h ago · NekoChess · score 24
+  - comment · 16h ago · NekoChess · score 24
   - matched: splashing, toy mouse
   - re: 2 tile spot Varlamore
   - https://www.reddit.com/r/2007scape/comments/1wdlhru/2_tile_spot_varlamore/p96rxwy/
 - **I did it before phoenix necklace with 82 or 83 magic. I used claws of guthix with charge autocasting it with void knight mace (the 80+ magic was good so brewing down twice didn't r**
-  - comment · 17h ago · math_rand_dude · score 24
+  - comment · 18h ago · math_rand_dude · score 24
   - matched: phoenix necklace, void knight
   - re: How do you all deal with SOTE Fragment of Seren?
   - https://www.reddit.com/r/ironscape/comments/1wdhcqc/how_do_you_all_deal_with_sote_fragment_of_seren/p95upm9/
 - **if you click under the two centre tiles after ur barrage hits while bursting abby demons, you will force teleport to that tile, ensuring the demons are stacked in a 3x3, with ice s**
-  - comment · 22h ago · Winter-Statement-617 · score 24
+  - comment · 23h ago · Winter-Statement-617 · score 24
   - matched: force teleport, stacked
   - re: What is a mechanic or tip that you think nobody se
   - https://www.reddit.com/r/ironscape/comments/1wd8ucd/what_is_a_mechanic_or_tip_that_you_think_nobody/p94j4fd/
 - **Do you want to sweat for it or do you want to chill and only click every few minutes while you watch movies/series? Combat stats are generally quicker to get than most other skills**
-  - comment · 13h ago · math_rand_dude · score 23
+  - comment · 14h ago · math_rand_dude · score 23
   - matched: stalls, stalls you, wintertodt
   - re: Fastest/easiest way to get any skill to lvl99 on a
   - https://www.reddit.com/r/2007scape/comments/1wdmdyw/fastesteasiest_way_to_get_any_skill_to_lvl99_on_a/p979sxx/
 - **if you miss ticks to run around... you click fish BEFORE you click boss. it backfills missed ticks. camp high hp. people for some reason like to sit low hp but unless you are plann**
-  - comment · 14h ago · S7EFEN · score 23
+  - comment · 15h ago · S7EFEN · score 23
   - matched: for some reason, tick eat
   - re: Tips on CG
   - https://www.reddit.com/r/2007scape/comments/1wdmxk1/tips_on_cg/p975zno/
 - **Fun fact about this time from someone who was there: you had a “trial period” to try out the new engine and could revert back to the classic look if you wanted. They changed the dr**
-  - comment · 3h ago · DriverOrganic7813 · score 22
+  - comment · 4h ago · DriverOrganic7813 · score 22
   - matched: classic, runescape classic
   - re: Runescape in 2004 as RS2 first came out. Wow
   - https://www.reddit.com/r/2007scape/comments/1wdhtg7/runescape_in_2004_as_rs2_first_came_out_wow/p9ancfy/
 - **Yeah it's been really fun tbh. I actually think it's probably the easiest raid when it comes to just getting through the rooms, but it has BY FAR the most ways to improve. In every**
-  - comment · 2h ago · LeeroyJenkinz13 · score 20
+  - comment · 3h ago · LeeroyJenkinz13 · score 20
   - matched: pathing
   - re: ToB Generational Spoon
   - https://www.reddit.com/r/ironscape/comments/1wavvrk/tob_generational_spoon/p9aq5f8/
 - **Safespot?**
-  - comment · 2h ago · bubblepop5 · +3 more in this thread on the same terms · score 20
+  - comment · 3h ago · bubblepop5 · +3 more in this thread on the same terms · score 20
   - matched: safespot
   - re: CM good :D
   - https://www.reddit.com/r/2007scape/comments/1we3776/cm_good_d/p9ap97c/
 - **Leviathan melee hits during enraged were the worst for me. It took me like 100 kc before I could consistently remember not to be lazy with my pathing lmao.**
-  - comment · 5h ago · YizWasHere · score 20
+  - comment · 6h ago · YizWasHere · score 20
   - matched: pathing
   - re: How it feels missing a prayer at Vardorvis
   - https://www.reddit.com/r/2007scape/comments/1wdxb93/how_it_feels_missing_a_prayer_at_vardorvis/p9a47dq/
 - **If you have an ironman, well worth it to have a main or two with a bond on standby, shaman safespot, wildy scout/ defender, splitting account**
-  - comment · 5h ago · Grand_Connection5864 · score 20
+  - comment · 6h ago · Grand_Connection5864 · score 20
   - matched: safespot
   - re: Current meta for getting ranger boots?
   - https://www.reddit.com/r/ironscape/comments/1wdylpa/current_meta_for_getting_ranger_boots/p9a0ruv/
 - **Absolute mess tbh. A lot of unplanned activity. Now there’s plenty of guides with optimal pathing to include items to pick up along the way for quests you don’t touch for 3 months.**
-  - comment · 7h ago · Grape-Train · score 20
+  - comment · 8h ago · Grape-Train · score 20
   - matched: pathing
   - re: For those who experienced it, what was Ironman mod
   - https://www.reddit.com/r/ironscape/comments/1wdv7z5/for_those_who_experienced_it_what_was_ironman/p99fv6d/
 - **Summoning being in the game was awful. Tons of upkeep for charms and the despawn timer gave me anxiety. It wasn’t annoying having content balanced around it and seeing everyone run**
-  - comment · 7h ago · LogForeJ · score 20
+  - comment · 8h ago · LogForeJ · score 20
   - matched: despawn timer
   - re: For those that played during the late 2008 - 2013 
   - https://www.reddit.com/r/2007scape/comments/1wdx8fg/for_those_that_played_during_the_late_2008_2013/p99fdso/
 - **+25% damage would give it a max hit of: - 65-65 in pvp - 69-69 in raids - 73-73 with slayer helm**
-  - comment · 11h ago · floor_wizard · score 20
+  - comment · 12h ago · floor_wizard · score 20
   - matched: max hit, max hit of
   - re: [Suggestion] Improve the Abyssal Dagger
   - https://www.reddit.com/r/2007scape/comments/1wda1de/suggestion_improve_the_abyssal_dagger/p98biat/
 - **You just know in like three years they're gonna fix all the annoying shit that everyone agrees on. I really like the boss but the issues are pretty glaring and should have been add**
-  - comment · 11h ago · _Rapalysis · score 20
+  - comment · 12h ago · _Rapalysis · score 20
   - matched: pathing
   - re: I though I hate Doom, turns out I love Doom and mi
   - https://www.reddit.com/r/ironscape/comments/1wdeafo/i_though_i_hate_doom_turns_out_i_love_doom_and/p988m04/
 - **Well, thats when youd make it instanced with custom spawn timer, same as gwd. **
-  - comment · 11h ago · mathPrettyhugeDick · score 20
+  - comment · 12h ago · mathPrettyhugeDick · score 20
   - matched: spawn timer
   - re: It's Time to Revisit Spawn Timers at GWD
   - https://www.reddit.com/r/2007scape/comments/1wdr837/its_time_to_revisit_spawn_timers_at_gwd/p9865is/
 - **I’d be cool with faster GWD spawns, but the DKs spawn timer is perfectly fine when you’re killing all 3. If they sped that up to accommodate people who are killing 1 it would get a**
-  - comment · 11h ago · V_T_H · score 20
+  - comment · 12h ago · V_T_H · score 20
   - matched: spawn timer
   - re: It's Time to Revisit Spawn Timers at GWD
   - https://www.reddit.com/r/2007scape/comments/1wdr837/its_time_to_revisit_spawn_timers_at_gwd/p983kfs/
 - **This is the answer, step back once the hit splat disappears. Muspah was the boss I realized I had to learn how to move. Try and avoid clicking further than 1 step (2 tiles on run) **
-  - comment · 13h ago · Spot-CSG · score 20
+  - comment · 14h ago · Spot-CSG · score 20
   - matched: pathing
   - re: Tips for beginner at Muspha
   - https://www.reddit.com/r/2007scape/comments/1wdnxvc/tips_for_beginner_at_muspha/p97edmn/
 - **You can safespot Chaos Elly near the resource area. So with that chaos Elly is easier.**
-  - comment · 13h ago · Nick543b · score 20
+  - comment · 14h ago · Nick543b · score 20
   - matched: safespot
   - re: My Chaos Elemental kill didn't count for the Wilde
   - https://www.reddit.com/r/2007scape/comments/1wdn4hy/my_chaos_elemental_kill_didnt_count_for_the/p97d2ye/
 - **Don't be discouraged by failure. It can really suck to die after 10 mins of prep and fight over and over. And then it clicks and you own hunleff every time, with the occasional dea**
-  - comment · 14h ago · EmotionalCommittee18 · score 20
+  - comment · 15h ago · EmotionalCommittee18 · score 20
   - matched: pathing
   - re: Tips on CG
   - https://www.reddit.com/r/2007scape/comments/1wdmxk1/tips_on_cg/p973508/
 - **Just kill stuff with magic. You can buy mind runes for dirt cheap and get an elemental staff. Assuming you’re a main, if you have 20k to your name you can buy enough runes to get s**
-  - comment · 15h ago · cleverasian · score 20
+  - comment · 16h ago · cleverasian · score 20
   - matched: safe spot
   - re: Fast XP for Magic?
   - https://www.reddit.com/r/2007scape/comments/1wdln9o/fast_xp_for_magic/p96t4ci/
 - **\+1 I’ve been recommending CG to all my friends for a few years now. All of them have come back saying it was a great place to learn. Hell, even normal gauntlet is great. IMO it’s **
-  - comment · 15h ago · FrodoDank · score 20
+  - comment · 16h ago · FrodoDank · score 20
   - matched: pathing
   - re: Improving at Bossing
   - https://www.reddit.com/r/2007scape/comments/1wdkfbe/improving_at_bossing/p96qh5u/
 - **I said CG because they said they can do regular gauntlet. Granted, it’s a big step up from regular, but I truly think that that step is the thing that makes you go from a nooby pla**
-  - comment · 15h ago · Damianita- · score 20
+  - comment · 16h ago · Damianita- · score 20
   - matched: prayer flick, manticore
   - re: Improving at Bossing
   - https://www.reddit.com/r/2007scape/comments/1wdkfbe/improving_at_bossing/p96lnfo/
 - **Throwing myself at cg until it stuck was probably the biggest leap in my PvM skills to date. I learned pathing, prayer/light gear switching, etc. Arguably more important, I learned**
-  - comment · 15h ago · willrap4food · score 20
+  - comment · 16h ago · willrap4food · score 20
   - matched: pathing
   - re: Improving at Bossing
   - https://www.reddit.com/r/2007scape/comments/1wdkfbe/improving_at_bossing/p96isi5/
 - **One that i’ve learned recently is L movement. First realized it with the TOB maze and being able to click in L patterns and trusting my character will run there without pathing out**
-  - comment · 15h ago · Pj_o7 · score 20
+  - comment · 16h ago · Pj_o7 · score 20
   - matched: pathing
   - re: What is a mechanic or tip that you think nobody se
   - https://www.reddit.com/r/ironscape/comments/1wd8ucd/what_is_a_mechanic_or_tip_that_you_think_nobody/p96hrqg/
 - **I think blood moon is the one where you do all three. It’s the biggest cost. Also eclipse is right next to the chest so pathing just makes sense. **
-  - comment · 19h ago · NotTooHCIronman · score 20
+  - comment · 20h ago · NotTooHCIronman · score 20
   - matched: pathing
   - re: Was hoping for blood moon before titans is all... 
   - https://www.reddit.com/r/ironscape/comments/1wde3k5/was_hoping_for_blood_moon_before_titans_is_all/p95btcd/
 - **I wish I could do it on 45 min. My first jad til 97 min. But I since learned I dont need to safespot every ranger meleer and ranger. So now om at 70 min**
-  - comment · 19h ago · Mr-Bondi · score 20
+  - comment · 20h ago · Mr-Bondi · score 20
   - matched: safespot
   - re: The fire cape rant
   - https://www.reddit.com/r/2007scape/comments/1wdcxcv/the_fire_cape_rant/p95b79s/
 - **Just camp mage prayer. The rangers die in like a couple seconds and the melees are easy to safe spot**
-  - comment · 20h ago · Due_Performer5094 · score 20
+  - comment · 21h ago · Due_Performer5094 · score 20
   - matched: safe spot
   - re: The fire cape rant
   - https://www.reddit.com/r/2007scape/comments/1wdcxcv/the_fire_cape_rant/p94w60l/
 - **No i die mostly to a brainfart like ill just kill the bat on the otherside of the mager. Click on it i step in melee and get claped befor I see it. Happend 1 time And I just last n**
-  - comment · 20h ago · Mr-Bondi · score 20
+  - comment · 21h ago · Mr-Bondi · score 20
   - matched: safespot
   - re: The fire cape rant
   - https://www.reddit.com/r/2007scape/comments/1wdcxcv/the_fire_cape_rant/p94touq/
 - **> imo they were just a neat POH customization, so I find it odd they're making them untradeable. pets are already the rare untradeable flex, so jars filled a different role of a co**
-  - comment · 2h ago · DivineInsanityReveng · score 17
+  - comment · 3h ago · DivineInsanityReveng · score 17
   - matched: untradeable, decoration
   - re: The Collection Log should include items to intenti
   - https://www.reddit.com/r/2007scape/comments/1wdlfcy/the_collection_log_should_include_items_to/p9aqu8k/
 - **Pneck and nightshade. Did it with ibans staff and mystics at 72 combat. Use some grey chins for the healing things and few guthix rest to keep hp near the p neck proc**
-  - comment · 4h ago · NecessaryArt5384 · score 17
+  - comment · 5h ago · NecessaryArt5384 · score 17
   - matched: nightshade, guthix rest
   - re: How to kill Seren? Every guide has sara brews and 
   - https://www.reddit.com/r/ironscape/comments/1wcy695/how_to_kill_seren_every_guide_has_sara_brews_and/p9a9ni7/
 - **Made regen bracelet, with hit points cape it makes wintertodt need 0 potions. Also made ring of stone cause why not. Serp helm is nice for vorkath. Plus its nice for venoming mobs **
-  - comment · 4h ago · roflstorm · score 17
+  - comment · 5h ago · roflstorm · score 17
   - matched: regen bracelet, wintertodt
   - re: Surely before 2k
   - https://www.reddit.com/r/ironscape/comments/1we0v4r/surely_before_2k/p9a8mt6/
 - **I beat it with 78 magic 10 p necklaces 8 pineapple pizzas 4 pray pots some nightshade dwarven rock cake and full blue moon**
-  - comment · 7h ago · EquivalentVictory275 · score 17
+  - comment · 8h ago · EquivalentVictory275 · score 17
   - matched: rock cake, nightshade
   - re: How to kill Seren? Every guide has sara brews and 
   - https://www.reddit.com/r/ironscape/comments/1wcy695/how_to_kill_seren_every_guide_has_sara_brews_and/p99dt91/
@@ -525,37 +515,37 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago
   - re: Runescape in 2004 as RS2 first came out. Wow
   - https://www.reddit.com/r/2007scape/comments/1wdhtg7/runescape_in_2004_as_rs2_first_came_out_wow/p98dm7x/
 - **>they were meant to be like this flex item in your POH this is another thing I think is a weird intention like, nobody even goes in other people's POH anymore, and irons *can't* go**
-  - comment · 12h ago · 2-2-7-7 · score 17
+  - comment · 13h ago · 2-2-7-7 · score 17
   - matched: untradeable, decoration
   - re: The Collection Log should include items to intenti
   - https://www.reddit.com/r/2007scape/comments/1wdlfcy/the_collection_log_should_include_items_to/p97o0rk/
 - **I would just use adamant ruby bolts if you're at all concerned about supply costs. I get 25+ kph using nothing but a couple ppots araxyte venom sack thralls ect **
-  - comment · 13h ago · TeSpiffster · score 17
+  - comment · 14h ago · TeSpiffster · score 17
   - matched: araxyte venom sack, thralls
   - re: Why is Maggot King's droptable so awful? (Also a g
   - https://www.reddit.com/r/ironscape/comments/1wdns3a/why_is_maggot_kings_droptable_so_awful_also_a/p97b18k/
 - **Notable items that can go in the aldarin nest: Glacial temotli Trident of the seas Bandos platebody, subject to GE price fluctuation Amulet of the Damned while you're using your em**
-  - comment · 17h ago · Ludovician42 · score 17
+  - comment · 18h ago · Ludovician42 · score 17
   - matched: stash unit, emberlight
   - re: Full Dragon (g) with Kiteshield on my UIM
   - https://www.reddit.com/r/2007scape/comments/1wcqthz/full_dragon_g_with_kiteshield_on_my_uim/p960ysw/
 - **It should be Canon. Like you have to find the monster, use Monster Examine and it puts their drop table in a beastiary book or something. **
-  - comment · 17h ago · Old-Tax-5308 · score 17
+  - comment · 18h ago · Old-Tax-5308 · score 17
   - matched: monster examine, drop table
   - re: Drop tables should be viewable in-game
   - https://www.reddit.com/r/2007scape/comments/1wdhe3r/drop_tables_should_be_viewable_ingame/p95tx9j/
 - **I've known him for years. I bounce back and forth between classic WoW and osrs so that's how I came across him. So people who don't watch WoW content probably never heard of him. H**
-  - comment · 18h ago · AdvantageSeparate544 · score 17
+  - comment · 19h ago · AdvantageSeparate544 · score 17
   - matched: monster examine, classic
   - re: Madseason things
   - https://www.reddit.com/r/2007scape/comments/1wczwfd/madseason_things/p95m42x/
 - **I did it with like 60 magic and a Iban staff. Phoenix necklace and nightshade method. It’s really easy. She jumps in the air, necklace, eat nightshade **
-  - comment · 20h ago · Chemical_Picture_287 · score 17
+  - comment · 21h ago · Chemical_Picture_287 · score 17
   - matched: phoenix necklace, nightshade
   - re: How to kill Seren? Every guide has sara brews and 
   - https://www.reddit.com/r/ironscape/comments/1wcy695/how_to_kill_seren_every_guide_has_sara_brews_and/p94w8c8/
 - **Hunter meats provide really good heals. Sunlight Antelope heals 1 less total than Pineapple Pizza, but you don't need to spend time eating it twice. If you can cook them, Dashing K**
-  - comment · 2h ago · Plague_Raptor · score 15
+  - comment · 3h ago · Plague_Raptor · score 15
   - matched: you don't need, combo eating
   - re: How to kill Seren? Every guide has sara brews and 
   - https://www.reddit.com/r/ironscape/comments/1wcy695/how_to_kill_seren_every_guide_has_sara_brews_and/p9ata95/
@@ -565,17 +555,17 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago
   - re: What are some grinds you thought would be worse on
   - https://www.reddit.com/r/ironscape/comments/1wdphsl/what_are_some_grinds_you_thought_would_be_worse/p98qjvr/
 - **Update On Recent Connectivity Issues**
-  - r/2007scape · 17h ago · JagexSarnie · score 14
+  - r/2007scape · 18h ago · JagexSarnie · score 14
   - matched: J-Mod · no bug content
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wdhzva/update_on_recent_connectivity_issues/
 - **The Collection Log shouldn't exclude items to avoid upsetting people**
-  - r/2007scape · 17h ago · rosalktha · score 13
+  - r/2007scape · 18h ago · rosalktha · score 13
   - matched: J-Mod reply · no bug content
   - 5c · 7↑
   - https://www.reddit.com/r/2007scape/comments/1wdhg7u/the_collection_log_shouldnt_exclude_items_to/
 - **Pete Kayer's PvP Challenges are NOT being polled, but the cosmetic cape IS. Why?**
-  - r/2007scape · 17h ago · Boganvillea · score 13
+  - r/2007scape · 18h ago · Boganvillea · score 13
   - matched: J-Mod reply · no bug content
   - 22c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wdhe61/pete_kayers_pvp_challenges_are_not_being_polled/
