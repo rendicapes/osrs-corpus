@@ -1,120 +1,120 @@
 # OSRS Signal — last 24h
 
-2026-09-13 19:13 UTC · 47 findings after merging duplicates (from 77 raw hits; 29 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 18:17Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 32m ago
+2026-09-13 20:08 UTC · 45 findings after merging duplicates (from 74 raw hits; 28 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 9s ago · repo: ok (pushed 19:13Z) · 55m ago · search: ok · 2m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 43m ago
 
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel was blind for 12.3h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 3h ago · score 30
+  - bugs · 4h ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
 ## Bugs & exploits  (21)
 
-- **ty Jagex...**
-  - r/2007scape · 1h ago · Loki_OSRS · score 34
-  - matched: bug, is this a bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wfeam8/ty_jagex/
 - **Xeric's Talisman despawned**
-  - r/2007scape · 14h ago · KingBobIV · score 36
+  - r/2007scape · 15h ago · KingBobIV · score 36
   - matched: bug, put me, no talisman
   - 11c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1weyhxp/xerics_talisman_despawned/
+- **ty Jagex...**
+  - r/2007scape · 2h ago · Loki_OSRS · score 34
+  - matched: bug, is this a bug
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wfeam8/ty_jagex/
 - **You are not prepared CA not completed?**
-  - r/2007scape · 5h ago · Giantkoala327 · score 25
+  - r/2007scape · 6h ago · Giantkoala327 · score 25
   - matched: bugged, wiki says
   - 6c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wf86f6/you_are_not_prepared_ca_not_completed/
 - **German worlds were the ones that went out for a bit and caused a rollback...**
-  - comment · 16h ago · TheNamesRoodi · score 25
+  - comment · 17h ago · TheNamesRoodi · score 25
   - matched: rollback
   - re: Voidwaker on the iron, complete
   - https://www.reddit.com/r/ironscape/comments/1welvf8/voidwaker_on_the_iron_complete/p9h5djc/
-- **Way more reasonable. Plus when CoX was first released, there was definitely a bug where Olmlet straight up wasn't dropping for anyone, so Jagex probably wants to avoid setting up a**
-  - comment · 23h ago · anamaltic · score 18
-  - matched: bug, first week
-  - re: If the Tbow+Pet drop is called the Bowmlet, what i
-  - https://www.reddit.com/r/2007scape/comments/1weko8y/if_the_tbowpet_drop_is_called_the_bowmlet_what_is/p9eph8p/
+- **Yeah i reported it as a bug, it’s pretty shit on mobile**
+  - comment · 54m ago · Pj_o7 · score 13
+  - matched: bug
+  - re: Are we for real with this hitbox?
+  - https://www.reddit.com/r/2007scape/comments/1wfgqoh/are_we_for_real_with_this_hitbox/p9lv513/
 - **Tree Gnome Cooking Training bug?**
-  - r/2007scape · 1h ago · TheDopplerRadar · score 13
+  - r/2007scape · 2h ago · TheDopplerRadar · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfeupd/tree_gnome_cooking_training_bug/
 - **It's a public Wikipedia, it absolutely is intended to be edited by the public. That's where majority of info on the website comes from, same as any other wikia. What it is not inte**
-  - comment · 1h ago · Fridgiee · score 13
+  - comment · 2h ago · Fridgiee · score 13
   - matched: not intended
   - re: Can we get monsters’ defence reduction cap stated 
   - https://www.reddit.com/r/2007scape/comments/1wf2mo8/can_we_get_monsters_defence_reduction_cap_stated/p9l0b3h/
 - **(Bug?) Prayer Potion (3) defaults to Drink instead of Deposit, Menu Reordering not working**
-  - r/2007scape · 3h ago · T3ABAGG3N · score 13
+  - r/2007scape · 4h ago · T3ABAGG3N · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfbbpw/bug_prayer_potion_3_defaults_to_drink_instead_of/
 - **can someone confirm TOA rewards are sound?**
-  - r/2007scape · 9h ago · HolyModalRounder92 · score 13
+  - r/2007scape · 10h ago · HolyModalRounder92 · score 13
   - matched: bug
   - 6c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wf3ird/can_someone_confirm_toa_rewards_are_sound/
 - **Yo so bug? Amulet of chemistry. I had 16 in the back all had ? As charges so I used one it had 4 charges I deposited it into the bank with 2 charges left, figured it would make a (**
-  - r/osrs · 12h ago · V0rclaw · score 13
+  - r/osrs · 13h ago · V0rclaw · score 13
   - matched: bug
   - 13c · 0↑
   - https://www.reddit.com/r/osrs/comments/1wf0lk3/yo_so_bug_amulet_of_chemistry_i_had_16_in_the/
 - **It's also bugged for me currently, tried your above steps and still didnt work. RIP**
-  - comment · 16h ago · appel09 · score 13
+  - comment · 17h ago · appel09 · score 13
   - matched: bugged
   - re: Zanik not attacking Sigmund in - Death to the Dorg
   - https://www.reddit.com/r/2007scape/comments/1r8uv4r/zanik_not_attacking_sigmund_in_death_to_the/p9h3qp1/
 - **It has currently fixed itself randomly for no reason. No idea what that bug was tied to but I will remember what you said just in case.**
-  - comment · 17h ago · King_Krush_Sr · score 13
+  - comment · 18h ago · King_Krush_Sr · score 13
   - matched: bug
   - re: Wyrmscraig fps drop lag
   - https://www.reddit.com/r/2007scape/comments/1wej5av/wyrmscraig_fps_drop_lag/p9gr3bt/
 - **Granted, but only when wearing a bug lantern**
-  - comment · 18h ago · dbmorpher · score 13
+  - comment · 19h ago · dbmorpher · score 13
   - matched: bug
   - re: Can we please PLEASE remove the buzzing sound in F
   - https://www.reddit.com/r/2007scape/comments/1weiuin/can_we_please_please_remove_the_buzzing_sound_in/p9gj3cg/
 - **https://preview.redd.it/ycl099auh6ph1.png?width=1280&format=png&auto=webp&s=d47474be9821d368ec9de16be6dcdc8527ca65ba Would also appear that the seer is bugged now too, when tails s**
-  - comment · 19h ago · Jufinda · score 13
+  - comment · 20h ago · Jufinda · score 13
   - matched: bugged
   - re: Huey tails still bugged after 2+ months
   - https://www.reddit.com/r/2007scape/comments/1wery91/huey_tails_still_bugged_after_2_months/p9gayo6/
 - **‘And I get it, my items are supposed to be your reward for killing me. But I don't care. I don't want to lose my items.’ I get it, Im not supposed to get a purple every raid. But I**
-  - comment · 19h ago · OwMyCandle · score 13
+  - comment · 20h ago · OwMyCandle · score 13
   - matched: not supposed to
   - re: I'm just gonna say what I think is on at least a f
   - https://www.reddit.com/r/2007scape/comments/1weryrm/im_just_gonna_say_what_i_think_is_on_at_least_a/p9g92ei/
 - **About half a year ago I had a similar thing happen to me. I got a shadow then a couple of raids later got another shadow into a masori pants into a 3rd shadow (b3b). At the time I **
-  - comment · 19h ago · MrDudeMan12 · score 13
+  - comment · 20h ago · MrDudeMan12 · score 13
   - matched: bugged
   - re: Generational End to TOA on the Iron
   - https://www.reddit.com/r/2007scape/comments/1we34zn/generational_end_to_toa_on_the_iron/p9g8zgd/
 - **Huey tails still bugged after 2+ months**
-  - r/2007scape · 19h ago · Jufinda · score 13
+  - r/2007scape · 20h ago · Jufinda · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wery91/huey_tails_still_bugged_after_2_months/
 - **Shit im sure it gas but what is there to worry about that i dont know today maybe i should go engage with it and lose a protect item from a bug **
-  - comment · 19h ago · Theredstoner69 · score 13
+  - comment · 20h ago · Theredstoner69 · score 13
   - matched: bug
   - re: Think im done trying to learn how to pk
   - https://www.reddit.com/r/2007scape/comments/1wemzmq/think_im_done_trying_to_learn_how_to_pk/p9g1wja/
 - **I remember this for doom and every leagues/gridmaster that i've played. Don't know if it's the same for mk since i started that like a month after release and it was fixed (if it w**
-  - comment · 20h ago · Otherwise_Economics2 · score 13
+  - comment · 21h ago · Otherwise_Economics2 · score 13
   - matched: bugs
   - re: Wow Classic+ launch and Raids 4
   - https://www.reddit.com/r/2007scape/comments/1wepwmw/wow_classic_launch_and_raids_4/p9fy5ff/
 - **HAHAHAHAHA get a better pc to play runescape he says. Nah dude it's a bug. My phone is worse specs it plays fine there.**
-  - comment · 20h ago · King_Krush_Sr · score 13
+  - comment · 21h ago · King_Krush_Sr · score 13
   - matched: bug
   - re: Wyrmscraig fps drop lag
   - https://www.reddit.com/r/2007scape/comments/1wej5av/wyrmscraig_fps_drop_lag/p9fx2lf/
 - **Bugs make great enemies because you’re less likely to feel sympathy**
-  - comment · 20h ago · dbmorpher · score 13
+  - comment · 21h ago · dbmorpher · score 13
   - matched: bugs
   - re: Fangscape is getting out of hand
   - https://www.reddit.com/r/2007scape/comments/1wcp7up/fangscape_is_getting_out_of_hand/p9fslit/
@@ -122,65 +122,65 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
 ## "You can do this" finds  (2)
 
 - **Than take advantage of lower supply cost to make money with PVM. If you dont want to PVM than you can still make money with a TON of different methods. If we assume that anglers us**
-  - comment · 1h ago · InterestingCell5247 · score 46
+  - comment · 2h ago · InterestingCell5247 · score 46
   - matched: ⚡ food per inventory slot, you can still, bones to peaches
   - re: Boat fishing is overtuned and has brought anglers 
   - https://www.reddit.com/r/2007scape/comments/1wfa4xl/boat_fishing_is_overtuned_and_has_brought_anglers/p9l310i/
 - **I feel like I'd rather buy an expansion and have all the same content as everyone else, rather than having these tiered cosmetics that act as status symbols for people able to drop**
-  - comment · 15h ago · StarlitSoryn · score 16
+  - comment · 16h ago · StarlitSoryn · score 16
   - matched: without needing, day one
   - re: When you want the WoW people to be happy too but y
   - https://www.reddit.com/r/2007scape/comments/1wevbx7/when_you_want_the_wow_people_to_be_happy_too_but/p9hajor/
 
-## Mechanics & wiki corrections  (23)
+## Mechanics & wiki corrections  (21)
 
 - **Yes usually my ping script shows 314 at like 15ms ping and look at it now, everything is like +40ms World,Location,(m),Activity,Ping (ms) 314,United States (east),1,Brimhaven Agili**
-  - comment · 2h ago · Long_Dot3524 · score 26
+  - comment · 3h ago · Long_Dot3524 · score 26
   - matched: pyramid plunder, ashihama
   - re: anyone else having a relatively high ping?
   - https://www.reddit.com/r/2007scape/comments/1wfbc1z/anyone_else_having_a_relatively_high_ping/p9kqrka/
 - **I went hardcore to “see how long I can last” because why not and boy I was so happy to lose status. Never went out of my comfort range, used any excuse to skill instead of combat, **
-  - comment · 35m ago · come2life_osrs · score 20
+  - comment · 1h ago · come2life_osrs · score 20
   - matched: safe spot
   - re: lost my HCIM status a week or two back........
   - https://www.reddit.com/r/ironscape/comments/1wfcp6x/lost_my_hcim_status_a_week_or_two_back/p9lm0tl/
-- **Blisterwood stakes have a max hit of over 20 with rupture and treads. Possibly the best ranged wep now for monkey room and kephri healers?**
-  - r/2007scape · 1h ago · WaveDashSpeedKick · score 20
-  - matched: max hit, max hit of
-  - 1c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wfdxqq/blisterwood_stakes_have_a_max_hit_of_over_20_with/
 - **Bonds are unfortunately a necessary evil in the instances where some people just don't have the practicality to pay for membership with irl money. That being said, I think allowing**
-  - comment · 17h ago · _BL810T · score 24
+  - comment · 18h ago · _BL810T · score 24
   - matched: kept on death, always kept on death
   - re: Do you guys think osrs atleast will stick for 10 y
   - https://www.reddit.com/r/2007scape/comments/1welcvm/do_you_guys_think_osrs_atleast_will_stick_for_10/p9gwhkt/
 - **nice inventory set ups is my absolute favorite though, it has saved me absolutely 10s-100s of hours of wasted time setting up/banking. oh one more i think is extremely useful for p**
-  - comment · 16m ago · amatsukazeda · score 17
+  - comment · 1h ago · amatsukazeda · score 17
   - matched: true tile, corner tile
   - re: Must have plug-ins RuneLite ?
   - https://www.reddit.com/r/2007scape/comments/1wfevb6/must_have_plugins_runelite/p9lqzja/
+- **Blisterwood stakes have a max hit of over 20 with rupture and treads. Possibly the best ranged wep now for monkey room and kephri healers?**
+  - r/2007scape · 2h ago · WaveDashSpeedKick · score 20
+  - matched: max hit, max hit of
+  - 1c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wfdxqq/blisterwood_stakes_have_a_max_hit_of_over_20_with/
 - **I would do knights in the safespot while skulled. Use sunlight cbow if you don’t mind gathering ammo, otherwise msb is a bit weaker but the ammo is very easy to get. Use a salve ei**
-  - comment · 2h ago · TheDubuGuy · score 20
+  - comment · 3h ago · TheDubuGuy · score 20
   - matched: safespot
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1wezgtn/have_a_question_about_the_game_or_the_subreddit/p9kr7cx/
 - **To save myself the 2k karambwans I already have (fishing, well moreso cooking them, without tick manipulation) is kinda tedious. I'm still working on my swordfish from tempoross th**
-  - comment · 4h ago · LogisticalTesticle · score 20
+  - comment · 5h ago · LogisticalTesticle · score 20
   - matched: tick manipulation, combo eat
   - re: How late game are you still using potatoes? I'm 19
   - https://www.reddit.com/r/ironscape/comments/1wax0gy/how_late_game_are_you_still_using_potatoes_im/p9k33qb/
 - **HELP 1 def pure ZOmbie pirates**
-  - r/2007scape · 6h ago · Apprehensive-Tone222 · score 20
+  - r/2007scape · 7h ago · Apprehensive-Tone222 · score 20
   - matched: safe spot
   - 5c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wf70zb/help_1_def_pure_zombie_pirates/
 - **Optimizing zombie line of sight, not every window needs a curtain. r/zomboid**
-  - comment · 15h ago · Cryptographer_Prize · score 20
+  - comment · 16h ago · Cryptographer_Prize · score 20
   - matched: line of sight
   - re: Why do some of these windows have curtains on the 
   - https://www.reddit.com/r/2007scape/comments/1wem8kf/why_do_some_of_these_windows_have_curtains_on_the/p9h8ndd/
 - **It’s just 1 max hit, honestly gear is very irrelevant in this game in general. I remember couple years ago I killed nightmare with like a 30m setup, and then again with full max ba**
-  - comment · 17h ago · partyhat-red · score 20
+  - comment · 18h ago · partyhat-red · score 20
   - matched: max hit, max cash
   - re: Fire cape necessary if not bossing/raiding?
   - https://www.reddit.com/r/2007scape/comments/1wete1h/fire_cape_necessary_if_not_bossingraiding/p9gos58/
@@ -190,17 +190,17 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Fire cape necessary if not bossing/raiding?
   - https://www.reddit.com/r/2007scape/comments/1wete1h/fire_cape_necessary_if_not_bossingraiding/p9gmsvo/
 - **Asked about it, never tried it. Stopped playing for a bit until about 2 months ago. I don’t know what you want me to say re: the time? I dont sit and safespot the entire time. I ca**
-  - comment · 18h ago · TRCB1234 · score 20
+  - comment · 19h ago · TRCB1234 · score 20
   - matched: safespot
   - re: Fire cape necessary if not bossing/raiding?
   - https://www.reddit.com/r/2007scape/comments/1wete1h/fire_cape_necessary_if_not_bossingraiding/p9gm8sy/
 - **https://oldschool.runescape.wiki/w/Slayer_task/Ankou You can safespot them in the stronghold with mage or ranged, unfortunately you're going to need to safespot some garbo tasks un**
-  - comment · 18h ago · Constant-Pension-258 · score 20
+  - comment · 19h ago · Constant-Pension-258 · score 20
   - matched: safespot
   - re: Slayer/Ankou Help
   - https://www.reddit.com/r/2007scape/comments/1wesj7r/slayerankou_help/p9ge6tg/
 - **Ankou safespot air.**
-  - comment · 18h ago · ThrowawayQLove2023 · score 20
+  - comment · 19h ago · ThrowawayQLove2023 · score 20
   - matched: safespot
   - re: Slayer/Ankou Help
   - https://www.reddit.com/r/2007scape/comments/1wesj7r/slayerankou_help/p9gdx8r/
@@ -210,46 +210,36 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - 14c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wesj7r/slayerankou_help/
 - **Pretty much your only chance is to risk 100k beyond 3 items and even then i could talk for hours how fucked you are trying to engage these degens, aggro swapping, death pile resupp**
-  - comment · 22h ago · Theredstoner69 · score 20
+  - comment · 23h ago · Theredstoner69 · score 20
   - matched: safe spot
   - re: Think im done trying to learn how to pk
   - https://www.reddit.com/r/2007scape/comments/1wemzmq/think_im_done_trying_to_learn_how_to_pk/p9fbtl6/
 - **I do Baba, Kephri, Akkha, Zebak. Prepot with range potion and anti poison and bring a super combat. For monke room - lower invocation you basically can do a 1 way weapon swap to ki**
-  - comment · 22h ago · Big_Theme_350 · score 20
+  - comment · 23h ago · Big_Theme_350 · score 20
   - matched: tick perfect, brewed down
   - re: Noob to toa
   - https://www.reddit.com/r/ironscape/comments/1wenddk/noob_to_toa/p9f76bq/
 - **>For instance the fang's max hit is limited to 85% of your actual max hit potential, this is supposed to be compensated by its higher accuracy Not disagreeing with you, but the fan**
-  - comment · 22h ago · Ghasois · score 20
+  - comment · 23h ago · Ghasois · score 20
   - matched: max hit, compensated
   - re: Why do people continuing saying whip is better DPS
   - https://www.reddit.com/r/2007scape/comments/1wegio3/why_do_people_continuing_saying_whip_is_better/p9f32em/
-- **Look up how to safespot it**
-  - comment · 23h ago · JustAnotherLich · score 20
-  - matched: safespot
-  - re: Farewell my old friend. We almost made it to the e
-  - https://www.reddit.com/r/ironscape/comments/1we97hh/farewell_my_old_friend_we_almost_made_it_to_the/p9ep9m0/
 - **✎ Optimal quest guide/Ironman — the elemental workshop quests used to be required for the crafting exp for shadow of the storm and lost city. This is no**
   - wiki · 7h ago · Quetra1 · seen 2x · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Optimal_quest_guide%2FIronman
 - **I remember when RuneScape Classic meant Alpha. **
-  - comment · 2h ago · ReckedRambler · score 17
+  - comment · 3h ago · ReckedRambler · score 17
   - matched: classic, runescape classic
   - re: I remember when…
   - https://www.reddit.com/r/2007scape/comments/1wfcva3/i_remember_when/p9kvk61/
-- **Dragonman for any Runescape classic players **
-  - comment · 23h ago · bobbaggit · score 17
-  - matched: classic, runescape classic
-  - re: Old school RuneScape+ coming
-  - https://www.reddit.com/r/2007scape/comments/1wem3e8/old_school_runescape_coming/p9euoyt/
 - **Salvaging**
-  - r/2007scape · 22h ago · Constant-Pen2410 · score 12
+  - r/2007scape · 23h ago · Constant-Pen2410 · score 12
   - matched: seed box, gem bag
   - 0c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1weo61s/salvaging/
 
 ---
 
-Not included: 1015 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1020 findings older than 24h. Widen with `__osrs.report(48)` in the console.
