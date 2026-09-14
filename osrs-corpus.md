@@ -1,12 +1,12 @@
 # OSRS Signal — last 24h
 
-2026-09-14 04:32 UTC · 46 findings after merging duplicates (from 80 raw hits; 26 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 03:36Z) · 55m ago · search: ok · 59s ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 7m ago
+2026-09-14 05:28 UTC · 47 findings after merging duplicates (from 83 raw hits; 28 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 04:32Z) · 55m ago · search: ok · 1m ago · vanished: ok (checked 1) · 2m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 18m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — deleted by the author — From the superior slayer monster wiki: >Once a superior has appeared, another one will not spawn for that player until it is kille**
-  - comment, vanished · 3h ago · SpectacularStarling · seen 3x · score 40
+  - comment, vanished · 4h ago · SpectacularStarling · seen 3x · score 40
   - matched: vanished, same tick
   - was comment, posted 1m before it went
   - https://www.reddit.com/r/2007scape/comments/1wfo09s/slayer_is_hard/p9nyb44/
@@ -16,191 +16,186 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel was blind for 12.3h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 12h ago · score 30
+  - bugs · 13h ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (17)
+## Bugs & exploits  (16)
 
-- **Xeric's Talisman despawned**
-  - r/2007scape · 23h ago · KingBobIV · score 36
-  - matched: bug, put me, no talisman
-  - 11c · 0↑
-  - https://www.reddit.com/r/2007scape/comments/1weyhxp/xerics_talisman_despawned/
 - **ty Jagex...**
-  - r/2007scape · 10h ago · Loki_OSRS · score 34
+  - r/2007scape · 11h ago · Loki_OSRS · score 34
   - matched: bug, is this a bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfeam8/ty_jagex/
 - **Can confirm I was a German server rollback victim**
-  - comment · 3h ago · ThatDudeGuy99 · score 25
+  - comment · 4h ago · ThatDudeGuy99 · score 25
   - matched: rollback
   - re: Voidwaker on the iron, complete
   - https://www.reddit.com/r/ironscape/comments/1welvf8/voidwaker_on_the_iron_complete/p9ntmek/
 - **You are not prepared CA not completed?**
-  - r/2007scape · 14h ago · Giantkoala327 · score 25
+  - r/2007scape · 15h ago · Giantkoala327 · score 25
   - matched: bugged, wiki says
   - 6c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wf86f6/you_are_not_prepared_ca_not_completed/
 - **Some of the bugs you guys have said are fixed are still happening on desktop via the official client. A couple examples are that unexpected entries are still happening on left-clic**
-  - comment · 5h ago · HomestewedBlaziken · score 24
+  - comment · 6h ago · HomestewedBlaziken · score 24
   - matched: bugs, for some reason
   - re: MES 2.0 Fixes - Client Update
   - https://www.reddit.com/r/2007scape/comments/1wcg2x0/mes_20_fixes_client_update/p9n5qj5/
 - **I remember someone in Al Kharid who were supposed to show me a dupe glitch. It involved dropping my armor to the floor and pressing alt+f4. Luckily I knew what that did and managed**
-  - comment · 8h ago · dont_trip_ · score 23
+  - comment · 9h ago · dont_trip_ · score 23
   - matched: glitch, dupe+breakage
   - re: Worst feeling
   - https://www.reddit.com/r/2007scape/comments/1wfa0x5/worst_feeling/p9m943p/
 - **Prince Ali Rescue: Broke the key mold and now Keli won't let me make a new key print (dialogue/state stuck)**
-  - r/2007scape · 28m ago · Every_Classroom3285 · score 13
+  - r/2007scape · 1h ago · Every_Classroom3285 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfsxq4/prince_ali_rescue_broke_the_key_mold_and_now_keli/
 - **mate it is actually insane how much sleep you're losing over this lmao. i shouldnt be able to know who posts these shitty bmm memes before i even look at your name**
-  - comment · 47m ago · Standard-Tree-3705 · score 13
+  - comment · 1h ago · Standard-Tree-3705 · score 13
   - matched: shouldnt be able
   - re: Voting for bronze man and then jumping on Reddit t
   - https://www.reddit.com/r/2007scape/comments/1wfsgve/voting_for_bronze_man_and_then_jumping_on_reddit/p9oqk48/
 - **This method of alts should be banned it's Major bug abuse**
-  - comment · 2h ago · KUR51RL · score 13
+  - comment · 3h ago · KUR51RL · score 13
   - matched: bug
   - re: My reaction to finishing 4/4 zenytes on the iron w
   - https://www.reddit.com/r/2007scape/comments/1wfmsaa/my_reaction_to_finishing_44_zenytes_on_the_iron/p9oc6yy/
 - **[The bugs are back](https://m.youtube.com/watch?v=I07TdUeBSYs)**
-  - comment · 4h ago · WaveDashSpeedKick · score 13
+  - comment · 5h ago · WaveDashSpeedKick · score 13
   - matched: bugs
   - re: Huey tails still bugged after 2+ months
   - https://www.reddit.com/r/2007scape/comments/1wery91/huey_tails_still_bugged_after_2_months/p9niiut/
 - **Yama: Drop rates too high on release and had to be nerfed, boss difficulty was easier than stated with low gear reqs especially given the insane armor set it drops (Oathplate is an**
-  - comment · 5h ago · AlphEta314 · score 13
+  - comment · 6h ago · AlphEta314 · score 13
   - matched: bugs
   - re: 🥹 They grow up so fast
   - https://www.reddit.com/r/2007scape/comments/1wf5jvw/they_grow_up_so_fast/p9ng1kw/
 - **Yeah i reported it as a bug, it’s pretty shit on mobile**
-  - comment · 9h ago · Pj_o7 · score 13
+  - comment · 10h ago · Pj_o7 · score 13
   - matched: bug
   - re: Are we for real with this hitbox?
   - https://www.reddit.com/r/2007scape/comments/1wfgqoh/are_we_for_real_with_this_hitbox/p9lv513/
 - **Tree Gnome Cooking Training bug?**
-  - r/2007scape · 10h ago · TheDopplerRadar · score 13
+  - r/2007scape · 11h ago · TheDopplerRadar · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfeupd/tree_gnome_cooking_training_bug/
 - **It's a public Wikipedia, it absolutely is intended to be edited by the public. That's where majority of info on the website comes from, same as any other wikia. What it is not inte**
-  - comment · 11h ago · Fridgiee · score 13
+  - comment · 12h ago · Fridgiee · score 13
   - matched: not intended
   - re: Can we get monsters’ defence reduction cap stated 
   - https://www.reddit.com/r/2007scape/comments/1wf2mo8/can_we_get_monsters_defence_reduction_cap_stated/p9l0b3h/
 - **(Bug?) Prayer Potion (3) defaults to Drink instead of Deposit, Menu Reordering not working**
-  - r/2007scape · 12h ago · T3ABAGG3N · score 13
+  - r/2007scape · 13h ago · T3ABAGG3N · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfbbpw/bug_prayer_potion_3_defaults_to_drink_instead_of/
 - **can someone confirm TOA rewards are sound?**
-  - r/2007scape · 18h ago · HolyModalRounder92 · score 13
+  - r/2007scape · 19h ago · HolyModalRounder92 · score 13
   - matched: bug
   - 6c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wf3ird/can_someone_confirm_toa_rewards_are_sound/
 - **Yo so bug? Amulet of chemistry. I had 16 in the back all had ? As charges so I used one it had 4 charges I deposited it into the bank with 2 charges left, figured it would make a (**
-  - r/osrs · 21h ago · V0rclaw · score 13
+  - r/osrs · 22h ago · V0rclaw · score 13
   - matched: bug
   - 13c · 0↑
   - https://www.reddit.com/r/osrs/comments/1wf0lk3/yo_so_bug_amulet_of_chemistry_i_had_16_in_the/
 
-## "You can do this" finds  (3)
+## "You can do this" finds  (4)
 
 - **Than take advantage of lower supply cost to make money with PVM. If you dont want to PVM than you can still make money with a TON of different methods. If we assume that anglers us**
-  - comment · 11h ago · InterestingCell5247 · score 46
+  - comment · 12h ago · InterestingCell5247 · score 46
   - matched: ⚡ food per inventory slot, you can still, bones to peaches
   - re: Boat fishing is overtuned and has brought anglers 
   - https://www.reddit.com/r/2007scape/comments/1wfa4xl/boat_fishing_is_overtuned_and_has_brought_anglers/p9l310i/
 - **Barb fishing is very efficient - even when afking it espeically with a fish barrel You dont need to fish for food. Shopscape Karambwans is good**
-  - comment · 4h ago · mildhonesty · score 41
+  - comment · 5h ago · mildhonesty · score 41
   - matched: ⚡ food per inventory slot, you dont need, fish barrel
   - re: Ironman for about 3 weeks
   - https://www.reddit.com/r/ironscape/comments/1wfk2oz/ironman_for_about_3_weeks/p9nipxc/
+- ****>My stats are low.** 3 weeks in, so that makes sense. **>I’m balancing studying and playing and life stuff.** So you afk pretty hard then I imagine. **>Am I crazy for wanting to **
+  - comment · 28m ago · IronmanMatth · score 26
+  - matched: ⚡ food per inventory slot, fish barrel
+  - re: Ironman for about 3 weeks
+  - https://www.reddit.com/r/ironscape/comments/1wfk2oz/ironman_for_about_3_weeks/p9p1e59/
 - **Salvaging to 99 sailing is around 35mill cash if you alch along the way. Lumby ring, herb sack, seed box, gem bag, plank sack and you will also bank loads of supplies.**
-  - comment · 7h ago · Eindrie · score 26
+  - comment · 8h ago · Eindrie · score 26
   - matched: ⚡ food per inventory slot, herb sack, plank sack
   - re: Any good ways to get gp on my ironman?
   - https://www.reddit.com/r/ironscape/comments/1wfj19p/any_good_ways_to_get_gp_on_my_ironman/p9mj3o7/
 
-## Mechanics & wiki corrections  (24)
+## Mechanics & wiki corrections  (25)
 
 - **Port roberts has a safe spot with 4 plus sharks to line up? The wiki has had the spot next to wyrmscraig listed as the safespot to use since I got my hooks**
-  - comment · 2h ago · MikeyeSGI · score 26
+  - comment · 3h ago · MikeyeSGI · score 26
   - matched: safespot, safe spot
   - re: How did you guys farm great white sharks?
   - https://www.reddit.com/r/ironscape/comments/1wfpez7/how_did_you_guys_farm_great_white_sharks/p9o3s2a/
 - **I used the safespot from the 'A Wild Foxy' video, but I angled my boat a little to point the side of my boat w 2 cannons north. Killed the two sharks that spawn south. 2x rune cann**
-  - comment · 3h ago · PsychologicalPlace17 · score 26
+  - comment · 4h ago · PsychologicalPlace17 · score 26
   - matched: safespot, teleport to boat
   - re: How did you guys farm great white sharks?
   - https://www.reddit.com/r/ironscape/comments/1wfpez7/how_did_you_guys_farm_great_white_sharks/p9o1p75/
 - **Yes usually my ping script shows 314 at like 15ms ping and look at it now, everything is like +40ms World,Location,(m),Activity,Ping (ms) 314,United States (east),1,Brimhaven Agili**
-  - comment · 11h ago · Long_Dot3524 · score 26
+  - comment · 12h ago · Long_Dot3524 · score 26
   - matched: pyramid plunder, ashihama
   - re: anyone else having a relatively high ping?
   - https://www.reddit.com/r/2007scape/comments/1wfbc1z/anyone_else_having_a_relatively_high_ping/p9kqrka/
+- **Thats how I got my forst fire cape. Safe spot on dragon rock and afk for a while**
+  - comment · 29m ago · Visual_Seaweed8292 · score 20
+  - matched: safe spot
+  - re: Getting 99 woodcutting ruined my noob way of getti
+  - https://www.reddit.com/r/2007scape/comments/1wft5qp/getting_99_woodcutting_ruined_my_noob_way_of/p9p17vv/
 - **Here's a breakdown from how I understand it. Visible boosts do not stack with eachother. Invisible boost can not be used to do actions earlier (example the invisible +7 mining in t**
-  - comment · 4h ago · Taddit14 · score 24
+  - comment · 5h ago · Taddit14 · score 24
   - matched: invisible boost, visible boost
   - re: Do invisible skilling boosts past 99 do anything
   - https://www.reddit.com/r/2007scape/comments/1wflqwq/do_invisible_skilling_boosts_past_99_do_anything/p9nk6cl/
-- **✎ Slayer dungeon — Skillguide updated since, no longer accurate. It's referred as the Fremmy slayer dungeon**
-  - wiki · 1h ago · SirWrain · score 19
-  - matched: behaviour edit
-  - edit
-  - https://oldschool.runescape.wiki/w/Slayer_dungeon
-- **damn i guess we should go back and change all of the stash units to remove them from the game because they let you store abby whip avernic def dragon axe crystal bow dragon axe ave**
-  - comment · 1h ago · Silly-Advance-664 · score 17
-  - matched: stash units, emberlight
-  - re: The Summer Sweep Up blog greatly understated the c
-  - https://www.reddit.com/r/2007scape/comments/1wf4ob9/the_summer_sweep_up_blog_greatly_understated_the/p9oknsq/
 - **There's a safe spot on some rocks south of deepfin. It's on the wiki.**
-  - comment · 3h ago · NYLaw · score 20
+  - comment · 4h ago · NYLaw · score 20
   - matched: safe spot
   - re: How did you guys farm great white sharks?
   - https://www.reddit.com/r/ironscape/comments/1wfpez7/how_did_you_guys_farm_great_white_sharks/p9o1coo/
 - **Man the cannon yourself with elite void anguish etc and have crewmate fire the 2nd cannon. There is a safespot i think it's on the wiki. You can shoot with bowfa but post updates u**
-  - comment · 3h ago · Gl0ck36 · +2 more in this thread on the same terms · score 20
+  - comment · 4h ago · Gl0ck36 · +2 more in this thread on the same terms · score 20
   - matched: safespot
   - re: How did you guys farm great white sharks?
   - https://www.reddit.com/r/ironscape/comments/1wfpez7/how_did_you_guys_farm_great_white_sharks/p9o123v/
 - **How did you guys farm great white sharks?**
-  - r/ironscape · 3h ago · ariveklul · score 20
+  - r/ironscape · 4h ago · ariveklul · score 20
   - matched: safespot
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wfpez7/how_did_you_guys_farm_great_white_sharks/
 - **Tbh (as op said they did) blood barrage usually is fine, but yeah, safespot is superior by far.**
-  - comment · 4h ago · Sarcothis · score 20
+  - comment · 5h ago · Sarcothis · score 20
   - matched: safespot
   - re: Slayer is hard
   - https://www.reddit.com/r/2007scape/comments/1wfo09s/slayer_is_hard/p9npwas/
 - **He spawns a trio of minions, one for each style when he gets some hits on you. If you safe spot him then he can't spawn the gang.**
-  - comment · 4h ago · PatrickTheLid1337 · +3 more in this thread on the same terms · score 20
+  - comment · 5h ago · PatrickTheLid1337 · +3 more in this thread on the same terms · score 20
   - matched: safe spot
   - re: Slayer is hard
   - https://www.reddit.com/r/2007scape/comments/1wfo09s/slayer_is_hard/p9nogwq/
 - **just run to the little hallway between the 2 nechryael rooms and safespot him there**
-  - comment · 4h ago · Austrum · score 20
+  - comment · 5h ago · Austrum · score 20
   - matched: safespot
   - re: Slayer is hard
   - https://www.reddit.com/r/2007scape/comments/1wfo09s/slayer_is_hard/p9noe6t/
 - **Full mixed hide and shcb go learn the safespot for rev knights**
-  - comment · 7h ago · Early_Mine5777 · score 20
+  - comment · 8h ago · Early_Mine5777 · score 20
   - matched: safespot
   - re: Any good ways to get gp on my ironman?
   - https://www.reddit.com/r/ironscape/comments/1wfj19p/any_good_ways_to_get_gp_on_my_ironman/p9mgkv1/
 - **I recommend doing all the relevant diary and combat achievements. After that I would farm calvarion or my personal favorite was doing the solo safespot method at chaos ele.**
-  - comment · 7h ago · Infinite-Scene3972 · score 20
+  - comment · 8h ago · Infinite-Scene3972 · score 20
   - matched: safespot
   - re: Which Wildy boss for d pick?
   - https://www.reddit.com/r/ironscape/comments/1wfha50/which_wildy_boss_for_d_pick/p9mfdx8/
 - **I went hardcore to “see how long I can last” because why not and boy I was so happy to lose status. Never went out of my comfort range, used any excuse to skill instead of combat, **
-  - comment · 9h ago · come2life_osrs · score 20
+  - comment · 10h ago · come2life_osrs · score 20
   - matched: safe spot
   - re: lost my HCIM status a week or two back........
   - https://www.reddit.com/r/ironscape/comments/1wfcp6x/lost_my_hcim_status_a_week_or_two_back/p9lm0tl/
@@ -210,46 +205,56 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - 1c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wfdxqq/blisterwood_stakes_have_a_max_hit_of_over_20_with/
 - **I would do knights in the safespot while skulled. Use sunlight cbow if you don’t mind gathering ammo, otherwise msb is a bit weaker but the ammo is very easy to get. Use a salve ei**
-  - comment · 11h ago · TheDubuGuy · score 20
+  - comment · 12h ago · TheDubuGuy · score 20
   - matched: safespot
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1wezgtn/have_a_question_about_the_game_or_the_subreddit/p9kr7cx/
 - **To save myself the 2k karambwans I already have (fishing, well moreso cooking them, without tick manipulation) is kinda tedious. I'm still working on my swordfish from tempoross th**
-  - comment · 13h ago · LogisticalTesticle · score 20
+  - comment · 14h ago · LogisticalTesticle · score 20
   - matched: tick manipulation, combo eat
   - re: How late game are you still using potatoes? I'm 19
   - https://www.reddit.com/r/ironscape/comments/1wax0gy/how_late_game_are_you_still_using_potatoes_im/p9k33qb/
 - **HELP 1 def pure ZOmbie pirates**
-  - r/2007scape · 15h ago · Apprehensive-Tone222 · score 20
+  - r/2007scape · 16h ago · Apprehensive-Tone222 · score 20
   - matched: safe spot
   - 5c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wf70zb/help_1_def_pure_zombie_pirates/
+- **✎ Slayer dungeon — Skillguide updated since, no longer accurate. It's referred as the Fremmy slayer dungeon**
+  - wiki · 2h ago · SirWrain · score 19
+  - matched: behaviour edit
+  - edit
+  - https://oldschool.runescape.wiki/w/Slayer_dungeon
 - **✎ Optimal quest guide/Ironman — the elemental workshop quests used to be required for the crafting exp for shadow of the storm and lost city. This is no**
-  - wiki · 16h ago · Quetra1 · seen 2x · score 19
+  - wiki · 17h ago · Quetra1 · seen 2x · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Optimal_quest_guide%2FIronman
+- **damn i guess we should go back and change all of the stash units to remove them from the game because they let you store abby whip avernic def dragon axe crystal bow dragon axe ave**
+  - comment · 2h ago · Silly-Advance-664 · score 17
+  - matched: stash units, emberlight
+  - re: The Summer Sweep Up blog greatly understated the c
+  - https://www.reddit.com/r/2007scape/comments/1wf4ob9/the_summer_sweep_up_blog_greatly_understated_the/p9oknsq/
 - **I’ve seen a bunch of people claim it but I’ve never heard it convincingly from anyone I believed. As limited as deviousMUD was I think it’s safe to assume the *minimum* age for any**
-  - comment · 2h ago · tapewizard79 · score 17
+  - comment · 3h ago · tapewizard79 · score 17
   - matched: wiki says, classic
   - re: Does anyone here actually remember or know someone
   - https://www.reddit.com/r/2007scape/comments/1wflilv/does_anyone_here_actually_remember_or_know/p9oba2o/
 - **Just bring spellbook swap for thralls/ice spells/alchs and do it anyway**
-  - comment · 5h ago · Calsan1 · score 17
+  - comment · 6h ago · Calsan1 · score 17
   - matched: spellbook swap, thralls
   - re: Why does whisperer drop d skirts unnoted?
   - https://www.reddit.com/r/2007scape/comments/1wflp7b/why_does_whisperer_drop_d_skirts_unnoted/p9ncwqd/
 - **nice inventory set ups is my absolute favorite though, it has saved me absolutely 10s-100s of hours of wasted time setting up/banking. oh one more i think is extremely useful for p**
-  - comment · 9h ago · amatsukazeda · score 17
+  - comment · 10h ago · amatsukazeda · score 17
   - matched: true tile, corner tile
   - re: Must have plug-ins RuneLite ?
   - https://www.reddit.com/r/2007scape/comments/1wfevb6/must_have_plugins_runelite/p9lqzja/
 - **I remember when RuneScape Classic meant Alpha. **
-  - comment · 11h ago · ReckedRambler · score 17
+  - comment · 12h ago · ReckedRambler · score 17
   - matched: classic, runescape classic
   - re: I remember when…
   - https://www.reddit.com/r/2007scape/comments/1wfcva3/i_remember_when/p9kvk61/
 
 ---
 
-Not included: 1069 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1070 findings older than 24h. Widen with `__osrs.report(48)` in the console.
