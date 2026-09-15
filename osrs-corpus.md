@@ -1,54 +1,64 @@
 # OSRS Signal — last 24h
 
-2026-09-15 15:00 UTC · 105 findings after merging duplicates (from 223 raw hits; 88 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 7s ago · repo: ok (pushed 14:04Z) · 56m ago · search: ok · 3m ago · vanished: ok (checked 4) · 4m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 4m ago
+2026-09-15 15:56 UTC · 97 findings after merging duplicates (from 216 raw hits; 86 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 15:00Z) · 55m ago · search: ok · 3m ago · vanished: ok (checked 3) · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 15m ago
 
 ## Vanished — removed or deleted after posting  (2)
 
 - **🗑 vanished from reddit — deleted by the author — As a UIM, youre an absolute fool if you go back to content that has a bug where you could lose your items**
-  - comment, vanished · 14h ago · Buckeyeup · seen 2x · score 45
+  - comment, vanished · 15h ago · Buckeyeup · seen 2x · score 45
   - matched: vanished, bug
   - was comment, posted 3m before it went
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9v5uhl/
   - captured before it went:
     > As a UIM, youre an absolute fool if you go back to content that has a bug where you could lose your items
 - **🗑 vanished from reddit — removed (deleted) — Raids 4 Prep help needed**
-  - r/osrs, vanished · 14h ago · iiiBurzt · seen 3x · score 40
+  - r/osrs, vanished · 15h ago · iiiBurzt · seen 3x · score 40
   - matched: vanished, soul reaper axe
   - was r/osrs, posted 3m before it went
   - https://www.reddit.com/r/osrs/comments/1wglkor/raids_4_prep_help_needed/
   - captured before it went:
     > I know my rng at tob is insane. First scythe was at 37kc and i just pulled my second one for my third purple there at 127kc. The first scythe was a 4 way split and the second was a ffa. Hints why im stuck on keeping it or selling it for raids 4 prep. Do i keep the scythe because it is bis melee weapon and will probably be used at raids 4 anyway, or do i sell it for 1.4B and buy other things im almost positive will be used in raids 4? Such as, full inq and mace, soul reaper axe, and have around 150-200m cash to play with and start saving for twisted bow. Im not interested in selling gear I already own because my bank is at this weird point where i am approaching bis bank and dont have any interest in buying and selling gear anymore. I only like going to the GE for supplies upgrades and loot tab selling. Is there anything else i should maybe look into getting for raids 4 prep?
 
-## Bugs & exploits  (45)
+## Bugs & exploits  (47)
 
+- **Saves your character state, yeah. Otherwise a rollback of the world you were on will screw you over.**
+  - comment · 1m ago · FerrousMarim · score 25
+  - matched: rollback
+  - re: Paying $15 a month for the privilege of losing my 
+  - https://www.reddit.com/r/2007scape/comments/1wg88sh/paying_15_a_month_for_the_privilege_of_losing_my/p9zaun3/
+- **The task shouldn't have been deleted unless there was some kind of rollback, which I don't recall happening this week. Are you positive you didn't complete it already, or complete **
+  - comment · 5m ago · huffmanxd · score 25
+  - matched: rollback
+  - re: Slayer task deleted after update??
+  - https://www.reddit.com/r/2007scape/comments/1wh4189/slayer_task_deleted_after_update/p9za1ez/
 - **Is the logout needed? Does it cache your game state or something? Asking because I worry about losing my drops too. That story about the rollback a few years ago where the guy lost**
-  - comment · 43m ago · AdAltruistic2959 · score 25
+  - comment · 1h ago · AdAltruistic2959 · score 25
   - matched: rollback
   - re: Paying $15 a month for the privilege of losing my 
   - https://www.reddit.com/r/2007scape/comments/1wg88sh/paying_15_a_month_for_the_privilege_of_losing_my/p9ynyml/
 - **>I didn't know you could do that without making the second UFOs spawn double Yeah as soon as the first spawns you don't have to block anymore. Blocking the floor orbs is just about**
-  - comment · 2m ago · mkhart · score 24
+  - comment · 58m ago · mkhart · score 24
   - matched: unintended, didn't know you could
   - re: Masori Body on my first ever 150 TOA
   - https://www.reddit.com/r/2007scape/comments/1wh0to8/masori_body_on_my_first_ever_150_toa/p9yxgn7/
 - **I lost a twisted bow due to a rollback almost 4 years ago. You can say that I don't appreciate seeing other players get fucked over.**
-  - comment · 2h ago · GIMBruhBoobies · score 25
+  - comment · 3h ago · GIMBruhBoobies · score 25
   - matched: rollback
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9xx3oi/
 - **There's no bug to fix though. Thats the system for when you lose the eligibility to wield an item. Could Jagex fundamentally change this system to make it work a different way? Sur**
-  - comment · 6h ago · WombatBoii · score 25
+  - comment · 7h ago · WombatBoii · score 25
   - matched: bug, eligibility
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9x5tjg/
 - **I see nowhere where they said it was a bug. He edited the post but the top comment references it being dropped to the ground https://www.reddit.com/r/2007scape/s/qt3wcpmxGO**
-  - comment · 15h ago · AgileMasterpiece991 · score 25
+  - comment · 16h ago · AgileMasterpiece991 · score 25
   - matched: bug, dropped to the ground
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9usxrb/
 - **They never said it was fixed, and it wasn’t a bug. The player no longer met the requirements to wield the item and nowhere to put it, so it dropped to the ground. Missing it the fi**
-  - comment · 15h ago · AgileMasterpiece991 · score 25
+  - comment · 16h ago · AgileMasterpiece991 · score 25
   - matched: bug, dropped to the ground
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9urvz4/
@@ -58,22 +68,17 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Hit 99 Slayer Today!
   - https://www.reddit.com/r/2007scape/comments/1wgfchl/hit_99_slayer_today/p9ua1g2/
 - **I was about 10 minutes away from losing my mask to a server rollback after about 1000kc. Happy for you **
-  - comment · 17h ago · hobo131 · score 25
+  - comment · 18h ago · hobo131 · score 25
   - matched: rollback
   - re: Loot from 1 Cave Horror
   - https://www.reddit.com/r/2007scape/comments/1wg35yu/loot_from_1_cave_horror/p9u7dlf/
-- **Rollback inc**
-  - comment · 23h ago · ZealousidealCrow811 · score 25
-  - matched: rollback
-  - re: Mass DCs happening across all servers- Jagex being
-  - https://www.reddit.com/r/2007scape/comments/1wg6lwc/mass_dcs_happening_across_all_servers_jagex_being/p9rr9m6/
 - **The reason it got given back was a game bug, that shouldn't have happened. It happened again because the bug with the game was not fixed. If a game bug caused your items to get dum**
-  - comment · 10h ago · pointlessnomencature · score 24
+  - comment · 11h ago · pointlessnomencature · score 24
   - matched: bug, shouldn't have happened
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9w8f4u/
 - **Good read, and I’m sorry that this level of effort is wasted on this sub. Your distinction is very useful comparing tick manipulation methods like 3-tick Chins or Barblore, to the **
-  - comment · 4h ago · student_254 · score 21
+  - comment · 5h ago · student_254 · score 21
   - matched: unintended, tick manipulation
   - re: Vampyrium, Fremennik Agility, and the problem of C
   - https://www.reddit.com/r/2007scape/comments/1wglp9n/vampyrium_fremennik_agility_and_the_problem_of/p9xeriq/
@@ -83,371 +88,351 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - youtube
   - https://www.youtube.com/watch?v=8gr0lfcsTZk
 - **Could also be a bug with updates. Rs3 just found out that for the past couple of months their clue casket rewards were broken. Only found out after 100s of thousands of casket open**
-  - comment · 4h ago · Prudent-Complex1018 · score 18
+  - comment · 5h ago · Prudent-Complex1018 · score 18
   - matched: bug, drop table
   - re: Pickpocketing elves is weird
   - https://www.reddit.com/r/2007scape/comments/1wgwrug/pickpocketing_elves_is_weird/p9xm6o2/
 - **You spawn in the game when you log in, not when you click continue on the welcome screen. Also, going afk in a safe area literally happens... all the time. Even right after logging**
-  - comment · 12h ago · Salad_Dressing__ · score 18
+  - comment · 13h ago · Salad_Dressing__ · score 18
   - matched: bug, safe area
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9vvd69/
 - **The Fractured Archive release date speculation**
-  - r/2007scape · 18h ago · knifeof11 · score 18
+  - r/2007scape · 19h ago · knifeof11 · score 18
   - matched: bugs, first week
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wgesx2/the_fractured_archive_release_date_speculation/
 - **There's a difference between pumping the value of an item in game for in game profit, and pumping the value of an item because a meme coin was made to track the value of said item.**
-  - comment · 20h ago · MrStealYoBeef · score 18
+  - comment · 21h ago · MrStealYoBeef · score 18
   - matched: not supposed to, token
   - re: Robin Hood Hats
   - https://www.reddit.com/r/2007scape/comments/1wg74sk/robin_hood_hats/p9sroq3/
+- **The only game where you could just be sailing along, and a random mosquito comes along and murders you. I braved through everything back in the day and finally mastered the plains,**
+  - comment · 36m ago · Kiosade · score 13
+  - matched: bugs
+  - re: RuneScape: Dragonwilds 1.0 OUT NOW!
+  - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/p9z2dm9/
+- **If they get your IP consider your mainframe hacked. All it takes is one guy with a black screen with green text to say "I'm in" and you're done**
+  - comment · 45m ago · Jesus-Bacon · score 13
+  - matched: black screen
+  - re: Do you trust plugins that ask for your IP?
+  - https://www.reddit.com/r/2007scape/comments/1wh2y33/do_you_trust_plugins_that_ask_for_your_ip/p9z0bwa/
 - **It's not supposed to be easy. I got 99 agility it's fine as is.**
-  - comment · 7m ago · asg32000 · score 13
+  - comment · 1h ago · asg32000 · score 13
   - matched: not supposed to
   - re: AGILITY TRAINING
   - https://www.reddit.com/r/2007scape/comments/1wh21x3/agility_training/p9yw64z/
 - **Instead of 'cant leave wildy with it', I think the clues should be really good (like consistent 1m+ reward, on top of elite/master tier clue rewards), but they should be dropped on**
-  - comment · 31m ago · tippyonreddit · score 13
+  - comment · 1h ago · tippyonreddit · score 13
   - matched: cant leave
   - re: [Suggestion] Wildy clue scrolls
   - https://www.reddit.com/r/2007scape/comments/1wgwydn/suggestion_wildy_clue_scrolls/p9yqtxl/
-- **"Unintended" bro they specifically changed the boss to allow halberds to work what are you talking about?**
-  - comment · 48m ago · Sagonsa · score 13
-  - matched: unintended
-  - re: Does Zulrah honestly need a damage cap still
-  - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9yn0ic/
 - **While your right, it’s not intended movement like with other bosses like Duke. You’re fighting jank rather than game design or even emergent gameplay like woox walking vorkath or b**
-  - comment · 49m ago · NorysStorys · score 13
+  - comment · 1h ago · NorysStorys · score 13
   - matched: not intended
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9ymnts/
 - **The boss requires movement and positioning. Redditor wants to stand still while attacking to afk his zulrah with nally (a completely unintended method btw) and gets 100 upvotes. Go**
-  - comment · 52m ago · Mirigore · score 13
+  - comment · 1h ago · Mirigore · +2 more in this thread on the same terms · score 13
   - matched: unintended
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9ym15h/
 - **Mobile Bug Sep 15th 2026. Cannot interact with any object. Please help!**
-  - r/2007scape · 1h ago · TheLongDongus · score 13
+  - r/2007scape · 2h ago · TheLongDongus · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wh0b4i/mobile_bug_sep_15th_2026_cannot_interact_with_any/
 - **Going off the inventory icon of the mithril grapple, it certainly looks like the rope is attached to the bolt part of it. It is reasonable to think that bolt portion is where it br**
-  - comment · 1h ago · rws531 · score 13
+  - comment · 2h ago · rws531 · score 13
   - matched: not intended
   - re: The Mithril Hook Mystery
   - https://www.reddit.com/r/2007scape/comments/1wgslj4/the_mithril_hook_mystery/p9ycfnd/
 - **That guy was an UIM so it's not like he can easily buy it back or reacquire it easily Not blown up enough imo since jagex still hasn't fixed it If you lost one of your rares like t**
-  - comment · 1h ago · When_hop · score 13
+  - comment · 2h ago · When_hop · score 13
   - matched: glitch
   - re: With the upcoming addition of graceful to the Perd
   - https://www.reddit.com/r/2007scape/comments/1wgritv/with_the_upcoming_addition_of_graceful_to_the/p9ya360/
 - **What’s your focus or grind after a long hideous?**
-  - r/osrs · 3h ago · Big-Recording-1002 · score 13
+  - r/osrs · 4h ago · Big-Recording-1002 · score 13
   - matched: game breaking
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wgxnhs/whats_your_focus_or_grind_after_a_long_hideous/
 - **I would keep following items: 1 avernic hilt (bugs), justiciar pieces (tiny off chance that you need them for Raids4 rewards), karils+verac+occults if you havent completed wilderne**
-  - comment · 5h ago · Helsinking · score 13
+  - comment · 6h ago · Helsinking · score 13
   - matched: bugs
   - re: Any reason not to transfer these dupes to my main?
   - https://www.reddit.com/r/ironscape/comments/1wgnsae/any_reason_not_to_transfer_these_dupes_to_my_main/p9xabxn/
 - **Also the constant bug sound effects is annoying af**
-  - comment · 8h ago · Callmebigpahpa · score 13
+  - comment · 9h ago · Callmebigpahpa · score 13
   - matched: bug
   - re: Where’s y’all’s favorite skilling bank? I’m talkin
   - https://www.reddit.com/r/ironscape/comments/1wgj5az/wheres_yalls_favorite_skilling_bank_im_talking/p9wrwf6/
 - **The avernic unequip drop bug with full inventory on master CAs is probably a pretty good reason to keep the hilts, since apparently that's going to stay broken.**
-  - comment · 10h ago · pointlessnomencature · score 13
+  - comment · 11h ago · pointlessnomencature · score 13
   - matched: bug
   - re: Any reason not to transfer these dupes to my main?
   - https://www.reddit.com/r/ironscape/comments/1wgnsae/any_reason_not_to_transfer_these_dupes_to_my_main/p9w9cgl/
 - **One of the most annoying for me has been long pressing a scroll arrow (like in bank or any other menu) results in a right click, rather than scrolling. And idk if this is a bug, or**
-  - comment · 11h ago · Dad_of_kids · score 13
+  - comment · 12h ago · Dad_of_kids · score 13
   - matched: bug
   - re: Mobile is super buggy now
   - https://www.reddit.com/r/2007scape/comments/1wf8p1g/mobile_is_super_buggy_now/p9w25ay/
 - **I for one enjoy the 30 second black screen when hopping worlds. Gives me time to whack one out**
-  - comment · 11h ago · Fancy-Dig1863 · score 13
+  - comment · 12h ago · Fancy-Dig1863 · score 13
   - matched: black screen
   - re: Fix the servers!
   - https://www.reddit.com/r/2007scape/comments/1wglljw/fix_the_servers/p9w1cif/
 - **It didn't drop to the ground, game deleted it I'm pretty sure. That's the bug. **
-  - comment · 15h ago · HideYourCarry · +22 more in this thread on the same terms · score 13
+  - comment · 16h ago · HideYourCarry · +23 more in this thread on the same terms · score 13
   - matched: bug
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9uq70g/
 - **I'm suggesting that there's room for more shortcuts and more agility functionality/integration. Why stop at shortcuts? I'm not suggesting anything game breaking, just QoL stuff lik**
-  - comment · 15h ago · watch_out_it_farts · score 13
+  - comment · 16h ago · watch_out_it_farts · score 13
   - matched: game breaking
   - re: New Agility Course - just what the skill needed!
   - https://www.reddit.com/r/2007scape/comments/1wgg9hd/new_agility_course_just_what_the_skill_needed/p9upsjw/
 - **Just a reminder that Jagex never returned that UIM his avernic defender after he lost it a SECOND time because Jagex didn't fix the original bug!**
-  - r/2007scape · 16h ago · GIMBruhBoobies · score 13
+  - r/2007scape · 17h ago · GIMBruhBoobies · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/
 - **How does this save a tick? Does it make the black screen transition faster?**
-  - comment · 16h ago · GodSPAMit · score 13
+  - comment · 17h ago · GodSPAMit · score 13
   - matched: black screen
   - re: Anyway to improve my efficiency at Zulrah? Or is j
   - https://www.reddit.com/r/ironscape/comments/1wgc9x2/anyway_to_improve_my_efficiency_at_zulrah_or_is/p9uk9mi/
 - **I just figured out the bug can be fixed by playing a bunch on your phone and then playing on the PC afterwards. That's my guess. It breaks when I start the day but fixes itself at **
-  - comment · 17h ago · King_Krush_Sr · score 13
+  - comment · 18h ago · King_Krush_Sr · score 13
   - matched: bug
   - re: Wyrmscraig fps drop lag
   - https://www.reddit.com/r/2007scape/comments/1wej5av/wyrmscraig_fps_drop_lag/p9u5i8r/
 - **During the black screen transition phase after you click the boat to start the fight. If you turn on a prayer, you will save a tick for every kill lol.**
-  - comment · 17h ago · barfmarth · score 13
+  - comment · 18h ago · barfmarth · score 13
   - matched: black screen
   - re: Anyway to improve my efficiency at Zulrah? Or is j
   - https://www.reddit.com/r/ironscape/comments/1wgc9x2/anyway_to_improve_my_efficiency_at_zulrah_or_is/p9tyx1h/
 - **Yeah I said it in the other thread. Im firmly in the camp agility can and should be a gatekeep to max but could use more breathing room. Sep to 110k with chests giving xp so they a**
-  - comment · 18h ago · HeadintheSand69 · score 13
+  - comment · 19h ago · HeadintheSand69 · score 13
   - matched: bugged
   - re: Such a tough dilemma being proposed with the new G
   - https://www.reddit.com/r/2007scape/comments/1wg5k0r/such_a_tough_dilemma_being_proposed_with_the_new/p9ttsie/
 - **If you have a main harpy bug swarms are apparently new best method. For eclectics I just stack up clues til limit. Fill rest of invy with jars. **
-  - comment · 18h ago · Prokofi · +3 more in this thread on the same terms · score 13
+  - comment · 19h ago · Prokofi · +3 more in this thread on the same terms · score 13
   - matched: bug
   - re: Better to stack 1000 eclectics or do mediums while
   - https://www.reddit.com/r/ironscape/comments/1wgey4m/better_to_stack_1000_eclectics_or_do_mediums/p9trgxb/
 - **I don't really see the point in adding agility courses with similar xp rates to every agility course in the game. Yea let's have a half dozen agility courses around the same level **
-  - comment · 19h ago · Chosen_Zombie · score 13
+  - comment · 20h ago · Chosen_Zombie · score 13
   - matched: exploit
   - re: Such a tough dilemma being proposed with the new G
   - https://www.reddit.com/r/2007scape/comments/1wg5k0r/such_a_tough_dilemma_being_proposed_with_the_new/p9t5g5y/
 - **I also died in TOB with a 2s crystal on. All inputs were disregarded and I went hands off. Watched as the crystal failed to tele me for 8 full ticks while taking maiden blood pool **
-  - comment · 20h ago · Fresh-Wrap8654 · score 13
+  - comment · 21h ago · Fresh-Wrap8654 · score 13
   - matched: doesn't register
   - re: Paying $15 a month for the privilege of losing my 
   - https://www.reddit.com/r/2007scape/comments/1wg88sh/paying_15_a_month_for_the_privilege_of_losing_my/p9t3t3z/
 - **I died like this last week on my HCIM in TOB to maiden blood pool. Clicks all stopped registering but I was still connected, could see everything happening but all my clicks were d**
-  - comment · 20h ago · Fresh-Wrap8654 · score 13
+  - comment · 21h ago · Fresh-Wrap8654 · score 13
   - matched: bug
   - re: Never have been more confused in my life
   - https://www.reddit.com/r/2007scape/comments/1wg8rtn/never_have_been_more_confused_in_my_life/p9t1a8w/
 - **Yup. Self-enforced offline hardcore is the only way for me after losing my last 2-3 HC characters on various games to disconnects, bugs and server crashes. I enjoy offline HC Minec**
-  - comment · 20h ago · ParticularBreath6146 · score 13
+  - comment · 21h ago · ParticularBreath6146 · score 13
   - matched: bugs
   - re: Paying $15 a month for the privilege of losing my 
   - https://www.reddit.com/r/2007scape/comments/1wg88sh/paying_15_a_month_for_the_privilege_of_losing_my/p9srtwb/
 - **I would argue that it should be both. It's not supposed to be easy. This is one of the grindiest games that exists and I believe it's second behind WoW in terms of mmorpgs if I'm n**
-  - comment · 21h ago · IAmReam · score 13
+  - comment · 22h ago · IAmReam · score 13
   - matched: not supposed to
   - re: Graceful Rework
   - https://www.reddit.com/r/2007scape/comments/1wg75oe/graceful_rework/p9sn5lz/
 - **You guys surely hold the data but i have to be honest in that low intensity agility just seems completely redundant to me and I never see anyone using it. It would be interesting t**
-  - comment · 21h ago · moose_dad · score 13
+  - comment · 22h ago · moose_dad · score 13
   - matched: cant leave
   - re: The Graveyard: Rewards Blog
   - https://www.reddit.com/r/2007scape/comments/1wg2qdd/the_graveyard_rewards_blog/p9sguew/
 - **Tends to be harder to modify existing items for different functionality than adding new ones designed like that from the get-go. For example, unlocking new colors checks for base g**
-  - comment · 22h ago · BioMasterZap · score 13
+  - comment · 23h ago · BioMasterZap · score 13
   - matched: bugs
   - re: The Graveyard: Rewards Blog
   - https://www.reddit.com/r/2007scape/comments/1wg2qdd/the_graveyard_rewards_blog/p9s875r/
 
-## Jagex & J-Mod  (15)
+## Jagex & J-Mod  (10)
 
 - **RuneScape: Dragonwilds 1.0 OUT NOW!**
-  - r/2007scape · 5h ago · JagexGoblin · score 38
+  - r/2007scape · 6h ago · JagexGoblin · score 38
   - matched: J-Mod, bugs
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/
+- **🟣 11 J-Mod replies — [Suggestion] Wildy clue scrolls**
+  - comment · 54m ago · Mod_Jez · score 30
+  - matched: J-Mod · rolled up, no bug content
+  - latest of 11, Mod_Jez: Yes, please remove willy clue steps. 
+  - https://www.reddit.com/comments/1wgwydn
 - **🟣 17 J-Mod replies — Anybody else experiencing unplayable ping?**
-  - comment · 40m ago · JagexGoblin · score 30
+  - comment · 1h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 17, JagexGoblin: Hey! We think today's maintenance should've fixed ongoing issues with 
   - https://www.reddit.com/comments/1wh0cgw
 - **🟣 520 J-Mod replies — RuneScape: Dragonwilds 1.0 OUT NOW!**
-  - comment · 3h ago · JagexGoblin · score 30
+  - comment · 4h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 520, JagexGoblin: I don't believe local/couch co-op is currently supported, so you'd hav
   - https://www.reddit.com/comments/1wgvh41
 - **🟣 22 J-Mod replies — Just a reminder that Jagex never returned that UIM his avernic defender after he lost it a**
-  - comment · 5h ago · JagexGoblin · score 30
+  - comment · 6h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 22, JagexGoblin: Hello all - and especially u/Pickleby07 Looks as though some wires got
   - https://www.reddit.com/comments/1wgitx5
 - **🟣 22 J-Mod replies — Why don't players have a hand in suggesting shortcuts?**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 22, JagexGoblin: >But if new content dropped with the expectation that it would have Qo
   - https://www.reddit.com/comments/1wg7k0t
-- **🟣 16 J-Mod replies — Mass DCs happening across all servers- Jagex being ddosed?**
-  - comment · 23h ago · JagexGoblin · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 16, JagexSarnie: Thanks you for flagging this! The team are currently investigating and
-  - https://www.reddit.com/comments/1wg6lwc
-- **🟣 8 J-Mod replies — Fuck These Servers**
-  - comment · 23h ago · JagexSarnie · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 8, JagexSarnie: Sorry for the disruption fam, the team are currently investigating wha
-  - https://www.reddit.com/comments/1wg6id1
-- **🟣 8 J-Mod replies — This server performance is unacceptable**
-  - comment · 23h ago · JagexGoblin · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 8, JagexGoblin: For the current spike of connection problems we're seeing: the team ar
-  - https://www.reddit.com/comments/1wg6q33
-- **🟣 9 J-Mod replies — Anyone else huge packet loss US East?**
-  - comment · 23h ago · JagexSarnie · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 9, JagexSarnie: Heya, thanks for flagging! The team are currently investigating to ide
-  - https://www.reddit.com/comments/1wg6hbk
-- **🟣 10 J-Mod replies — Let us adopt this poor thing**
-  - comment · 23h ago · Mod_Oasis · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 10, Mod_Oasis: If you look out for her in Varrock post quest, she's got a new role wi
-  - https://www.reddit.com/comments/1wg28w7
-- **🟣 177 J-Mod replies — The Graveyard: Rewards Blog**
-  - comment · 23h ago · JagexLight · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 177, JagexLight: No it's just the base set, but if you own multiple sets of recoloured 
-  - https://www.reddit.com/comments/1wg2qdd
 - **Am I bugged?**
   - r/ironscape · 12h ago · Interesting-Duck6982 · score 28
   - matched: bugged, mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wgoaq3/am_i_bugged/
 - **Not any different than red x ing shamans and those kinda methods. It's up to you if it compromises the integrity of your account or not.**
-  - comment · 2h ago · Dahvokyn · score 27
+  - comment · 3h ago · Dahvokyn · score 27
   - matched: red x, integrity
   - re: Boosting strategies?
   - https://www.reddit.com/r/ironscape/comments/1wgyd83/boosting_strategies/p9xxzka/
 - **For sure, it's not like 1.0 is a 'final' moment for Dragonwilds either though, they've got a stacked roadmap which they teased a little in their latest video and will share more of**
-  - comment · 4h ago · JagexGoblin · score 26
+  - comment · 5h ago · JagexGoblin · score 26
   - matched: J-Mod, stacked
   - re: RuneScape: Dragonwilds 1.0 OUT NOW!
   - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/p9xfv2w/
 - **Dragonwilds isn't going anywhere and has a stacked roadmap *all* the way through 2027 (more on that at RuneFest) - there's no rush!**
-  - comment · 5h ago · JagexGoblin · score 26
+  - comment · 6h ago · JagexGoblin · score 26
   - matched: J-Mod, stacked
   - re: RuneScape: Dragonwilds 1.0 OUT NOW!
   - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/p9xcaay/
 
-## "You can do this" finds  (7)
+## "You can do this" finds  (6)
 
 - **Make it so I can use my bottomless bucket to make Choc Saturdays.**
-  - r/2007scape · 13h ago · Rose_DCLXVI · score 26
+  - r/2007scape · 14h ago · Rose_DCLXVI · score 26
   - matched: ⚡ food per inventory slot, bottomless, bottomless bucket
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wglrvy/make_it_so_i_can_use_my_bottomless_bucket_to_make/
-- **AFK Dragons With DHW + BB**
-  - r/2007scape · 23h ago · G123155 · score 26
-  - matched: ⚡ food per inventory slot
-  - 1c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wg6bq6/afk_dragons_with_dhw_bb/
 - **Pro tip temple trekking is a pretty good source of watermelon seeds for early game, you can just spam the short path and/or tp out of the annoying encounters **
-  - comment · 4h ago · electricwatt · score 23
+  - comment · 5h ago · electricwatt · score 23
   - matched: pro tip, watermelon
   - re: [Suggestion] Talking to Master Farmers? Why is the
   - https://www.reddit.com/r/2007scape/comments/1wg718p/suggestion_talking_to_master_farmers_why_is_the/p9xgdd8/
 - **Guess you will just have to get Max cape so you can bank at creating guild and hit the pool in your house with one inventory slot;-)**
-  - comment · 15h ago · Grinder969 · score 22
+  - comment · 16h ago · Grinder969 · score 22
   - matched: inventory slot, max cape, one inventory slot
   - re: Crafting cape and pvm banking
   - https://www.reddit.com/r/ironscape/comments/1wgjlp4/crafting_cape_and_pvm_banking/p9uv516/
 - **Agreed. Surprisingly, I have been doing this exact tech with ambrosia. One thing I wasn't doing was popping out to safety during the first set of UFOs as I didn't know you could do**
-  - comment · 9m ago · nominalerror · score 16
+  - comment · 1h ago · nominalerror · score 16
   - matched: didn't know you could, safety
   - re: Masori Body on my first ever 150 TOA
   - https://www.reddit.com/r/2007scape/comments/1wh0to8/masori_body_on_my_first_ever_150_toa/p9yvu7t/
 - **Sanctuary is OP since you can store way more prayer points than hit points per inventory slot, and high prayer restore items don't come with any tradeoff like brews. Corruption sou**
-  - comment · 22h ago · Unfair_Awareness7502 · score 17
+  - comment · 23h ago · Unfair_Awareness7502 · score 17
   - matched: inventory slot, per inventory slot
   - re: Potential new prayers
   - https://www.reddit.com/r/2007scape/comments/1wg7pw7/potential_new_prayers/p9s1hjg/
 - **"tying" the price of a shit coin to the price of a fungible untokenized item with infinite supply on a highly regulated marketplace where the official price change is capped sure i**
-  - comment · 19h ago · RedactedSpatula · score 12
+  - comment · 20h ago · RedactedSpatula · score 12
   - matched: infinite supply
   - re: GTFO ya crypto weirdos.
   - https://www.reddit.com/r/2007scape/comments/1wg8qp7/gtfo_ya_crypto_weirdos/p9t9c5y/
 
-## Mechanics & wiki corrections  (36)
+## Mechanics & wiki corrections  (32)
 
 - **Let me guess, you've never done melee Zulrah in your life. The diagonal pathing is really dumb at zulrah.**
-  - comment · 10m ago · Fall3nBTW · score 26
+  - comment · 1h ago · Fall3nBTW · score 26
   - matched: pathing, diagonal
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9yvgng/
 - **Zulrah doesn’t need damage cap removed imo, but I would like my attacks to not null until it’s able to attack me. I would also like ring of suffering to not feel necessary there, s**
-  - comment · 35m ago · HammondSoul · score 24
+  - comment · 1h ago · HammondSoul · score 24
   - matched: for some reason, damage cap, ring of suffering
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9yprb6/
-- **\>the game shouldn’t be designed around UIM restrictions Im glad you said that because then what the fuck are we talking about here? The current way it works did not take UIM into **
-  - comment · 1h ago · Crandoge · score 24
-  - matched: stash unit, seed box
-  - re: Just a reminder that Jagex never returned that UIM
-  - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9y9gn9/
 - **There's SO MUCH that can fit between '*click rock - wait'* and let's say end game raids. There's emergent gameplay, ways to interact with the world, objects, and items. There's str**
-  - comment · 2h ago · Tuxxa · score 26
+  - comment · 3h ago · Tuxxa · score 26
   - matched: line of sight, pathing
   - re: Why is Agility training so uninspired?
   - https://www.reddit.com/r/2007scape/comments/1wgt14m/why_is_agility_training_so_uninspired/p9y2g5k/
 - **I mean there's thousands of maxed osrs players who used pre nerf training methods here too. Bird houses now weaker earlier. Splashing and nmz changes. We now have coin pouches on t**
-  - comment · 10h ago · ElkApprehensive1729 · score 26
+  - comment · 11h ago · ElkApprehensive1729 · score 26
   - matched: splashing, toy mouse
   - re: Thanks to OSRS players voting, RS3 is finally heal
   - https://www.reddit.com/r/2007scape/comments/1wgmwil/thanks_to_osrs_players_voting_rs3_is_finally/p9w7gec/
 - **A lot of dungeons ( e.g. more for mole lair, faster way to mm2 chinning spot, shadow dungeon, various slayer monster filled ones like isle of souls or charred but existing ones cou**
-  - comment · 20h ago · Next_Scientist2966 · score 26
+  - comment · 21h ago · Next_Scientist2966 · score 26
   - matched: pathing, crafting guild, chinning spot
   - re: I'm tired of Agility's only obtainable "reward" be
   - https://www.reddit.com/r/2007scape/comments/1wg5go3/im_tired_of_agilitys_only_obtainable_reward_being/p9ssnr9/
 - **Add a visual metronome to your UI that's on all the time. Keep true tile on all the time. There's a way to make your true tile double as a visual metronome if you prefer that. Inte**
-  - comment · 21h ago · btwalsh · score 26
+  - comment · 22h ago · btwalsh · score 26
   - matched: tick perfect, extra tick, attack speed of
   - re: Does anyone have a good guide on how to be tick pe
   - https://www.reddit.com/r/2007scape/comments/1werc15/does_anyone_have_a_good_guide_on_how_to_be_tick/p9se2s5/
+- **They could make medium-high intensity courses of every currently existing course, by reworking the obstacles so that if you click the next obstacle on the same tick you finish the **
+  - comment · 1m ago · TheForsakenRoe · score 20
+  - matched: tick perfect, same tick
+  - re: The new course is a miss for me; Agility has so mu
+  - https://www.reddit.com/r/2007scape/comments/1wgl72n/the_new_course_is_a_miss_for_me_agility_has_so/p9zauv3/
 - **No? Ruby bolts were uncapped pre tbow. They got capped because they hit 1000s on olm in masses and people farmed range xp and raid completions. Damage cap at zulrah was because tbo**
-  - comment · 44m ago · Hazard_Fox · score 20
+  - comment · 1h ago · Hazard_Fox · score 20
   - matched: damage cap, uncapped
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9ynsal/
-- **bounty tasks with safespot**
-  - comment · 1h ago · Unhappy_Record_281 · score 20
-  - matched: safespot
-  - re: Looking for AFK's that I've not thought of
-  - https://www.reddit.com/r/ironscape/comments/1wecd62/looking_for_afks_that_ive_not_thought_of/p9yiwhu/
-- **funnily enough, your gear increases are still reflected on that boss. it's just harder to notice. Your average hit will still be increasing, while any hit above 50 is just lowered **
-  - comment · 1h ago · Voidot · score 20
-  - matched: max hit, max hit of
-  - re: Does Zulrah honestly need a damage cap still
-  - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9yfubj/
-- **You can do them off task and even safe spot them. Great if you got a bowfa because you got unlimited ammo. My go to for ranarrs when I wanna afk and watch a movie or tv series**
-  - comment · 1h ago · Collwyr · score 20
-  - matched: safe spot
-  - re: What are most useful AFK activities on iron after 
-  - https://www.reddit.com/r/ironscape/comments/1wgttq8/what_are_most_useful_afk_activities_on_iron_after/p9yb3sv/
 - **Why don’t you give Chaos Elemental a go? That’s how I got mine. You can setup a cannon with a safe spot so it becomes semi AFK.**
   - comment · 7h ago · Simple_Concept_8313 · score 25
   - matched: safe spot, chaos elemental
   - re: Uniques from 55-90 Slayer doing only Krystilia tas
   - https://www.reddit.com/r/ironscape/comments/1wgtpnr/uniques_from_5590_slayer_doing_only_krystilia/p9x0ow1/
+- **\>the game shouldn’t be designed around UIM restrictions Im glad you said that because then what the fuck are we talking about here? The current way it works did not take UIM into **
+  - comment · 2h ago · Crandoge · score 24
+  - matched: stash unit, seed box
+  - re: Just a reminder that Jagex never returned that UIM
+  - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9y9gn9/
 - **POH agility**
-  - r/2007scape · 21h ago · Ok_Relationship6158 · score 21
+  - r/2007scape · 22h ago · Ok_Relationship6158 · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wgai83/poh_agility/
 - **Is this normal?**
-  - r/ironscape · 22h ago · Latios_Star · score 21
+  - r/ironscape · 23h ago · Latios_Star · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wg9117/is_this_normal/
+- **bounty tasks with safespot**
+  - comment · 2h ago · Unhappy_Record_281 · score 20
+  - matched: safespot
+  - re: Looking for AFK's that I've not thought of
+  - https://www.reddit.com/r/ironscape/comments/1wecd62/looking_for_afks_that_ive_not_thought_of/p9yiwhu/
+- **funnily enough, your gear increases are still reflected on that boss. it's just harder to notice. Your average hit will still be increasing, while any hit above 50 is just lowered **
+  - comment · 2h ago · Voidot · score 20
+  - matched: max hit, max hit of
+  - re: Does Zulrah honestly need a damage cap still
+  - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9yfubj/
+- **You can do them off task and even safe spot them. Great if you got a bowfa because you got unlimited ammo. My go to for ranarrs when I wanna afk and watch a movie or tv series**
+  - comment · 2h ago · Collwyr · score 20
+  - matched: safe spot
+  - re: What are most useful AFK activities on iron after 
+  - https://www.reddit.com/r/ironscape/comments/1wgttq8/what_are_most_useful_afk_activities_on_iron_after/p9yb3sv/
 - **In the multi area, tag a gorilla on the iron, safespot behind a rock, tag it on the main with cursed goblin hammer. Then you're safe to kill it on iron and it will stay aggro to th**
   - comment · 2h ago · Personal-Award-2256 · score 20
   - matched: safespot
   - re: Boosting strategies?
   - https://www.reddit.com/r/ironscape/comments/1wgyd83/boosting_strategies/p9y7oc5/
 - **I dont want to akshually you, but I will. Zulrah was release in 2015 while Tbow was release in 2017. The reason there is a damage cap that was implemented from the get go it was be**
-  - comment · 2h ago · Justanothaguys · score 20
+  - comment · 3h ago · Justanothaguys · score 20
   - matched: damage cap, uncapped
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9xziir/
 - **If you're late game not quite applicable but I used it to tank demonic gorillas and redx safespot shamans**
-  - comment · 2h ago · Personal-Award-2256 · score 20
+  - comment · 3h ago · Personal-Award-2256 · score 20
   - matched: safespot
   - re: Boosting strategies?
   - https://www.reddit.com/r/ironscape/comments/1wgyd83/boosting_strategies/p9xxthg/
@@ -457,96 +442,71 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wgyd83/boosting_strategies/
 - **Your gear improving **does** reflect on Zulrah. Just because the hit cap is 50 doesn't mean you can't roll above 50. Your hit does get reduced to 45-50, but you'd still hit those n**
-  - comment · 3h ago · ZacTheBlob · score 20
+  - comment · 4h ago · ZacTheBlob · score 20
   - matched: max hit, max hit of
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9xvhvj/
 - **if you want to afk gp, you can safespot sailing creatures my personal favourite is veiled krakens. it's about 450k-700k raw gp an hour depending on gear/activity, and you get drago**
-  - comment · 6h ago · Tendoor · +2 more in this thread on the same terms · score 20
+  - comment · 7h ago · Tendoor · +2 more in this thread on the same terms · score 20
   - matched: safespot
   - re: What are most useful AFK activities on iron after 
   - https://www.reddit.com/r/ironscape/comments/1wgttq8/what_are_most_useful_afk_activities_on_iron_after/p9x2oyo/
 - **well damn nvm i wanted to stay in my safespot**
-  - comment · 18h ago · imallyears · score 20
+  - comment · 19h ago · imallyears · score 20
   - matched: safespot
   - re: Right click dog, "Fetch Bones"
   - https://www.reddit.com/r/2007scape/comments/1wfkxgx/right_click_dog_fetch_bones/p9twhtb/
 - **If you don’t have KQ head for the elite diary requirement (1/128, tattered guaranteed at 256kc), I would to do that for dpick if you’ve got blue partisan and can boost to get a sla**
-  - comment · 19h ago · Verronox · score 20
+  - comment · 20h ago · Verronox · score 20
   - matched: safespot
   - re: Which Wildy boss for d pick?
   - https://www.reddit.com/r/ironscape/comments/1wfha50/which_wildy_boss_for_d_pick/p9tdm7n/
 - **TDs? Unless you sucked at luring them or someone messed it up I guess. Slayer mobs since they were mostly all in single-combat pre-eoc with a few exceptions in the chaos tunnels an**
-  - comment · 20h ago · Oniichanplsstop · score 20
+  - comment · 21h ago · Oniichanplsstop · score 20
   - matched: safespot
   - re: 15 years ago today, Ritual of the Mahjarrat and Gl
   - https://www.reddit.com/r/2007scape/comments/1wg2o6a/15_years_ago_today_ritual_of_the_mahjarrat_and/p9stzfb/
 - **There is plenty of design space. The problem has more to do with balance space. - Pits in a boss fight you have to dodge over, with higher agility saving ticks for extra DPS. - Bos**
-  - comment · 22h ago · IsaacAccount · score 20
+  - comment · 23h ago · IsaacAccount · score 20
   - matched: pathing
   - re: I'm tired of Agility's only obtainable "reward" be
   - https://www.reddit.com/r/2007scape/comments/1wg5go3/im_tired_of_agilitys_only_obtainable_reward_being/p9sb8se/
 - **Why is Agility training so uninspired?**
-  - r/2007scape · 7h ago · Tuxxa · score 19
+  - r/2007scape · 8h ago · Tuxxa · score 19
   - matched: tick manipulation, stalls, pyramid plunder, fishing trawler
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wgt14m/why_is_agility_training_so_uninspired/
 - **If you die again while you already have an active gravestone in the world, your items will go to the existing, active gravestone. If you run out of time on your gravestone, your it**
-  - comment · 20h ago · Novaskittles · score 17
+  - comment · 21h ago · Novaskittles · score 17
   - matched: death's office, gravestone
   - re: Is there a plugin that warns you when you are risk
   - https://www.reddit.com/r/2007scape/comments/1wbp1su/is_there_a_plugin_that_warns_you_when_you_are/p9svre1/
-- **Max cape would be an Ava's and infinite run energy? Would be so good at solo Sara GWD.**
-  - comment · 23h ago · Novaskittles · score 17
-  - matched: infinite run, max cape
-  - re: I'm tired of Agility's only obtainable "reward" be
-  - https://www.reddit.com/r/2007scape/comments/1wg5go3/im_tired_of_agilitys_only_obtainable_reward_being/p9rk9s8/
-- **Anybody else experiencing unplayable ping?**
-  - r/2007scape · 1h ago · IPadeI · score 13
-  - matched: J-Mod reply · no bug content
-  - 7c · 4↑
-  - https://www.reddit.com/r/2007scape/comments/1wh0cgw/anybody_else_experiencing_unplayable_ping/
 - **There are 4 comments from Jagex mods in this post: **[u/​JagexGoblin commented:](/r/2007scape/comments/1wgvh41/comment/p9xcaay/)** > Dragonwilds isn't going anywhere and has a stac**
-  - comment · 5h ago · vip-bot · score 15
+  - comment · 6h ago · vip-bot · score 15
   - matched: you can still, stacked
   - re: RuneScape: Dragonwilds 1.0 OUT NOW!
   - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/p9xbna4/
 - **Just some insight and my experience for perspective. I waited to do WT after getting 90 hunter (via rumours), 75 Herblore, and finally 85 farming. I didn’t specifically wait to the**
-  - comment · 13h ago · 5he005 · score 15
+  - comment · 14h ago · 5he005 · score 15
   - matched: you can actually, watermelon
   - re: When to run Wintertodt?
   - https://www.reddit.com/r/ironscape/comments/1wg42c6/when_to_run_wintertodt/p9vhflr/
+- **Anybody else experiencing unplayable ping?**
+  - r/2007scape · 2h ago · IPadeI · score 13
+  - matched: J-Mod reply · no bug content
+  - 7c · 4↑
+  - https://www.reddit.com/r/2007scape/comments/1wh0cgw/anybody_else_experiencing_unplayable_ping/
 - **Why don't players have a hand in suggesting shortcuts?**
-  - r/2007scape · 22h ago · lilSyph · score 13
+  - r/2007scape · 23h ago · lilSyph · score 13
   - matched: J-Mod reply · no bug content
   - 3c · 4↑
   - https://www.reddit.com/r/2007scape/comments/1wg7k0t/why_dont_players_have_a_hand_in_suggesting/
-- **This server performance is unacceptable**
-  - r/2007scape · 23h ago · 5-x · score 13
-  - matched: J-Mod reply · no bug content
-  - 43c · 54↑
-  - https://www.reddit.com/r/2007scape/comments/1wg6q33/this_server_performance_is_unacceptable/
-- **Mass DCs happening across all servers- Jagex being ddosed?**
-  - search · 23h ago · ThatOneStoner · score 13
-  - matched: J-Mod reply · no bug content
-  - 39c
-  - https://www.reddit.com/r/2007scape/comments/1wg6lwc/mass_dcs_happening_across_all_servers_jagex_being/
-- **Fuck These Servers**
-  - r/2007scape · 23h ago · TinyBreeze987 · score 13
-  - matched: J-Mod reply · no bug content
-  - 29c · 53↑
-  - https://www.reddit.com/r/2007scape/comments/1wg6id1/fuck_these_servers/
-- **Anyone else huge packet loss US East?**
-  - r/2007scape · 23h ago · Electronic-Grand1172 · score 13
-  - matched: J-Mod reply · no bug content
-  - 48c · 102↑
-  - https://www.reddit.com/r/2007scape/comments/1wg6hbk/anyone_else_huge_packet_loss_us_east/
 - **Honestly have never once got the rates that the money making page shows, I'm pretty sure it requires tick perfect movement/banking across multiple hours of gameplay. People will sa**
-  - comment · 4h ago · greytoothbrush · score 12
+  - comment · 5h ago · greytoothbrush · score 12
   - matched: tick perfect, wiki says, drop-rate complaint
   - re: Pickpocketing elves is weird
   - https://www.reddit.com/r/2007scape/comments/1wgwrug/pickpocketing_elves_is_weird/p9xkw4a/
 
 ---
 
-Not included: 1177 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1184 findings older than 24h. Widen with `__osrs.report(48)` in the console.
