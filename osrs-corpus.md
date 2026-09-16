@@ -1,7 +1,7 @@
 # OSRS Signal — last 24h
 
-2026-09-16 09:38 UTC · 123 findings after merging duplicates (from 216 raw hits; 80 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago · firehose: ok · 10s ago · jmod: ok (50 flaired) · 2s ago · news: ok (30 posts) · 8s ago · posts: ok · 13s ago · search: ok · 0s ago · wiki: ok (250 edits) · 9s ago · youtube: ok (25 videos) · 2s ago
+2026-09-16 09:41 UTC · 122 findings after merging duplicates (from 214 raw hits; 79 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 8s ago · firehose: ok · 11s ago · jmod: ok (50 flaired) · 2s ago · news: ok (30 posts) · 9s ago · posts: ok · 13s ago · search: ok · 0s ago · wiki: ok (250 edits) · 10s ago · youtube: ok (25 videos) · 2s ago
 
 ## Vanished — removed or deleted after posting  (7)
 
@@ -143,7 +143,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Pickpocketing elves is weird
   - https://www.reddit.com/r/2007scape/comments/1wgwrug/pickpocketing_elves_is_weird/p9xm6o2/
 - **Tbh I don't even know how to source that. I'm not a huge iron player, I'm more here for the HC than the IM part. I got like a 1500 from CG but Doom absolutely eats arrows (I think **
-  - comment · 45m ago · GameOfThrownaws · score 13
+  - comment · 48m ago · GameOfThrownaws · score 13
   - matched: bugged
   - re: Slight upgrade to my climbing boots on the HC
   - https://www.reddit.com/r/ironscape/comments/1whq2gm/slight_upgrade_to_my_climbing_boots_on_the_hc/pa4jv3o/
@@ -153,7 +153,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Why does a 10m item have a "destroy" option at all
   - https://www.reddit.com/r/2007scape/comments/1whqii7/why_does_a_10m_item_have_a_destroy_option_at_all/pa4e3xx/
 - **They are right and I am tired of pretending they aren't. I am convinced that Jagex assumes slayer is the most popular skill just because it has a lot of people engaging with it, wi**
-  - comment · 3h ago · LifeAd5019 · score 13
+  - comment · 4h ago · LifeAd5019 · score 13
   - matched: exploits
   - re: Saved the worst for last
   - https://www.reddit.com/r/2007scape/comments/1wh0asp/saved_the_worst_for_last/pa3w9r3/
@@ -213,7 +213,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1whi6qc/giants_foundry_bug/
 - **https://preview.redd.it/6skb7uxc3sph1.jpeg?width=1334&format=pjpg&auto=webp&s=a246ab3f908c4a5d57a2b2ed1640162fd898112f Stop being scared of the wildy (guided risk is bugged, Im ris**
-  - comment · 8h ago · OwMyCandle · score 13
+  - comment · 9h ago · OwMyCandle · score 13
   - matched: bugged
   - re: Bloodied clues and Wilderness clue hunting
   - https://www.reddit.com/r/2007scape/comments/1whhguv/bloodied_clues_and_wilderness_clue_hunting/pa2jpyu/
@@ -298,7 +298,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9xh063/
 
-## Jagex & J-Mod  (9)
+## Jagex & J-Mod  (8)
 
 - **🟣 21 J-Mod replies — The agility shortcut in blood moon rises is the blueprint to fix agility**
   - comment · 1h ago · JagexRice · score 30
@@ -340,16 +340,11 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - matched: J-Mod, stacked
   - re: RuneScape: Dragonwilds 1.0 OUT NOW!
   - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/p9xfv2w/
-- **Dragonwilds isn't going anywhere and has a stacked roadmap *all* the way through 2027 (more on that at RuneFest) - there's no rush!**
-  - comment · 23h ago · JagexGoblin · score 26
-  - matched: J-Mod, stacked
-  - re: RuneScape: Dragonwilds 1.0 OUT NOW!
-  - https://www.reddit.com/r/2007scape/comments/1wgvh41/runescape_dragonwilds_10_out_now/p9xcaay/
 
 ## "You can do this" finds  (9)
 
 - **If you insist. I think at some point, it's easier just to start from scratch especially since I haven't really edited it for others, but here: Disable spell filtering Disable praye**
-  - comment · 18m ago · LegosAreUnderfoot · score 26
+  - comment · 22m ago · LegosAreUnderfoot · score 26
   - matched: ⚡ food per inventory slot, scorching bow, emberlight, herb sack, fish sack
   - re: Why does a 10m item have a "destroy" option at all
   - https://www.reddit.com/r/2007scape/comments/1whqii7/why_does_a_10m_item_have_a_destroy_option_at_all/pa4mx07/
@@ -374,7 +369,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: [Suggestion] Talking to Master Farmers? Why is the
   - https://www.reddit.com/r/2007scape/comments/1wg718p/suggestion_talking_to_master_farmers_why_is_the/p9xgdd8/
 - **points finitely are used for block list, and a handful of good unlocks re: helmet, task extension and so on. after that theyre mostly good for improving your actual slayer experien**
-  - comment · 9h ago · S7EFEN · score 16
+  - comment · 10h ago · S7EFEN · score 16
   - matched: you can skip, block list
   - re: I'm doing wildy slayer on my ironman but what do I
   - https://www.reddit.com/r/ironscape/comments/1whgiws/im_doing_wildy_slayer_on_my_ironman_but_what_do_i/pa2855l/
@@ -422,7 +417,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Why is Agility training so uninspired?
   - https://www.reddit.com/r/2007scape/comments/1wgt14m/why_is_agility_training_so_uninspired/p9y2g5k/
 - **After a recent update you can now easily stack up on energy potions by killing certain low level mobs, such as goblins. Early game combat is dominated by using mind runes to cast s**
-  - comment · 47m ago · Stilfreejr · score 20
+  - comment · 51m ago · Stilfreejr · score 20
   - matched: max hit, max hit of
   - re: Agility early worth for Run Energy?
   - https://www.reddit.com/r/ironscape/comments/1whrj53/agility_early_worth_for_run_energy/pa4jjcm/
@@ -447,7 +442,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Just a reminder that Jagex never returned that UIM
   - https://www.reddit.com/r/2007scape/comments/1wgitx5/just_a_reminder_that_jagex_never_returned_that/p9y9gn9/
 - **✎ Corrupted Warrior — Due to summer sweep-up changes, some tips were outdated and no longer helpful.**
-  - wiki · 30m ago · ~2026-UnusualBurningPetes17393 · score 19
+  - wiki · 33m ago · ~2026-UnusualBurningPetes17393 · score 19
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Corrupted_Warrior
@@ -517,7 +512,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9zq5ol/
 - **They did get a buff recently to actually have ranged strength, just need to look at the dps calc to see if it gives a max hit or not. They still are kinda pricey imo. I've used Ech**
-  - comment · 16h ago · drjisftw · score 20
+  - comment · 17h ago · drjisftw · score 20
   - matched: max hit, echo boots
   - re: What should I spend 70m on?
   - https://www.reddit.com/r/2007scape/comments/1wh4tk8/what_should_i_spend_70m_on/p9zltjx/
@@ -532,7 +527,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Looking for AFK's that I've not thought of
   - https://www.reddit.com/r/ironscape/comments/1wecd62/looking_for_afks_that_ive_not_thought_of/p9yiwhu/
 - **funnily enough, your gear increases are still reflected on that boss. it's just harder to notice. Your average hit will still be increasing, while any hit above 50 is just lowered **
-  - comment · 19h ago · Voidot · score 20
+  - comment · 20h ago · Voidot · score 20
   - matched: max hit, max hit of
   - re: Does Zulrah honestly need a damage cap still
   - https://www.reddit.com/r/2007scape/comments/1wgy4ab/does_zulrah_honestly_need_a_damage_cap_still/p9yfubj/
@@ -622,7 +617,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
   - re: Saved the worst for last
   - https://www.reddit.com/r/2007scape/comments/1wh0asp/saved_the_worst_for_last/p9zjo8o/
 - **Hitting energy siphons tick perfect during the warden fight is so satisfying, I was expecting that kind of thing from Sepulchre and was overwhelmingly disappointed. With animation **
-  - comment · 16h ago · Womble_Don · score 14
+  - comment · 17h ago · Womble_Don · score 14
   - matched: tick perfect, stalling
   - re: Why is Agility training so uninspired?
   - https://www.reddit.com/r/2007scape/comments/1wgt14m/why_is_agility_training_so_uninspired/p9zm0zq/
@@ -649,4 +644,4 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago
 
 ---
 
-Not included: 858 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 860 findings older than 24h. Widen with `__osrs.report(48)` in the console.
