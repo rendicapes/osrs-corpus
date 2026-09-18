@@ -1,137 +1,137 @@
 # OSRS Signal — last 24h
 
-2026-09-18 16:41 UTC · 65 findings after merging duplicates (from 137 raw hits; 65 single-term floor rows filtered)
-collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 15:45Z) · 55m ago · search: ok · 4m ago · vanished: ok (checked 1) · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (23 videos) · 15m ago
+2026-09-18 17:37 UTC · 62 findings after merging duplicates (from 134 raw hits; 63 single-term floor rows filtered)
+collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 16:41Z) · 55m ago · search: ok · 0s ago · vanished: ok (checked 1) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (23 videos) · 26m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — deleted by the author — oo no its happening to me, its a bug I see it**
-  - comment, vanished · 3h ago · Think_Reporter8352 · seen 2x · score 45
+  - comment, vanished · 4h ago · Think_Reporter8352 · seen 2x · score 45
   - matched: vanished, bug
   - was comment, posted 4m before it went
   - https://www.reddit.com/r/2007scape/comments/1wjcl2l/made_a_plugin_so_standing_on_someone_doesnt_hide/pak8hqx/
   - captured before it went:
     > oo no its happening to me, its a bug I see it
 
-## Active bug notices (wiki)  (2)
-
-- **🐛 active bug notice added — Sigil of Aggression**
-  - bugs · 23h ago · score 42
-  - matched: new bug notice
-  - Template:Bug
-  - notice: The attuned version of the sigil was not renamed to match the un-attuned version.
-  - https://oldschool.runescape.wiki/w/Sigil_of_Aggression
-- **🐛 active bug notice added — Sigil of the Formidable Fighter**
-  - bugs · 23h ago · score 42
-  - matched: new bug notice
-  - Template:Bug
-  - notice: The attuned version of the sigil was not renamed to match the un-attuned version.
-  - https://oldschool.runescape.wiki/w/Sigil_of_the_Formidable_Fighter
-
-## Bugs & exploits  (29)
+## Bugs & exploits  (28)
 
 - **Ardougne medium achievement not possible?**
-  - r/2007scape · 20h ago · EqualSalvation · score 34
+  - r/2007scape · 21h ago · EqualSalvation · score 34
   - matched: bug, is this a bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wj55x2/ardougne_medium_achievement_not_possible/
+- **> it'll still have some bug, exploit, or 'oversight' that enables some wizard to get rates that "weren't expected” And they’ll take a week to fix it, so a bunch of people will get **
+  - comment · 19m ago · Kiosade · score 26
+  - matched: bug, exploit
+  - re: UPDATE: The Graveyard - Rewards Blog
+  - https://www.reddit.com/r/2007scape/comments/1wjpj8t/update_the_graveyard_rewards_blog/palyiix/
 - **It's a complete nothing burger of something that should have been obvious (Grace over Perdu) and the other is largely inconsequential (pets meta) and more "We've done the calculati**
-  - comment · 3h ago · hadenklw · score 26
+  - comment · 4h ago · hadenklw · score 26
   - matched: bug, exploit
   - re: UPDATE: The Graveyard - Rewards Blog
   - https://www.reddit.com/r/2007scape/comments/1wjpj8t/update_the_graveyard_rewards_blog/pakj4n1/
 - **Releasing exact numbers for 3rd age could have unintended consequences regarding price but it would be cool to know what the average dropped from clues is per week/month/year. Stat**
-  - comment · 19h ago · WhyNotAthiest · score 18
+  - comment · 20h ago · WhyNotAthiest · score 18
   - matched: unintended, 3rd age
   - re: Mod Elena here - hit me with your craziest stat qu
   - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/pagai7q/
+- **There’s a bug that doesn’t allow potions to restore your attack level. It’s been known for quite some time. Good thing is everyone gets affected by it. **
+  - comment · 35m ago · CapSuspicious9539 · +2 more in this thread on the same terms · score 13
+  - matched: bug
+  - re: Noxious Halberd accuracy bugged/broken in LMS
+  - https://www.reddit.com/r/2007scape/comments/1wjvlb6/noxious_halberd_accuracy_buggedbroken_in_lms/palune7/
+- **Noxious Halberd accuracy bugged/broken in LMS**
+  - r/2007scape · 45m ago · Individual_Cream_427 · score 13
+  - matched: bugged
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wjvlb6/noxious_halberd_accuracy_buggedbroken_in_lms/
 - **Your character is bugged, make a new one**
-  - comment · 2h ago · vixiefern · +2 more in this thread on the same terms · score 13
+  - comment · 3h ago · vixiefern · +2 more in this thread on the same terms · score 13
   - matched: bugged
   - re: Jagex, like wtf is going on?
   - https://www.reddit.com/r/2007scape/comments/1wjphx9/jagex_like_wtf_is_going_on/pakogbr/
 - **sure it is bud, that’s why there are posts here everyday complaining of the same bugs they’ve submitted ten times **
-  - comment · 2h ago · Fancy-Dig1863 · score 13
+  - comment · 3h ago · Fancy-Dig1863 · score 13
   - matched: bugs
   - re: The icon, that shows which tile the grabber is abo
   - https://www.reddit.com/r/2007scape/comments/1whxijf/the_icon_that_shows_which_tile_the_grabber_is/pako2c2/
 - **So will we just be doomed to do Penguin Agility forever for the pet?**
-  - r/2007scape · 3h ago · ElyziumLoL · score 13
+  - r/2007scape · 4h ago · ElyziumLoL · score 13
   - matched: exploits
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wjq3lp/so_will_we_just_be_doomed_to_do_penguin_agility/
 - **Also it's a poor analogy with cg, the correct analogy would be being able to glitch the game into creating t2 armor with the same resources as t1 armor. There is a reason why exper**
-  - comment · 3h ago · autoswitched · score 13
+  - comment · 4h ago · autoswitched · score 13
   - matched: glitch
   - re: toa: where to go from here?
   - https://www.reddit.com/r/ironscape/comments/1wimt77/toa_where_to_go_from_here/pakbu30/
 - **Would need a clip or something to show what you mean, because the bugs I'm aware of at Doom don't include anything you're talking about.**
-  - comment · 5h ago · A_Sunfish · score 13
+  - comment · 6h ago · A_Sunfish · score 13
   - matched: bugs
   - re: idk what happened in the last week, but Doom is no
   - https://www.reddit.com/r/2007scape/comments/1wjliyk/idk_what_happened_in_the_last_week_but_doom_is/pajqkaf/
 - **IIRC was an invo glitch where you could raise the raid's level without actually applying the invos IIRC, so you could be doing toa 550s but scaled all the way down to like 100s.**
-  - comment · 6h ago · Oniichanplsstop · score 13
+  - comment · 7h ago · Oniichanplsstop · score 13
   - matched: glitch
   - re: Mod Elena here - hit me with your craziest stat qu
   - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/pajl6rk/
 - **It was literally just the shorthand for the emoticon, not supposed to look like a thumbs up in itself.**
-  - comment · 9h ago · tarthim · score 13
+  - comment · 10h ago · tarthim · score 13
   - matched: not supposed to
   - re: I just want to do Leviathan
   - https://www.reddit.com/r/ironscape/comments/1wj6h6z/i_just_want_to_do_leviathan/paj112e/
 - **In game bug reports are very effective actually. They directly look at feedback from those regularly. Dont speak out your ass if you dont know lol**
-  - comment · 10h ago · United_Surprise3135 · score 13
+  - comment · 11h ago · United_Surprise3135 · score 13
   - matched: bug
   - re: The icon, that shows which tile the grabber is abo
   - https://www.reddit.com/r/2007scape/comments/1whxijf/the_icon_that_shows_which_tile_the_grabber_is/paitzco/
 - **“It’s quitting- you’re not supposed to work in retirement.” I hope you don’t have kids jfc.**
-  - comment · 12h ago · Gullible-Day-2708 · score 13
+  - comment · 13h ago · Gullible-Day-2708 · score 13
   - matched: not supposed to
   - re: The real ironman retirement home isn't nightmare o
   - https://www.reddit.com/r/ironscape/comments/1wjenae/the_real_ironman_retirement_home_isnt_nightmare/pai9hyo/
 - **lmao Im glad this was noticed. Was a great unintended capture **
-  - comment · 14h ago · Think_Reporter8352 · score 13
+  - comment · 15h ago · Think_Reporter8352 · score 13
   - matched: unintended
   - re: Made a plugin so standing on someone doesn't hide 
   - https://www.reddit.com/r/2007scape/comments/1wjcl2l/made_a_plugin_so_standing_on_someone_doesnt_hide/pahv9fp/
 - **Im not claiming its perfect, bugs and goofy things will be found but its a great start trust trust haha**
-  - comment · 14h ago · Think_Reporter8352 · +4 more in this thread on the same terms · score 13
+  - comment · 15h ago · Think_Reporter8352 · +4 more in this thread on the same terms · score 13
   - matched: bugs
   - re: Made a plugin so standing on someone doesn't hide 
   - https://www.reddit.com/r/2007scape/comments/1wjcl2l/made_a_plugin_so_standing_on_someone_doesnt_hide/pahnf8v/
 - **If you think these devs are incapable you should see how bug ridden and how little they improve other games post release. Of all things to be upset about, hurr durr but I went thro**
-  - comment · 14h ago · Stunning-Show127 · score 13
+  - comment · 15h ago · Stunning-Show127 · score 13
   - matched: bug
   - re: Incapable Devs
   - https://www.reddit.com/r/2007scape/comments/1wjcikd/incapable_devs/pahm2dw/
 - **Yup, something about ToA bug abuse but I don't remember the details. Absolute crusher though, that shit must have sucked**
-  - comment · 16h ago · rotorain · score 13
+  - comment · 17h ago · rotorain · score 13
   - matched: bug
   - re: Mod Elena here - hit me with your craziest stat qu
   - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/pah4er4/
 - **So what you’re saying is, death banks wiping items is STILL not in line with what jagex wants? You’re saying that jagex made deaths coffer function as intended, giving you a GP cos**
-  - comment · 17h ago · BlightedBooty · score 13
+  - comment · 18h ago · BlightedBooty · score 13
   - matched: item loss
   - re: Late game iron items wiped
   - https://www.reddit.com/r/ironscape/comments/1wiezvl/late_game_iron_items_wiped/pagvtpq/
 - **Update with OCPL to a newer MacOS, but check first if tour Mac has known bugs**
-  - comment · 17h ago · totyamuri · score 13
+  - comment · 18h ago · totyamuri · score 13
   - matched: bugs
   - re: Anyone know how I can play on my MacOS 10.12.6
   - https://www.reddit.com/r/2007scape/comments/1wj8uyt/anyone_know_how_i_can_play_on_my_macos_10126/pags8n0/
 - **Glitched? Now that they added puppies they needed to give dogs weird long dicks, clearly**
-  - comment · 18h ago · Cyberslasher · score 13
+  - comment · 19h ago · Cyberslasher · score 13
   - matched: glitched
   - re: Which Fairy Ring code do you know from memory?
   - https://www.reddit.com/r/2007scape/comments/1wj1d8t/which_fairy_ring_code_do_you_know_from_memory/pager10/
 - **I think the Lure is bugged**
-  - r/ironscape · 18h ago · AUGestOR · score 13
+  - r/ironscape · 19h ago · AUGestOR · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wj7gqx/i_think_the_lure_is_bugged/
 - **And yes this is OC. The dog model was glitched right after the Ruff Situation quest came online https://preview.redd.it/qvtjco0q65qh1.jpeg?width=571&format=pjpg&auto=webp&s=655ddc9**
-  - comment · 19h ago · griesmeelpudding · score 13
+  - comment · 20h ago · griesmeelpudding · score 13
   - matched: glitched
   - re: Which Fairy Ring code do you know from memory?
   - https://www.reddit.com/r/2007scape/comments/1wj1d8t/which_fairy_ring_code_do_you_know_from_memory/pafzygf/
@@ -141,45 +141,25 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
   - re: Huey's Tail is rotated incorrectly by 90 degrees o
   - https://www.reddit.com/r/2007scape/comments/1wivk64/hueys_tail_is_rotated_incorrectly_by_90_degrees/pafz16q/
 - **Doing a fire cape now is going to be about the same difficulty as doing it with full crystal and the BOFA. Its like comparing using a machine gun to kill a bug vs using a grenade. **
-  - comment · 20h ago · StrengthfromDeath · score 13
+  - comment · 21h ago · StrengthfromDeath · score 13
   - matched: bug
   - re: Is it worth the grind to swap?
   - https://www.reddit.com/r/2007scape/comments/1wj4voz/is_it_worth_the_grind_to_swap/pafwwvv/
 - **Customizable Hotkeys on Mobile Sailing Bug?**
-  - r/2007scape · 20h ago · Greevis1995 · score 13
+  - r/2007scape · 21h ago · Greevis1995 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wj52c8/customizable_hotkeys_on_mobile_sailing_bug/
 - **the shadow bug is genuinely so annoying it feels like they fix it and it comes back with every new update**
-  - comment · 21h ago · themultitm · score 13
+  - comment · 22h ago · themultitm · score 13
   - matched: bug
   - re: Doom can force you to take off-pray hits if you me
   - https://www.reddit.com/r/2007scape/comments/1wip2g8/doom_can_force_you_to_take_offpray_hits_if_you/pafcag6/
-- **Trawling catch rates haven’t changed at all. The only thing that was bugged were the fine fish offcuts. **
-  - comment · 23h ago · QuasiNoModo · score 13
-  - matched: bugged
-  - re: Midgame food?
-  - https://www.reddit.com/r/ironscape/comments/1wiwgs5/midgame_food/paeodg8/
-- **Makes me think of my “special” set of items. I have 4 beginner clues despite a cap of 3. There was a bug with beginners when clue beat/geodes were released and I somehow ended up w**
-  - comment · 23h ago · Devan- · score 13
-  - matched: bug
-  - re: Mod Elena here - hit me with your craziest stat qu
-  - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/paelxk6/
-- **Meet Divorceletics, my alimony-locked ultimate ironman. After recently maxing out my single life ironman, I decided to up the ante, to forge my own marital status from scratch. No **
-  - comment · 23h ago · The_Bill_Brasky_ · score 13
-  - matched: can't leave
-  - re: Divorce has started. I finally got my desk into my
-  - https://www.reddit.com/r/2007scape/comments/1wiwarw/divorce_has_started_i_finally_got_my_desk_into_my/paejvjk/
-- **Known bug **
-  - comment · 23h ago · mugiwarayaya · score 13
-  - matched: bug
-  - re: Doom can force you to take off-pray hits if you me
-  - https://www.reddit.com/r/2007scape/comments/1wip2g8/doom_can_force_you_to_take_offpray_hits_if_you/paejfoc/
 
 ## Jagex & J-Mod  (4)
 
 - **this was one of the nicest things anyone's ever said to me (usually when I say this I mean it sarcastically, but this one actually made me get deep into thought about how I've spen**
-  - comment · 6h ago · cookmeplox · score 38
+  - comment · 7h ago · cookmeplox · score 38
   - matched: for some reason, tip.it, game update
   - re: OSRS Wiki and RuneLite are increasingly under stra
   - https://www.reddit.com/r/2007scape/comments/1wi1c23/osrs_wiki_and_runelite_are_increasingly_under/pajjenx/
@@ -189,20 +169,25 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
   - latest of 98, JagexSarnie: Devs should be allowed to throw something together in little time to t
   - https://www.reddit.com/comments/1wjpj8t
 - **🟣 12 J-Mod replies — New Spotify release?**
-  - comment · 1h ago · JagexSween · score 30
+  - comment · 2h ago · JagexSween · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexSween: Somebody submitting AI slop. It'll be taken down and reviewing how it 
   - https://www.reddit.com/comments/1wjlui4
 - **🟣 14 J-Mod replies — [Suggestion] Could we get a resizeable bank, please?**
-  - comment · 21h ago · Mod_Kieren · score 30
+  - comment · 22h ago · Mod_Kieren · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 14, Mod_Kieren: For me, as someone who sometimes plays maximised, sometimes in a small
   - https://www.reddit.com/comments/1wiydgx
 
-## "You can do this" finds  (5)
+## "You can do this" finds  (6)
 
+- **Grind master was my first time doing a raid... Did TOA and I guess I did it in the complete opposite as everyone else with monkey room last. Took me 2 hours of endless shark eating**
+  - comment · 2m ago · CR4T3Z · score 26
+  - matched: ⚡ food per inventory slot
+  - re: Anyone else really miss gridmaster?
+  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/pam2hb8/
 - **I really hope that when they finally do implement the Graveyard, the high intensity version of the course will either match or be very slightly less viable than the Penguin Course **
-  - comment · 3h ago · ArtOptimal1931 · score 26
+  - comment · 4h ago · ArtOptimal1931 · score 26
   - matched: ⚡ food per inventory slot, before the update, fish sack
   - re: So will we just be doomed to do Penguin Agility fo
   - https://www.reddit.com/r/2007scape/comments/1wjq3lp/so_will_we_just_be_doomed_to_do_penguin_agility/pakjlax/
@@ -212,30 +197,30 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
   - re: Bottomless slime bucket
   - https://www.reddit.com/r/2007scape/comments/1wjieu8/bottomless_slime_bucket/pajg751/
 - **How many bottomless milk buckets have been filled to the brim?**
-  - comment · 15h ago · GrullmeisterFlash · score 26
+  - comment · 16h ago · GrullmeisterFlash · score 26
   - matched: ⚡ food per inventory slot, bottomless
   - re: Mod Elena here - hit me with your craziest stat qu
   - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/pahdy14/
-- **How many bottomless milk buckets have been filled?**
-  - comment · 23h ago · Zuko13 · score 26
-  - matched: ⚡ food per inventory slot, bottomless
-  - re: Mod Elena here - hit me with your craziest stat qu
-  - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/pael05l/
+- **I got carried in CoX and ToB managed to slap sol, I cheesed the shit out of the colosseum with the last stand thing and infinite food. I tanked like a mofo whilst eating what would**
+  - comment · 15m ago · Smurfaloid · score 12
+  - matched: infinite food
+  - re: Anyone else really miss gridmaster?
+  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/palze9l/
 - **On the charges note, they are only consumed if you take a nonzero hit. Safespotting and praying correctly can essentially be infinite charges. It's not hard to upkeep**
-  - comment · 2h ago · WhatRUsernamesUsed4 · score 12
+  - comment · 3h ago · WhatRUsernamesUsed4 · score 12
   - matched: infinite charges
   - re: Questions about bowfa and crystal armor
   - https://www.reddit.com/r/2007scape/comments/1wjqukk/questions_about_bowfa_and_crystal_armor/paktxz3/
 
-## Mechanics & wiki corrections  (24)
+## Mechanics & wiki corrections  (23)
 
 - **Very similar. In kril you wait 1 tick, attack and move, in bandos you gotta click immediately when it spawns. Like watch the spawn timer and dont blink lol. You cant just spec to k**
-  - comment · 2h ago · thirdwallbreak · score 26
+  - comment · 3h ago · thirdwallbreak · score 26
   - matched: spawn timer, stalling
   - re: Just got a Kril task. I already have Fang from TOA
   - https://www.reddit.com/r/ironscape/comments/1wjq56c/just_got_a_kril_task_i_already_have_fang_from_toa/pakpjcd/
 - **I think this course will probably be a positive addition to the skill, but the fact it’s only relevant to the level 65-80 training range makes it feel a little unsatisfying, especi**
-  - comment · 17m ago · PaxChelonia · score 20
+  - comment · 1h ago · PaxChelonia · score 20
   - matched: tick perfect, 1 tick action
   - re: UPDATE: The Graveyard - Rewards Blog
   - https://www.reddit.com/r/2007scape/comments/1wjpj8t/update_the_graveyard_rewards_blog/pallmo6/
@@ -250,106 +235,101 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
   - re: Can any pro Tobbers give some advice/tips on Verzi
   - https://www.reddit.com/r/2007scape/comments/1wj3rhf/can_any_pro_tobbers_give_some_advicetips_on_verzik/pafl7tv/
 - **You can combo eat hunter meats. Pyre fox heals 19, 1 less than a shark. Sunlight antelopes heal 21. Combined with bwans this is 29 + 8 and 30 + 9 respectively. The delayed heal eff**
-  - comment · 22h ago · engwish · score 24
+  - comment · 23h ago · engwish · score 24
   - matched: combo eat, delayed heal
   - re: Midgame food?
   - https://www.reddit.com/r/ironscape/comments/1wiwgs5/midgame_food/paeuzbs/
+- **✎ Aquanite — add note that speccing with a dds while on stab doesn't work to cut off the lure**
+  - wiki · 28m ago · Joeytje50 · score 19
+  - matched: behaviour edit
+  - edit
+  - https://oldschool.runescape.wiki/w/Aquanite
 - **There are SO many regen pits in the raid that 80% of them are useless. If I can regen my energy in every room, how useful are the next 10 regen pits? 😄 There are so many regen pit**
-  - comment · 7h ago · watch_out_it_farts · score 23
+  - comment · 8h ago · watch_out_it_farts · score 23
   - matched: for some reason, infinite run
   - re: I'll gift 1 bond to anyone who can convince me...
   - https://www.reddit.com/r/2007scape/comments/1wjl7dz/ill_gift_1_bond_to_anyone_who_can_convince_me/pajfll8/
-- **Animation stall. Tinderbox->Log makes the hitsplats stack and deal damage to you when you finally light the fire bypassing the 1hp threshold.**
-  - comment · 23h ago · DistributionMain789 · score 23
-  - matched: stall, tinderbox, animation stall
-  - re: Mod Elena here - hit me with your craziest stat qu
-  - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/paeis4a/
 - **I personally don’t think it’s necessary. The Max Cape already is quite prestigious and useful. The Max Guild will be dead content for the vast majority of the public. Unless it’s s**
-  - comment · 22h ago · _GregTheGreat_ · score 22
+  - comment · 23h ago · _GregTheGreat_ · score 22
   - matched: stacked, max cape
   - re: Should we have a max guild?
   - https://www.reddit.com/r/2007scape/comments/1wj1ztl/should_we_have_a_max_guild/paf56mz/
 - **Is this normal?**
-  - r/ironscape · 15h ago · Justlovely0 · score 21
+  - r/ironscape · 16h ago · Justlovely0 · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wjbu3o/is_this_normal/
 - **Can any pro Tobbers give some advice/tips on Verzik?**
-  - r/2007scape · 21h ago · Swanny_Swanson · score 21
+  - r/2007scape · 22h ago · Swanny_Swanson · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wj3rhf/can_any_pro_tobbers_give_some_advicetips_on_verzik/
 - **Nice QOL updates kill the game by a thousand cuts. Annoyance and suffering is what makes every accomplishment so much more rewarding. If you do a perfect olm kill with minimal down**
-  - comment · 5h ago · IMBoxtoy · score 20
+  - comment · 6h ago · IMBoxtoy · score 20
   - matched: pathing
   - re: I'll gift 1 bond to anyone who can convince me...
   - https://www.reddit.com/r/2007scape/comments/1wjl7dz/ill_gift_1_bond_to_anyone_who_can_convince_me/pajpqf7/
 - **Pures should just be safespotting them anyway, unless your attack is high enough to make it worth the melee in heavy gear. Edit: venator bow + cannon in multi from safespot makes t**
-  - comment · 7h ago · Frost_Foxes · score 20
+  - comment · 8h ago · Frost_Foxes · score 20
   - matched: safespot
   - re: How it feels trying to make weight for a Gryphon s
   - https://www.reddit.com/r/2007scape/comments/1wiclk7/how_it_feels_trying_to_make_weight_for_a_gryphon/pajakel/
 - **Go safespot lava dragons and pray the bones at altar/ make gp. or kill people at chaos altar. Barrows for pvm. You're levels are a bit weird for pvp, so I'd focus more on pvm. Knoc**
-  - comment · 16h ago · igotalizard · score 20
+  - comment · 17h ago · igotalizard · score 20
   - matched: safespot
   - re: One Month In, Looking for Help
   - https://www.reddit.com/r/2007scape/comments/1wjaiqk/one_month_in_looking_for_help/pah470s/
 - **When we used to sleep in beds for rsc how many people would sleep in one bed at the same time? Were there any runescape classic sleepovers? **
-  - comment · 6h ago · ChadicalRizz · score 17
+  - comment · 7h ago · ChadicalRizz · score 17
   - matched: classic, runescape classic
   - re: Mod Elena here - hit me with your craziest stat qu
   - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/pajhhc0/
 - **Either get a radius marker for them or highlight their true tile. When you get that it'll be similar to popping araxxor spiderlings. Personally I will run right next to them when t**
-  - comment · 17h ago · Yungluva67 · score 17
+  - comment · 18h ago · Yungluva67 · score 17
   - matched: radius marker, true tile
   - re: Can any pro Tobbers give some advice/tips on Verzi
   - https://www.reddit.com/r/2007scape/comments/1wj3rhf/can_any_pro_tobbers_give_some_advicetips_on_verzik/pagxpya/
 - **The crabs pop from their southwest tile. You have to put your true tile within 2 tiles of it (I believe) and you want to kind of bounce away.. Ex you are here, crab coming this way**
-  - comment · 20h ago · Good-Ad-4161 · score 17
+  - comment · 21h ago · Good-Ad-4161 · score 17
   - matched: southwest tile, true tile
   - re: Can any pro Tobbers give some advice/tips on Verzi
   - https://www.reddit.com/r/2007scape/comments/1wj3rhf/can_any_pro_tobbers_give_some_advicetips_on_verzik/pafmeln/
 - **Use the verzik sim, really it just comes down to practice. Learning how to recover off a mistake safely will save you a fair bit of deaths/runs. My biggest tip though during P3 is **
-  - comment · 21h ago · Vaelra · score 17
+  - comment · 22h ago · Vaelra · score 17
   - matched: radius marker, true tile
   - re: Can any pro Tobbers give some advice/tips on Verzi
   - https://www.reddit.com/r/2007scape/comments/1wj3rhf/can_any_pro_tobbers_give_some_advicetips_on_verzik/pafkk89/
 - **Yeh, I know the update, I would be hesitant about adding 'level your companions', it's always been a weird system from a narrative standpoint. We're escorting these people out of B**
-  - comment · 21h ago · TheForsakenRoe · score 17
+  - comment · 22h ago · TheForsakenRoe · score 17
   - matched: rs3 wiki, safety
   - re: Let Us Rebuild Burgh de Rott Into a Player-Owned T
   - https://www.reddit.com/r/2007scape/comments/1wivytm/let_us_rebuild_burgh_de_rott_into_a_playerowned/pafc917/
 - **Yeah id sooner hope for a rework of the ancient and unusable old guilds first. Cooking guild, Ranging guild, Fishing Guild, heck even the Crafting guild could all use some love**
-  - comment · 21h ago · Chapter-Legitimate · score 17
+  - comment · 22h ago · Chapter-Legitimate · score 17
   - matched: cooking guild, crafting guild
   - re: Should we have a max guild?
   - https://www.reddit.com/r/2007scape/comments/1wj1ztl/should_we_have_a_max_guild/paf7vlv/
-- **I have a few: How many active accounts can see Jeff, Jack, and Jill at Musa Point? What is the largest number of HCIM kills by a single PKer? How many HCIM have died while AFK for **
-  - comment · 23h ago · Sus-Imposter-67 · score 17
-  - matched: chat filter, wintertodt
-  - re: Mod Elena here - hit me with your craziest stat qu
-  - https://www.reddit.com/r/2007scape/comments/1wiwgzu/mod_elena_here_hit_me_with_your_craziest_stat/paenp4b/
 - **UPDATE: The Graveyard - Rewards Blog**
-  - r/2007scape · 3h ago · JagexSarnie · score 14
+  - r/2007scape · 4h ago · JagexSarnie · score 14
   - matched: J-Mod · no bug content
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wjpj8t/update_the_graveyard_rewards_blog/
 - **Packet loss**
-  - r/2007scape · 20h ago · SaltyEngineer5 · score 14
+  - r/2007scape · 21h ago · SaltyEngineer5 · score 14
   - matched: ⚡ connection event
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wj5903/packet_loss/
 - **New Spotify release?**
-  - r/2007scape · 6h ago · NoCurrencies · score 13
+  - r/2007scape · 7h ago · NoCurrencies · score 13
   - matched: J-Mod reply · no bug content
   - 9c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wjlui4/new_spotify_release/
 - **Can we get uncapped XP or at least a higher cap**
-  - r/2007scape · 2h ago · Kupo_Pallo · score 12
+  - r/2007scape · 3h ago · Kupo_Pallo · score 12
   - matched: uncapped, 2147483647
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wjr42n/can_we_get_uncapped_xp_or_at_least_a_higher_cap/
 
 ---
 
-Not included: 1263 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1266 findings older than 24h. Widen with `__osrs.report(48)` in the console.
