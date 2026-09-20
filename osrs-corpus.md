@@ -1,342 +1,53 @@
 # OSRS Signal — last 24h
 
-2026-09-19 16:35 UTC · 63 findings after merging duplicates (from 146 raw hits; 63 single-term floor rows filtered)
-collector health · bugpages: ok (175 flagged · coverage: continuous) · 1s ago · firehose: ok · 2s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 1s ago · posts: ok · 3s ago · repo: ok (pushed 15:39Z) · 55m ago · search: ok · 2m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 1s ago · youtube: ok (25 videos) · 43m ago
+2026-09-20 22:43 UTC · 6 findings after merging duplicates (from 11 raw hits; 5 single-term floor rows filtered)
+collector health · bugpages: ok (175 flagged · coverage: BLIND 30.1h) · 8s ago · firehose: ok · 9s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 8s ago · posts: ok · 10s ago · search: ok · 0s ago · wiki: ok (250 edits) · 8s ago · youtube: ok (25 videos) · 1s ago
 
-## Vanished — removed or deleted after posting  (7)
+## Active bug notices (wiki)  (1)
 
-- **🗑 vanished from reddit — removed (deleted) — Is Yama broken?**
-  - r/2007scape, vanished · 1h ago · PureWalter · seen 2x · score 48
-  - matched: vanished, bugs, known issue
-  - was r/2007scape, posted 8h before it went
-  - https://www.reddit.com/r/2007scape/comments/1wkduvg/is_yama_broken/
-  - captured before it went:
-    > I’m currently 620 solo Yama kills without hitting the unique table once. I’m aware that this is technically possible RNG, and I’m not claiming my account is secretly blacklisted or anything like that. But given the recent Yama bugs/hotfixes, I’m wondering whether a JMod could confirm that the unique-table roll is functioning correctly and hasn’t been affected by any recent changes. At a 1/120 unique-table rate, 620 consecutive failures is approximately 0.56%, or about 1 in 179. I know RNG can be brutal. I’m just looking for confirmation that there isn’t a known issue with Yama’s loot generation. If a JMod can confirm everything is working normally, I’ll happily continue getting punched in the dick by RNG
-- **🗑 vanished from reddit — removed (deleted) — Is auto weed from tithe farm bugged?**
-  - r/2007scape, vanished · 1h ago · Signal_Condition348 · seen 2x · score 45
-  - matched: vanished, bugged
-  - was r/2007scape, posted 18h before it went
-  - https://www.reddit.com/r/2007scape/comments/1wk13hm/is_auto_weed_from_tithe_farm_bugged/
-  - captured before it went:
-    > Purchased and it continues to grow in after i pick my crops.
-- **🗑 vanished from reddit — removed (deleted) — To the Guy at Dagannoth Kings that got Me Killed**
-  - r/2007scape, vanished · 1h ago · WiptyWap · seen 2x · score 42
-  - matched: vanished, safe spot
-  - was r/2007scape, posted 15h before it went
-  - https://www.reddit.com/r/2007scape/comments/1wk5n46/to_the_guy_at_dagannoth_kings_that_got_me_killed/
-- **🗑 vanished from reddit — deleted by the author — Use the verzik sim, really it just comes down to practice. Learning how to recover off a mistake safely will save you a fair bit o**
-  - vanished · 1h ago · Vaelra · score 41
-  - matched: vanished, radius marker, true tile
-  - was comment, posted 1d before it went
-  - https://www.reddit.com/r/2007scape/comments/1wj3rhf/can_any_pro_tobbers_give_some_advicetips_on_verzik/pafkk89/
-- **🗑 vanished from reddit — removed (deleted) — Packet loss**
-  - vanished · 1h ago · SaltyEngineer5 · score 40
-  - matched: vanished, ⚡ connection event
-  - was r/2007scape, posted 1d before it went
-  - https://www.reddit.com/r/2007scape/comments/1wj5903/packet_loss/
-- **🗑 vanished from reddit — deleted by the author — You're fucked mate. Not being funny but this sort of BS happens to every HC eventually. The servers are simply not good enough to **
-  - vanished · 1h ago · epicpownage1234 · score 40
-  - matched: vanished, hardcore status
-  - was comment, posted 1d before it went
-  - https://www.reddit.com/r/2007scape/comments/1wjfeby/f/pai979r/
-- **🗑 vanished from reddit — removed by a moderator — https://preview.redd.it/cxs6bmxif9qh1.png?width=1285&format=png&auto=webp&s=d357ebcffa3c1d49c503d20cf82194dcb9183748 Following up**
-  - vanished · 1h ago · awaitingdeath777 · score 40
-  - matched: vanished, world type
-  - was comment, posted 1d before it went
-  - https://www.reddit.com/r/2007scape/comments/1wjmrvn/title_suggestion_modernizing_the_chatchannel/pajr4m6/
+- **⚠ wiki notice channel was blind for 30.1h — a notice ADDED AND REMOVED inside that window leaves no trace**
+  - bugs · 8s ago · score 30
+  - matched: notice coverage gap
+  - snapshot diff cannot see a round trip — check the page histories by hand for that window
+  - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (25)
+## Bugs & exploits  (2 · 0 above the single-term floor, 2 at it)
 
-- **> it'll still have some bug, exploit, or 'oversight' that enables some wizard to get rates that "weren't expected” And they’ll take a week to fix it, so a bunch of people will get **
-  - comment · 23h ago · Kiosade · score 26
-  - matched: bug, exploit
-  - re: UPDATE: The Graveyard - Rewards Blog
-  - https://www.reddit.com/r/2007scape/comments/1wjpj8t/update_the_graveyard_rewards_blog/palyiix/
-- **Known bug of Chasm of fire sigils?**
-  - r/2007scape · 21h ago · Unkn0wing21 · score 25
-  - matched: bug, wiki says
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wjz629/known_bug_of_chasm_of_fire_sigils/
-- **The Blender wizard casts "Add Mesh --> Icosphere" Re: instancing, I know the engine now supports these [world entity objects](https://oldschool.runescape.wiki/w/World_entity) where**
-  - comment · 22h ago · gomy1020 · score 25
-  - matched: bugs, two boats
-  - re: Mine Your Business
-  - https://www.reddit.com/r/2007scape/comments/1wje8ea/mine_your_business/pam852r/
-- **Learning CG. Keep getting fucking bears every time**
-  - r/2007scape · 2h ago · isweartobegood · score 20
-  - matched: stated quantity mismatch
-  - 12c · 0↑
-  - https://www.reddit.com/r/2007scape/comments/1wknp3b/learning_cg_keep_getting_fucking_bears_every_time/
-- **Can you tell me whats the problem with my idea? You’re making it seem like this is some game breaking technology that would ruin the game. Its just enhancing a line of communicatio**
-  - comment · 39m ago · BustahNug · score 13
-  - matched: game breaking
-  - re: PMing offline players when?
-  - https://www.reddit.com/r/2007scape/comments/1wkmonm/pming_offline_players_when/pasdnwl/
-- **I would personally make a new account at that point, seems bugged.**
-  - comment · 52m ago · pexogods · score 13
+- **truthfully i feel it has a few threats, the most immediate one in my opinion is the pricing because there will eventually come a point when goodwill dries on price hikes, especiall**
+  - comment · 1m ago · DemetrioZannetti · score 13
+  - matched: bug
+  - re: Biggest threat to OSRS success?
+  - https://www.reddit.com/r/2007scape/comments/1wllllp/biggest_threat_to_osrs_success/pb204aw/
+- **The Clan recruitment board has been bugged since the release of Blood Moon Rises cutting off the names of the clans listed.**
+  - search · 11h ago · RubyWeapon07 · score 13
   - matched: bugged
-  - re: Ava's Bug Encountered?
-  - https://www.reddit.com/r/2007scape/comments/1wkpbyl/avas_bug_encountered/pasapq9/
-- **Ava's Bug Encountered?**
-  - r/2007scape · 58m ago · confused_dazed_ · score 13
-  - matched: bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wkpbyl/avas_bug_encountered/
-- **I got it when the change was made and I was only charged 200 points. Could be a new bug **
-  - comment · 59m ago · rainbowremo · score 13
-  - matched: bug
-  - re: PSA: The "Oath Breaker" Slayer Unlock charges 1000
-  - https://www.reddit.com/r/2007scape/comments/1wkgd6g/psa_the_oath_breaker_slayer_unlock_charges_1000/pas9ag5/
-- **It's been fun, but multiplayer seems to be a mess. We bought a server, upgraded the ram and CPU, and have had issues with lag quite often. It could just be the server we have, whic**
-  - comment · 4h ago · Robertpe3 · score 13
-  - matched: glitch
-  - re: How is Runescape Dragonwilds?
-  - https://www.reddit.com/r/2007scape/comments/1wkkmp0/how_is_runescape_dragonwilds/par8gcp/
-- **Same as before, press on it and then drag the options to spots you feel good about. Then do the same for each play session as it is still bugged and resets at least for me and a to**
-  - comment · 4h ago · Frisbeejussi · score 13
-  - matched: bugged
-  - re: How in Guthix’s Green Gielinor do I use the new mo
-  - https://www.reddit.com/r/2007scape/comments/1wkk904/how_in_guthixs_green_gielinor_do_i_use_the_new/par2v7p/
-- **TF I saw him in a weird outfit bugged out in the crab dance pose next to the tree patch the other day. Didn't know he lived there **
-  - comment · 7h ago · The_Wadle · score 13
-  - matched: bugged
-  - re: Owww hell no
-  - https://www.reddit.com/r/2007scape/comments/1wjyr72/owww_hell_no/paqe3kz/
-- **click every possible turning angle going forwards and going backwards. if none of them work, teleport off the ship and recover it from a port. and if you feel inclined to, send a b**
-  - comment · 8h ago · Sterlander · score 13
-  - matched: bug
-  - re: can i get my boat unstuck from here?
-  - https://www.reddit.com/r/2007scape/comments/1wkfwnz/can_i_get_my_boat_unstuck_from_here/paq8wp9/
-- **Good to know. Any since the sound bug fixes?**
-  - comment · 10h ago · PureWalter · score 13
-  - matched: bug
-  - re: Is Yama broken?
-  - https://www.reddit.com/r/2007scape/comments/1wkduvg/is_yama_broken/papugy0/
-- **The amount of gatekeeping in this comment section is both hilarious and a little frustrating. "This doesn't affect me, so you're the weird one for wanting this, even though it's cl**
-  - comment · 11h ago · DragonDragger · score 13
-  - matched: unintended
-  - re: Eternal Glory after recent changes to Ghommal's lu
-  - https://www.reddit.com/r/ironscape/comments/1wk7g7r/eternal_glory_after_recent_changes_to_ghommals/papmria/
-- **If you fish swordfish on misc it’s some of the easiest/best passive fishing xp in the game. Plus you can do it barehanded. They used to exploit it with a cannon to get like 100k xp**
-  - comment · 16h ago · SeaOfSourMilk · score 13
-  - matched: exploit
-  - re: Which Fairy Ring code do you know from memory?
-  - https://www.reddit.com/r/2007scape/comments/1wj1d8t/which_fairy_ring_code_do_you_know_from_memory/pao908x/
-- **Weird Graphical Errors Rise of the Red Axe**
-  - r/2007scape · 18h ago · gameplayer9077 · score 13
-  - matched: bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wk4mvf/weird_graphical_errors_rise_of_the_red_axe/
-- **Anytime you see something resembling 2,147,483,647 in a video game it’s probably a bug because that’s the integer cap. Something good to know**
-  - comment · 19h ago · xxMORAG_BONG420xx · +2 more in this thread on the same terms · score 13
-  - matched: bug
-  - re: Help, 28k pickpockets dry.
-  - https://www.reddit.com/r/ironscape/comments/1wk1414/help_28k_pickpockets_dry/panc4fi/
-- **Juat glitches from where they go straight into the rune pouch. Wish it was true.**
-  - comment · 19h ago · Unique_Department_42 · score 13
-  - matched: glitches
-  - re: Help, 28k pickpockets dry.
-  - https://www.reddit.com/r/ironscape/comments/1wk1414/help_28k_pickpockets_dry/pan915n/
-- **Help, 28k pickpockets dry.**
-  - r/ironscape · 20h ago · Unique_Department_42 · score 13
-  - matched: bugged
-  - 0c · 1↑
-  - https://www.reddit.com/r/ironscape/comments/1wk1414/help_28k_pickpockets_dry/
-- **this is just not true, all lleagues have been full of bugs and had to get multiple balance patches **
-  - comment · 21h ago · DM_ME_UR_PUBES · score 13
-  - matched: bugs
-  - re: Anyone else really miss gridmaster?
-  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/pamppc9/
-- **KQ is fine, let it be a relic of the past. All its important drops can be obtained elsewhere. grind for diary can suck but w/e. All that being said, the Corp one just baffles me. I**
-  - comment · 21h ago · AlarmedCat3977 · score 13
-  - matched: not intended
-  - re: Will these two pieces of shit ever be revised?
-  - https://www.reddit.com/r/2007scape/comments/1wjy7i8/will_these_two_pieces_of_shit_ever_be_revised/pamns2n/
-- **Speed running grid master was probably the most fun I've had in a temp game mode. Was the perfect length for it imo (we don't talk about the 255 bug)**
-  - comment · 22h ago · CorunRS · score 13
-  - matched: bug
-  - re: Anyone else really miss gridmaster?
-  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/pam78pf/
-- **Shield of Arrav**
-  - r/2007scape · 22h ago · Riboflavin42 · score 13
-  - matched: bugged
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wjwzjf/shield_of_arrav/
-- **There’s a bug that doesn’t allow potions to restore your attack level. It’s been known for quite some time. Good thing is everyone gets affected by it. **
-  - comment · 23h ago · CapSuspicious9539 · +3 more in this thread on the same terms · score 13
-  - matched: bug
-  - re: Noxious Halberd accuracy bugged/broken in LMS
-  - https://www.reddit.com/r/2007scape/comments/1wjvlb6/noxious_halberd_accuracy_buggedbroken_in_lms/palune7/
-- **Noxious Halberd accuracy bugged/broken in LMS**
-  - r/2007scape · 23h ago · Individual_Cream_427 · score 13
-  - matched: bugged
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wjvlb6/noxious_halberd_accuracy_buggedbroken_in_lms/
+  - 7c
+  - https://www.reddit.com/r/2007scape/comments/1wleu3x/the_clan_recruitment_board_has_been_bugged_since/
 
-## Jagex & J-Mod  (4)
+## Jagex & J-Mod  (1)
 
-- **🟣 10 J-Mod replies — Woodcutting Guild Changes & Improvements Concept Design**
-  - comment · 4h ago · Mod_Grub · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 10, Mod_Grub: Aside from the great ideas, I just wanted to let you know, you've nail
-  - https://www.reddit.com/comments/1wkfx9y
-- **🟣 14 J-Mod replies — Am I the only one…**
-  - comment · 20h ago · JagexGoblin · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 14, JagexGoblin: Hey! Think conversations like this are super interesting so wanted to 
-  - https://www.reddit.com/comments/1wjuo6k
-- **PSA: The "Oath Breaker" Slayer Unlock charges 1000 slayer points despite stating 200 points as the cost.**
-  - r/2007scape · 8h ago · KrissSenpai · score 26
-  - matched: psa:, has been reverted
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wkgd6g/psa_the_oath_breaker_slayer_unlock_charges_1000/
-- **Last 6 months quick summary?**
-  - r/ironscape · 13h ago · Hanovin · score 15
-  - matched: game update
-  - 0c · 1↑
-  - https://www.reddit.com/r/ironscape/comments/1wkaxv8/last_6_months_quick_summary/
+- **📰 Community Spotlight: Unpragmatic Covers**
+  - news · 4h ago · Shayani · score 34
+  - matched: newspost
+  - Created page with "{{Update|date=17 September 2026|url=https
+  - https://oldschool.runescape.wiki/w/Update%3ACommunity_Spotlight%3A_Unpragmatic_Covers
 
-## "You can do this" finds  (6 · 4 above the single-term floor, 2 at it)
+## "You can do this" finds  (1)
 
-- **Brew sips are 14 hp each at your level, so 56 hp per inventory slot, 30 hp more than the best hard food for hp/inventory (moonlight antelope). No better way to maximize your hp poo**
-  - comment · 22h ago · Ok_Objective_5192 · score 46
-  - matched: ⚡ food per inventory slot, you don't need, inventory slot, per inventory slot
-  - re: Jad inventory help
-  - https://www.reddit.com/r/2007scape/comments/1wjxg78/jad_inventory_help/pam9eke/
-- **[Rancour is a better upgrade, and far cheaper](https://i.imgur.com/Tx6hss3.png). [This is the upgrade path from BIS](https://i.imgur.com/sfdJwXh.png), excluding Scythe, Inq Mace, S**
-  - comment · 4h ago · Baerog · score 26
-  - matched: ⚡ food per inventory slot, tick perfect, safety
-  - re: Rate my Araxxor setup. Let me know what I can impr
-  - https://www.reddit.com/r/2007scape/comments/1wkild3/rate_my_araxxor_setup_let_me_know_what_i_can/par3fxd/
-- **Grind master was my first time doing a raid... Did TOA and I guess I did it in the complete opposite as everyone else with monkey room last. Took me 2 hours of endless shark eating**
-  - comment · 23h ago · CR4T3Z · score 26
-  - matched: ⚡ food per inventory slot
-  - re: Anyone else really miss gridmaster?
-  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/pam2hb8/
-- **Nope, high level bounty tasks like krakens can drop the entire keel part itself, so you dont need the smithing level at all. You will need high 80s construction but thats something**
-  - comment · 18h ago · Bookwrrm · score 14
-  - matched: you dont need, without needing
-  - re: Sailing, mining, WC; which is the most beneficial 
-  - https://www.reddit.com/r/ironscape/comments/1wjy7m6/sailing_mining_wc_which_is_the_most_beneficial_99/panwc4m/
-- **You just had to kill the sanity ghosts, not all of them. Infinite food/brews means you just tank the damage for leaving the others alive.**
-  - comment · 4h ago · Sofa_King_Todded4171 · score 12
-  - matched: infinite food
-  - re: Anyone else really miss gridmaster?
-  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/par081v/
-- **I got carried in CoX and ToB managed to slap sol, I cheesed the shit out of the colosseum with the last stand thing and infinite food. I tanked like a mofo whilst eating what would**
-  - comment · 23h ago · Smurfaloid · score 12
-  - matched: infinite food
-  - re: Anyone else really miss gridmaster?
-  - https://www.reddit.com/r/2007scape/comments/1wjvsrh/anyone_else_really_miss_gridmaster/palze9l/
+- **Could we make a QOL change to how we get butterfly jars?**
+  - r/2007scape · 8h ago · Osrs_Krcy · score 17
+  - matched: butterfly jar, inventory slot, one inventory slot
+  - 14c · 0↑
+  - https://www.reddit.com/r/2007scape/comments/1wlijbi/could_we_make_a_qol_change_to_how_we_get/
 
-## Mechanics & wiki corrections  (21)
+## Mechanics & wiki corrections  (1)
 
-- **I feel like Im in the minority here but I love sailing. Especially late game sailing. I almost have a fully decked loop with dragon/rosewood everything and I love going on AFK sava**
-  - comment · 22h ago · Ill-Application-9284 · score 26
-  - matched: safe spot, teleport focus, greater teleport focus, fish barrel
-  - re: Sailing, mining, WC; which is the most beneficial 
-  - https://www.reddit.com/r/ironscape/comments/1wjy7m6/sailing_mining_wc_which_is_the_most_beneficial_99/pamg32j/
-- **I see. The general idea is always kill the ranger first while praying mage - if you have meleers (big ones or blobs) in the same wave. you can almost always do one of two things to**
-  - comment · 22h ago · RB_7 · score 26
-  - matched: safespot, safe spot
-  - re: Jad inventory help
-  - https://www.reddit.com/r/2007scape/comments/1wjxg78/jad_inventory_help/pamaydz/
-- **Achievement Diary cape has a teleport to each Diary Master. Jarr in the Desert happens to be very close to a bank. Kaleb Paramaya is in Shilo Village on Karamja, very close to the **
-  - comment · 12h ago · Kaeldiar · score 24
-  - matched: paramaya, shilo village
-  - re: Double Nat RC'ing is actually quite enjoyable!
-  - https://www.reddit.com/r/2007scape/comments/1wk8g2o/double_nat_rcing_is_actually_quite_enjoyable/papdbes/
-- **Grandmaster Clue Opinion**
-  - r/2007scape · 18h ago · NL__SKILLZ__NL · score 22
-  - matched: max cape, 3rd age
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wk3buq/grandmaster_clue_opinion/
-- **They can make a crafting guild and cooking guild 2, so the booty old ones are still there.**
-  - comment · 1h ago · Shasan23 · score 17
-  - matched: cooking guild, crafting guild
-  - re: Woodcutting Guild Changes & Improvements Concept D
-  - https://www.reddit.com/r/2007scape/comments/1wkfx9y/woodcutting_guild_changes_improvements_concept/pas7v3v/
-- **Going somewhere for the sole purpose of making other people have a worse time. In this case, griefing at dag kings involves wearing tank gear, praying protect from magic, and lurin**
-  - comment · 2h ago · Calsan1 · score 20
+- **Dagganoth Kings need an instance**
+  - r/2007scape · 16h ago · RampantHedgehog · score 20
   - matched: safespot
-  - re: Surely nothing can ruin your fun run...
-  - https://www.reddit.com/r/2007scape/comments/1wkmdgh/surely_nothing_can_ruin_your_fun_run/parqh6r/
-- **It doesnt even help the main issue is griefers pulling prime to rex safespot just to kill players**
-  - comment · 2h ago · spinygorilla · score 20
-  - matched: safespot
-  - re: Surely nothing can ruin your fun run...
-  - https://www.reddit.com/r/2007scape/comments/1wkmdgh/surely_nothing_can_ruin_your_fun_run/parl3lk/
-- **I have 10 Sol kc, the predict/hover method is superior. Like you said, it gives you freedom of movement. You only need a 2x6 rectangle anywhere in the whole arena at any given time**
-  - comment · 3h ago · cyperior7 · score 20
-  - matched: pathing
-  - re: 1st time Sol
-  - https://www.reddit.com/r/ironscape/comments/1wkkf5m/1st_time_sol/pard70o/
-- **Tips for Doom Orb phase?**
-  - r/ironscape · 8h ago · Status_Peach6969 · score 20
-  - matched: prayer flick, floor 3
-  - 0c · 1↑
-  - https://www.reddit.com/r/ironscape/comments/1wkfx4k/tips_for_doom_orb_phase/
-- **Wiki says tick perfect is 3.8m/hr. Ain't nobody doing tick perfect RC for any length of time **
-  - comment · 13h ago · Remote_Listen1889 · score 20
-  - matched: tick perfect, wiki says
-  - re: Double Nat RC'ing is actually quite enjoyable!
-  - https://www.reddit.com/r/2007scape/comments/1wk8g2o/double_nat_rcing_is_actually_quite_enjoyable/pap4v28/
-- **You can safe spot great white sharks next to Wyrmscraig as well, got my dragon salvaging hooks and 500k sailing xp just camping broad arrows**
-  - comment · 16h ago · dwelter92 · score 20
-  - matched: safe spot
-  - re: Sailing, mining, WC; which is the most beneficial 
-  - https://www.reddit.com/r/ironscape/comments/1wjy7m6/sailing_mining_wc_which_is_the_most_beneficial_99/paodcl2/
-- **Literally a report option for ‘disruptive behaviour’ Idk where I sit on it really cause it’s obviously ragging other people and purposely disrupting their gameplay so it’s a dick m**
-  - comment · 17h ago · Jamily_Foolz · score 20
-  - matched: safespot
-  - re: To the Guy at Dagannoth Kings that got Me Killed
-  - https://www.reddit.com/r/2007scape/comments/1wk5n46/to_the_guy_at_dagannoth_kings_that_got_me_killed/pao6x8s/
-- **Look i know everyone in here will tell you just learn to 1t blob flicking and it will solve all of your problems. In reality that is true but the real reality is you will make mist**
-  - comment · 19h ago · You_rc2 · score 20
-  - matched: safe spot
-  - re: Looking for Inferno advice
-  - https://www.reddit.com/r/ironscape/comments/1wjsf6t/looking_for_inferno_advice/panhjub/
-- **Are you praying against the monsters? You should hug certain walls at the beginning of waves to stop half the monsters from seeing you. Always pray either ranged or mage (if magers**
-  - comment · 22h ago · rhino2498 · +5 more in this thread on the same terms · score 20
-  - matched: safespot
-  - re: Jad inventory help
-  - https://www.reddit.com/r/2007scape/comments/1wjxg78/jad_inventory_help/pam948k/
-- **Switch to ancient spell book and heal off the melee mobs from the safe spot. That way you can get by with little food/ brews and take more prayer pots. **
-  - comment · 22h ago · Riconn · +7 more in this thread on the same terms · score 20
-  - matched: safe spot
-  - re: Jad inventory help
-  - https://www.reddit.com/r/2007scape/comments/1wjxg78/jad_inventory_help/pam8z5f/
-- **✎ Inferno/Strategies — Changed header title. Greatly expanded on what the safespots are, what the drag tiles are, why you follow them, why you **
-  - wiki · 21h ago · RealEvanem · score 19
-  - matched: behaviour edit
-  - edit
-  - https://oldschool.runescape.wiki/w/Inferno%2FStrategies
-- **✎ Aquanite — add note that speccing with a dds while on stab doesn't work to cut off the lure**
-  - wiki · 23h ago · Joeytje50 · score 19
-  - matched: behaviour edit
-  - edit
-  - https://oldschool.runescape.wiki/w/Aquanite
-- **Try this. When the volatile earth pops up, click a far one "on the left". Click the one "on the right" on doom's 2nd attack. It'll give you a few seconds to situate yourself walkin**
-  - comment · 8h ago · wiseguy69420247 · score 17
-  - matched: diagonal, safety
-  - re: Tips for Doom Orb phase?
-  - https://www.reddit.com/r/ironscape/comments/1wkfx4k/tips_for_doom_orb_phase/paq848o/
-- **He's getting downvoted because most of the ppl who have played the game for a while already know this, but that's actually true and shouldn't be downvoted so new players know it, t**
-  - comment · 8h ago · nottherealLilNasx · score 15
-  - matched: you can still, max cash
-  - re: Help, 28k pickpockets dry.
-  - https://www.reddit.com/r/ironscape/comments/1wk1414/help_28k_pickpockets_dry/paq6yyf/
-- **Voidwaker+fang really is pretty good and it’s fun to spam 100% acc specs like it’s leagues There are interesting, or at least unique, mechanics to corp as a whole. Quick teleing, f**
-  - comment · 16h ago · sakurako_sama · score 15
-  - matched: you can actually, spellbook swap
-  - re: Will these two pieces of shit ever be revised?
-  - https://www.reddit.com/r/2007scape/comments/1wjy7i8/will_these_two_pieces_of_shit_ever_be_revised/paocwjd/
-- **No that is not it I'm afraid, as the wiki says you don't need to fulfill the current sigil conditions.**
-  - comment · 21h ago · Unkn0wing21 · score 15
-  - matched: you don't need, wiki says
-  - re: Known bug of Chasm of fire sigils?
-  - https://www.reddit.com/r/2007scape/comments/1wjz629/known_bug_of_chasm_of_fire_sigils/pamsb8f/
+  - 359c · 1234↑
+  - https://www.reddit.com/r/2007scape/comments/1wl9dv0/dagganoth_kings_need_an_instance/
 
 ---
 
-Not included: 1116 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 917 findings older than 24h. Widen with `__osrs.report(48)` in the console.
