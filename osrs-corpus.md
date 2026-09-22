@@ -1,26 +1,31 @@
 # OSRS Signal — last 24h
 
-2026-09-22 21:21 UTC · 67 findings after merging duplicates (from 149 raw hits; 70 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago · firehose: ok · 7s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 7s ago · posts: ok · 9s ago · search: ok · 0s ago · wiki: ok (250 edits) · 7s ago · youtube: ok (25 videos) · 0s ago
+2026-09-22 21:33 UTC · 68 findings after merging duplicates (from 152 raw hits; 70 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 7s ago · firehose: ok · 7s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 7s ago · posts: ok · 9s ago · search: ok · 0s ago · wiki: ok (250 edits) · 7s ago · youtube: ok (25 videos) · 1s ago
 
-## Vanished — removed or deleted after posting  (5)
+## Vanished — removed or deleted after posting  (6)
 
 - **🗑 vanished from reddit — deleted by the author — you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is**
-  - comment, vanished · 23m ago · Otherwise_Result_124 · seen 2x · score 48
+  - comment, vanished · 35m ago · Otherwise_Result_124 · seen 2x · score 48
   - matched: vanished, rollback
   - was comment, posted 54m before it went
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbflhpa/
   - captured before it went:
     > you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is, clue duping won't literally break the game, but item duping would require a whole rollback so it would be best to ascertain that sooner rather than later
 - **🗑 vanished from reddit — deleted by the author — Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ng**
-  - comment, vanished · 23m ago · Pooooodle · seen 2x · score 45
+  - comment, vanished · 35m ago · Pooooodle · seen 2x · score 45
   - matched: vanished, bug
   - was comment, posted 2h before it went
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbevyg9/
   - captured before it went:
     > Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ngl
+- **🗑 vanished from reddit — removed (deleted) — So when are we getting this QoL again?**
+  - r/2007scape, vanished · 7m ago · frietbickycheese · seen 2x · score 40
+  - matched: vanished, stash units
+  - was r/2007scape, posted 11m before it went
+  - https://www.reddit.com/r/2007scape/comments/1wnm8kc/so_when_are_we_getting_this_qol_again/
 - **🗑 vanished from reddit — removed (deleted) — Could we make a QOL change to how we get butterfly jars?**
-  - vanished · 19h ago · Osrs_Krcy · score 47
+  - vanished · 20h ago · Osrs_Krcy · score 47
   - matched: vanished, butterfly jar, inventory slot
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wlijbi/could_we_make_a_qol_change_to_how_we_get/
@@ -68,7 +73,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/
 - **Not at all an exploit, people already do the same thing with them as is with 25 at once instead of 5. This person just wants it to take less inventory to open and use “spin flax” o**
-  - comment · 4h ago · rws531 · score 33
+  - comment · 5h ago · rws531 · score 33
   - matched: stated quantity mismatch, exploit
   - re: Thoughts on giving Bales of Flax a "Take 5" option
   - https://www.reddit.com/r/2007scape/comments/1wnd2xo/thoughts_on_giving_bales_of_flax_a_take_5_option/pbe6v1m/
@@ -93,7 +98,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: My OSRS account was stolen, and I’m running out of
   - https://www.reddit.com/r/2007scape/comments/1wneq4w/my_osrs_account_was_stolen_and_im_running_out_of/pbeqjm4/
 - **Based on rollbacks we’ve seen in the past, no. People killed bosses right before rollback (example; kc 472 pet drop). Then post rollback on kc 472 they did not get the pet again. H**
-  - comment · 7h ago · BraddockN · score 25
+  - comment · 8h ago · BraddockN · score 25
   - matched: rollback
   - re: Would the Loot Been the Same If You Didn't Died
   - https://www.reddit.com/r/2007scape/comments/1wn91yt/would_the_loot_been_the_same_if_you_didnt_died/pbd1tyn/
@@ -103,7 +108,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: I wish that you could "fork" your character instea
   - https://www.reddit.com/r/2007scape/comments/1wn32j7/i_wish_that_you_could_fork_your_character_instead/pbbpawy/
 - **Bug**
-  - comment · 32m ago · Nainpossible · score 13
+  - comment · 44m ago · Nainpossible · score 13
   - matched: bug
   - re: Is xp appearing in the top left on mobile a bug or
   - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/pbfvxc6/
@@ -118,7 +123,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: 300 port tasks and 1.25m Sailing XP, all for one d
   - https://www.reddit.com/r/2007scape/comments/1wnc7nf/300_port_tasks_and_125m_sailing_xp_all_for_one/pbfnm57/
 - **Might suck but worth retyping into the in game bug report**
-  - comment · 1h ago · myGirlAccount · +4 more in this thread on the same terms · score 13
+  - comment · 1h ago · myGirlAccount · +5 more in this thread on the same terms · score 13
   - matched: bug
   - re: Clue Duplication Bug
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbflptt/
@@ -133,7 +138,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - 5c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wnju1n/first_vampyre_task_how_did_i_do/
 - **Nah you've got time to eat on the lil bug special without missing any attacks and eating on acid is fine as you've got half damage, never eat during normal attacks **
-  - comment · 2h ago · Pika_DJ · score 13
+  - comment · 3h ago · Pika_DJ · score 13
   - matched: bug
   - re: Use case for elite void?
   - https://www.reddit.com/r/ironscape/comments/1wmk2ll/use_case_for_elite_void/pbexylm/
@@ -143,7 +148,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: Undiscovered Yama mechanic
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbeq4xi/
 - **That's exactly what I want, there's been a bug for months that whenever you login on desktop your minimap is open and it's clickable through the inventory. Makes world hoping a bit**
-  - comment · 3h ago · Vegetable_Purple_707 · score 13
+  - comment · 4h ago · Vegetable_Purple_707 · score 13
   - matched: bug
   - re: F key preferences?
   - https://www.reddit.com/r/2007scape/comments/1wmn72f/f_key_preferences/pbelvty/
@@ -203,7 +208,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbartrn/
 - **Infinite content glitch for osrs creators **
-  - comment · 19h ago · Apocalypticorn · score 13
+  - comment · 20h ago · Apocalypticorn · score 13
   - matched: glitch
   - re: Sae Bae sticks to his word and de-irons after the 
   - https://www.reddit.com/r/2007scape/comments/1wmootj/sae_bae_sticks_to_his_word_and_deirons_after_the/pba5ume/
@@ -221,7 +226,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - latest of 19, JagexLenny: Please feel free to send anything over to me to have a look into!
   - https://www.reddit.com/comments/1wnk94d
 - **🟣 50 J-Mod replies — Undiscovered Yama mechanic**
-  - comment · 4h ago · JagexGoblin · score 30
+  - comment · 5h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 50, JagexGoblin: It is not that
   - https://www.reddit.com/comments/1wnbkqo
@@ -231,7 +236,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - latest of 24, Mod_Jez: ?
   - https://www.reddit.com/comments/1wnbzoi
 - **Weird lag issue that has lasted months and hasn't allowed me to play the game proper.**
-  - r/2007scape · 9m ago · Requirement-Bulky · score 15
+  - r/2007scape · 21m ago · Requirement-Bulky · score 15
   - matched: known issue
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnm78b/weird_lag_issue_that_has_lasted_months_and_hasnt/
@@ -272,7 +277,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - edit
   - https://oldschool.runescape.wiki/w/Passive_effect
 - **Probably like 10 over the course of half a decade? I don't like paying real life cash to inflate my bank value. The only exception I make is for things I don't want to buy that won**
-  - comment · 4h ago · drjisftw · score 26
+  - comment · 5h ago · drjisftw · score 26
   - matched: stash units, teleport focus
   - re: How many bonds have you bought and why
   - https://www.reddit.com/r/2007scape/comments/1wnbjpd/how_many_bonds_have_you_bought_and_why/pbe64mz/
@@ -302,12 +307,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: Wasn't mentioned on the wiki so I tested it
   - https://www.reddit.com/r/2007scape/comments/1wmvmsx/wasnt_mentioned_on_the_wiki_so_i_tested_it/pba7i1y/
 - **I find that the average player is very rarely using the best available strategies. I pet hunt calv with a max hit of 84 with chain mace as my plus 1 and that's not even the most ef**
-  - comment · 3h ago · iHemlockwastaken · score 20
+  - comment · 4h ago · iHemlockwastaken · score 20
   - matched: max hit, max hit of
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbelmhl/
 - **Now let’s give it the new pet pathing mechanic and it’ll be officially the best pet in the game **
-  - comment · 5h ago · Lucy_Fjord · score 20
+  - comment · 6h ago · Lucy_Fjord · score 20
   - matched: pathing
   - re: Secret anti-PK tech: this one item will make PKers
   - https://www.reddit.com/r/2007scape/comments/1wmwgay/secret_antipk_tech_this_one_item_will_make_pkers/pbdstqh/
@@ -337,7 +342,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: Any tips for fight caves?
   - https://www.reddit.com/r/2007scape/comments/1wmuoe2/any_tips_for_fight_caves/pba1xh2/
 - **The ONLY possible way I can see you burning though that much food is you aren’t using overheads, combo eating or wearing the correct armour. We REALLY need to know how you’re burni**
-  - comment · 4h ago · geekrichieuk · score 17
+  - comment · 5h ago · geekrichieuk · score 17
   - matched: combo eating, overheads
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbe681e/
@@ -357,7 +362,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbkqgh/
 - **1/2.56 according to wiki Upon looking further, I’m not sure. Changing the zombie from 1-5 on the top doesn’t change the drop table, and I believe only the one with the ax can drop **
-  - comment · 18h ago · Critical-Profile1849 · score 17
+  - comment · 19h ago · Critical-Profile1849 · score 17
   - matched: entrana, drop table
   - re: Wasn't mentioned on the wiki so I tested it
   - https://www.reddit.com/r/2007scape/comments/1wmvmsx/wasnt_mentioned_on_the_wiki_so_i_tested_it/pbaftdn/
@@ -369,4 +374,4 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 6s ago
 
 ---
 
-Not included: 768 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 767 findings older than 24h. Widen with `__osrs.report(48)` in the console.
