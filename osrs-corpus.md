@@ -1,93 +1,78 @@
 # OSRS Signal — last 24h
 
-2026-09-21 01:31 UTC · 13 findings after merging duplicates (from 26 raw hits; 13 single-term floor rows filtered)
-collector health · bugpages: ok (175 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 00:35Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 32m ago
-
-## Vanished — removed or deleted after posting  (1)
-
-- **🗑 vanished from reddit — removed (deleted) — Ava's Bug Encountered?**
-  - vanished · 2h ago · confused_dazed_ · score 45
-  - matched: vanished, bug
-  - was r/2007scape, posted 1d before it went
-  - https://www.reddit.com/r/2007scape/comments/1wkpbyl/avas_bug_encountered/
-  - captured before it went:
-    > I am wearing ava's assembler and it has been working as normal, but I tp'd out of a Maggot King fight and now my bolts are dropping to the ground? If it matters I had stymphyke tartar and metal in my inv when I tele'd to home. Relogging didn't fix it but banking and unbanking the avas seems to have fixed it. Am I just missing something or should I file a bug report?
+2026-09-22 01:21 UTC · 11 findings after merging duplicates (from 18 raw hits; 6 single-term floor rows filtered)
+collector health · bugpages: ok (175 flagged · coverage: BLIND 23.6h) · 7s ago · firehose: ok · 8s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 7s ago · posts: ok · 10s ago · search: ok · 0s ago · wiki: ok (250 edits) · 8s ago · youtube: ok (24 videos) · 1s ago
 
 ## Active bug notices (wiki)  (1)
 
-- **⚠ wiki notice channel was blind for 30.1h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 2h ago · score 30
+- **⚠ wiki notice channel was blind for 23.6h — a notice ADDED AND REMOVED inside that window leaves no trace**
+  - bugs · 7s ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (6 · 0 above the single-term floor, 6 at it)
+## Bugs & exploits  (5 · 2 above the single-term floor, 3 at it)
 
-- **It's a glitch. Report yourself before they ban you**
-  - comment · 1h ago · JustLivingSimply · score 13
-  - matched: glitch
-  - re: Just died in wildy and didn't lose my puppy
-  - https://www.reddit.com/r/2007scape/comments/1wlxmv2/just_died_in_wildy_and_didnt_lose_my_puppy/pb2k62o/
-- **there's just a few item spawns that aren't tagged properly as being neutral spawns so ironmen can't pick them up. just a bug.**
-  - comment · 1h ago · Austrum · score 13
+- **Is xp appearing in the top left on mobile a bug or intended?**
+  - r/2007scape · 2h ago · idontactualykno · score 49
+  - matched: bug, is this intended
+  - 5c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/
+- **This is a known bug they are working on**
+  - comment · 31m ago · carboonz · score 13
   - matched: bug
-  - re: Why can't I pick up this Small Fishing Net?
-  - https://www.reddit.com/r/2007scape/comments/1wlwzoz/why_cant_i_pick_up_this_small_fishing_net/pb2fp4z/
-- **It's been a blast. It's like my memories of playing with my friends on the little rinky dink PCs the after-school care program had in their computer lab got frozen in time. PLUS OM**
-  - comment · 2h ago · Scranilton · score 13
-  - matched: fell through
-  - re: First-Time Members' Guide/Suggestions/Advice?
-  - https://www.reddit.com/r/2007scape/comments/1wlw32x/firsttime_members_guidesuggestionsadvice/pb29bxm/
-- **You can use alt accounts to “bug” the shamans and make them unable to move Since many range weapons out range them, they basically become giant lizard crabs 🦀 **
-  - comment · 2h ago · Zealousideal_Tap237 · score 13
-  - matched: bug
-  - re: Red Xing Shamans
-  - https://www.reddit.com/r/ironscape/comments/1wltqmz/red_xing_shamans/pb28s77/
-- **truthfully i feel it has a few threats, the most immediate one in my opinion is the pricing because there will eventually come a point when goodwill dries on price hikes, especiall**
-  - comment · 2h ago · DemetrioZannetti · score 13
-  - matched: bug
-  - re: Biggest threat to OSRS success?
-  - https://www.reddit.com/r/2007scape/comments/1wllllp/biggest_threat_to_osrs_success/pb204aw/
-- **The Clan recruitment board has been bugged since the release of Blood Moon Rises cutting off the names of the clans listed.**
-  - search · 13h ago · RubyWeapon07 · score 13
+  - re: Is xp appearing in the top left on mobile a bug or
+  - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/pb9yfb1/
+- **......How do you fuck up this bad? #RuneScape #Bug**
+  - x · 12h ago · @LouffeVC · score 13
+  - matched: bug, gate:named
+  - · top:runescape bug since:2026-09-11
+  - https://x.com/LouffeVC/status/2102014499418935447
+- **Is Giant's Foundry bugged for anyone else**
+  - search · 16h ago · Orcaon · score 13
   - matched: bugged
   - 7c
-  - https://www.reddit.com/r/2007scape/comments/1wleu3x/the_clan_recruitment_board_has_been_bugged_since/
+  - https://www.reddit.com/r/2007scape/comments/1wm7ry7/is_giants_foundry_bugged_for_anyone_else/
+- **Seeds from Miscellanea are not being deposited?**
+  - search · 20h ago · CelsoSC · score 13
+  - matched: bug
+  - 25c
+  - https://www.reddit.com/r/2007scape/comments/1wm3hga/seeds_from_miscellanea_are_not_being_deposited/
 
-## Jagex & J-Mod  (1)
+## Jagex & J-Mod  (1 · 0 above the single-term floor, 1 at it)
 
-- **📰 Community Spotlight: Unpragmatic Covers**
-  - news · 7h ago · Shayani · score 34
-  - matched: newspost
-  - Created page with "{{Update|date=17 September 2026|url=https
-  - https://oldschool.runescape.wiki/w/Update%3ACommunity_Spotlight%3A_Unpragmatic_Covers
+- **iOS App issues**
+  - r/2007scape · 2h ago · Iron_Yesu · score 15
+  - matched: known issue
+  - 0c · 0↑
+  - https://www.reddit.com/r/2007scape/comments/1wmsopy/ios_app_issues/
 
-## "You can do this" finds  (2 · 1 above the single-term floor, 1 at it)
+## "You can do this" finds  (2)
 
-- **Could we make a QOL change to how we get butterfly jars?**
-  - r/2007scape · 11h ago · Osrs_Krcy · score 17
-  - matched: butterfly jar, inventory slot, one inventory slot
-  - 14c · 0↑
-  - https://www.reddit.com/r/2007scape/comments/1wlijbi/could_we_make_a_qol_change_to_how_we_get/
-- **You can use noted partial potions on the GE herblore guy. My dumbass was running inventories back and forth**
-  - comment · 1h ago · andy11123 · score 12
-  - matched: use noted
-  - re: What’s something you learned too late in the game?
-  - https://www.reddit.com/r/2007scape/comments/1wlwqnx/whats_something_you_learned_too_late_in_the_game/pb2e6aw/
+- **Menu Swapper messed up again ???**
+  - r/2007scape · 21m ago · ezeyabruh · score 26
+  - matched: ⚡ container misbehaving, colossal pouch
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wmv4sd/menu_swapper_messed_up_again/
+- **Shark Lures and Best Way To Use Them**
+  - r/ironscape · 7h ago · ThisLuckLmao · score 26
+  - matched: ⚡ food per inventory slot
+  - 6c · 6↑
+  - https://www.reddit.com/r/ironscape/comments/1wmjfm9/shark_lures_and_best_way_to_use_them/
 
 ## Mechanics & wiki corrections  (2)
 
-- **Im assuming your overall stats account progress is low. You could go oldschool and safespot some wyverns. 1/64 drop for 3 ranarr seed and also 1/64 1 snap seed. They also drop 2 pr**
-  - comment · 27m ago · tesaticles · score 26
-  - matched: safespot, floor 3
-  - re: lacking in the ppot department
-  - https://www.reddit.com/r/ironscape/comments/1wlejo9/lacking_in_the_ppot_department/pb2qhfy/
-- **Dagganoth Kings need an instance**
-  - r/2007scape · 18h ago · RampantHedgehog · score 20
+- **✎ Passive effect — Zulrah no longer exclusive provider of venom weapons**
+  - wiki · 2h ago · Sethmare · seen 2x · score 27
+  - matched: behaviour edit
+  - edit
+  - https://oldschool.runescape.wiki/w/Passive_effect
+- **I did it with mystic robes and a water staff with 70 magic. It aint hard bro you just have a bad technique/safespot**
+  - comment · 13m ago · Hooker_Thresh · score 20
   - matched: safespot
-  - 359c · 1234↑
-  - https://www.reddit.com/r/2007scape/comments/1wl9dv0/dagganoth_kings_need_an_instance/
+  - re: Any tips for fight caves?
+  - https://www.reddit.com/r/2007scape/comments/1wmuoe2/any_tips_for_fight_caves/pba1xh2/
 
 ---
 
-Not included: 1074 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 906 findings older than 24h. Widen with `__osrs.report(48)` in the console.
