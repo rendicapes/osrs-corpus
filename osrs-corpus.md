@@ -1,45 +1,45 @@
 # OSRS Signal — last 24h
 
-2026-09-22 22:29 UTC · 70 findings after merging duplicates (from 160 raw hits; 75 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 21:33Z) · 55m ago · search: ok · 0s ago · vanished: ok (nothing pending) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 11m ago
+2026-09-22 23:25 UTC · 69 findings after merging duplicates (from 160 raw hits; 77 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 7s ago · repo: ok (pushed 22:29Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (23 videos) · 22m ago
 
 ## Vanished — removed or deleted after posting  (6)
 
-- **🗑 vanished from reddit — deleted by the author — you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is**
-  - comment, vanished · 1h ago · Otherwise_Result_124 · seen 2x · score 48
-  - matched: vanished, rollback
-  - was comment, posted 54m before it went
-  - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbflhpa/
-  - captured before it went:
-    > you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is, clue duping won't literally break the game, but item duping would require a whole rollback so it would be best to ascertain that sooner rather than later
-- **🗑 vanished from reddit — deleted by the author — Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ng**
-  - comment, vanished · 1h ago · Pooooodle · seen 2x · score 45
-  - matched: vanished, bug
-  - was comment, posted 2h before it went
-  - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbevyg9/
-  - captured before it went:
-    > Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ngl
 - **🗑 vanished from reddit — removed (deleted) — So when are we getting this QoL again?**
   - r/2007scape, vanished · 1h ago · frietbickycheese · seen 2x · score 40
   - matched: vanished, stash units
   - was r/2007scape, posted 11m before it went
   - https://www.reddit.com/r/2007scape/comments/1wnm8kc/so_when_are_we_getting_this_qol_again/
+- **🗑 vanished from reddit — deleted by the author — you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is**
+  - comment, vanished · 2h ago · Otherwise_Result_124 · seen 2x · score 48
+  - matched: vanished, rollback
+  - was comment, posted 54m before it went
+  - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbflhpa/
+  - captured before it went:
+    > you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is, clue duping won't literally break the game, but item duping would require a whole rollback so it would be best to ascertain that sooner rather than later
 - **🗑 vanished from reddit — removed (deleted) — Could we make a QOL change to how we get butterfly jars?**
-  - vanished · 21h ago · Osrs_Krcy · score 47
+  - vanished · 22h ago · Osrs_Krcy · score 47
   - matched: vanished, butterfly jar, inventory slot
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wlijbi/could_we_make_a_qol_change_to_how_we_get/
   - captured before it went:
     > Anyone who plays an iron account knows it’s a pain to get and keep jars, since you mainly have to buy them one inventory at a time. Suggested changes: Add butterfly jar packs (100) to all hunter shops Make butterfly jars stackable in one inventory slot Making jars stackable increases incentive to keep used jars vs. dropping them constantly to pick up loot
+- **🗑 vanished from reddit — deleted by the author — Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ng**
+  - comment, vanished · 2h ago · Pooooodle · seen 2x · score 45
+  - matched: vanished, bug
+  - was comment, posted 2h before it went
+  - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbevyg9/
+  - captured before it went:
+    > Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ngl
 - **🗑 vanished from reddit — removed (deleted) — Jagex decided to spoon me birds, any useful way to exploit this?**
-  - r/ironscape, vanished · 4h ago · Impossible_Ebb_7551 · seen 2x · score 45
+  - r/ironscape, vanished · 5h ago · Impossible_Ebb_7551 · seen 2x · score 45
   - matched: vanished, exploit
   - was r/ironscape, posted 3m before it went
   - https://www.reddit.com/r/ironscape/comments/1wnh6wx/jagex_decided_to_spoon_me_birds_any_useful_way_to/
   - captured before it went:
     > Heron at 65 and 78 fishing. Quetzon at 79 Hunter just now
 - **🗑 vanished from reddit — deleted by the author — No at this level of progression you should push yourself to complete the most dangerous and hardest challenges you can until you d**
-  - comment, vanished · 3h ago · iskelebones · seen 2x · score 40
+  - comment, vanished · 4h ago · iskelebones · seen 2x · score 40
   - matched: vanished, hardcore status
   - was comment, posted 3m before it went
   - https://www.reddit.com/r/ironscape/comments/1wngpjv/would_i_regret_deironing/pbf2e97/
@@ -49,51 +49,46 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## Active bug notices (wiki)  (2)
 
 - **🐛 active bug notice added — Strykewyrm bones**
-  - bugs · 5h ago · score 42
+  - bugs · 6h ago · score 42
   - matched: new bug notice
   - Template:Bug
   - notice: The infobox reflects XP granted if strykewyrm bonemeal were to be obtainable. However, crushing strykewyrm bones in the bone grinder at the Ectofuntus as well as exchanging them with Robin produce wyrm bonemeal instead, giving 200 Prayer experience when used.
   - https://oldschool.runescape.wiki/w/Strykewyrm_bones
 - **⚠ wiki notice channel was blind for 23.6h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 21h ago · score 30
+  - bugs · 22h ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (31 · 11 above the single-term floor, 20 at it)
+## Bugs & exploits  (30 · 10 above the single-term floor, 20 at it)
 
-- **Is xp appearing in the top left on mobile a bug or intended?**
-  - r/2007scape · 23h ago · idontactualykno · score 49
-  - matched: bug, is this intended
-  - 5c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/
 - **Clue Duplication Bug**
-  - r/2007scape · 2h ago · NateTheGreat669 · score 36
+  - r/2007scape · 3h ago · NateTheGreat669 · score 36
   - matched: bug, glitch, dupe+breakage
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/
 - **Not at all an exploit, people already do the same thing with them as is with 25 at once instead of 5. This person just wants it to take less inventory to open and use “spin flax” o**
-  - comment · 5h ago · rws531 · score 33
+  - comment · 6h ago · rws531 · score 33
   - matched: stated quantity mismatch, exploit
   - re: Thoughts on giving Bales of Flax a "Take 5" option
   - https://www.reddit.com/r/2007scape/comments/1wnd2xo/thoughts_on_giving_bales_of_flax_a_take_5_option/pbe6v1m/
 - **Regular death should be 5 items kept on death instead of 3. Then people could actually bring some decent gear AND they would last LONGER during PvM trips. Boosting value for PKers.**
-  - comment · 3h ago · Acewi · score 32
+  - comment · 4h ago · Acewi · score 32
   - matched: stated quantity mismatch, kept on death
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbf8gb1/
 - **✎ Zulrah's scales — added previously undocumented text to the trivia section.**
-  - wiki · 20h ago · ~2026-UnfiredResilienceWing17814 · score 28
+  - wiki · 21h ago · ~2026-UnfiredResilienceWing17814 · score 28
   - matched: bug edit, no notice on page — edit summary only
   - edit
   - https://oldschool.runescape.wiki/w/Zulrah's_scales
 - **If that is what happened (I'm not saying it's impossible, but highly unlikely), then you are at complete mercy of Jagex Support understanding and believing what has happened to you**
-  - comment · 4h ago · _kajta · score 26
+  - comment · 5h ago · _kajta · score 26
   - matched: bug, exploit
   - re: My OSRS account was stolen, and I’m running out of
   - https://www.reddit.com/r/2007scape/comments/1wneq4w/my_osrs_account_was_stolen_and_im_running_out_of/pbeqjm4/
 - **"Item duping would require a whole rollback so you should show others how to do it so they can attempt to trigger a whole rollback"**
-  - comment · 2h ago · Low-Professional-445 · score 25
+  - comment · 3h ago · Low-Professional-445 · score 25
   - matched: rollback
   - re: Clue Duplication Bug
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbfp410/
@@ -103,107 +98,107 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Would the Loot Been the Same If You Didn't Died
   - https://www.reddit.com/r/2007scape/comments/1wn91yt/would_the_loot_been_the_same_if_you_didnt_died/pbd1tyn/
 - **terrible because thats gonna be used as an item duplication exploit**
-  - comment · 14h ago · Niels_vdk · score 23
+  - comment · 15h ago · Niels_vdk · score 23
   - matched: exploit, dupe+breakage
   - re: I wish that you could "fork" your character instea
   - https://www.reddit.com/r/2007scape/comments/1wn32j7/i_wish_that_you_could_fork_your_character_instead/pbbpawy/
 - **Bug**
-  - comment · 1h ago · Nainpossible · score 13
+  - comment · 2h ago · Nainpossible · score 13
   - matched: bug
   - re: Is xp appearing in the top left on mobile a bug or
   - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/pbfvxc6/
 - **That sounds extremely similar to the moons bug from a while back https://www.reddit.com/r/2007scape/comments/1fygved/burning_claws_are_bugged_at_perilous_moons/, guessing Jagex did**
-  - comment · 2h ago · Cander0s · score 13
+  - comment · 3h ago · Cander0s · score 13
   - matched: bug
   - re: Undiscovered Yama mechanic
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbfoffk/
 - **They just dont drop often enough. Maybe they're bugged or really suck lol**
-  - comment · 2h ago · NerdyTimes_IDK · score 13
+  - comment · 3h ago · NerdyTimes_IDK · score 13
   - matched: bugged
   - re: 300 port tasks and 1.25m Sailing XP, all for one d
   - https://www.reddit.com/r/2007scape/comments/1wnc7nf/300_port_tasks_and_125m_sailing_xp_all_for_one/pbfnm57/
 - **Might suck but worth retyping into the in game bug report**
-  - comment · 2h ago · myGirlAccount · +6 more in this thread on the same terms · score 13
+  - comment · 3h ago · myGirlAccount · +6 more in this thread on the same terms · score 13
   - matched: bug
   - re: Clue Duplication Bug
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbflptt/
 - **Been a huge fan of runescape dragonwilds since it came out in pre-release! And with 1.0 i have grinded out the new sets, but due to a bug where the mobs dont respawn i've had to fi**
-  - x · 2h ago · @OkuyEZ · score 13
+  - x · 3h ago · @OkuyEZ · score 13
   - matched: bug, gate:named
   - 1♥ · top:runescape bug since:2026-09-12
   - https://x.com/OkuyEZ/status/2102488848676569107
 - **first vampyre task - how did i do?**
-  - r/2007scape · 2h ago · ForsakenOwl7153 · score 13
+  - r/2007scape · 3h ago · ForsakenOwl7153 · score 13
   - matched: bugged
   - 5c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wnju1n/first_vampyre_task_how_did_i_do/
 - **Nah you've got time to eat on the lil bug special without missing any attacks and eating on acid is fine as you've got half damage, never eat during normal attacks **
-  - comment · 4h ago · Pika_DJ · score 13
+  - comment · 5h ago · Pika_DJ · score 13
   - matched: bug
   - re: Use case for elite void?
   - https://www.reddit.com/r/ironscape/comments/1wmk2ll/use_case_for_elite_void/pbexylm/
 - **That a general bug that happens in many places**
-  - comment · 4h ago · glory_poster · score 13
+  - comment · 5h ago · glory_poster · score 13
   - matched: bug
   - re: Undiscovered Yama mechanic
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbeq4xi/
 - **That's exactly what I want, there's been a bug for months that whenever you login on desktop your minimap is open and it's clickable through the inventory. Makes world hoping a bit**
-  - comment · 4h ago · Vegetable_Purple_707 · score 13
+  - comment · 5h ago · Vegetable_Purple_707 · score 13
   - matched: bug
   - re: F key preferences?
   - https://www.reddit.com/r/2007scape/comments/1wmn72f/f_key_preferences/pbelvty/
 - **So an exploit?**
-  - comment · 6h ago · Cptn_Honda · score 13
+  - comment · 7h ago · Cptn_Honda · score 13
   - matched: exploit
   - re: Thoughts on giving Bales of Flax a "Take 5" option
   - https://www.reddit.com/r/2007scape/comments/1wnd2xo/thoughts_on_giving_bales_of_flax_a_take_5_option/pbe3t0g/
 - **People already do that, though I cant imagine the juice would be worth the squeeze to pay anyone over the adjusted risk, and if it isnt good money then the buisness case dies. So w**
-  - comment · 6h ago · Dsullivan777 · score 13
+  - comment · 7h ago · Dsullivan777 · score 13
   - matched: exploits
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbe2153/
 - **Low level Ironman**
-  - r/ironscape · 6h ago · Wabi-Sabi-Taco · score 13
+  - r/ironscape · 7h ago · Wabi-Sabi-Taco · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wndpps/low_level_ironman/
 - **Fun fact, rabbits aren't actually supposed to eat carrots. About 11% of pet rabbits have tooth decay because Bugs Bunny convinced an entire generation that they do.**
-  - comment · 6h ago · Im_hard_for_Tina_Fey · score 13
+  - comment · 7h ago · Im_hard_for_Tina_Fey · score 13
   - matched: bugs
   - re: Why did the rabbit go to the bank?
   - https://www.reddit.com/r/2007scape/comments/1wnang9/why_did_the_rabbit_go_to_the_bank/pbdvbky/
 - **Intermittent Bug - Left Clicking in Menus**
-  - r/osrs · 10h ago · Alarming_Bandicoot60 · score 13
+  - r/osrs · 11h ago · Alarming_Bandicoot60 · score 13
   - matched: bug
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wn7lya/intermittent_bug_left_clicking_in_menus/
 - **Bug abusing basement dweller things.**
-  - comment · 11h ago · SystemMotor · score 13
+  - comment · 12h ago · SystemMotor · score 13
   - matched: bug
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbc87pg/
 - **RuneScape: Dragonwilds riceve il primo aggiornamento su Switch 2. La patch risolve diversi problemi, incluso un bug che poteva corrompere i salvataggi del mondo. Jagex lavora già a**
-  - x · 14h ago · @ROCKSTARINhtml · score 13
+  - x · 15h ago · @ROCKSTARINhtml · score 13
   - matched: bug, gate:named
   - 1c · top:runescape bug since:2026-09-12
   - https://x.com/ROCKSTARINhtml/status/2102305989672206363
 - **Is it better to spam tele if you start lagging/DCing or just hands off to not interrupt the crystal? I mean, I'd assume the tele spam is the play but not sure if there's some weird**
-  - comment · 14h ago · The_One_Returns · score 13
+  - comment · 15h ago · The_One_Returns · score 13
   - matched: bug
   - re: The GMs, a group consisting of the first 5 HCIM to
   - https://www.reddit.com/r/2007scape/comments/1wkr128/the_gms_a_group_consisting_of_the_first_5_hcim_to/pbbpj4w/
 - **It is punishing, thats why you have death fees. It should not be punishing enough that it could make you quit the game in a situation that is not intended to be high risk. If you d**
-  - comment · 18h ago · SIIRCM · score 13
+  - comment · 19h ago · SIIRCM · score 13
   - matched: not intended
   - re: Enough is Enough - Jagex, Stop Deleting Loot on Se
   - https://www.reddit.com/r/ironscape/comments/1wmkxgx/enough_is_enough_jagex_stop_deleting_loot_on/pbay7jo/
 - **There was drama not too long ago because he bug abused for 99 slayer and the devs reset his skill level. https://www.reddit.com/r/2007scape/comments/1t5kfmr/after\_reaching\_99\_sl**
-  - comment · 18h ago · WhatATopic · score 13
+  - comment · 19h ago · WhatATopic · score 13
   - matched: bug
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbas1o1/
 - **He also cheated to get it. His xp should've stayed rolled back**
-  - comment · 18h ago · JungleCakes · score 13
+  - comment · 19h ago · JungleCakes · score 13
   - matched: rolled back
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbartrn/
@@ -213,141 +208,141 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Sae Bae sticks to his word and de-irons after the 
   - https://www.reddit.com/r/2007scape/comments/1wmootj/sae_bae_sticks_to_his_word_and_deirons_after_the/pba5ume/
 - **This is a known bug they are working on**
-  - comment · 21h ago · carboonz · score 13
+  - comment · 22h ago · carboonz · score 13
   - matched: bug
   - re: Is xp appearing in the top left on mobile a bug or
   - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/pb9yfb1/
 
-## Jagex & J-Mod  (5 · 3 above the single-term floor, 2 at it)
+## Jagex & J-Mod  (4 · 3 above the single-term floor, 1 at it)
 
 - **🟣 19 J-Mod replies — Clue Duplication Bug**
-  - comment · 2h ago · JagexLenny · score 30
+  - comment · 3h ago · JagexLenny · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 19, JagexLenny: Please feel free to send anything over to me to have a look into!
   - https://www.reddit.com/comments/1wnk94d
 - **🟣 50 J-Mod replies — Undiscovered Yama mechanic**
-  - comment · 5h ago · JagexGoblin · score 30
+  - comment · 6h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 50, JagexGoblin: It is not that
   - https://www.reddit.com/comments/1wnbkqo
 - **🟣 24 J-Mod replies — Ok, who did this?**
-  - comment · 7h ago · Mod_Jez · score 30
+  - comment · 8h ago · Mod_Jez · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 24, Mod_Jez: ?
   - https://www.reddit.com/comments/1wnbzoi
 - **Weird lag issue that has lasted months and hasn't allowed me to play the game proper.**
-  - r/2007scape · 1h ago · Requirement-Bulky · score 15
+  - r/2007scape · 2h ago · Requirement-Bulky · score 15
   - matched: known issue
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnm78b/weird_lag_issue_that_has_lasted_months_and_hasnt/
-- **iOS App issues**
-  - r/2007scape · 23h ago · Iron_Yesu · score 15
-  - matched: known issue
-  - 0c · 0↑
-  - https://www.reddit.com/r/2007scape/comments/1wmsopy/ios_app_issues/
 
-## "You can do this" finds  (5 · 4 above the single-term floor, 1 at it)
+## "You can do this" finds  (7 · 6 above the single-term floor, 1 at it)
 
+- **Bones to peaches**
+  - comment · 37m ago · Sad_Attempt5420 · score 26
+  - matched: ⚡ food per inventory slot, bones to peaches
+  - re: When does the food situation get good?
+  - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbgk4qy/
+- **spending time and resources fighting back is inefficient all by itself, this change wouldn't make people start PVPing when they're just doing a PVM grind. Waste of time. Not to men**
+  - comment · 41m ago · Mission-Unit6620 · score 26
+  - matched: ⚡ food per inventory slot
+  - re: PvMers Don’t Fight Back Because The Game Tells The
+  - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbgjf2n/
 - **Temp + kwams until you get barrel. Then I did anglers until 85. Did some Yama so had diabolical worms to add so sitting on a good 5k right now. At 85+ get wildy elite done with fis**
-  - comment · 8m ago · justanaveragejoe520 · score 26
+  - comment · 1h ago · justanaveragejoe520 · score 26
   - matched: ⚡ food per inventory slot, fish barrel
   - re: When do you guys fish?
   - https://www.reddit.com/r/ironscape/comments/1wnn27y/when_do_you_guys_fish/pbgf0de/
 - **Temp to fish barrel then afk karams to 82 or stay at temp for 82. After that the new sailing method of fishing anglers is amazing but the exp is shit so its really up to you Minnow**
-  - comment · 16m ago · OsyxRunescape · score 26
+  - comment · 1h ago · OsyxRunescape · score 26
   - matched: ⚡ food per inventory slot, fish barrel
   - re: When do you guys fish?
   - https://www.reddit.com/r/ironscape/comments/1wnn27y/when_do_you_guys_fish/pbgdg1r/
 - **A few thousand Karams last me months. I did a bunch of tempo to 81 for fish barrel and the best rewards pull and got thousands of swordfish and shark. PvM also shits out a pretty g**
-  - comment · 7h ago · LetterP · +3 more in this thread on the same terms · score 26
+  - comment · 8h ago · LetterP · +3 more in this thread on the same terms · score 26
   - matched: ⚡ food per inventory slot, fish barrel
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbdo1bv/
 - **Menu Swapper messed up again ???**
-  - r/2007scape · 21h ago · ezeyabruh · score 26
+  - r/2007scape · 22h ago · ezeyabruh · score 26
   - matched: ⚡ container misbehaving, colossal pouch
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wmv4sd/menu_swapper_messed_up_again/
 - **You can fill the keg in your house kitchen with the non-mature chef delight and it becomes and infinite supply. Just gotta drink it in your house so likely cook in there as well.**
-  - comment · 5h ago · Nickoladze · score 12
+  - comment · 6h ago · Nickoladze · score 12
   - matched: infinite supply
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbe8obi/
 
-## Mechanics & wiki corrections  (21 · 20 above the single-term floor, 1 at it)
+## Mechanics & wiki corrections  (20 · 19 above the single-term floor, 1 at it)
 
 - **I got mine at 1,007 all Chaos Elemental. Put me at like 980 on the high scores at the time. Miserable grind since I dragged it to the safe spot for the first 400 kills. Made it jus**
-  - comment · 8h ago · Affectionate-Can2865 · score 36
+  - comment · 9h ago · Affectionate-Can2865 · score 36
   - matched: put me, safe spot, chaos elemental
   - re: Anyone here get pet from Chaos Fanatic? What KC?
   - https://www.reddit.com/r/2007scape/comments/1wn3ojg/anyone_here_get_pet_from_chaos_fanatic_what_kc/pbd7p94/
-- **✎ Passive effect — Zulrah no longer exclusive provider of venom weapons**
-  - wiki · 23h ago · Sethmare · seen 2x · score 27
-  - matched: behaviour edit
-  - edit
-  - https://oldschool.runescape.wiki/w/Passive_effect
 - **Probably like 10 over the course of half a decade? I don't like paying real life cash to inflate my bank value. The only exception I make is for things I don't want to buy that won**
   - comment · 6h ago · drjisftw · score 26
   - matched: stash units, teleport focus
   - re: How many bonds have you bought and why
   - https://www.reddit.com/r/2007scape/comments/1wnbjpd/how_many_bonds_have_you_bought_and_why/pbe64mz/
 - **Go as far down as you can, step out right one tile, flick the manticore. Let the mager get pulled down the side, go back to safe spot. Kill the mager. Then you should be able to of**
-  - comment · 19h ago · Idcayourfeelings · score 26
+  - comment · 20h ago · Idcayourfeelings · score 26
   - matched: safe spot, manticore
   - re: Best way to solve this wave 11 on colo?
   - https://www.reddit.com/r/2007scape/comments/1wmxkle/best_way_to_solve_this_wave_11_on_colo/pbam3yj/
 - **you can safespot kq and flinch its turbo chill**
-  - comment · 11h ago · Muschpush · score 25
+  - comment · 12h ago · Muschpush · score 25
   - matched: safespot, flinch
   - re: So, that‘s that
   - https://www.reddit.com/r/2007scape/comments/1wmkdgb/so_thats_that/pbcdfic/
 - **Loot from 1 kill of testing Entrana dungeon smuggling jank**
-  - r/2007scape · 19h ago · AquilaIgnis1 · score 24
+  - r/2007scape · 20h ago · AquilaIgnis1 · score 24
   - matched: smuggled, entrana
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wmxdyo/loot_from_1_kill_of_testing_entrana_dungeon/
 - **No… the post was never about being stronger for the fight it’s about smuggling weapons onto Entrana in the first place.**
-  - comment · 20h ago · MemesForSail · score 24
+  - comment · 21h ago · MemesForSail · score 24
   - matched: smuggling, entrana
   - re: Wasn't mentioned on the wiki so I tested it
   - https://www.reddit.com/r/2007scape/comments/1wmvmsx/wasnt_mentioned_on_the_wiki_so_i_tested_it/pba7i1y/
 - **It's not some half assed answer. I have done thousands of clues and for that step the run from BKR is the best I know. Mort Myre has some nonsense pathing so the option with the le**
-  - comment · 2h ago · -Aura_Knight- · score 20
+  - comment · 3h ago · -Aura_Knight- · score 20
   - matched: pathing
   - re: Whats the fastest way for this clue step?
   - https://www.reddit.com/r/2007scape/comments/1wngs71/whats_the_fastest_way_for_this_clue_step/pbfgnfc/
 - **I find that the average player is very rarely using the best available strategies. I pet hunt calv with a max hit of 84 with chain mace as my plus 1 and that's not even the most ef**
-  - comment · 4h ago · iHemlockwastaken · score 20
+  - comment · 5h ago · iHemlockwastaken · score 20
   - matched: max hit, max hit of
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbelmhl/
 - **Now let’s give it the new pet pathing mechanic and it’ll be officially the best pet in the game **
-  - comment · 6h ago · Lucy_Fjord · score 20
+  - comment · 7h ago · Lucy_Fjord · score 20
   - matched: pathing
   - re: Secret anti-PK tech: this one item will make PKers
   - https://www.reddit.com/r/2007scape/comments/1wmwgay/secret_antipk_tech_this_one_item_will_make_pkers/pbdstqh/
 - **That'd be funny but there's absolutely no chance that it wouldn't almost immediately have someone AFKing with a bot in a safespot to just grief.**
-  - comment · 8h ago · CashOutDev · score 20
+  - comment · 9h ago · CashOutDev · score 20
   - matched: safespot
   - re: Fortis Colosseum worlds but only one person can go
   - https://www.reddit.com/r/2007scape/comments/1wmr4mi/fortis_colosseum_worlds_but_only_one_person_can/pbd8kn8/
 - **1250 for me. Opted to do fanatic because ele is aids on a pure even setting up the safe spot is a nightmare**
-  - comment · 13h ago · Immediate-Release109 · score 20
+  - comment · 14h ago · Immediate-Release109 · score 20
   - matched: safe spot
   - re: Anyone here get pet from Chaos Fanatic? What KC?
   - https://www.reddit.com/r/2007scape/comments/1wn3ojg/anyone_here_get_pet_from_chaos_fanatic_what_kc/pbbvb3o/
 - **i still use my swamp at chill places that i dont wanna pour tears into. Used it at armoured krakens safespot just the other day for instance**
-  - comment · 18h ago · Huncho_Muncho · score 20
+  - comment · 19h ago · Huncho_Muncho · score 20
   - matched: safespot
   - re: I wanna love the whip again
   - https://www.reddit.com/r/ironscape/comments/1wmvwxs/i_wanna_love_the_whip_again/pbavsr3/
 - **Wave 31, pray mage never gets turned off. Stay around Italy rock, safe spot on either side. Take blood spells to heal up if you need to, get rid of hard food and take super restore**
-  - comment · 20h ago · Daveosss · score 20
+  - comment · 21h ago · Daveosss · score 20
   - matched: safe spot
   - re: Any tips for fight caves?
   - https://www.reddit.com/r/2007scape/comments/1wmuoe2/any_tips_for_fight_caves/pba8ewd/
 - **I did it with mystic robes and a water staff with 70 magic. It aint hard bro you just have a bad technique/safespot**
-  - comment · 21h ago · Hooker_Thresh · score 20
+  - comment · 22h ago · Hooker_Thresh · score 20
   - matched: safespot
   - re: Any tips for fight caves?
   - https://www.reddit.com/r/2007scape/comments/1wmuoe2/any_tips_for_fight_caves/pba1xh2/
@@ -357,31 +352,31 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbe681e/
 - **Brother I really appreciate you explaining it to me. I've grossly misunderstood how the gravestone mechanic works for ages then lol. Not sure what my old clan mate was talking abou**
-  - comment · 11h ago · Acceptable_Fan_3209 · score 17
+  - comment · 12h ago · Acceptable_Fan_3209 · score 17
   - matched: death's office, gravestone
   - re: Enough is Enough - Jagex, Stop Deleting Loot on Se
   - https://www.reddit.com/r/ironscape/comments/1wmkxgx/enough_is_enough_jagex_stop_deleting_loot_on/pbcbv66/
 - **Im personally still unhappy that someone decided to call rs1 RuneScape Classic. **
-  - comment · 14h ago · iamahill · score 17
+  - comment · 15h ago · iamahill · score 17
   - matched: classic, runescape classic
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbper4/
 - **people dont like the name? what else would it be? the name is exactly what it is. unless theyre being sticklers and complaining that "old school runescape is actually runescape cla**
-  - comment · 15h ago · gorehistorian69 · score 17
+  - comment · 16h ago · gorehistorian69 · score 17
   - matched: classic, runescape classic
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbkqgh/
 - **1/2.56 according to wiki Upon looking further, I’m not sure. Changing the zombie from 1-5 on the top doesn’t change the drop table, and I believe only the one with the ax can drop **
-  - comment · 20h ago · Critical-Profile1849 · score 17
+  - comment · 21h ago · Critical-Profile1849 · score 17
   - matched: entrana, drop table
   - re: Wasn't mentioned on the wiki so I tested it
   - https://www.reddit.com/r/2007scape/comments/1wmvmsx/wasnt_mentioned_on_the_wiki_so_i_tested_it/pbaftdn/
 - **Undiscovered Yama mechanic**
-  - r/2007scape · 7h ago · Sawfted · score 13
+  - r/2007scape · 8h ago · Sawfted · score 13
   - matched: J-Mod reply · no bug content
   - 44c · 134↑
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/
 
 ---
 
-Not included: 924 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 928 findings older than 24h. Widen with `__osrs.report(48)` in the console.
