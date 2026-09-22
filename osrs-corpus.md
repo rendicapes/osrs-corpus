@@ -1,7 +1,7 @@
 # OSRS Signal — last 24h
 
-2026-09-22 13:26 UTC · 29 findings after merging duplicates (from 70 raw hits; 40 single-term floor rows filtered)
-collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 12:30Z) · 56m ago · search: ok · 0s ago · vanished: ok (checked 1) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (24 videos) · 6m ago
+2026-09-22 14:22 UTC · 32 findings after merging duplicates (from 76 raw hits; 43 single-term floor rows filtered)
+collector health · bugpages: ok (175 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 7s ago · repo: ok (pushed 13:26Z) · 55m ago · search: ok · 59s ago · vanished: ok (nothing pending) · 1m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 17m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
@@ -16,65 +16,70 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel was blind for 23.6h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 12h ago · score 30
+  - bugs · 13h ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (11 · 3 above the single-term floor, 8 at it)
+## Bugs & exploits  (12 · 4 above the single-term floor, 8 at it)
 
 - **Is xp appearing in the top left on mobile a bug or intended?**
-  - r/2007scape · 14h ago · idontactualykno · score 49
+  - r/2007scape · 15h ago · idontactualykno · score 49
   - matched: bug, is this intended
   - 5c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/
+- **Based on rollbacks we’ve seen in the past, no. People killed bosses right before rollback (example; kc 472 pet drop). Then post rollback on kc 472 they did not get the pet again. H**
+  - comment · 54m ago · BraddockN · score 25
+  - matched: rollback
+  - re: Would the Loot Been the Same If You Didn't Died
+  - https://www.reddit.com/r/2007scape/comments/1wn91yt/would_the_loot_been_the_same_if_you_didnt_died/pbd1tyn/
 - **✎ Zulrah's scales — added previously undocumented text to the trivia section.**
-  - wiki · 11h ago · ~2026-UnfiredResilienceWing17814 · score 28
+  - wiki · 12h ago · ~2026-UnfiredResilienceWing17814 · score 28
   - matched: bug edit, no notice on page — edit summary only
   - edit
   - https://oldschool.runescape.wiki/w/Zulrah's_scales
 - **terrible because thats gonna be used as an item duplication exploit**
-  - comment · 5h ago · Niels_vdk · score 23
+  - comment · 6h ago · Niels_vdk · score 23
   - matched: exploit, dupe+breakage
   - re: I wish that you could "fork" your character instea
   - https://www.reddit.com/r/2007scape/comments/1wn32j7/i_wish_that_you_could_fork_your_character_instead/pbbpawy/
 - **Intermittent Bug - Left Clicking in Menus**
-  - r/osrs · 1h ago · Alarming_Bandicoot60 · score 13
+  - r/osrs · 2h ago · Alarming_Bandicoot60 · score 13
   - matched: bug
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wn7lya/intermittent_bug_left_clicking_in_menus/
 - **Bug abusing basement dweller things.**
-  - comment · 2h ago · SystemMotor · score 13
+  - comment · 3h ago · SystemMotor · score 13
   - matched: bug
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbc87pg/
 - **Is it better to spam tele if you start lagging/DCing or just hands off to not interrupt the crystal? I mean, I'd assume the tele spam is the play but not sure if there's some weird**
-  - comment · 5h ago · The_One_Returns · score 13
+  - comment · 6h ago · The_One_Returns · score 13
   - matched: bug
   - re: The GMs, a group consisting of the first 5 HCIM to
   - https://www.reddit.com/r/2007scape/comments/1wkr128/the_gms_a_group_consisting_of_the_first_5_hcim_to/pbbpj4w/
 - **It is punishing, thats why you have death fees. It should not be punishing enough that it could make you quit the game in a situation that is not intended to be high risk. If you d**
-  - comment · 9h ago · SIIRCM · score 13
+  - comment · 10h ago · SIIRCM · score 13
   - matched: not intended
   - re: Enough is Enough - Jagex, Stop Deleting Loot on Se
   - https://www.reddit.com/r/ironscape/comments/1wmkxgx/enough_is_enough_jagex_stop_deleting_loot_on/pbay7jo/
 - **There was drama not too long ago because he bug abused for 99 slayer and the devs reset his skill level. https://www.reddit.com/r/2007scape/comments/1t5kfmr/after\_reaching\_99\_sl**
-  - comment · 9h ago · WhatATopic · score 13
+  - comment · 10h ago · WhatATopic · score 13
   - matched: bug
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbas1o1/
 - **He also cheated to get it. His xp should've stayed rolled back**
-  - comment · 9h ago · JungleCakes · score 13
+  - comment · 10h ago · JungleCakes · score 13
   - matched: rolled back
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbartrn/
 - **Infinite content glitch for osrs creators **
-  - comment · 11h ago · Apocalypticorn · score 13
+  - comment · 12h ago · Apocalypticorn · score 13
   - matched: glitch
   - re: Sae Bae sticks to his word and de-irons after the 
   - https://www.reddit.com/r/2007scape/comments/1wmootj/sae_bae_sticks_to_his_word_and_deirons_after_the/pba5ume/
 - **This is a known bug they are working on**
-  - comment · 12h ago · carboonz · score 13
+  - comment · 13h ago · carboonz · score 13
   - matched: bug
   - re: Is xp appearing in the top left on mobile a bug or
   - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/pb9yfb1/
@@ -82,7 +87,7 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
 ## Jagex & J-Mod  (1 · 0 above the single-term floor, 1 at it)
 
 - **iOS App issues**
-  - r/2007scape · 14h ago · Iron_Yesu · score 15
+  - r/2007scape · 15h ago · Iron_Yesu · score 15
   - matched: known issue
   - 0c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wmsopy/ios_app_issues/
@@ -90,75 +95,85 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
 ## "You can do this" finds  (2)
 
 - **Menu Swapper messed up again ???**
-  - r/2007scape · 12h ago · ezeyabruh · score 26
+  - r/2007scape · 13h ago · ezeyabruh · score 26
   - matched: ⚡ container misbehaving, colossal pouch
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wmv4sd/menu_swapper_messed_up_again/
 - **Shark Lures and Best Way To Use Them**
-  - r/ironscape · 19h ago · ThisLuckLmao · score 26
+  - r/ironscape · 20h ago · ThisLuckLmao · score 26
   - matched: ⚡ food per inventory slot
   - 6c · 6↑
   - https://www.reddit.com/r/ironscape/comments/1wmjfm9/shark_lures_and_best_way_to_use_them/
 
-## Mechanics & wiki corrections  (13)
+## Mechanics & wiki corrections  (15)
 
+- **I got mine at 1,007 all Chaos Elemental. Put me at like 980 on the high scores at the time. Miserable grind since I dragged it to the safe spot for the first 400 kills. Made it jus**
+  - comment · 25m ago · Affectionate-Can2865 · score 36
+  - matched: put me, safe spot, chaos elemental
+  - re: Anyone here get pet from Chaos Fanatic? What KC?
+  - https://www.reddit.com/r/2007scape/comments/1wn3ojg/anyone_here_get_pet_from_chaos_fanatic_what_kc/pbd7p94/
 - **✎ Passive effect — Zulrah no longer exclusive provider of venom weapons**
-  - wiki · 14h ago · Sethmare · seen 2x · score 27
+  - wiki · 15h ago · Sethmare · seen 2x · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Passive_effect
 - **Go as far down as you can, step out right one tile, flick the manticore. Let the mager get pulled down the side, go back to safe spot. Kill the mager. Then you should be able to of**
-  - comment · 10h ago · Idcayourfeelings · score 26
+  - comment · 11h ago · Idcayourfeelings · score 26
   - matched: safe spot, manticore
   - re: Best way to solve this wave 11 on colo?
   - https://www.reddit.com/r/2007scape/comments/1wmxkle/best_way_to_solve_this_wave_11_on_colo/pbam3yj/
+- **That'd be funny but there's absolutely no chance that it wouldn't almost immediately have someone AFKing with a bot in a safespot to just grief.**
+  - comment · 21m ago · CashOutDev · score 20
+  - matched: safespot
+  - re: Fortis Colosseum worlds but only one person can go
+  - https://www.reddit.com/r/2007scape/comments/1wmr4mi/fortis_colosseum_worlds_but_only_one_person_can/pbd8kn8/
 - **you can safespot kq and flinch its turbo chill**
-  - comment · 2h ago · Muschpush · score 25
+  - comment · 3h ago · Muschpush · score 25
   - matched: safespot, flinch
   - re: So, that‘s that
   - https://www.reddit.com/r/2007scape/comments/1wmkdgb/so_thats_that/pbcdfic/
 - **Loot from 1 kill of testing Entrana dungeon smuggling jank**
-  - r/2007scape · 10h ago · AquilaIgnis1 · score 24
+  - r/2007scape · 11h ago · AquilaIgnis1 · score 24
   - matched: smuggled, entrana
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wmxdyo/loot_from_1_kill_of_testing_entrana_dungeon/
 - **No… the post was never about being stronger for the fight it’s about smuggling weapons onto Entrana in the first place.**
-  - comment · 11h ago · MemesForSail · score 24
+  - comment · 12h ago · MemesForSail · score 24
   - matched: smuggling, entrana
   - re: Wasn't mentioned on the wiki so I tested it
   - https://www.reddit.com/r/2007scape/comments/1wmvmsx/wasnt_mentioned_on_the_wiki_so_i_tested_it/pba7i1y/
 - **1250 for me. Opted to do fanatic because ele is aids on a pure even setting up the safe spot is a nightmare**
-  - comment · 4h ago · Immediate-Release109 · score 20
+  - comment · 5h ago · Immediate-Release109 · score 20
   - matched: safe spot
   - re: Anyone here get pet from Chaos Fanatic? What KC?
   - https://www.reddit.com/r/2007scape/comments/1wn3ojg/anyone_here_get_pet_from_chaos_fanatic_what_kc/pbbvb3o/
 - **i still use my swamp at chill places that i dont wanna pour tears into. Used it at armoured krakens safespot just the other day for instance**
-  - comment · 9h ago · Huncho_Muncho · score 20
+  - comment · 10h ago · Huncho_Muncho · score 20
   - matched: safespot
   - re: I wanna love the whip again
   - https://www.reddit.com/r/ironscape/comments/1wmvwxs/i_wanna_love_the_whip_again/pbavsr3/
 - **Wave 31, pray mage never gets turned off. Stay around Italy rock, safe spot on either side. Take blood spells to heal up if you need to, get rid of hard food and take super restore**
-  - comment · 11h ago · Daveosss · score 20
+  - comment · 12h ago · Daveosss · score 20
   - matched: safe spot
   - re: Any tips for fight caves?
   - https://www.reddit.com/r/2007scape/comments/1wmuoe2/any_tips_for_fight_caves/pba8ewd/
 - **I did it with mystic robes and a water staff with 70 magic. It aint hard bro you just have a bad technique/safespot**
-  - comment · 12h ago · Hooker_Thresh · score 20
+  - comment · 13h ago · Hooker_Thresh · score 20
   - matched: safespot
   - re: Any tips for fight caves?
   - https://www.reddit.com/r/2007scape/comments/1wmuoe2/any_tips_for_fight_caves/pba1xh2/
 - **Brother I really appreciate you explaining it to me. I've grossly misunderstood how the gravestone mechanic works for ages then lol. Not sure what my old clan mate was talking abou**
-  - comment · 2h ago · Acceptable_Fan_3209 · score 17
+  - comment · 3h ago · Acceptable_Fan_3209 · score 17
   - matched: death's office, gravestone
   - re: Enough is Enough - Jagex, Stop Deleting Loot on Se
   - https://www.reddit.com/r/ironscape/comments/1wmkxgx/enough_is_enough_jagex_stop_deleting_loot_on/pbcbv66/
 - **Im personally still unhappy that someone decided to call rs1 RuneScape Classic. **
-  - comment · 5h ago · iamahill · score 17
+  - comment · 6h ago · iamahill · score 17
   - matched: classic, runescape classic
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbper4/
 - **people dont like the name? what else would it be? the name is exactly what it is. unless theyre being sticklers and complaining that "old school runescape is actually runescape cla**
-  - comment · 6h ago · gorehistorian69 · score 17
+  - comment · 7h ago · gorehistorian69 · score 17
   - matched: classic, runescape classic
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbkqgh/
@@ -170,4 +185,4 @@ collector health · bugpages: ok (175 flagged · coverage: continuous) · 2s ago
 
 ---
 
-Not included: 1070 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1073 findings older than 24h. Widen with `__osrs.report(48)` in the console.
