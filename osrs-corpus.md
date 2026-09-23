@@ -1,12 +1,12 @@
 # OSRS Signal — last 24h
 
-2026-09-23 04:27 UTC · 65 findings after merging duplicates (from 174 raw hits; 88 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ago · firehose: ok · 16s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 14s ago · posts: ok · 20s ago · search: ok · 0s ago · wiki: ok (250 edits) · 15s ago · youtube: ok (21 videos) · 1s ago
+2026-09-23 05:01 UTC · 65 findings after merging duplicates (from 171 raw hits; 85 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 04:05Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (21 videos) · 43m ago
 
 ## Vanished — removed or deleted after posting  (6)
 
 - **🗑 vanished from reddit — deleted by the author — you're probably best off just sharing this one so other people can try to reproduce it with other items using similar means. as is**
-  - comment, vanished · 7h ago · Otherwise_Result_124 · seen 2x · score 48
+  - comment, vanished · 8h ago · Otherwise_Result_124 · seen 2x · score 48
   - matched: vanished, rollback
   - was comment, posted 54m before it went
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbflhpa/
@@ -20,7 +20,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - captured before it went:
     > I've never seen one before, till today. Maybe it was a bug because its my first one in 10k kc there, i was genuine shocked.
 - **🗑 vanished from reddit — deleted by the author — Off topic, but was skull skip at warden an intended mechanic, or more of a bug? No clue how someone discovered it to begin with ng**
-  - comment, vanished · 7h ago · Pooooodle · seen 2x · score 45
+  - comment, vanished · 8h ago · Pooooodle · seen 2x · score 45
   - matched: vanished, bug
   - was comment, posted 2h before it went
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbevyg9/
@@ -39,7 +39,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - was r/2007scape, posted 11m before it went
   - https://www.reddit.com/r/2007scape/comments/1wnm8kc/so_when_are_we_getting_this_qol_again/
 - **🗑 vanished from reddit — deleted by the author — No at this level of progression you should push yourself to complete the most dangerous and hardest challenges you can until you d**
-  - comment, vanished · 9h ago · iskelebones · seen 2x · score 40
+  - comment, vanished · 10h ago · iskelebones · seen 2x · score 40
   - matched: vanished, hardcore status
   - was comment, posted 3m before it went
   - https://www.reddit.com/r/ironscape/comments/1wngpjv/would_i_regret_deironing/pbf2e97/
@@ -49,7 +49,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
 ## Active bug notices (wiki)  (1)
 
 - **🐛 active bug notice added — Strykewyrm bones**
-  - bugs · 11h ago · score 42
+  - bugs · 12h ago · score 42
   - matched: new bug notice
   - Template:Bug
   - notice: The infobox reflects XP granted if strykewyrm bonemeal were to be obtainable. However, crushing strykewyrm bones in the bone grinder at the Ectofuntus as well as exchanging them with Robin produce wyrm bonemeal instead, giving 200 Prayer experience when used.
@@ -63,7 +63,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/
 - **Not at all an exploit, people already do the same thing with them as is with 25 at once instead of 5. This person just wants it to take less inventory to open and use “spin flax” o**
-  - comment · 11h ago · rws531 · score 33
+  - comment · 12h ago · rws531 · score 33
   - matched: stated quantity mismatch, exploit
   - re: Thoughts on giving Bales of Flax a "Take 5" option
   - https://www.reddit.com/r/2007scape/comments/1wnd2xo/thoughts_on_giving_bales_of_flax_a_take_5_option/pbe6v1m/
@@ -73,12 +73,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbf8gb1/
 - **The real annoying part about Kree isn't even the mechanics themselves, but Kree's absolutely insane defense. GWD in 2007 was designed as group content, and Kree as a boss you would**
-  - comment · 2h ago · Masylv · score 31
+  - comment · 3h ago · Masylv · score 31
   - matched: stated quantity mismatch, pro tip
   - re: How, in the same of all that is holy, is Kree'ara 
   - https://www.reddit.com/r/2007scape/comments/1wnpwst/how_in_the_same_of_all_that_is_holy_is_kreeara/pbhg6xt/
 - **If that is what happened (I'm not saying it's impossible, but highly unlikely), then you are at complete mercy of Jagex Support understanding and believing what has happened to you**
-  - comment · 10h ago · _kajta · score 26
+  - comment · 11h ago · _kajta · score 26
   - matched: bug, exploit
   - re: My OSRS account was stolen, and I’m running out of
   - https://www.reddit.com/r/2007scape/comments/1wneq4w/my_osrs_account_was_stolen_and_im_running_out_of/pbeqjm4/
@@ -88,17 +88,17 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: Clue Duplication Bug
   - https://www.reddit.com/r/2007scape/comments/1wnk94d/clue_duplication_bug/pbfp410/
 - **Based on rollbacks we’ve seen in the past, no. People killed bosses right before rollback (example; kc 472 pet drop). Then post rollback on kc 472 they did not get the pet again. H**
-  - comment · 14h ago · BraddockN · score 25
+  - comment · 15h ago · BraddockN · score 25
   - matched: rollback
   - re: Would the Loot Been the Same If You Didn't Died
   - https://www.reddit.com/r/2007scape/comments/1wn91yt/would_the_loot_been_the_same_if_you_didnt_died/pbd1tyn/
 - **terrible because thats gonna be used as an item duplication exploit**
-  - comment · 20h ago · Niels_vdk · score 23
+  - comment · 21h ago · Niels_vdk · score 23
   - matched: exploit, dupe+breakage
   - re: I wish that you could "fork" your character instea
   - https://www.reddit.com/r/2007scape/comments/1wn32j7/i_wish_that_you_could_fork_your_character_instead/pbbpawy/
 - **Byrophyta's staff didn't lose charges on death like it should've**
-  - r/2007scape · 2h ago · madcatte · score 13
+  - r/2007scape · 3h ago · madcatte · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnsopk/byrophytas_staff_didnt_lose_charges_on_death_like/
@@ -108,7 +108,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wnrv7z/odd_visual_bug_on_mobile/
 - **Bug**
-  - comment · 7h ago · Nainpossible · score 13
+  - comment · 8h ago · Nainpossible · score 13
   - matched: bug
   - re: Is xp appearing in the top left on mobile a bug or
   - https://www.reddit.com/r/2007scape/comments/1wmstqq/is_xp_appearing_in_the_top_left_on_mobile_a_bug/pbfvxc6/
@@ -128,7 +128,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - 1♥ · top:runescape bug since:2026-09-12
   - https://x.com/OkuyEZ/status/2102488848676569107
 - **first vampyre task - how did i do?**
-  - r/2007scape · 8h ago · ForsakenOwl7153 · score 13
+  - r/2007scape · 9h ago · ForsakenOwl7153 · score 13
   - matched: bugged
   - 5c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wnju1n/first_vampyre_task_how_did_i_do/
@@ -138,12 +138,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: Use case for elite void?
   - https://www.reddit.com/r/ironscape/comments/1wmk2ll/use_case_for_elite_void/pbexylm/
 - **That a general bug that happens in many places**
-  - comment · 10h ago · glory_poster · +2 more in this thread on the same terms · score 13
+  - comment · 11h ago · glory_poster · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: Undiscovered Yama mechanic
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/pbeq4xi/
 - **That's exactly what I want, there's been a bug for months that whenever you login on desktop your minimap is open and it's clickable through the inventory. Makes world hoping a bit**
-  - comment · 10h ago · Vegetable_Purple_707 · score 13
+  - comment · 11h ago · Vegetable_Purple_707 · score 13
   - matched: bug
   - re: F key preferences?
   - https://www.reddit.com/r/2007scape/comments/1wmn72f/f_key_preferences/pbelvty/
@@ -163,7 +163,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wndpps/low_level_ironman/
 - **Fun fact, rabbits aren't actually supposed to eat carrots. About 11% of pet rabbits have tooth decay because Bugs Bunny convinced an entire generation that they do.**
-  - comment · 12h ago · Im_hard_for_Tina_Fey · score 13
+  - comment · 13h ago · Im_hard_for_Tina_Fey · score 13
   - matched: bugs
   - re: Why did the rabbit go to the bank?
   - https://www.reddit.com/r/2007scape/comments/1wnang9/why_did_the_rabbit_go_to_the_bank/pbdvbky/
@@ -173,17 +173,17 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wn7lya/intermittent_bug_left_clicking_in_menus/
 - **Bug abusing basement dweller things.**
-  - comment · 17h ago · SystemMotor · score 13
+  - comment · 18h ago · SystemMotor · score 13
   - matched: bug
   - re: People never cease to amaze me. What even is this 
   - https://www.reddit.com/r/ironscape/comments/1wmyat2/people_never_cease_to_amaze_me_what_even_is_this/pbc87pg/
 - **RuneScape: Dragonwilds riceve il primo aggiornamento su Switch 2. La patch risolve diversi problemi, incluso un bug che poteva corrompere i salvataggi del mondo. Jagex lavora già a**
-  - x · 20h ago · @ROCKSTARINhtml · score 13
+  - x · 21h ago · @ROCKSTARINhtml · score 13
   - matched: bug, gate:named
   - 1c · top:runescape bug since:2026-09-12
   - https://x.com/ROCKSTARINhtml/status/2102305989672206363
 - **Is it better to spam tele if you start lagging/DCing or just hands off to not interrupt the crystal? I mean, I'd assume the tele spam is the play but not sure if there's some weird**
-  - comment · 20h ago · The_One_Returns · score 13
+  - comment · 21h ago · The_One_Returns · score 13
   - matched: bug
   - re: The GMs, a group consisting of the first 5 HCIM to
   - https://www.reddit.com/r/2007scape/comments/1wkr128/the_gms_a_group_consisting_of_the_first_5_hcim_to/pbbpj4w/
@@ -196,7 +196,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - latest of 19, JagexLenny: Please feel free to send anything over to me to have a look into!
   - https://www.reddit.com/comments/1wnk94d
 - **🟣 50 J-Mod replies — Undiscovered Yama mechanic**
-  - comment · 11h ago · JagexGoblin · score 30
+  - comment · 12h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 50, JagexGoblin: It is not that
   - https://www.reddit.com/comments/1wnbkqo
@@ -214,17 +214,17 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
 ## "You can do this" finds  (10 · 9 above the single-term floor, 1 at it)
 
 - **You want basically max defence and max range. Guardian boots, crystal shield, ring of suffering. Black chins, swap to bowfa when melee dies. Step under. Thralls and death charge wi**
-  - comment · 4h ago · RonPaulalamode · score 51
+  - comment · 5h ago · RonPaulalamode · score 51
   - matched: ⚡ food per inventory slot, you can still, ring of suffering, thralls, bones to peaches
   - re: How, in the same of all that is holy, is Kree'ara 
   - https://www.reddit.com/r/2007scape/comments/1wnpwst/how_in_the_same_of_all_that_is_holy_is_kreeara/pbgxd4c/
 - **I am an iron at 326kc (2 hilts, no armour pieces). I have been doing bowfa step under. Just bring one brew with one restore to overheal and boost defense, 1 regular range pot, and **
-  - comment · 1h ago · Grinder969 · score 26
+  - comment · 2h ago · Grinder969 · score 26
   - matched: ⚡ food per inventory slot, bones to peaches, overheal
   - re: How, in the same of all that is holy, is Kree'ara 
   - https://www.reddit.com/r/2007scape/comments/1wnpwst/how_in_the_same_of_all_that_is_holy_is_kreeara/pbhsepl/
 - **Make pineapple pizzas. You can buy all the materials in the warriors guild food shop. They're cheap and heal 22 per slot I think. Good solid easy food. **
-  - comment · 3h ago · Square-Barnacle322 · score 26
+  - comment · 4h ago · Square-Barnacle322 · score 26
   - matched: ⚡ food per inventory slot
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbh2vim/
@@ -234,12 +234,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: How, in the same of all that is holy, is Kree'ara 
   - https://www.reddit.com/r/2007scape/comments/1wnpwst/how_in_the_same_of_all_that_is_holy_is_kreeara/pbh0wr7/
 - **Bones to peaches**
-  - comment · 5h ago · Sad_Attempt5420 · score 26
+  - comment · 6h ago · Sad_Attempt5420 · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbgk4qy/
 - **spending time and resources fighting back is inefficient all by itself, this change wouldn't make people start PVPing when they're just doing a PVM grind. Waste of time. Not to men**
-  - comment · 5h ago · Mission-Unit6620 · score 26
+  - comment · 6h ago · Mission-Unit6620 · score 26
   - matched: ⚡ food per inventory slot
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbgjf2n/
@@ -259,7 +259,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbdo1bv/
 - **You can fill the keg in your house kitchen with the non-mature chef delight and it becomes and infinite supply. Just gotta drink it in your house so likely cook in there as well.**
-  - comment · 11h ago · Nickoladze · score 12
+  - comment · 12h ago · Nickoladze · score 12
   - matched: infinite supply
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbe8obi/
@@ -267,7 +267,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
 ## Mechanics & wiki corrections  (18 · 17 above the single-term floor, 1 at it)
 
 - **I got mine at 1,007 all Chaos Elemental. Put me at like 980 on the high scores at the time. Miserable grind since I dragged it to the safe spot for the first 400 kills. Made it jus**
-  - comment · 14h ago · Affectionate-Can2865 · score 36
+  - comment · 15h ago · Affectionate-Can2865 · score 36
   - matched: put me, safe spot, chaos elemental
   - re: Anyone here get pet from Chaos Fanatic? What KC?
   - https://www.reddit.com/r/2007scape/comments/1wn3ojg/anyone_here_get_pet_from_chaos_fanatic_what_kc/pbd7p94/
@@ -287,45 +287,45 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: So, that‘s that
   - https://www.reddit.com/r/2007scape/comments/1wmkdgb/so_thats_that/pbcdfic/
 - **Conf gauntlets, ancient blood scepter (or kodai), echo boots, ring of suffering, and your max magic defense - or virtus. Stand directly south of where kree spawns, so you don't get**
-  - comment · 3h ago · The_Wkwied · score 22
+  - comment · 4h ago · The_Wkwied · score 22
   - matched: echo boots, ring of suffering
   - re: How, in the same of all that is holy, is Kree'ara 
   - https://www.reddit.com/r/2007scape/comments/1wnpwst/how_in_the_same_of_all_that_is_holy_is_kreeara/pbh7ght/
 - **Here is some interesting trivia about the images from the RuneScape Classic Wiki: https://preview.redd.it/3uqtqss2w6rh1.jpeg?width=1080&format=pjpg&auto=webp&s=c13c86bff92e3f5dc2b3**
-  - comment · 55m ago · RuneScapeSuomi · score 17
+  - comment · 1h ago · RuneScapeSuomi · score 17
   - matched: classic, runescape classic
   - re: 25 years ago today, the Dragon Slayer quest was re
   - https://www.reddit.com/r/2007scape/comments/1wnuipv/25_years_ago_today_the_dragon_slayer_quest_was/pbhyqx5/
-- **AFK karambwans whenever you're not actively playing. Fairy ring to zanaris, bank and repeat. That way you don't have to re-enter the fairy code. Fishing barrel is huge for karambwa**
-  - comment · 1h ago · Cold_Bag6942 · score 17
-  - matched: gravestone, butterflies
-  - re: When does the food situation get good?
-  - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbhotju/
 - **It's not some half assed answer. I have done thousands of clues and for that step the run from BKR is the best I know. Mort Myre has some nonsense pathing so the option with the le**
-  - comment · 8h ago · -Aura_Knight- · score 20
+  - comment · 9h ago · -Aura_Knight- · score 20
   - matched: pathing
   - re: Whats the fastest way for this clue step?
   - https://www.reddit.com/r/2007scape/comments/1wngs71/whats_the_fastest_way_for_this_clue_step/pbfgnfc/
 - **I find that the average player is very rarely using the best available strategies. I pet hunt calv with a max hit of 84 with chain mace as my plus 1 and that's not even the most ef**
-  - comment · 10h ago · iHemlockwastaken · score 20
+  - comment · 11h ago · iHemlockwastaken · score 20
   - matched: max hit, max hit of
   - re: PvMers Don’t Fight Back Because The Game Tells The
   - https://www.reddit.com/r/2007scape/comments/1wn4515/pvmers_dont_fight_back_because_the_game_tells/pbelmhl/
 - **Now let’s give it the new pet pathing mechanic and it’ll be officially the best pet in the game **
-  - comment · 12h ago · Lucy_Fjord · score 20
+  - comment · 13h ago · Lucy_Fjord · score 20
   - matched: pathing
   - re: Secret anti-PK tech: this one item will make PKers
   - https://www.reddit.com/r/2007scape/comments/1wmwgay/secret_antipk_tech_this_one_item_will_make_pkers/pbdstqh/
 - **That'd be funny but there's absolutely no chance that it wouldn't almost immediately have someone AFKing with a bot in a safespot to just grief.**
-  - comment · 14h ago · CashOutDev · score 20
+  - comment · 15h ago · CashOutDev · score 20
   - matched: safespot
   - re: Fortis Colosseum worlds but only one person can go
   - https://www.reddit.com/r/2007scape/comments/1wmr4mi/fortis_colosseum_worlds_but_only_one_person_can/pbd8kn8/
 - **1250 for me. Opted to do fanatic because ele is aids on a pure even setting up the safe spot is a nightmare**
-  - comment · 19h ago · Immediate-Release109 · score 20
+  - comment · 20h ago · Immediate-Release109 · score 20
   - matched: safe spot
   - re: Anyone here get pet from Chaos Fanatic? What KC?
   - https://www.reddit.com/r/2007scape/comments/1wn3ojg/anyone_here_get_pet_from_chaos_fanatic_what_kc/pbbvb3o/
+- **AFK karambwans whenever you're not actively playing. Fairy ring to zanaris, bank and repeat. That way you don't have to re-enter the fairy code. Fishing barrel is huge for karambwa**
+  - comment · 2h ago · Cold_Bag6942 · score 17
+  - matched: gravestone, butterflies
+  - re: When does the food situation get good?
+  - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbhotju/
 - **idk if it would be for runefest but it would be interesting if y'all put together stats on madeasonshow/monomadness on the things that he's been the first to do in the game (idk sp**
   - comment · 3h ago · KSty1er · score 17
   - matched: max cape, shilo village
@@ -337,12 +337,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: When does the food situation get good?
   - https://www.reddit.com/r/ironscape/comments/1wnbx3f/when_does_the_food_situation_get_good/pbe681e/
 - **Brother I really appreciate you explaining it to me. I've grossly misunderstood how the gravestone mechanic works for ages then lol. Not sure what my old clan mate was talking abou**
-  - comment · 17h ago · Acceptable_Fan_3209 · score 17
+  - comment · 18h ago · Acceptable_Fan_3209 · score 17
   - matched: death's office, gravestone
   - re: Enough is Enough - Jagex, Stop Deleting Loot on Se
   - https://www.reddit.com/r/ironscape/comments/1wmkxgx/enough_is_enough_jagex_stop_deleting_loot_on/pbcbv66/
 - **Im personally still unhappy that someone decided to call rs1 RuneScape Classic. **
-  - comment · 20h ago · iamahill · score 17
+  - comment · 21h ago · iamahill · score 17
   - matched: classic, runescape classic
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbper4/
@@ -352,11 +352,11 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 13s ag
   - re: Did people like the name "Old School RuneScape" wh
   - https://www.reddit.com/r/2007scape/comments/1wn29t0/did_people_like_the_name_old_school_runescape/pbbkqgh/
 - **Undiscovered Yama mechanic**
-  - r/2007scape · 13h ago · Sawfted · score 13
+  - r/2007scape · 14h ago · Sawfted · score 13
   - matched: J-Mod reply · no bug content
   - 44c · 134↑
   - https://www.reddit.com/r/2007scape/comments/1wnbkqo/undiscovered_yama_mechanic/
 
 ---
 
-Not included: 742 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 963 findings older than 24h. Widen with `__osrs.report(48)` in the console.
