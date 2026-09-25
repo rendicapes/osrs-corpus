@@ -1,12 +1,12 @@
 # OSRS Signal — last 24h
 
-2026-09-25 21:12 UTC · 73 findings after merging duplicates (from 147 raw hits; 70 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 20:16Z) · 56m ago · search: ok · 0s ago · vanished: ok (nothing pending) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (17 videos) · 36m ago
+2026-09-25 22:08 UTC · 71 findings after merging duplicates (from 141 raw hits; 68 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 21:12Z) · 55m ago · search: ok · 59s ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (16 videos) · 2m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — removed (deleted) — Poison Dynamite not Working at Chaos Fanatic**
-  - r/2007scape, vanished · 5h ago · Insertions_Coma · seen 2x · score 40
+  - r/2007scape, vanished · 6h ago · Insertions_Coma · seen 2x · score 40
   - matched: vanished, poison dynamite
   - was r/2007scape, posted 6m before it went
   - https://www.reddit.com/r/2007scape/comments/1wpzaww/poison_dynamite_not_working_at_chaos_fanatic/
@@ -16,12 +16,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## Bugs & exploits  (23 · 3 above the single-term floor, 20 at it)
 
 - **Awful addition to the game. Jagex needs to poll a rollback. I don't care what bosses they have to rework. Thralls are terrible and need to go**
-  - comment · 35m ago · Maui--Covenant · score 30
+  - comment · 1h ago · Maui--Covenant · score 30
   - matched: rollback, thralls
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pc1muvh/
 - **Died in the wilderness with a hard clue, now I cant open hard scroll boxes because the game says I already have one?**
-  - r/2007scape · 13h ago · Mees51 · score 34
+  - r/2007scape · 14h ago · Mees51 · score 34
   - matched: bug, is this a bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wpq1v2/died_in_the_wilderness_with_a_hard_clue_now_i/
@@ -36,97 +36,97 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Theatre of Blood Strategy Iceberg (Explanation in 
   - https://www.reddit.com/r/2007scape/comments/108ebeh/theatre_of_blood_strategy_iceberg_explanation_in/pc135pq/
 - **Where to do with this?**
-  - r/2007scape · 2h ago · LunaMosss · score 13
+  - r/2007scape · 3h ago · LunaMosss · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wq49iq/where_to_do_with_this/
 - **the best part is, often times the high level players find issues or tactics the devs didnt even consider in development and often create a meta for content that was entirely uninte**
-  - comment · 3h ago · Unlikely_Bank73 · score 13
+  - comment · 4h ago · Unlikely_Bank73 · score 13
   - matched: unintended
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pc0n9gw/
 - **Pretty sure it’s a bug when I click accept it just loads forever, I normally force close the app reopen and it works fine **
-  - comment · 3h ago · BigChongus- · score 13
+  - comment · 4h ago · BigChongus- · score 13
   - matched: bug
   - re: Anyone know what this means??
   - https://www.reddit.com/r/2007scape/comments/1wq1y1j/anyone_know_what_this_means/pc0g870/
 - **Oh it's similar to a weapon animation poh glitch. I really wanna find out how to get a moonclan animation glitch**
-  - comment · 4h ago · FlyNuff · score 13
+  - comment · 5h ago · FlyNuff · score 13
   - matched: glitch
   - re: Anyone know how this dude is floating?
   - https://www.reddit.com/r/2007scape/comments/1wpz3fr/anyone_know_how_this_dude_is_floating/pc039zk/
 - **Oh wow I got downvoted for saying something different and easier for people? I’m confused. I was giving people the TLDR on how to do this for yourself, without a bug. Was what i sa**
-  - comment · 4h ago · Felsommar · score 13
+  - comment · 5h ago · Felsommar · score 13
   - matched: bug
   - re: How is he holding is scythe like that?
   - https://www.reddit.com/r/2007scape/comments/1vs76g8/how_is_he_holding_is_scythe_like_that/pc019nq/
 - **doesn't work on my ipad either - i believe it does work on my phone though - i have submitted a bug report in game**
-  - comment · 4h ago · eatfoodoften · score 13
+  - comment · 5h ago · eatfoodoften · score 13
   - matched: bug
   - re: Mobile menu reorder broken?
   - https://www.reddit.com/r/2007scape/comments/1wpzyos/mobile_menu_reorder_broken/pbzzfy9/
 - **Why does the QA team exist? There's no thinking involved. Do you want more updates? You get weekly bugs, otherwise you're not playing optimally. Why does it exist in its current fo**
-  - comment · 6h ago · Giegle1 · score 13
+  - comment · 7h ago · Giegle1 · score 13
   - matched: bugs
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pbzi7ck/
 - **Yes, I’m facing this as well on Official Client. I’m having to right click stuff I should be able to left click. Try getting a recording of the bug if you can, then submit it via t**
-  - comment · 6h ago · SuperCarpenter4450 · score 13
+  - comment · 7h ago · SuperCarpenter4450 · score 13
   - matched: bug
   - re: Heaps of UI bugs around sailing
   - https://www.reddit.com/r/2007scape/comments/1wpx9c7/heaps_of_ui_bugs_around_sailing/pbz7un4/
 - **The right click bug is even more annoying as any interaction involving right clicking randomly won't work until I relaunch.**
-  - comment · 7h ago · IdlePlayer · score 13
+  - comment · 8h ago · IdlePlayer · score 13
   - matched: bug
   - re: Heaps of UI bugs around sailing
   - https://www.reddit.com/r/2007scape/comments/1wpx9c7/heaps_of_ui_bugs_around_sailing/pbz47a7/
 - **Heaps of UI bugs around sailing**
-  - r/2007scape · 7h ago · IdlePlayer · score 13
+  - r/2007scape · 8h ago · IdlePlayer · score 13
   - matched: bugs
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wpx9c7/heaps_of_ui_bugs_around_sailing/
 - **crystal weapon seed has to be bugged. https://imgur.com/a/2K6DFvd**
-  - comment · 7h ago · unlucky000001 · score 13
+  - comment · 8h ago · unlucky000001 · score 13
   - matched: bugged
   - re: That's a lot of Weapon Seeds...
   - https://www.reddit.com/r/ironscape/comments/1wptg9r/thats_a_lot_of_weapon_seeds/pbywx7f/
 - **Are you on mobile? Pretty sure this is a new bug that came with mes 2.0. Never experienced this prior.**
-  - comment · 8h ago · LieveMcCracken · score 13
+  - comment · 9h ago · LieveMcCracken · score 13
   - matched: bug
   - re: Why does the TOA rewards chest always bring up opt
   - https://www.reddit.com/r/2007scape/comments/1wpqw0c/why_does_the_toa_rewards_chest_always_bring_up/pbyln7f/
 - **My XP Counter is glitched**
-  - r/2007scape · 8h ago · ExtremeWindyMan · score 13
+  - r/2007scape · 9h ago · ExtremeWindyMan · score 13
   - matched: glitched
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wpuspo/my_xp_counter_is_glitched/
 - **I only noticed difficulties since the recent update, so probably bugs with that.**
-  - comment · 10h ago · Arastaiel · score 13
+  - comment · 11h ago · Arastaiel · score 13
   - matched: bugs
   - re: Mobile not connecting to server?
   - https://www.reddit.com/r/2007scape/comments/1wpmp0b/mobile_not_connecting_to_server/pby3g0d/
 - **It takes months/years to fix bugs on OSRS mobile. Don't hold your breath!**
-  - comment · 11h ago · rastaman1994 · score 13
+  - comment · 12h ago · rastaman1994 · score 13
   - matched: bugs
   - re: Ui customization upgrade to mobile version and pc 
   - https://www.reddit.com/r/2007scape/comments/1wprlwz/ui_customization_upgrade_to_mobile_version_and_pc/pbxt7ji/
 - **Not android, but general mobile bug Already listed under known issues.**
-  - comment · 11h ago · FaPaDa · score 13
+  - comment · 12h ago · FaPaDa · score 13
   - matched: bug
   - re: Weird android Xp counter. Goes to top left when yo
   - https://www.reddit.com/r/2007scape/comments/1wprkk1/weird_android_xp_counter_goes_to_top_left_when/pbxr7xr/
 - **Same bro. I always stood at this gate, thinking I could glitch myself on the other side somehow. Now it's time to get your Fire Cape, and join the elite. **
-  - comment · 19h ago · Nokipeura · score 13
+  - comment · 20h ago · Nokipeura · score 13
   - matched: glitch
   - re: As a kid, my parents wouldn't let me buy membershi
   - https://www.reddit.com/r/2007scape/comments/1wpf59i/as_a_kid_my_parents_wouldnt_let_me_buy_membership/pbw2a2i/
 - **I'll do a clue or two if I have them. If I can't complete the clue because of quest or skill reqs or something then getting to the point I can complete the clue step is my new goal**
-  - comment · 20h ago · trunks111 · score 13
+  - comment · 21h ago · trunks111 · score 13
   - matched: can't complete
   - re: What do you guys do when you're not sure what to d
   - https://www.reddit.com/r/2007scape/comments/1wpibk1/what_do_you_guys_do_when_youre_not_sure_what_to_do/pbvpf9d/
 - **On the one hand kudos! On the other hand, take the lesson to heart regardless of its seeming unneccesarry at the time. It is indeed dangerous to buy things online. No longer needin**
-  - comment · 20h ago · DietCokeIsntheAnswer · score 13
+  - comment · 21h ago · DietCokeIsntheAnswer · score 13
   - matched: exploit
   - re: As a kid, my parents wouldn't let me buy membershi
   - https://www.reddit.com/r/2007scape/comments/1wpf59i/as_a_kid_my_parents_wouldnt_let_me_buy_membership/pbvjrpj/
@@ -134,20 +134,20 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## Jagex & J-Mod  (1)
 
 - **🟣 15 J-Mod replies — Why do thralls exist?**
-  - comment · 6h ago · JagexArcane · score 30
+  - comment · 7h ago · JagexArcane · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 15, JagexArcane: I dislike how thralls are implemented personally, but It's a hard thin
   - https://www.reddit.com/comments/1wpu3vp
 
-## "You can do this" finds  (8)
+## "You can do this" finds  (6)
 
 - **LMS is far easier than 750 slayer points imo. You dont even need to be good at pvp, I am actual ass. Just bolt rag (crossbow). Switch prayers and only focus on that. Youll get on a**
-  - comment · 4h ago · Alone-Sentence-4045 · score 26
+  - comment · 5h ago · Alone-Sentence-4045 · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What to alch?
   - https://www.reddit.com/r/ironscape/comments/1wozof4/what_to_alch/pc0635x/
 - **Finally, a good answer. Without thralls, we’d only be using the standard spellbook to cast "Teleport to House" more cheaply. When was the last time casting High Alchemy or Bones to**
-  - comment · 4h ago · WishBrilliant5160 · score 26
+  - comment · 5h ago · WishBrilliant5160 · score 26
   - matched: ⚡ food per inventory slot, heal other, potion share, bones to peaches
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pc03p2n/
@@ -157,27 +157,17 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Got Serp Helm After Faceguard, what are the uses?
   - https://www.reddit.com/r/ironscape/comments/1wpji2j/got_serp_helm_after_faceguard_what_are_the_uses/pbz4v0w/
 - **You will need the bottomless milk bucket for this advanced method.**
-  - comment · 16h ago · freshlysqueezed93 · score 26
+  - comment · 17h ago · freshlysqueezed93 · score 26
   - matched: ⚡ food per inventory slot, bottomless
   - re: I have no idea what Im doing
   - https://www.reddit.com/r/2007scape/comments/1wph923/i_have_no_idea_what_im_doing/pbwuah3/
 - **I'll give it another go with the occult after I get bones to peaches tablets, hate mta, did my rune pouch and infinite boots**
-  - comment · 22h ago · autoswitched · score 26
+  - comment · 23h ago · autoswitched · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What skipping the bowfa really means
   - https://www.reddit.com/r/ironscape/comments/1wpc106/what_skipping_the_bowfa_really_means/pbv4o94/
-- **People can already spell book swap. They'd just be saving an inventory slot. Idk I havent seen you make a good argument for why one inventory slot will change CA speed times and ne**
-  - comment · 23h ago · Ohheyimryan · score 17
-  - matched: inventory slot, one inventory slot
-  - re: Missed opportunity with rune pouch config
-  - https://www.reddit.com/r/2007scape/comments/1wpdrh5/missed_opportunity_with_rune_pouch_config/pbunm9u/
-- **It saves one inventory slot. I don't see how it makes it not balanced. **
-  - comment · 23h ago · Ohheyimryan · score 17
-  - matched: inventory slot, one inventory slot
-  - re: Missed opportunity with rune pouch config
-  - https://www.reddit.com/r/2007scape/comments/1wpdrh5/missed_opportunity_with_rune_pouch_config/pbukxoe/
 - **Pro tip: if you want a real answer, don't ask on reddit. Find a discord community with high level players. Personally though, thralls were a mistake imo. They have to make standard**
-  - comment · 9h ago · TheNamesRoodi · score 16
+  - comment · 10h ago · TheNamesRoodi · score 16
   - matched: pro tip, thralls
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pbydxen/
@@ -185,206 +175,206 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## Mechanics & wiki corrections  (40)
 
 - **Unless you really need to safe spot for some reason and can't use mage/ranged its pretty useless. **
-  - comment · 5h ago · GodSPAMit · score 31
+  - comment · 6h ago · GodSPAMit · score 31
   - matched: for some reason, safe spot
   - re: just got my first Rune Halberd
   - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbzwgx4/
 - **✎ Sins of the Father/Quick guide — incorrect info @ damien fight, tested and confirmed**
-  - wiki · 2h ago · Et moo brute · score 27
+  - wiki · 3h ago · Et moo brute · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Sins_of_the_Father%2FQuick_guide
 - **✎ Blast mine/Strategies — youtube video no longer available**
-  - wiki · 13h ago · ~2026-CouponCalciteExplorer18005 · score 27
+  - wiki · 14h ago · ~2026-CouponCalciteExplorer18005 · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Blast_mine%2FStrategies
 - **Master Farmer Thieving**
-  - r/osrs · 3h ago · TheJamboilaya · score 26
+  - r/osrs · 4h ago · TheJamboilaya · score 26
   - matched: despawn timer, seed box
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wq2ya2/master_farmer_thieving/
 - **Pugle stick animation smuggle with red x. Get ontop of balance beam with a pugel in your poh, go building mode and rotate the room. After, sit on a bench, red x and eat food in the**
-  - comment · 5h ago · IridescentCrackPipe · score 26
+  - comment · 6h ago · IridescentCrackPipe · score 26
   - matched: smuggle, red x
   - re: Anyone know how this dude is floating?
   - https://www.reddit.com/r/2007scape/comments/1wpz3fr/anyone_know_how_this_dude_is_floating/pbzojdr/
 - **Thats super annoying. The way the wiki is worded mentions nothing of an accuracy check. "When lit with a [tinderbox](https://oldschool.runescape.wiki/w/Tinderbox), whether the dyna**
-  - comment · 5h ago · Insertions_Coma · score 26
+  - comment · 6h ago · Insertions_Coma · score 26
   - matched: poison dynamite, tinderbox
   - re: Poison Dynamite not Working at Chaos Fanatic
   - https://www.reddit.com/r/2007scape/comments/1wpzaww/poison_dynamite_not_working_at_chaos_fanatic/pbznj5n/
 - **If you have a duo partner I highly recommend full melee armor, blood fury, noxious halberd and soulflame horn. You spec, hit, spec, hit, spec, hit, spec ,hit. Then your partner doe**
-  - comment · 8h ago · MerigoldMachine · score 26
+  - comment · 9h ago · MerigoldMachine · score 26
   - matched: accept aid, thralls
   - re: How, in the same of all that is holy, is Kree'ara 
   - https://www.reddit.com/r/2007scape/comments/1wnpwst/how_in_the_same_of_all_that_is_holy_is_kreeara/pbynd29/
 - **Early game money comes from alching slayer drops, until you get to the point you can print money. Midgame to train pray and crafting while making gp I went to farthos dungeon. You **
-  - comment · 20h ago · Virtual-Ad9696 · score 26
+  - comment · 21h ago · Virtual-Ad9696 · score 26
   - matched: safe spot, 5x xp, drop table
   - re: Been playing an iron for about 20ish days and want
   - https://www.reddit.com/r/ironscape/comments/1wmjtpl/been_playing_an_iron_for_about_20ish_days_and/pbvks8r/
-- **I'm telling you as someone who has 12 inferno KC and hasn't died in there since the first one, ZERO prayer flicking is required in inferno. Running to south while praying mage and **
-  - comment · 1h ago · Teogamer · score 20
-  - matched: tick perfect, stacked
+- **Inferno solving strategy is pretty consistent. Pre-50, safespot melee and 1t alt to defend against blobs. Post-50, split the ranger and mager, try to safespot melee, otherwise nuke**
+  - comment · 37m ago · Bobanart · score 20
+  - matched: safespot
   - re: 3 months to get Inferno cape before baby comes 😬
-  - https://www.reddit.com/r/2007scape/comments/1wq2kq5/3_months_to_get_inferno_cape_before_baby_comes/pc168ys/
+  - https://www.reddit.com/r/2007scape/comments/1wq2kq5/3_months_to_get_inferno_cape_before_baby_comes/pc1yltf/
 - **Since Book of the Dead is required for thralls, you might as well lean into making it a 'thrall summon and control' device. You could a put right click toggle on Book of the Dead w**
-  - comment · 3h ago · bugmenot47 · score 25
+  - comment · 4h ago · bugmenot47 · score 25
   - matched: respawn timer, thralls, manual cast
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pc0ctj7/
-- **OK, so now on a sloop, you can have both canons on the same side. I let oarswoman Olga run one cannon, and I shoot the other. Olga and Jittery Jim are the two best at using canons.**
-  - comment · 23h ago · sharpshooter999 · score 25
-  - matched: safe spot, cargo
-  - re: What does sailing unlock for a main account?
-  - https://www.reddit.com/r/2007scape/comments/1wpbn8u/what_does_sailing_unlock_for_a_main_account/pbuikq9/
 - **I forgot: red x swap weapon and eat food in the same tick**
-  - comment · 5h ago · IridescentCrackPipe · score 24
+  - comment · 6h ago · IridescentCrackPipe · score 24
   - matched: red x, same tick
   - re: Anyone know how this dude is floating?
   - https://www.reddit.com/r/2007scape/comments/1wpz3fr/anyone_know_how_this_dude_is_floating/pbzpgnl/
 - **First of all thank you I appreciate that. And yes, I definitely started noticing all those things you mentioned (especially the part about making a mistake/misclick and knowing I'm**
-  - comment · 10h ago · Snow_Wight_RS · score 24
+  - comment · 11h ago · Snow_Wight_RS · score 24
   - matched: pid, same tick
   - re: I finished all bounty hunter cosmetics as a non-Pv
   - https://www.reddit.com/r/2007scape/comments/1wprd1z/i_finished_all_bounty_hunter_cosmetics_as_a/pby0z8a/
 - **Few things. As soon as earth pillars pop up your number one priority is to tag the furthest away pillar. After that you wait for around 2 doom attacks to pop a pillar near you. Sta**
-  - comment · 17h ago · Status_Peach6969 · score 24
+  - comment · 18h ago · Status_Peach6969 · score 24
   - matched: diagonal, control click
   - re: Started learning Doom as a newish player
   - https://www.reddit.com/r/2007scape/comments/1wp0qmu/started_learning_doom_as_a_newish_player/pbwg82i/
 - **thralls is a good reason to spellbookswap with the lunar spellbook instead of just camping lunars in some pvm encounters. it adds some more depth in fights; when to sbs without los**
-  - comment · 7h ago · Successful_Toe8604 · score 23
+  - comment · 8h ago · Successful_Toe8604 · score 23
   - matched: stall, thralls, animation stall
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pbz43pu/
 - **You kind of want two freezers (one in trios and under) for tob. The brick wall for it is early, it gives the team distinct roles, and mega gamers can sbs freeze and are rewarded wi**
-  - comment · 5h ago · SoraODxoKlink · score 22
+  - comment · 6h ago · SoraODxoKlink · score 22
   - matched: heal other, thralls
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pbzned1/
 - **Yeah, I've been trying to find the "little extra" missing piece that ModGoblin mentioned. Things I've tried: Burn damage Killing the void flares with a venom attack (Toxic Staff of**
-  - comment · 7h ago · ShakimTheClown · score 22
+  - comment · 8h ago · ShakimTheClown · score 22
   - matched: the void, burn damage
   - re: Since the topic right now before Runefest is undis
   - https://www.reddit.com/r/2007scape/comments/1wpmknb/since_the_topic_right_now_before_runefest_is/pbywje8/
+- **The Mines of Moria is actually exactly how I was going to describe it in response to another comment. Runescape Classic into Runescape 2 is just full of weird geometric shapes and **
+  - comment · 31m ago · ArmorOfMar · score 17
+  - matched: classic, runescape classic
+  - re: I miss how bizarre OG Runescape 2 was.
+  - https://www.reddit.com/r/2007scape/comments/1wpw56e/i_miss_how_bizarre_og_runescape_2_was/pc1zxyx/
 - **Have a setup ready to go and get your gear from the gravestone. The wiki page for GWD includes a list of items for each gear slot for each god, find 4 junk ones to wear and you wil**
-  - comment · 59m ago · Rubberchicken955 · score 17
+  - comment · 1h ago · Rubberchicken955 · score 17
   - matched: gravestone, stacked
   - re: Any advice for dealing with huge death fees while 
   - https://www.reddit.com/r/ironscape/comments/1wq629p/any_advice_for_dealing_with_huge_death_fees_while/pc1hki1/
-- **What you’re talking about is runescape classic stuff that got ported into RS2, and it was beautiful. The color pallet of runescape used to be very muted and medieval. The new, bloa**
-  - comment · 1h ago · uscrick · score 17
-  - matched: classic, runescape classic
-  - re: I miss how bizarre OG Runescape 2 was.
-  - https://www.reddit.com/r/2007scape/comments/1wpw56e/i_miss_how_bizarre_og_runescape_2_was/pc17bg6/
+- **I'm telling you as someone who has 12 inferno KC and hasn't died in there since the first one, ZERO prayer flicking is required in inferno. Running to south while praying mage and **
+  - comment · 2h ago · Teogamer · score 20
+  - matched: tick perfect, stacked
+  - re: 3 months to get Inferno cape before baby comes 😬
+  - https://www.reddit.com/r/2007scape/comments/1wq2kq5/3_months_to_get_inferno_cape_before_baby_comes/pc168ys/
 - **Great white shark safespot**
-  - r/ironscape · 3h ago · Unusual_Truck7999 · score 20
+  - r/ironscape · 4h ago · Unusual_Truck7999 · score 20
   - matched: safespot
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wq282o/great_white_shark_safespot/
+- **ye and i can safe spot many enemies, its really great**
+  - comment · 5h ago · Dragwoad1060 · score 20
+  - matched: safe spot
+  - re: just got my first Rune Halberd
+  - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pc00pae/
 - **I rush fremmy trials and safe spot trolls to get early mage xp with fire spells **
-  - comment · 7h ago · SwakpySandpiper · score 20
+  - comment · 8h ago · SwakpySandpiper · score 20
   - matched: safe spot
   - re: Been playing an iron for about 20ish days and want
   - https://www.reddit.com/r/ironscape/comments/1wmjtpl/been_playing_an_iron_for_about_20ish_days_and/pbywhxv/
 - **I take 15 prayer pots into titans and I can be there for 20+ kills. There is also no despawn timer on items while youre there, so you can loot even with a full inventory.**
-  - comment · 9h ago · LonzosJohnson · score 20
+  - comment · 10h ago · LonzosJohnson · score 20
   - matched: despawn timer
   - re: Bosses with long trips/little banking?
   - https://www.reddit.com/r/2007scape/comments/1wpslop/bosses_with_long_tripslittle_banking/pbybldx/
+- **Lets me safe spot some harder slayer quest, tho honestly i just found it cool**
+  - comment · 12h ago · Dragwoad1060 · score 20
+  - matched: safe spot
+  - re: just got my first Rune Halberd
+  - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbxv46h/
 - **just got 59 mage and finished family crest like 4 minutes before your comment. gonna farm blue dragons with water necklace. get some prayer with mage xp. need the 66 mage for mage **
-  - comment · 12h ago · gilt3t · score 20
+  - comment · 13h ago · gilt3t · score 20
   - matched: max hit, max hit of
   - re: Bought 22 chaos rune packs instead of 22 mind rune
   - https://www.reddit.com/r/2007scape/comments/1wpq5a0/bought_22_chaos_rune_packs_instead_of_22_mind/pbxmp8j/
 - **If it helps you can safe spot the mind golems in camdozaal and farm mind cores to get your rune crafting up a bit. I got a metric fuckton of runes and gold afking that after gettin**
-  - comment · 12h ago · Drokstab · score 20
+  - comment · 13h ago · Drokstab · score 20
   - matched: safe spot
   - re: Bought 22 chaos rune packs instead of 22 mind rune
   - https://www.reddit.com/r/2007scape/comments/1wpq5a0/bought_22_chaos_rune_packs_instead_of_22_mind/pbxk7yy/
 - **I used mine to safespot some early quest bosses **
-  - comment · 19h ago · BrianDoGood · score 20
+  - comment · 20h ago · BrianDoGood · score 20
   - matched: safespot
   - re: just got my first Rune Halberd
   - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbw001v/
 - **Only places I really use it is as a swap with bp for guaranteed venom or before i have antivenom+. Could also use it when meleeing when you want to avoid getting venomed or want to**
-  - comment · 19h ago · NoBankr · score 20
+  - comment · 20h ago · NoBankr · score 20
   - matched: max hit, apply venom
   - re: Got Serp Helm After Faceguard, what are the uses?
   - https://www.reddit.com/r/ironscape/comments/1wpji2j/got_serp_helm_after_faceguard_what_are_the_uses/pbvxwlf/
 - **halberds have a two tile reach, so anywhere that lets you safespot with them. fighting tzhaar while hiding across the volcano vents is a good choice**
-  - comment · 19h ago · Atrushan · score 20
+  - comment · 20h ago · Atrushan · score 20
   - matched: safespot
   - re: just got my first Rune Halberd
   - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbvt4qm/
 - **Yeah on paper. But in most of those monsters, you lose dps due to low attack range and/or two tick attack speed. Good luck on muspah teleport phase with the 5 tile attack range. Oh**
-  - comment · 20h ago · Flat_Gas_5704 · score 20
+  - comment · 21h ago · Flat_Gas_5704 · score 20
   - matched: safe spot
   - re: What skipping the bowfa really means
   - https://www.reddit.com/r/ironscape/comments/1wpc106/what_skipping_the_bowfa_really_means/pbvlisr/
-- **I used to safe spot the TzHaars using the vents with a rune halberd trying to get obby item drops back in the day. 20 years goes go by too fast.**
-  - comment · 23h ago · John2697 · +2 more in this thread on the same terms · score 20
-  - matched: safe spot
-  - re: just got my first Rune Halberd
-  - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbunllf/
+- **What you’re talking about is runescape classic stuff that got ported into RS2, and it was beautiful. The color pallet of runescape used to be very muted and medieval. The new, bloa**
+  - comment · 2h ago · uscrick · score 17
+  - matched: classic, runescape classic
+  - re: I miss how bizarre OG Runescape 2 was.
+  - https://www.reddit.com/r/2007scape/comments/1wpw56e/i_miss_how_bizarre_og_runescape_2_was/pc17bg6/
 - **OSRS has been out for longer than the original RuneScape existed. By that I mean the time from original RuneScape classic to the time when OSRS released was about 13 years (2000-20**
-  - comment · 3h ago · Thwast · score 17
+  - comment · 4h ago · Thwast · score 17
   - matched: classic, runescape classic
   - re: As a kid, my parents wouldn't let me buy membershi
   - https://www.reddit.com/r/2007scape/comments/1wpf59i/as_a_kid_my_parents_wouldnt_let_me_buy_membership/pc0hliu/
 - **Im currently learning doom myself. Comfortably finishing delve 5, working on getting 6 down better. Do you bring an emberlight/darklight for melee grubs or just use chally? I've be**
-  - comment · 3h ago · Pokedude0809 · score 17
+  - comment · 4h ago · Pokedude0809 · score 17
   - matched: emberlight, darklight
   - re: Pumped to get a unique, not pumped it took me this
   - https://www.reddit.com/r/ironscape/comments/1wpo2cd/pumped_to_get_a_unique_not_pumped_it_took_me_this/pc0h494/
 - **before: do nothing, magic often entirely irrelevant now: do something, magic now present, but in a very boring way adding another resource to manage with inventory consequences is **
-  - comment · 5h ago · likesleague · score 17
+  - comment · 6h ago · likesleague · score 17
   - matched: spellbook swap, thralls
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pbzu1kc/
 - **I just never remember to use thrills. But I use them sometimes on my main when I remember them because I have tons of teleport tabs and the PoH spellbook swap altar so its no big d**
-  - comment · 5h ago · ItsSadTimes · score 17
+  - comment · 6h ago · ItsSadTimes · score 17
   - matched: spellbook swap, thralls
   - re: Are you regularly using Thralls in combat?
   - https://www.reddit.com/r/2007scape/comments/1wpzsez/are_you_regularly_using_thralls_in_combat/pbztvut/
 - **"In practical use, there are very few encounters with healing mechanics where the smoke ancient sceptre could be effective, aside from potentially PvP combat. Most bosses with heal**
-  - comment · 10h ago · Adventurous_Pomelo10 · score 17
+  - comment · 11h ago · Adventurous_Pomelo10 · score 17
   - matched: immune to poison, magic defence
   - re: Since the topic right now before Runefest is undis
   - https://www.reddit.com/r/2007scape/comments/1wpmknb/since_the_topic_right_now_before_runefest_is/pby4mz0/
 - **So the Wiki is wrong then? Per the Wiki: `Upon death, a drop will be rolled until the roll results in a success, as described below:`[`[1]`](https://oldschool.runescape.wiki/w/Torm**
-  - comment · 20h ago · IronmanReaper · score 17
+  - comment · 21h ago · IronmanReaper · score 17
   - matched: wiki is wrong, drop table
   - re: The Gambling is the hardest part
   - https://www.reddit.com/r/ironscape/comments/1wpg4qe/the_gambling_is_the_hardest_part/pbvkl3m/
 - **Due to z-buffering and overflow values anything you drop turns into 3rd age**
-  - comment · 22h ago · Selfish-Altruist · score 17
+  - comment · 23h ago · Selfish-Altruist · score 17
   - matched: overflow, 3rd age
   - re: there's a sinkhole in the southeast corner of my P
   - https://www.reddit.com/r/2007scape/comments/1wpfl1v/theres_a_sinkhole_in_the_southeast_corner_of_my/pbuzync/
-- **Sure you can get an expensive 99 to speed up what 1 of like 10 brimhaven tasks since the rest are either closer to spirit tree or have alternate routes, all the south hosidus steps**
-  - comment · 23h ago · Bookwrrm · score 17
-  - matched: teleport to boat, max cape
-  - re: Boosted from 82 herb and 82 construction to make t
-  - https://www.reddit.com/r/ironscape/comments/1wp3grr/boosted_from_82_herb_and_82_construction_to_make/pbutfy1/
-- **though the amount of raw hours it takes to reach various milestones can be very high, runescape is a game built on permanence. so in that sense, you theoretically have unlimited ti**
-  - comment · 23h ago · so_long_astoria · score 15
-  - matched: you can still, weekly reset
-  - re: Can OSRS actually be casual-friendly?
-  - https://www.reddit.com/r/2007scape/comments/1wozbu0/can_osrs_actually_be_casualfriendly/pbukoua/
 - **Why do thralls exist?**
-  - r/2007scape · 9h ago · ThisTimeForRealYo · score 14
+  - r/2007scape · 10h ago · ThisTimeForRealYo · score 14
   - matched: J-Mod reply · no bug content, thralls
   - 178c · 126↑
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/
 - **Why isn’t there an ore sack for mining?**
-  - r/2007scape · 22h ago · Beautiful_Dream_1129 · score 12
+  - r/2007scape · 23h ago · Beautiful_Dream_1129 · score 12
   - matched: herb sack, fish barrel
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wpfdqp/why_isnt_there_an_ore_sack_for_mining/
 
 ---
 
-Not included: 1253 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1259 findings older than 24h. Widen with `__osrs.report(48)` in the console.
