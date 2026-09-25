@@ -1,47 +1,47 @@
 # OSRS Signal — last 24h
 
-2026-09-25 03:31 UTC · 72 findings after merging duplicates (from 140 raw hits; 62 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 02:35Z) · 56m ago · search: ok · 4m ago · vanished: ok (checked 1) · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (19 videos) · 25m ago
+2026-09-25 04:26 UTC · 69 findings after merging duplicates (from 138 raw hits; 63 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 4s ago · firehose: ok · 7s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 2s ago · news: ok (30 posts) · 5s ago · posts: ok · 10s ago · repo: ok (pushed 03:31Z) · 55m ago · search: ok · 4m ago · vanished: ok (nothing pending) · 2s ago · wiki: ok (250 edits) · 6s ago · youtube: ok (19 videos) · 35m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — removed (deleted) — Making armour sets bugged?**
-  - r/2007scape, vanished · 9h ago · Top-Programmer2148 · seen 2x · score 45
+  - r/2007scape, vanished · 10h ago · Top-Programmer2148 · seen 2x · score 45
   - matched: vanished, bugged
   - was r/2007scape, posted 2m before it went
   - https://www.reddit.com/r/2007scape/comments/1wp9fiy/making_armour_sets_bugged/
   - captured before it went:
     > Trying to make an armour set at the GE and it keeps scrolling back up to the top of the list? Is this happening to anyone else?
 
-## Bugs & exploits  (16 · 4 above the single-term floor, 12 at it)
+## Bugs & exploits  (15 · 4 above the single-term floor, 11 at it)
 
 - **Flicking at doom and clicking preserve by mistake then trying to correct but being 1 tick out taking all 3 attacks. At that point the only thing that can save my life is rng. Also **
-  - comment · 19h ago · EvoSoldior · score 33
+  - comment · 20h ago · EvoSoldior · score 33
   - matched: bug, pathing
   - re: Small things that are irritating in OSRS
   - https://www.reddit.com/r/2007scape/comments/1wouyid/small_things_that_are_irritating_in_osrs/pbq4tnh/
 - **Just tested logging into mobile. It got stuck at 15% while loading for about 30 seconds and then loaded no problem. Try clearing the games cache? Works fine for me**
-  - comment · 17h ago · Greeley9000 · score 32
+  - comment · 18h ago · Greeley9000 · score 32
   - matched: stated quantity mismatch, got stuck
   - re: Let Me Know When Mobile is Fixed
   - https://www.reddit.com/r/2007scape/comments/1wowey1/let_me_know_when_mobile_is_fixed/pbqkqar/
 - **I remember reading somewhere that this was initially a glitch but nobody asked any questions until Araxxor after a dozen jars were added. Since then new jars have been untradeable **
-  - comment · 12h ago · 5-x · score 18
+  - comment · 13h ago · 5-x · score 18
   - matched: glitch, untradeable
   - re: Make Boss Jars untradeable the way Guthix intended
   - https://www.reddit.com/r/2007scape/comments/1wp3iua/make_boss_jars_untradeable_the_way_guthix_intended/pbs5vxp/
 - **Same bro. I always stood at this gate, thinking I could glitch myself on the other side somehow. Now it's time to get your Fire Cape, and join the elite. **
-  - comment · 1h ago · Nokipeura · score 13
+  - comment · 2h ago · Nokipeura · score 13
   - matched: glitch
   - re: As a kid, my parents wouldn't let me buy membershi
   - https://www.reddit.com/r/2007scape/comments/1wpf59i/as_a_kid_my_parents_wouldnt_let_me_buy_membership/pbw2a2i/
 - **I'll do a clue or two if I have them. If I can't complete the clue because of quest or skill reqs or something then getting to the point I can complete the clue step is my new goal**
-  - comment · 2h ago · trunks111 · score 13
+  - comment · 3h ago · trunks111 · score 13
   - matched: can't complete
   - re: What do you guys do when you're not sure what to d
   - https://www.reddit.com/r/2007scape/comments/1wpibk1/what_do_you_guys_do_when_youre_not_sure_what_to_do/pbvpf9d/
 - **On the one hand kudos! On the other hand, take the lesson to heart regardless of its seeming unneccesarry at the time. It is indeed dangerous to buy things online. No longer needin**
-  - comment · 3h ago · DietCokeIsntheAnswer · score 13
+  - comment · 4h ago · DietCokeIsntheAnswer · score 13
   - matched: exploit
   - re: As a kid, my parents wouldn't let me buy membershi
   - https://www.reddit.com/r/2007scape/comments/1wpf59i/as_a_kid_my_parents_wouldnt_let_me_buy_membership/pbvjrpj/
@@ -51,17 +51,17 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Expensive Fish
   - https://www.reddit.com/r/2007scape/comments/1wpcl2l/expensive_fish/pbu8t6x/
 - **In any other skill, if I suddenly have to drop the game and go do someone irl there's no problem. In Dungeoneering, you could potentially lose out on a ton of XP if you were in the**
-  - comment · 7h ago · BlueHubbard · score 13
+  - comment · 8h ago · BlueHubbard · score 13
   - matched: can't complete
   - re: i miss it
   - https://www.reddit.com/r/2007scape/comments/1wpas93/i_miss_it/pbu46gy/
 - **Boss Health Indicator Bug / Conflicting Settings?**
-  - r/ironscape · 7h ago · Zakatakk · score 13
+  - r/ironscape · 8h ago · Zakatakk · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wpbyy3/boss_health_indicator_bug_conflicting_settings/
 - **Literally big if true, sounds like a bug or it would be patched out. Ima try it**
-  - comment · 9h ago · kiwidog8 · score 13
+  - comment · 10h ago · kiwidog8 · score 13
   - matched: bug
   - re: Small things that are irritating in OSRS
   - https://www.reddit.com/r/2007scape/comments/1wouyid/small_things_that_are_irritating_in_osrs/pbte5oi/
@@ -71,12 +71,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Woodcutting broken in CG
   - https://www.reddit.com/r/2007scape/comments/1wp7r2s/woodcutting_broken_in_cg/pbt1u7s/
 - **It shouldn't be able to happen the same fucking tick I click the brazier either.**
-  - comment · 11h ago · ldrthrowaway1337 · score 13
+  - comment · 12h ago · ldrthrowaway1337 · score 13
   - matched: shouldn't be able
   - re: Small things that are irritating in OSRS
   - https://www.reddit.com/r/2007scape/comments/1wouyid/small_things_that_are_irritating_in_osrs/pbscps2/
 - **I don't want to speak about the exact numbers, but it wasn't something crazy. But for me, a mid game player it was game breaking losing all that.**
-  - comment · 13h ago · KitchenAd8429 · score 13
+  - comment · 14h ago · KitchenAd8429 · score 13
   - matched: game breaking
   - re: How a sophisticated scam took away my only escape 
   - https://www.reddit.com/r/2007scape/comments/1wp0z3n/how_a_sophisticated_scam_took_away_my_only_escape/pbrjui2/
@@ -86,15 +86,10 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - 11♥ · top:runescape bug since:2026-09-15
   - https://x.com/TrueAchievement/status/2103084841193648639
 - **Nope, very weird game mechanics that shouldn't work that way**
-  - comment · 16h ago · allard0wnz · score 13
+  - comment · 17h ago · allard0wnz · score 13
   - matched: shouldn't work
   - re: Advice for artio? Only getting 2 kills a trip
   - https://www.reddit.com/r/ironscape/comments/1woxk8z/advice_for_artio_only_getting_2_kills_a_trip/pbqs5ez/
-- **Yup, I’ve experienced this ever since the menu swapper update came out and reported it to Jagex as a bug (along with many other mobile bugs since the update). Unfortunately, they d**
-  - comment · 23h ago · TheOriginalMeanhorn · score 13
-  - matched: bug
-  - re: Minimap deadzone iOS mobile
-  - https://www.reddit.com/r/2007scape/comments/1woqgz6/minimap_deadzone_ios_mobile/pbp7w8d/
 
 ## Jagex & J-Mod  (2 · 1 above the single-term floor, 1 at it)
 
@@ -104,7 +99,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Rant on Overstock timers
   - https://www.reddit.com/r/ironscape/comments/1wp67vc/rant_on_overstock_timers/pbsoby3/
 - **Launcher broken?**
-  - r/2007scape · 17h ago · SlowRs · score 15
+  - r/2007scape · 18h ago · SlowRs · score 15
   - matched: known issue
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wox33h/launcher_broken/
@@ -112,75 +107,75 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## "You can do this" finds  (12 · 10 above the single-term floor, 2 at it)
 
 - **I'll give it another go with the occult after I get bones to peaches tablets, hate mta, did my rune pouch and infinite boots**
-  - comment · 4h ago · autoswitched · score 26
+  - comment · 5h ago · autoswitched · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What skipping the bowfa really means
   - https://www.reddit.com/r/ironscape/comments/1wpc106/what_skipping_the_bowfa_really_means/pbv4o94/
 - **YOOOOO is that the bottomless milk bucket?!?!?**
-  - comment · 7h ago · mrgregseeks · score 26
+  - comment · 8h ago · mrgregseeks · score 26
   - matched: ⚡ food per inventory slot, bottomless
   - re: Had the craziest luck this week
   - https://www.reddit.com/r/ironscape/comments/1wp8nt4/had_the_craziest_luck_this_week/pbtwyth/
 - **> Doom, Cerb, zulrah, gwd I use brews for doom because deep delves have a better drop rate so I want to go as deep as possible instead of doing early resets. Cerb/Zulrah are irrele**
-  - comment · 8h ago · Tenement48 · score 26
+  - comment · 9h ago · Tenement48 · score 26
   - matched: ⚡ food per inventory slot, bones to peaches, drop-rate complaint
   - re: You’re Cooking Trawling Fish Wrong
   - https://www.reddit.com/r/ironscape/comments/1woiixp/youre_cooking_trawling_fish_wrong/pbthc46/
 - **It feels right when you solo it. Between juggling items, , killing minions, casting bones to peaches you have plenty to do while the boss is respawning**
-  - comment · 9h ago · AmiableDingo · score 26
+  - comment · 10h ago · AmiableDingo · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Can We Revisit God Wars Respawn Timers??
   - https://www.reddit.com/r/2007scape/comments/1wp8226/can_we_revisit_god_wars_respawn_timers/pbt9yko/
 - **Find out if the bottomless milk bucket is REALLY bottomless.....manually**
-  - comment · 10h ago · seki108 · score 26
+  - comment · 11h ago · seki108 · score 26
   - matched: ⚡ food per inventory slot, bottomless
   - re: How could Jagex do this to me?
   - https://www.reddit.com/r/2007scape/comments/1wkz70t/how_could_jagex_do_this_to_me/pbsx67i/
 - **If the goal is just experience then MTA is great for early game. If you're not great at LMS you'll probably do it for the rune pouch anyway + there are things like Bones to Peaches**
-  - comment · 14h ago · Linkasfd · score 26
+  - comment · 15h ago · Linkasfd · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What to alch?
   - https://www.reddit.com/r/ironscape/comments/1wozof4/what_to_alch/pbr8c66/
 - **I mean I ball-parked that number but I think you underestimate how long it takes to get to amy, that plus the extra teleport load adds up. Also about 1/4th of the time it's the sam**
-  - comment · 13h ago · SanguineToad · score 23
+  - comment · 14h ago · SanguineToad · score 23
   - matched: you can skip, log basket
   - re: 99 Construction on the UIM!
   - https://www.reddit.com/r/ironscape/comments/1wongve/99_construction_on_the_uim/pbrqhf9/
 - **People can already spell book swap. They'd just be saving an inventory slot. Idk I havent seen you make a good argument for why one inventory slot will change CA speed times and ne**
-  - comment · 5h ago · Ohheyimryan · score 17
+  - comment · 6h ago · Ohheyimryan · score 17
   - matched: inventory slot, one inventory slot
   - re: Missed opportunity with rune pouch config
   - https://www.reddit.com/r/2007scape/comments/1wpdrh5/missed_opportunity_with_rune_pouch_config/pbunm9u/
 - **It saves one inventory slot. I don't see how it makes it not balanced. **
-  - comment · 6h ago · Ohheyimryan · score 17
+  - comment · 7h ago · Ohheyimryan · score 17
   - matched: inventory slot, one inventory slot
   - re: Missed opportunity with rune pouch config
   - https://www.reddit.com/r/2007scape/comments/1wpdrh5/missed_opportunity_with_rune_pouch_config/pbukxoe/
 - **It also doesn't really make sense. You can do basically any content in rs3 unprepared or prepared depending on how you approach it/ gear you have. Pretty similar to osrs. Maybe the**
-  - comment · 19h ago · t3herndon · score 16
+  - comment · 20h ago · t3herndon · score 16
   - matched: you can skip, in rs3
   - re: if anyone tells you the rs3 sub doesnt spread hate
   - https://www.reddit.com/r/2007scape/comments/1wovco2/if_anyone_tells_you_the_rs3_sub_doesnt_spread/pbq5k6u/
 - **Bowfa = an amethyst skip now? You're going to use rune arrows for doom and venator and twisted bow when you get it or you're going to have an infinite supply of d arrows?**
-  - comment · 6h ago · peter_pounce · score 12
+  - comment · 7h ago · peter_pounce · score 12
   - matched: infinite supply
   - re: What skipping the bowfa really means
   - https://www.reddit.com/r/ironscape/comments/1wpc106/what_skipping_the_bowfa_really_means/pbudk62/
 - **I don't know where I got it but I have an endless supply of soft clay and I've never made them outside of diary. **
-  - comment · 10h ago · Happy_Background_879 · score 12
+  - comment · 11h ago · Happy_Background_879 · score 12
   - matched: endless supply
   - re: Boosted from 82 herb and 82 construction to make t
   - https://www.reddit.com/r/ironscape/comments/1wp3grr/boosted_from_82_herb_and_82_construction_to_make/pbt0dkx/
 
-## Mechanics & wiki corrections  (41 · 40 above the single-term floor, 1 at it)
+## Mechanics & wiki corrections  (39 · 38 above the single-term floor, 1 at it)
 
 - **Few things. As soon as earth pillars pop up your number one priority is to tag the furthest away pillar. After that you wait for around 2 doom attacks to pop a pillar near you. Sta**
-  - comment · 11m ago · Status_Peach6969 · score 24
+  - comment · 1h ago · Status_Peach6969 · score 24
   - matched: diagonal, control click
   - re: Started learning Doom as a newish player
   - https://www.reddit.com/r/2007scape/comments/1wp0qmu/started_learning_doom_as_a_newish_player/pbwg82i/
 - **✎ Quests/Series — Added quests that were semi-confirmed in a previous Gielinor Gazette post.**
-  - wiki · 16h ago · ~2026-PentamidStructureRedirector17391 · score 27
+  - wiki · 17h ago · ~2026-PentamidStructureRedirector17391 · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Quests%2FSeries
@@ -190,37 +185,32 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Been playing an iron for about 20ish days and want
   - https://www.reddit.com/r/ironscape/comments/1wmjtpl/been_playing_an_iron_for_about_20ish_days_and/pbvks8r/
 - **So if you’re behind the pillar and the shaman is walking up while the manticore is attacking you; stand as close to it as possible and step into the line of sight of the shaman on **
-  - comment · 6h ago · psyduck111 · score 26
+  - comment · 7h ago · psyduck111 · score 26
   - matched: line of sight, same tick
   - re: Colo
   - https://www.reddit.com/r/ironscape/comments/1wpd7yi/colo/pbufz8v/
 - **\* 1 sailing + 10 construction = red crabs early hunter training levels 21-39 \* 45 sailing + 51 slayer = gryphon boss \* 50 sailing + 20-87 thieving = port roberts stall thieving **
-  - comment · 7h ago · OhLoongJohson · score 26
+  - comment · 8h ago · OhLoongJohson · score 26
   - matched: stall, teleport focus, greater teleport focus
   - re: What does sailing unlock for a main account?
   - https://www.reddit.com/r/2007scape/comments/1wpbn8u/what_does_sailing_unlock_for_a_main_account/pbu36cn/
 - **Trawling takes a bit of time to get off the ground, especially with making the appropriate ship parts. Sailing is actually very very afk if you want to zero time it. Just 2 crew sa**
-  - comment · 11h ago · InterestingCell5247 · score 26
+  - comment · 12h ago · InterestingCell5247 · score 26
   - matched: snowy knight, butterflies
   - re: Red Crab Meat for Forestry Rations? Or something b
   - https://www.reddit.com/r/ironscape/comments/1wmnam9/red_crab_meat_for_forestry_rations_or_something/pbsgbtm/
 - **Maybe a last-ditch play to get Prayer back in a PK situation, to get Protect Item up after being Smited? The weird thing is, all the Silver Jewelry existed in RS3, before being add**
-  - comment · 21h ago · TheForsakenRoe · score 26
+  - comment · 22h ago · TheForsakenRoe · score 26
   - matched: in rs3, phoenix necklace
   - re: How many of y’all use the Amulet of Bounty
   - https://www.reddit.com/r/2007scape/comments/1wolbwr/how_many_of_yall_use_the_amulet_of_bounty/pbpt8sf/
-- **Only places I really use it is as a swap with bp for guaranteed venom or before i have antivenom+. Could also use it when meleeing when you want to avoid getting venomed or want to**
-  - comment · 1h ago · NoBankr · score 20
-  - matched: max hit, apply venom
-  - re: Got Serp Helm After Faceguard, what are the uses?
-  - https://www.reddit.com/r/ironscape/comments/1wpji2j/got_serp_helm_after_faceguard_what_are_the_uses/pbvxwlf/
 - **OK, so now on a sloop, you can have both canons on the same side. I let oarswoman Olga run one cannon, and I shoot the other. Olga and Jittery Jim are the two best at using canons.**
-  - comment · 6h ago · sharpshooter999 · score 25
+  - comment · 7h ago · sharpshooter999 · score 25
   - matched: safe spot, cargo
   - re: What does sailing unlock for a main account?
   - https://www.reddit.com/r/2007scape/comments/1wpbn8u/what_does_sailing_unlock_for_a_main_account/pbuikq9/
 - **I did it last night using Phoenix Necklace and it worked for me **
-  - comment · 7h ago · Illarya123 · score 24
+  - comment · 8h ago · Illarya123 · score 24
   - matched: phoenix necklace, worked for me
   - re: phoenix necklace at seren doesn't work anymore?
   - https://www.reddit.com/r/ironscape/comments/1wpbfxi/phoenix_necklace_at_seren_doesnt_work_anymore/pbu1a0s/
@@ -230,27 +220,32 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: 99 Construction on the UIM!
   - https://www.reddit.com/r/ironscape/comments/1wongve/99_construction_on_the_uim/pbt28wl/
 - **With max efficiency doing 1.5 tick teaks on fossil island, using ring of elements and plankmake spell to make plank inbetween contracts, log basket and plank sack, house tabs and n**
-  - comment · 10h ago · thelaurent · score 24
+  - comment · 11h ago · thelaurent · score 24
   - matched: ring of elements, plank sack, log basket
   - re: 99 Construction on the UIM!
   - https://www.reddit.com/r/ironscape/comments/1wongve/99_construction_on_the_uim/pbt1kmi/
 - **Would you play a Runescape Classic League?**
-  - r/2007scape · 11h ago · KonjoJoey · score 22
+  - r/2007scape · 12h ago · KonjoJoey · score 22
   - matched: on rs3, classic
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wp5gjl/would_you_play_a_runescape_classic_league/
+- **Only places I really use it is as a swap with bp for guaranteed venom or before i have antivenom+. Could also use it when meleeing when you want to avoid getting venomed or want to**
+  - comment · 2h ago · NoBankr · score 20
+  - matched: max hit, apply venom
+  - re: Got Serp Helm After Faceguard, what are the uses?
+  - https://www.reddit.com/r/ironscape/comments/1wpji2j/got_serp_helm_after_faceguard_what_are_the_uses/pbvxwlf/
 - **Yeah on paper. But in most of those monsters, you lose dps due to low attack range and/or two tick attack speed. Good luck on muspah teleport phase with the 5 tile attack range. Oh**
-  - comment · 2h ago · Flat_Gas_5704 · score 20
+  - comment · 3h ago · Flat_Gas_5704 · score 20
   - matched: safe spot
   - re: What skipping the bowfa really means
   - https://www.reddit.com/r/ironscape/comments/1wpc106/what_skipping_the_bowfa_really_means/pbvlisr/
 - **I used to safe spot the TzHaars using the vents with a rune halberd trying to get obby item drops back in the day. 20 years goes go by too fast.**
-  - comment · 5h ago · John2697 · score 20
+  - comment · 6h ago · John2697 · score 20
   - matched: safe spot
   - re: just got my first Rune Halberd
   - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbunllf/
 - **Safespot the Fire giants in Waterfall! **
-  - comment · 6h ago · JefferyRs · +2 more in this thread on the same terms · score 20
+  - comment · 7h ago · JefferyRs · +2 more in this thread on the same terms · score 20
   - matched: safespot
   - re: just got my first Rune Halberd
   - https://www.reddit.com/r/2007scape/comments/1wpbf4d/just_got_my_first_rune_halberd/pbudb5r/
@@ -260,22 +255,22 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Make Boss Jars untradeable the way Guthix intended
   - https://www.reddit.com/r/2007scape/comments/1wp3iua/make_boss_jars_untradeable_the_way_guthix_intended/pbu86sv/
 - **Does anyone have experience doing no overhead/prayerless firecapes?**
-  - r/osrs · 9h ago · Beginning_Smell_7704 · score 20
+  - r/osrs · 10h ago · Beginning_Smell_7704 · score 20
   - matched: tick eating
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wp8m57/does_anyone_have_experience_doing_no/
 - **Sailing is chock full of alchables through salvaging in your early levels. You can keep some of the adamant/rune items for foundry to use instead of bars(you'll get a lot of these)**
-  - comment · 14h ago · boiledwaterbus · score 20
+  - comment · 15h ago · boiledwaterbus · score 20
   - matched: safespot
   - re: Been playing an iron for about 20ish days and want
   - https://www.reddit.com/r/ironscape/comments/1wmjtpl/been_playing_an_iron_for_about_20ish_days_and/pbrdco0/
 - **8 months late but.. find a safespot. I was in the same boat as you (lol) until i found out that you can wedge your way into the rocks and lure them. They respawn quite fast, a trip**
-  - comment · 17h ago · Jolly_Machine_7647 · score 20
+  - comment · 18h ago · Jolly_Machine_7647 · score 20
   - matched: safespot
   - re: Any tips for shark bounty tasks? I feel like I'm g
   - https://www.reddit.com/r/2007scape/comments/1qm4l2q/any_tips_for_shark_bounty_tasks_i_feel_like_im/pbqj785/
 - **Tick eating on 1hp i suppose?**
-  - comment · 20h ago · RightEejit · score 20
+  - comment · 21h ago · RightEejit · score 20
   - matched: tick eating
   - re: Remaxed the 10hper!!
   - https://www.reddit.com/r/2007scape/comments/1wo94m4/remaxed_the_10hper/pbpxta0/
@@ -285,12 +280,12 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: The Gambling is the hardest part
   - https://www.reddit.com/r/ironscape/comments/1wpg4qe/the_gambling_is_the_hardest_part/pbvkl3m/
 - **Due to z-buffering and overflow values anything you drop turns into 3rd age**
-  - comment · 4h ago · Selfish-Altruist · score 17
+  - comment · 5h ago · Selfish-Altruist · score 17
   - matched: overflow, 3rd age
   - re: there's a sinkhole in the southeast corner of my P
   - https://www.reddit.com/r/2007scape/comments/1wpfl1v/theres_a_sinkhole_in_the_southeast_corner_of_my/pbuzync/
 - **Sure you can get an expensive 99 to speed up what 1 of like 10 brimhaven tasks since the rest are either closer to spirit tree or have alternate routes, all the south hosidus steps**
-  - comment · 5h ago · Bookwrrm · score 17
+  - comment · 6h ago · Bookwrrm · score 17
   - matched: teleport to boat, max cape
   - re: Boosted from 82 herb and 82 construction to make t
   - https://www.reddit.com/r/ironscape/comments/1wp3grr/boosted_from_82_herb_and_82_construction_to_make/pbutfy1/
@@ -300,37 +295,37 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: phoenix necklace at seren doesn't work anymore?
   - https://www.reddit.com/r/ironscape/comments/1wpbfxi/phoenix_necklace_at_seren_doesnt_work_anymore/pbu7yjj/
 - **I found that method overly complicated, pray range blood blitz in your best mage gear and overheal before the charge up attack. Just dont ask chatgpt for help as it will tell you t**
-  - comment · 7h ago · lloydmcallister · score 17
+  - comment · 8h ago · lloydmcallister · score 17
   - matched: charge up, overheal
   - re: phoenix necklace at seren doesn't work anymore?
   - https://www.reddit.com/r/ironscape/comments/1wpbfxi/phoenix_necklace_at_seren_doesnt_work_anymore/pbu5ch5/
 - **phoenix necklace at seren doesn't work anymore?**
-  - r/ironscape · 7h ago · _coffeeblack_ · score 17
+  - r/ironscape · 8h ago · _coffeeblack_ · score 17
   - matched: phoenix necklace, nightshade
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wpbfxi/phoenix_necklace_at_seren_doesnt_work_anymore/
 - **Brimhaven portal teleport for the brimhaven dungeon steps, hosidious portal teleport for the hosidious elite step requiring pyromancer, as well as the step that requires you look i**
-  - comment · 8h ago · Tenement48 · score 17
+  - comment · 9h ago · Tenement48 · score 17
   - matched: overheal, pyromancer
   - re: Boosted from 82 herb and 82 construction to make t
   - https://www.reddit.com/r/ironscape/comments/1wp3grr/boosted_from_82_herb_and_82_construction_to_make/pbtihv3/
 - **this is one of the dumbest things reddit complains about and pushes to change. jars work better as a tradeable item. it's just a fun POH decoration, with very little "flex value" g**
-  - comment · 9h ago · 2-2-7-7 · score 17
+  - comment · 10h ago · 2-2-7-7 · score 17
   - matched: untradeable, decoration
   - re: Make Boss Jars untradeable the way Guthix intended
   - https://www.reddit.com/r/2007scape/comments/1wp3iua/make_boss_jars_untradeable_the_way_guthix_intended/pbt9ycq/
 - **So the fresh start worlds? Or do you actually mean RuneScape classic cause that would just be terrible and would die off in less than a week**
-  - comment · 11h ago · LoveLiquicity · +2 more in this thread on the same terms · score 17
+  - comment · 12h ago · LoveLiquicity · +2 more in this thread on the same terms · score 17
   - matched: classic, runescape classic
   - re: Would you play a Runescape Classic League?
   - https://www.reddit.com/r/2007scape/comments/1wp5gjl/would_you_play_a_runescape_classic_league/pbsgy9y/
 - **Raikesy did a lvl 3 to max cash series where he started on tutorial island. It's pretty good**
-  - comment · 12h ago · Ruxee · score 17
+  - comment · 13h ago · Ruxee · score 17
   - matched: tutorial island, max cash
   - re: Noticed in nearly all of these types of series.
   - https://www.reddit.com/r/2007scape/comments/1wogtls/noticed_in_nearly_all_of_these_types_of_series/pbs5qzm/
 - **A jehovah's witness requires you to respond to them. A pker does not. Again, it can be compared to random environmental damage at wintertodt, except at wintertodt your actions get **
-  - comment · 12h ago · Bspammer · score 17
+  - comment · 13h ago · Bspammer · score 17
   - matched: environmental damage, wintertodt
   - re: Gfs reaction to finding out about the wilderness a
   - https://www.reddit.com/r/2007scape/comments/1woy05e/gfs_reaction_to_finding_out_about_the_wilderness/pbrz5c5/
@@ -340,46 +335,36 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Remaxed the 10hper!!
   - https://www.reddit.com/r/2007scape/comments/1wo94m4/remaxed_the_10hper/pbrvf4a/
 - **So you're looking for a UK TV episode featuring Runescape classic in 2003/4? Is that correct, you're trying to find lost media?**
-  - comment · 16h ago · Gingerpussie2 · score 17
+  - comment · 17h ago · Gingerpussie2 · score 17
   - matched: classic, runescape classic
   - re: Gamezville 2003/4
   - https://www.reddit.com/r/2007scape/comments/1wof3cc/gamezville_20034/pbquk1i/
-- **I don't understand how you can fault the player for this when none of these exceptions are meaningfully documented in game. If a mechanic is important enough that misunderstanding **
-  - comment · 23h ago · IM_GOOD_AT_THE_CYBER · score 17
-  - matched: death's office, gravestone
-  - re: Enough is Enough - Jagex, Stop Deleting Loot on Se
-  - https://www.reddit.com/r/ironscape/comments/1wmkxgx/enough_is_enough_jagex_stop_deleting_loot_on/pbpf70v/
-- **Do two attacks with emberlight at the start of your kill and THEN use your bgs spec. As long as you don’t miss ticks at the start then this perfectly synchronizes his attack cycle **
-  - comment · 23h ago · andrew_calcs · score 17
-  - matched: attack cycle, emberlight
-  - re: Duke sucellus Emberlight vs Nox hally ---- Bgs vs 
-  - https://www.reddit.com/r/ironscape/comments/1wnzlso/duke_sucellus_emberlight_vs_nox_hally_bgs_vs_b/pbp99uh/
 - **though the amount of raw hours it takes to reach various milestones can be very high, runescape is a game built on permanence. so in that sense, you theoretically have unlimited ti**
-  - comment · 6h ago · so_long_astoria · score 15
+  - comment · 7h ago · so_long_astoria · score 15
   - matched: you can still, weekly reset
   - re: Can OSRS actually be casual-friendly?
   - https://www.reddit.com/r/2007scape/comments/1wozbu0/can_osrs_actually_be_casualfriendly/pbukoua/
 - **Connection Issues (yet again)**
-  - r/2007scape · 12h ago · Diggie9372 · score 14
+  - r/2007scape · 13h ago · Diggie9372 · score 14
   - matched: ⚡ connection event
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wp48c4/connection_issues_yet_again/
 - **Why isn’t there an ore sack for mining?**
-  - r/2007scape · 5h ago · Beautiful_Dream_1129 · score 12
+  - r/2007scape · 6h ago · Beautiful_Dream_1129 · score 12
   - matched: herb sack, fish barrel
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wpfdqp/why_isnt_there_an_ore_sack_for_mining/
 - **Runescape gfuel**
-  - r/2007scape · 7h ago · Dapper_Preference907 · score 12
+  - r/2007scape · 8h ago · Dapper_Preference907 · score 12
   - matched: guthix rest, purple sweets
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wpbhip/runescape_gfuel/
 - **Chugging barrel for UIM**
-  - r/ironscape · 14h ago · KingBuck_413 · score 12
+  - r/ironscape · 15h ago · KingBuck_413 · score 12
   - matched: herb sack, seed box
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wp1j2n/chugging_barrel_for_uim/
 
 ---
 
-Not included: 1260 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1262 findings older than 24h. Widen with `__osrs.report(48)` in the console.
