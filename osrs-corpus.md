@@ -1,40 +1,50 @@
 # OSRS Signal — last 24h
 
-2026-09-27 02:59 UTC · 53 findings after merging duplicates (from 94 raw hits; 40 single-term floor rows filtered)
-collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 02:03Z) · 56m ago · search: ok · 0s ago · vanished: ok (nothing pending) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (12 videos) · 21m ago
+2026-09-27 03:55 UTC · 55 findings after merging duplicates (from 96 raw hits; 40 single-term floor rows filtered)
+collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 02:59Z) · 55m ago · search: ok · 59s ago · vanished: ok (checked 1) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (13 videos) · 32m ago
 
-## Bugs & exploits  (15 · 5 above the single-term floor, 10 at it)
+## Bugs & exploits  (17 · 5 above the single-term floor, 12 at it)
 
 - **some testing of burn's effects on maggot king**
-  - r/2007scape · 13h ago · Ok_Painter7164 · score 35
+  - r/2007scape · 14h ago · Ok_Painter7164 · score 35
   - matched: bug, burn damage, monster examine
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wqq194/some_testing_of_burns_effects_on_maggot_king/
 - **priest in peril was one of the first members quests i did as a kid because i liked the gnomecopter to burgh de rott so much (i really liked the lleyta one too) i used to try to gli**
-  - comment · 22h ago · 7ExclAnon7 · score 25
+  - comment · 23h ago · 7ExclAnon7 · score 25
   - matched: glitch, through the wall
   - re: We all felt this at one point before buying member
   - https://www.reddit.com/r/2007scape/comments/1wpzse2/we_all_felt_this_at_one_point_before_buying/pc3xrex/
 - **Wow that's a new discovery and honestly sounds like a bug. Why would it increase magic defence again after the burn fizzles, but not include the initial reduction. Question, does t**
-  - comment · 13h ago · PhysicalSchedule7448 · score 18
+  - comment · 14h ago · PhysicalSchedule7448 · score 18
   - matched: bug, magic defence
   - re: some testing of burn's effects on maggot king
   - https://www.reddit.com/r/2007scape/comments/1wqq194/some_testing_of_burns_effects_on_maggot_king/pc63msr/
+- **Then shouldn't it tell me I failed Beef vs Beef? I mentioned succeeding at the Speed Trial achievement because he shouldn't be able to attack in that short a time.**
+  - comment · 7m ago · SmartAlec105 · score 13
+  - matched: shouldn't be able
+  - re: Brutus's "Smarter than a Cow" is definitely bugged
+  - https://www.reddit.com/r/2007scape/comments/1wr9ks5/brutuss_smarter_than_a_cow_is_definitely_bugged/pcav9s8/
+- **Brutus's "Smarter than a Cow" is definitely bugged**
+  - r/2007scape · 27m ago · SmartAlec105 · score 13
+  - matched: bugged
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wr9ks5/brutuss_smarter_than_a_cow_is_definitely_bugged/
 - **Is anyone else sometimes getting full Hunter XP in Puro Puro?**
   - r/2007scape · 1h ago · Toucans_for_Hands · score 13
   - matched: glitches
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wr7u3c/is_anyone_else_sometimes_getting_full_hunter_xp/
-- **Barrows bug won't let me into tunnels (mobile)**
-  - r/2007scape · 1h ago · Diomidies · score 13
-  - matched: bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wr7a3o/barrows_bug_wont_let_me_into_tunnels_mobile/
 - **Probably ask on the rs3 subreddit, it doesn't matter if there are fewer people if you get better answers. FWIW I tried rs3 for about a month in around July after having played the **
-  - comment · 6h ago · blacklig · score 16
+  - comment · 7h ago · blacklig · score 16
   - matched: glitches, you can still
   - re: Is RS3 worth playing?
   - https://www.reddit.com/r/2007scape/comments/1wr0jmp/is_rs3_worth_playing/pc8o00t/
+- **Barrows bug won't let me into tunnels (mobile)**
+  - r/2007scape · 2h ago · Diomidies · score 13
+  - matched: bug
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wr7a3o/barrows_bug_wont_let_me_into_tunnels_mobile/
 - **i had this exact same problem, i think its a bug, i changed my password just to be safe but its too much of a coincidence that i only get these requests exactly when i log in**
   - comment · 4h ago · Santon24 · score 13
   - matched: bug
@@ -46,7 +56,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1wqitra/have_a_question_about_the_game_or_the_subreddit/pc94hl6/
 - **Its worded as intended, no bugs here 😁**
-  - comment · 5h ago · Gusty_Garden_Galaxy · score 13
+  - comment · 6h ago · Gusty_Garden_Galaxy · score 13
   - matched: bugs
   - re: This amulet is cursed in more ways than one.
   - https://www.reddit.com/r/2007scape/comments/1wr1xn1/this_amulet_is_cursed_in_more_ways_than_one/pc8y243/
@@ -56,17 +66,17 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: 1,500 mediums without Ranger Boots. Surely I’m all
   - https://www.reddit.com/r/ironscape/comments/1wqyh2f/1500_mediums_without_ranger_boots_surely_im/pc81y5o/
 - **yes we were both roleplaying as male pregnant to get the auto shadow and it looks like Jagex hasnt fixed the male pregnancy exploit yet**
-  - comment · 8h ago · Available-Fan-9488 · score 13
+  - comment · 9h ago · Available-Fan-9488 · score 13
   - matched: exploit
   - re: People say OSRS is a grindy game but I don't see i
   - https://www.reddit.com/r/2007scape/comments/1wqvylt/people_say_osrs_is_a_grindy_game_but_i_dont_see_it/pc7u0cc/
 - **BUG: Let my sweet boy dig near the big lava people :(**
-  - r/2007scape · 10h ago · PardonMyBake · score 13
+  - r/2007scape · 11h ago · PardonMyBake · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wqvfyj/bug_let_my_sweet_boy_dig_near_the_big_lava_people/
 - **That definitely sounds like a bug, but hopefully at this point they won't patch it.**
-  - comment · 13h ago · FerrousMarim · score 13
+  - comment · 14h ago · FerrousMarim · score 13
   - matched: bug
   - re: some testing of burn's effects on maggot king
   - https://www.reddit.com/r/2007scape/comments/1wqq194/some_testing_of_burns_effects_on_maggot_king/pc63c9m/
@@ -76,7 +86,7 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: "What'd you just say to me?" 💀
   - https://www.reddit.com/r/ironscape/comments/1wlkg2h/whatd_you_just_say_to_me/pc5l7jt/
 - **Having the same issue in Alpha Skip-Ahead today, rebooting and signing in/out not helping. Somehow Fortnite can launch, but not other games like FC 27 or RuneScape: Dragonwilds. Fi**
-  - x · 15h ago · @Lirrrik · score 13
+  - x · 16h ago · @Lirrrik · score 13
   - matched: bug, gate:named
   - · top:runescape bug since:2026-09-17
   - https://x.com/Lirrrik/status/2103808388643922214
@@ -84,22 +94,22 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## Jagex & J-Mod  (4)
 
 - **🟣 30 J-Mod replies — Finally finished the SRA grind on the iron.**
-  - comment · 1h ago · Mod_Jez · score 30
+  - comment · 2h ago · Mod_Jez · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 30, Mod_Jez: At 1100 vard kc no head. Gz and fk u
   - https://www.reddit.com/comments/1wr11mz
 - **🟣 28 J-Mod replies — Tears of Guthix: Total Xp Gained**
-  - comment · 6h ago · Mod_Jez · score 30
+  - comment · 7h ago · Mod_Jez · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 28, Mod_Jez: If you're maxed and do ToG, does it give you the xp in your lowest XP 
   - https://www.reddit.com/comments/1wqs8nm
 - **🟣 28 J-Mod replies — Battle Royale for PVP Bootcamp Finale!**
-  - comment · 9h ago · JagexGoblin · score 30
+  - comment · 10h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 28, JagexGoblin: gl to everybody in the finale! It's been a lot of fun tuning into bits
   - https://www.reddit.com/comments/1wqvhcd
 - **🟣 29 J-Mod replies — TODAY in less then 40 minsss 🔥**
-  - comment · 9h ago · JagexGoblin · score 30
+  - comment · 10h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 29, JagexGoblin: sorry, where is the battle? I don't think the indicating image is big 
   - https://www.reddit.com/comments/1wqw3ob
@@ -107,37 +117,37 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## "You can do this" finds  (7 · 6 above the single-term floor, 1 at it)
 
 - **Sara is not difficult but definitely tedious, constant supply jugglying, venoming the minions, bones to peaches, t-bow noodles. Shadow can be more consistent but definitely eats in**
-  - comment · 5h ago · The_Lone_Long_Ranger · score 26
+  - comment · 6h ago · The_Lone_Long_Ranger · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: God Wars Dungeon Money Making
   - https://www.reddit.com/r/2007scape/comments/1wmnvle/god_wars_dungeon_money_making/pc92hdf/
 - **Back in like 2014 we would do 6 hour sara trips with bones to peaches lol Back then it was legitimately the best money in the game. **
-  - comment · 5h ago · Wolfie_Ecstasy · score 26
+  - comment · 6h ago · Wolfie_Ecstasy · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Bosses with long trips/little banking?
   - https://www.reddit.com/r/2007scape/comments/1wpslop/bosses_with_long_tripslittle_banking/pc903rg/
 - **Cake cheap for 12 in one slot**
-  - comment · 11h ago · bmx_chelsea · score 26
+  - comment · 12h ago · bmx_chelsea · score 26
   - matched: ⚡ food per inventory slot
   - re: What food item can heal the most HP and is also th
   - https://www.reddit.com/r/2007scape/comments/1wqt0j6/what_food_item_can_heal_the_most_hp_and_is_also/pc6ri8h/
 - **I mean, maybe a good idea to google best healing foods and then their GE price, to find what fits your needs? Anchovy pizza is heals most overall per slot in f2p (9x2) Wine is best**
-  - comment · 11h ago · I_LIKE_REACHER · score 26
+  - comment · 12h ago · I_LIKE_REACHER · score 26
   - matched: ⚡ food per inventory slot
   - re: What food item can heal the most HP and is also th
   - https://www.reddit.com/r/2007scape/comments/1wqt0j6/what_food_item_can_heal_the_most_hp_and_is_also/pc6o9e2/
 - **And devalue my bones to bananas? **
-  - comment · 12h ago · PhysicalSchedule7448 · score 26
+  - comment · 13h ago · PhysicalSchedule7448 · score 26
   - matched: ⚡ food per inventory slot, bones to bananas
   - re: What if thrall spells had to be cast on bones on t
   - https://www.reddit.com/r/2007scape/comments/1wqqfbx/what_if_thrall_spells_had_to_be_cast_on_bones_on/pc6it3f/
-- **Bones to Peaches -> Rune Pouch -> Boots -> Wand -> Mage's Book is the order I'd get things.**
-  - comment · 23h ago · dreaminkuroi · score 26
-  - matched: ⚡ food per inventory slot, bones to peaches
-  - re: What should i get first from the MTA?
-  - https://www.reddit.com/r/2007scape/comments/1wqbjpw/what_should_i_get_first_from_the_mta/pc3u2wx/
+- **I've been having fun doing Tombs of Amascut and Maggot King. The Maggot king is a boss that you unlock after the new quest Blood Moon Rises, sequel to Sins of the Father. Its uniqu**
+  - comment · 22m ago · ShakimTheClown · score 14
+  - matched: til you can, you don't need
+  - re: I've taken about a year off and have come back to 
+  - https://www.reddit.com/r/2007scape/comments/1wr99ps/ive_taken_about_a_year_off_and_have_come_back_to/pcaswto/
 - **Even with stepping under blood moon is going to take a decade and you'll likely run out of food if you can even put in enough damage to kill him at all even with unlimited food. Th**
-  - comment · 6h ago · wg_shill · score 12
+  - comment · 7h ago · wg_shill · score 12
   - matched: unlimited food
   - re: Can I do the Perilous Moons quest with these stats
   - https://www.reddit.com/r/ironscape/comments/1wqyqsf/can_i_do_the_perilous_moons_quest_with_these_stats/pc8fsem/
@@ -145,97 +155,97 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 ## Mechanics & wiki corrections  (27 · 26 above the single-term floor, 1 at it)
 
 - **10hp Account Ruff Situation Outlaws Tick-Perfect Solution**
-  - r/2007scape · 1m ago · MagnoliaRoofConsult · score 26
+  - r/2007scape · 57m ago · MagnoliaRoofConsult · score 26
   - matched: poison dynamite, tinderbox
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wr90nb/10hp_account_ruff_situation_outlaws_tickperfect/
 - **✎ Pot of flour — confirmed my aldarin processed flour is present at zanaris**
-  - wiki · 4h ago · Crabby · score 27
+  - wiki · 5h ago · Crabby · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Pot_of_flour
 - **✎ Blast mine/Strategies — Old video for NE 2.5 cycle was no longer available. changed the footnote to a modern video of the cycle.**
-  - wiki · 13h ago · .oie · seen 2x · score 27
+  - wiki · 14h ago · .oie · seen 2x · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Blast_mine%2FStrategies
 - **I'm not arguing semantics for the sake of it. Your original comment specifically blamed sprites and animations for server load and that's simply not how it works, so I corrected it**
-  - comment · 5h ago · SnappySausage · score 26
+  - comment · 6h ago · SnappySausage · score 26
   - matched: pathing, in rs3, on rs3
   - re: OSRS Twitter confirms summoning is coming back
   - https://www.reddit.com/r/2007scape/comments/1wpdnk3/osrs_twitter_confirms_summoning_is_coming_back/pc8ytgq/
 - **The shaman safe spot is a red-x method using an alt. You technically do safe spot 2 of the 3, and red-x the third and then kill the 3rd on your iron for the drop. I confirm it stil**
-  - comment · 15h ago · Park_BADger · score 26
+  - comment · 16h ago · Park_BADger · score 26
   - matched: safe spot, kill credit, still works
   - re: Worth leveling a main?
   - https://www.reddit.com/r/ironscape/comments/1wnp2fg/worth_leveling_a_main/pc5khvn/
 - **You dont have to burst anything. You can just fire broad bolts from a safe spot at so many tasks. Once the talks become profitable with alch then you can start busting them down. I**
-  - comment · 17m ago · Acceptable_Long_5101 · score 20
+  - comment · 1h ago · Acceptable_Long_5101 · score 20
   - matched: safe spot
   - re: Runes for bursting... How?
   - https://www.reddit.com/r/ironscape/comments/1wr8n7i/runes_for_bursting_how/pcaknbs/
-- **> but it kiiiiinda breaks the concept of the combat triangle How does that break the combat triangle? Chromatic dragons use Melee, so by the combat triangle they *should* be weak t**
-  - comment · 1h ago · BioMasterZap · score 20
-  - matched: safespot
-  - re: So if chromatic dragons have a magic weakness now.
-  - https://www.reddit.com/r/2007scape/comments/1wr3lik/so_if_chromatic_dragons_have_a_magic_weakness_now/pcaccj7/
 - **I mean, I was referencing the fact that it has to keep track of everyone's followers, their positions, pak yaks inventories, pathing etc. While I may have misspoke slightly, is pat**
-  - comment · 13h ago · United_Surprise3135 · score 25
+  - comment · 14h ago · United_Surprise3135 · score 25
   - matched: pathing, on rs3
   - re: OSRS Twitter confirms summoning is coming back
   - https://www.reddit.com/r/2007scape/comments/1wpdnk3/osrs_twitter_confirms_summoning_is_coming_back/pc5wcqd/
-- **US Midwest connection/ping issues**
-  - r/2007scape · 23h ago · bobobob67 · score 25
-  - matched: ⚡ connection event, anyone else having
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wqgjzs/us_midwest_connectionping_issues/
 - **You can refer to the 'List if tasks' table on this [bounty tasks](https://oldschool.runescape.wiki/w/Bounty_tasks) page on the wiki. It can be sorted based on sailing level require**
-  - comment · 16h ago · Bynx94 · score 24
+  - comment · 17h ago · Bynx94 · score 24
   - matched: teleport focus, greater teleport focus
   - re: How to do 59-87 sailing?
   - https://www.reddit.com/r/ironscape/comments/1wktu3a/how_to_do_5987_sailing/pc5bihn/
 - **That's a really good question! You're totally right, with over 25 years of history, almost every single calendar day has something that was released or achieved. I usually filter i**
-  - comment · 20h ago · RuneScapeSuomi · score 22
+  - comment · 21h ago · RuneScapeSuomi · score 22
   - matched: tutorial island, classic
   - re: 21 years ago today, the quest A Tail of Two Cats w
   - https://www.reddit.com/r/2007scape/comments/1wqh68h/21_years_ago_today_the_quest_a_tail_of_two_cats/pc4g312/
+- **I use mine not daily but for sure weekly. Mostly for toa, cm cox, previously anywhere I needed a decent melee spec (now I use dclaws), really good at regular cox as well as vorkath**
+  - comment · 17m ago · osrs_cinna · score 17
+  - matched: emberlight, darklight
+  - re: Fang needed?
+  - https://www.reddit.com/r/ironscape/comments/1wr8p1x/fang_needed/pcatmrc/
+- **> but it kiiiiinda breaks the concept of the combat triangle How does that break the combat triangle? Chromatic dragons use Melee, so by the combat triangle they *should* be weak t**
+  - comment · 2h ago · BioMasterZap · score 20
+  - matched: safespot
+  - re: So if chromatic dragons have a magic weakness now.
+  - https://www.reddit.com/r/2007scape/comments/1wr3lik/so_if_chromatic_dragons_have_a_magic_weakness_now/pcaccj7/
 - **After mage spawns, pray mage at every wave. Kill everything damaging you. Utilize Italy rock to safespot enemies. Gl chief**
-  - comment · 6h ago · SaucyPenny · score 20
+  - comment · 7h ago · SaucyPenny · score 20
   - matched: safespot
   - re: Any recommendations for my first ever firecape are
   - https://www.reddit.com/r/ironscape/comments/1wr0zdj/any_recommendations_for_my_first_ever_firecape/pc8ovks/
 - **A fair amount, bit pid and tick perfect eating are more important in veng**
-  - comment · 12h ago · Dildos_R_Us · score 20
+  - comment · 13h ago · Dildos_R_Us · score 20
   - matched: tick perfect, pid
   - re: I finished all bounty hunter cosmetics as a non-Pv
   - https://www.reddit.com/r/2007scape/comments/1wprd1z/i_finished_all_bounty_hunter_cosmetics_as_a/pc68mg9/
 - **That has been SO helpful as a returning player. I've probably only ever spent a year of my life as a member and Shortest Path is so good at pathing you through the different travel**
-  - comment · 14h ago · Kind_Man_0 · score 20
+  - comment · 15h ago · Kind_Man_0 · score 20
   - matched: pathing
   - re: New Player Looking For Direction?
   - https://www.reddit.com/r/2007scape/comments/1wp7dew/new_player_looking_for_direction/pc5ok20/
 - **I dont think youre as versed in this as you think you are. Im by no means an expert, but everything from pathing, inventory space, aggro to the player and proximity, and much more **
-  - comment · 21h ago · United_Surprise3135 · score 20
+  - comment · 22h ago · United_Surprise3135 · score 20
   - matched: pathing
   - re: OSRS Twitter confirms summoning is coming back
   - https://www.reddit.com/r/2007scape/comments/1wpdnk3/osrs_twitter_confirms_summoning_is_coming_back/pc485zz/
 - **In the canyon you can red x stall two shamans, so you don't have to wait for the respawn**
-  - comment · 3h ago · MAZZZIAN02 · score 18
+  - comment · 4h ago · MAZZZIAN02 · score 18
   - matched: stall, red x
   - re: Me after going 800kc dry for bowfa and I decide I'
   - https://www.reddit.com/r/ironscape/comments/1wqqp26/me_after_going_800kc_dry_for_bowfa_and_i_decide/pc9li0n/
 - **Depends how you look at it, Ambrosia in raids can heal up to like 125 hp i think. Then you have gnome restaurant token that could potentially give you 150 hp worth of food. And ofc**
-  - comment · 10h ago · Abyssaldog · score 17
+  - comment · 11h ago · Abyssaldog · score 17
   - matched: token, purple sweets
   - re: Random neat detail I never noticed until now
   - https://www.reddit.com/r/2007scape/comments/1wqrjzk/random_neat_detail_i_never_noticed_until_now/pc6z9uh/
 - **Way too OP tbh I think making the ring of wealth have a way to choose what it loots would be better. It can loot only one stackable item at a time but you can use an item on it to **
-  - comment · 12h ago · banditcleaner2 · score 17
+  - comment · 13h ago · banditcleaner2 · score 17
   - matched: stackable item, ring of wealth
   - re: Auto Pickup Loot Device Idea
   - https://www.reddit.com/r/2007scape/comments/1wqrya5/auto_pickup_loot_device_idea/pc6hfkr/
 - **I feel like something along these lines sort of goes against the spirit of the game, it would need to have some sort of trade off otherwise I can see it being a little too op. Take**
-  - comment · 12h ago · ForceoftheRam · score 17
+  - comment · 13h ago · ForceoftheRam · score 17
   - matched: 0 tick, ring of wealth
   - re: Auto Pickup Loot Device Idea
   - https://www.reddit.com/r/2007scape/comments/1wqrya5/auto_pickup_loot_device_idea/pc6h7ss/
@@ -245,32 +255,32 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
   - re: Bosses with long trips/little banking?
   - https://www.reddit.com/r/2007scape/comments/1wpslop/bosses_with_long_tripslittle_banking/pc67mfp/
 - **I think this also means that if you use Shadow, you want to spellbook swap twinflame fire wave into SBS thralls? Wacky.**
-  - comment · 13h ago · ImJLu · score 17
+  - comment · 14h ago · ImJLu · score 17
   - matched: spellbook swap, thralls
   - re: some testing of burn's effects on maggot king
   - https://www.reddit.com/r/2007scape/comments/1wqq194/some_testing_of_burns_effects_on_maggot_king/pc64g1d/
 - **95% sure capes are kept on death now after the untradeable mechanic changes, untradeable teleport amulets go to gravestones, hardly any clue steps truly demand the scroll book with**
-  - comment · 19h ago · barcode-lz · score 17
+  - comment · 20h ago · barcode-lz · score 17
   - matched: kept on death, untradeable
   - re: Small things that are irritating in OSRS
   - https://www.reddit.com/r/2007scape/comments/1wouyid/small_things_that_are_irritating_in_osrs/pc4pxzf/
 - **Absolute spoonage gone wild (gone wrong)**
-  - r/2007scape · 19h ago · darnal2 · score 17
+  - r/2007scape · 20h ago · darnal2 · score 17
   - matched: emberlight, soul reaper axe
   - 0c · 3↑
   - https://www.reddit.com/r/2007scape/comments/1wqka7k/absolute_spoonage_gone_wild_gone_wrong/
 - **I don't really agree. Whats complex about "click the spellbook swap button and then the thrall button on thrall cooldown"? Its the same complexity as normally summoning thralls, th**
-  - comment · 21h ago · DivineInsanityReveng · score 17
+  - comment · 22h ago · DivineInsanityReveng · score 17
   - matched: spellbook swap, thralls
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pc48c1p/
 - **Thank you so much! This post brought a smile to my face! I started playing back in RuneScape Classic, and I can still remember kids playing RS in libraries. Zezima is a legend! He **
-  - comment · 21h ago · RuneScapeSuomi · score 17
+  - comment · 22h ago · RuneScapeSuomi · score 17
   - matched: classic, runescape classic
   - re: 21 years ago today, the quest A Tail of Two Cats w
   - https://www.reddit.com/r/2007scape/comments/1wqh68h/21_years_ago_today_the_quest_a_tail_of_two_cats/pc45uyw/
 - **Raids, the odd lunar spell for something random like a quick npc contact, boss prep, and everything else that requires a spellbook swap. It is a huge upgrade. No matter what you do**
-  - comment · 5h ago · Dr_Chris_Turk · score 16
+  - comment · 6h ago · Dr_Chris_Turk · score 16
   - matched: spellbook swap, pyramid plunder, drop-rate complaint
   - re: When to use 1m+ pure essence?
   - https://www.reddit.com/r/ironscape/comments/1wr014r/when_to_use_1m_pure_essence/pc8xmu7/
@@ -282,4 +292,4 @@ collector health · bugpages: ok (176 flagged · coverage: continuous) · 2s ago
 
 ---
 
-Not included: 1306 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1304 findings older than 24h. Widen with `__osrs.report(48)` in the console.
