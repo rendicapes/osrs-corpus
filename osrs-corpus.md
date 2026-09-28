@@ -1,96 +1,97 @@
 # OSRS Signal — last 24h
 
-2026-09-28 03:11 UTC · 47 findings after merging duplicates (from 95 raw hits; 40 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 02:15Z) · 55m ago · search: ok · 57s ago · vanished: ok (nothing pending) · 1m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (15 videos) · 11m ago
+2026-09-28 04:06 UTC · 44 findings after merging duplicates (from 94 raw hits; 42 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 7s ago · repo: ok (pushed 03:11Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (15 videos) · 22m ago
 
-## Active bug notices (wiki)  (1)
-
-- **🐛 active bug notice added — Wanted poster**
-  - bugs · 23h ago · score 42
-  - matched: new bug notice
-  - Template:Bug
-  - notice: The generic version of the poster does not appear before or after completing the quest, resulting in the object which blocks lighting fires being invisible.
-  - https://oldschool.runescape.wiki/w/Wanted_poster
-
-## Bugs & exploits  (20 · 3 above the single-term floor, 17 at it)
+## Bugs & exploits  (20 · 4 above the single-term floor, 16 at it)
 
 - **Lost items after doing Death on the Isle/other quests?**
-  - r/2007scape · 12h ago · DetectingLies · score 42
+  - r/2007scape · 13h ago · DetectingLies · score 42
   - matched: bug, a soul's bane, crafting guild
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wrm8x9/lost_items_after_doing_death_on_the_isleother/
+- **Have you ever died to a boss and an NPC was holding onto your items and you can pay to get it back? UIMs 'exploit' that as an item storage instead of a bank with no despawn timer. **
+  - comment · 48m ago · Shiny_Shuckles · score 33
+  - matched: exploit, despawn timer
+  - re: It was a bad week, goodbye so much.
+  - https://www.reddit.com/r/ironscape/comments/1ws30nv/it_was_a_bad_week_goodbye_so_much/pci6cdm/
 - **Alright people aren't understanding and OPs wording isn't helping. Smarter than a Cow = don't get hit by Brutus. Beef vs Beef = don't equip anything. 1. OP doesn't have Smarter tha**
-  - comment · 22h ago · ImWhy · score 33
+  - comment · 23h ago · ImWhy · score 33
   - matched: bug, safespot
   - re: Brutus's "Smarter than a Cow" is definitely bugged
   - https://www.reddit.com/r/2007scape/comments/1wr9ks5/brutuss_smarter_than_a_cow_is_definitely_bugged/pcb3mjz/
 - **Haven’t done the quest yet but according to Wiki the destroy message says you can find another in castle drakan - otherwise there are no other bits of information If it’s not there**
-  - comment · 16h ago · Defiant-Ad7368 · score 25
+  - comment · 17h ago · Defiant-Ad7368 · score 25
   - matched: bug, spawn point
   - re: Destroyed Quest Item, now i'm stuck mid quest.
   - https://www.reddit.com/r/2007scape/comments/1wrgvlk/destroyed_quest_item_now_im_stuck_mid_quest/pcccict/
+- **>You weren't supposed to be hoarding items in death piles. That's a loophole exploit. Sorry to be so negative but you're better off playing a more sane gamemode. They weren't using**
+  - comment · 35m ago · PangolinPalantir · score 13
+  - matched: exploit
+  - re: It was a bad week, goodbye so much.
+  - https://www.reddit.com/r/ironscape/comments/1ws30nv/it_was_a_bad_week_goodbye_so_much/pci8ioq/
 - **You bear the risk of this when choosing to play the game mode. Not what you want to hear, but it is only a matter of time before you wipe. Not IF. But WHEN. The greatest of the gre**
-  - comment · 9m ago · Unlucky-Ad-3774 · score 13
+  - comment · 1h ago · Unlucky-Ad-3774 · score 13
   - matched: exploit
   - re: It was a bad week, goodbye so much.
   - https://www.reddit.com/r/ironscape/comments/1ws30nv/it_was_a_bad_week_goodbye_so_much/pci3qaj/
 - **I'm helping to beta test an indie game, and one of the first bugs I reported was that backing out of the "report a bug" menu would hard lock the game.**
-  - comment · 32m ago · rafaelloaa · score 13
+  - comment · 1h ago · rafaelloaa · score 13
   - matched: bug
   - re: Hey Jagex, the Report Game Bug button is bugged so
   - https://www.reddit.com/r/2007scape/comments/1ws1q9p/hey_jagex_the_report_game_bug_button_is_bugged_so/pchzr71/
 - **The idea of the button to report bugs being bugged is incredibly funny to me.**
-  - comment · 1h ago · ulfalda · score 13
+  - comment · 2h ago · ulfalda · score 13
   - matched: bugs
   - re: Hey Jagex, the Report Game Bug button is bugged so
   - https://www.reddit.com/r/2007scape/comments/1ws1q9p/hey_jagex_the_report_game_bug_button_is_bugged_so/pchsvwx/
 - **Solo CoX was never an intended thing so you have to think about it more like an exploited strategy than something developer created. Despite that it isn't the worst solo experience**
-  - comment · 4h ago · KinTheInfinite · score 13
+  - comment · 5h ago · KinTheInfinite · score 13
   - matched: exploited
   - re: Olm is DISGUSTING
   - https://www.reddit.com/r/ironscape/comments/1wrxlx0/olm_is_disgusting/pcgr763/
 - **Mine does this too. Probably a little bug that needs to be fixed. **
-  - comment · 5h ago · J0EY_G_ · +2 more in this thread on the same terms · score 13
+  - comment · 6h ago · J0EY_G_ · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: Why does my left click sometimes stop working? Not
   - https://www.reddit.com/r/2007scape/comments/1wrwfvn/why_does_my_left_click_sometimes_stop_working_not/pcgjdlv/
 - **trade limits comes with a ton of safeguards on the GE which are absolutely obnoxious and make it slow to catch up to actual prices and makes it easier for groups of players to expl**
-  - comment · 5h ago · vanguardpilot · score 13
+  - comment · 6h ago · vanguardpilot · score 13
   - matched: exploit
   - re: This is the best version. 2012 before EOC but afte
   - https://www.reddit.com/r/2007scape/comments/1wrsksv/this_is_the_best_version_2012_before_eoc_but/pcgga1j/
 - **if you have alts harpie bug swarms are much better than puro puro. Just a tip from one dry ranger boot grinder to another.**
-  - comment · 8h ago · Fresh-Wrap8654 · score 13
+  - comment · 9h ago · Fresh-Wrap8654 · score 13
   - matched: bug
   - re: 1,500 medium clues without Ranger Boots. Surely I’
   - https://www.reddit.com/r/2007scape/comments/1wqyktl/1500_medium_clues_without_ranger_boots_surely_im/pcf64tz/
 - **Every single time I have not been able to find an item due to a "bug" it turned out to be my own stupidity. Hope you find your stuff bro idk, what to suggest except poh storage but**
-  - comment · 10h ago · When_hop · score 13
+  - comment · 11h ago · When_hop · score 13
   - matched: bug
   - re: Lost items after doing Death on the Isle/other que
   - https://www.reddit.com/r/2007scape/comments/1wrm8x9/lost_items_after_doing_death_on_the_isleother/pce6vbw/
 - **pun intended?**
-  - comment · 11h ago · Traditional-Suit-147 · score 13
+  - comment · 12h ago · Traditional-Suit-147 · score 13
   - matched: intended?
   - re: How long does 1000 chompy kills take for western d
   - https://www.reddit.com/r/2007scape/comments/1iz1im7/how_long_does_1000_chompy_kills_take_for_western/pcdosas/
 - **I've honestly been considering if my account is somehow bugged at this boss.**
-  - comment · 14h ago · Solslinger03 · score 13
+  - comment · 15h ago · Solslinger03 · score 13
   - matched: bugged
   - re: I just wanted bludgeon
   - https://www.reddit.com/r/ironscape/comments/1wrb0me/i_just_wanted_bludgeon/pccxbdz/
 - **The problem is claude isn't smart about how it writes. It adds a lot of extra code that isn't needed and that professionals wouldn't ever use. It might be able to make workable pro**
-  - comment · 14h ago · Monterey-Jack · score 13
+  - comment · 15h ago · Monterey-Jack · score 13
   - matched: bugs
   - re: Jagex vs AI bots
   - https://www.reddit.com/r/2007scape/comments/1wrj02p/jagex_vs_ai_bots/pccve0w/
 - **Thanks for quick answer! I also saw that but it not back :( I hopped, and been waiting since yesterday. I bug reported it as well, guess I gotta wait for next patch.**
-  - comment · 16h ago · Shre3D1 · score 13
+  - comment · 17h ago · Shre3D1 · score 13
   - matched: bug
   - re: Destroyed Quest Item, now i'm stuck mid quest.
   - https://www.reddit.com/r/2007scape/comments/1wrgvlk/destroyed_quest_item_now_im_stuck_mid_quest/pccct8t/
 - **bro im seeing so many of these dry barrows posts, it makes me think the droprate is bugged or something lol, my friend was also like 70+ dry until recently**
-  - comment · 18h ago · meatballsub_enjoyer · score 13
+  - comment · 19h ago · meatballsub_enjoyer · score 13
   - matched: bugged
   - re: Lord have mercy
   - https://www.reddit.com/r/2007scape/comments/1wr8sw9/lord_have_mercy/pcc0t8d/
@@ -100,48 +101,38 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Just realized Baxtorian is a pun
   - https://www.reddit.com/r/2007scape/comments/1wr9iy3/just_realized_baxtorian_is_a_pun/pcbeeo8/
 - **It is off. And even if it was on, this would still be a bug because it's not pairing the correct achievement with the correct failure condition.**
-  - comment · 22h ago · SmartAlec105 · +2 more in this thread on the same terms · score 13
+  - comment · 23h ago · SmartAlec105 · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: Brutus's "Smarter than a Cow" is definitely bugged
   - https://www.reddit.com/r/2007scape/comments/1wr9ks5/brutuss_smarter_than_a_cow_is_definitely_bugged/pcb2l2k/
-- **Then shouldn't it tell me I failed Beef vs Beef? I mentioned succeeding at the Speed Trial achievement because he shouldn't be able to attack in that short a time.**
-  - comment · 23h ago · SmartAlec105 · score 13
-  - matched: shouldn't be able
-  - re: Brutus's "Smarter than a Cow" is definitely bugged
-  - https://www.reddit.com/r/2007scape/comments/1wr9ks5/brutuss_smarter_than_a_cow_is_definitely_bugged/pcav9s8/
-- **Brutus's "Smarter than a Cow" is definitely bugged**
-  - r/2007scape · 23h ago · SmartAlec105 · score 13
-  - matched: bugged
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wr9ks5/brutuss_smarter_than_a_cow_is_definitely_bugged/
 
 ## Jagex & J-Mod  (2 · 1 above the single-term floor, 1 at it)
 
 - **Mmm wiki says the forums were taken offline in 2024?**
-  - comment · 5h ago · Ok-Falcon-5829 · score 27
+  - comment · 6h ago · Ok-Falcon-5829 · score 27
   - matched: wiki says, taken offline
   - re: How to make friends in osrs?
   - https://www.reddit.com/r/2007scape/comments/1wrwlwy/how_to_make_friends_in_osrs/pcggtqu/
 - **Does anyone actually know how to calculate boat cannon accuracy and damage?**
-  - r/2007scape · 1h ago · andrewisfamousnow · score 15
+  - r/2007scape · 2h ago · andrewisfamousnow · score 15
   - matched: mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1ws2528/does_anyone_actually_know_how_to_calculate_boat/
 
-## "You can do this" finds  (6)
+## "You can do this" finds  (5)
 
 - **youre stuck in 2007 (using sharks) even though foods like dark crabs are 2x the cost for only 2 more hp, that 2 hp adds up over the whole inventory. don’t trip over the 1k extra gp**
-  - comment · 1h ago · Economy-Capital1984 · score 26
+  - comment · 2h ago · Economy-Capital1984 · score 26
   - matched: ⚡ food per inventory slot
   - re: Vorkath help
   - https://www.reddit.com/r/2007scape/comments/1ws1ass/vorkath_help/pchszhh/
 - **Bones to peaches**
-  - comment · 2h ago · supergroundman · score 26
+  - comment · 3h ago · supergroundman · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: To the guys getting ten+ vardorvis kills per trip
   - https://www.reddit.com/r/2007scape/comments/1wrx7k4/to_the_guys_getting_ten_vardorvis_kills_per_trip/pchbm84/
 - **If you have decent tank gear getting a b ring should be pretty easy. If you're having food problems, pineapple pizzas can be made with warrior guild pizzas and pineapple from the g**
-  - comment · 17h ago · MikeyeSGI · score 26
+  - comment · 18h ago · MikeyeSGI · score 26
   - matched: ⚡ food per inventory slot, inventory slot, per inventory slot
   - re: Ring Alternatives
   - https://www.reddit.com/r/ironscape/comments/1wreodn/ring_alternatives/pcc4t68/
@@ -151,70 +142,70 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wrr3yi/notable_official_client_settings_beginner_guide/
 - **I've been playing this game for 23 years now. The last 7 years I played as an Ironman and I quit playing my main and all my alts to focus on this ironman. I think my main was aroun**
-  - comment · 18h ago · Mundict · score 23
+  - comment · 19h ago · Mundict · score 23
   - matched: you can skip, herb sack, gem bag
   - re: Need some direction
   - https://www.reddit.com/r/2007scape/comments/1wrei0f/need_some_direction/pcc0h1v/
-- **I've been having fun doing Tombs of Amascut and Maggot King. The Maggot king is a boss that you unlock after the new quest Blood Moon Rises, sequel to Sins of the Father. Its uniqu**
-  - comment · 23h ago · ShakimTheClown · score 14
-  - matched: til you can, you don't need
-  - re: I've taken about a year off and have come back to 
-  - https://www.reddit.com/r/2007scape/comments/1wr99ps/ive_taken_about_a_year_off_and_have_come_back_to/pcaswto/
 
-## Mechanics & wiki corrections  (18)
+## Mechanics & wiki corrections  (17)
 
+- **Yeah I gave up on maxxing when I found out how much fun bossing is. It made the slog of grinding skills 10X worse. But last month I went and did some MLM an struck up some interest**
+  - comment · 32m ago · OSRSwizardry · score 22
+  - matched: max cape, wintertodt
+  - re: I want to max, but at same time, i want to enjoy t
+  - https://www.reddit.com/r/2007scape/comments/1wrr357/i_want_to_max_but_at_same_time_i_want_to_enjoy/pci8xy5/
 - **Flinching is attacking a mob, then getting into safespot and waiting for his health bar to disappear. You can then attack him and get into safespot again, without him hitting you. **
-  - comment · 11h ago · Ogabavavav · score 26
+  - comment · 12h ago · Ogabavavav · score 26
   - matched: safespot, flinching
   - re: Posted yesterday asking for help getting started o
   - https://www.reddit.com/r/ironscape/comments/1wr8gsl/posted_yesterday_asking_for_help_getting_started/pcdxt16/
 - **With the recent changes for the expanded herb sack, camping lunar spellbook for herb runs is really nice. Lunar book has the Catherby takeout and spellbook swap can get your arceuu**
-  - comment · 11h ago · StillCrookin · score 24
+  - comment · 12h ago · StillCrookin · score 24
   - matched: spellbook swap, herb sack
   - re: Icy/Stony Basalts vs Portals vs Nexus
   - https://www.reddit.com/r/ironscape/comments/1wrlm4x/icystony_basalts_vs_portals_vs_nexus/pcdybak/
 - **That's what I was thinking too, I must have banked it or not had it before going to do those, I certainly had the VW when doing A soul's bane because I wished I had a quicker weapo**
-  - comment · 12h ago · DetectingLies · score 24
+  - comment · 13h ago · DetectingLies · score 24
   - matched: a soul's bane, entrana
   - re: Lost items after doing Death on the Isle/other que
   - https://www.reddit.com/r/2007scape/comments/1wrm8x9/lost_items_after_doing_death_on_the_isleother/pcdn90v/
 - **I only have an ironman account, a little over a year old, and herblore was a huge struggle for me. I wanted herbs and better potions and didn’t have the patience for farm runs, so **
-  - comment · 22h ago · HBCDresdenEsquire · score 24
+  - comment · 23h ago · HBCDresdenEsquire · score 24
   - matched: butterflies, herb sack, log basket
   - re: SOTE Herblore and Construction Req's, what did you
   - https://www.reddit.com/r/ironscape/comments/1wrak5j/sote_herblore_and_construction_reqs_what_did_you/pcb25xw/
 - **It was a bad week, goodbye so much.**
-  - r/ironscape · 23m ago · shitplusfanisfun · score 17
+  - r/ironscape · 1h ago · shitplusfanisfun · score 17
   - matched: looting bag, stash unit
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1ws30nv/it_was_a_bad_week_goodbye_so_much/
 - **Maggot king Is BS**
-  - r/2007scape · 4h ago · BlueBooDoo · score 21
+  - r/2007scape · 5h ago · BlueBooDoo · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wryayc/maggot_king_is_bs/
 - **Have you tried tick eating all the hits?**
-  - comment · 2h ago · Barialdalaran · score 20
+  - comment · 3h ago · Barialdalaran · score 20
   - matched: tick eating
   - re: To the guys getting ten+ vardorvis kills per trip
   - https://www.reddit.com/r/2007scape/comments/1wrx7k4/to_the_guys_getting_ten_vardorvis_kills_per_trip/pch9ce6/
 - **Piggy backing and noting that Moons and Amoxliatl are great mid-game bosses that encourages you to move more efficiently, a staple of more advanced PvM. Maximizing your attacks whi**
-  - comment · 4h ago · nekonotjapanese · score 20
+  - comment · 5h ago · nekonotjapanese · score 20
   - matched: safe spot
   - re: What bosses would you recommend for me now that i 
   - https://www.reddit.com/r/2007scape/comments/1wrwpi9/what_bosses_would_you_recommend_for_me_now_that_i/pcgq5ac/
 - **The echo boots reflect card chip dmg and effectively negates the healing he gets from through melee prayer damage. Can run suffering in ring slot instead if prims give more dps/hig**
-  - comment · 4h ago · Kawi366 · +2 more in this thread on the same terms · score 20
+  - comment · 5h ago · Kawi366 · +2 more in this thread on the same terms · score 20
   - matched: max hit, echo boots
   - re: To the guys getting ten+ vardorvis kills per trip
   - https://www.reddit.com/r/2007scape/comments/1wrx7k4/to_the_guys_getting_ten_vardorvis_kills_per_trip/pcgmjxd/
 - **Hes griefing. OP is in a safespot, mage hits AOE. and ranger Will shoot everyone in range. This person dragged the other mobs to ruin OPs safespot. **
-  - comment · 8h ago · Special0fficerD00fy · +2 more in this thread on the same terms · score 20
+  - comment · 9h ago · Special0fficerD00fy · +2 more in this thread on the same terms · score 20
   - matched: safespot
   - re: Why are people like this?
   - https://www.reddit.com/r/2007scape/comments/1wrrxho/why_are_people_like_this/pcf9hpg/
 - **Quests will teach you. You can generally follow this quest order if you need some sort of a check list: [https://oldschool.runescape.wiki/w/Optimal\_quest\_guide](https://oldschool**
-  - comment · 8h ago · vladi963 · score 20
+  - comment · 9h ago · vladi963 · score 20
   - matched: safe spot
   - re: membership tips
   - https://www.reddit.com/r/2007scape/comments/1wrrnoo/membership_tips/pcf4aw1/
@@ -229,31 +220,21 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Any recommendations for my first ever firecape are
   - https://www.reddit.com/r/ironscape/comments/1wr0zdj/any_recommendations_for_my_first_ever_firecape/pcdbb0l/
 - **I sent it with waaaaay worse gear than you (mixed hide, shcb with moonlight bolts, and an ancient staff mystic swap for the first tier aoe blood spell) and got it first try. Some t**
-  - comment · 21h ago · KingKj52 · score 20
+  - comment · 22h ago · KingKj52 · score 20
   - matched: safespot
   - re: Any recommendations for my first ever firecape are
   - https://www.reddit.com/r/ironscape/comments/1wr0zdj/any_recommendations_for_my_first_ever_firecape/pcb7hi1/
-- **Skulled revenants with msb and rune arrows from LMS. If you want, do wilderness slayer and skip using turael Safe spot the knight by the north entrance, you’ll see YouTube videos a**
-  - comment · 23h ago · Nexion21 · score 20
-  - matched: safe spot
-  - re: Runes for bursting... How?
-  - https://www.reddit.com/r/ironscape/comments/1wr8n7i/runes_for_bursting_how/pcawbtl/
 - **Most boss fights we're talking about here are not long enough for this to matter much. I'm not versed in speedrunning TOB so i don't know if this is used in longer rooms, but thats**
-  - comment · 12h ago · DivineInsanityReveng · score 18
+  - comment · 13h ago · DivineInsanityReveng · score 18
   - matched: stall, spellbook swap
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pcdfihd/
 - **Pest control minigame for void knight armor was helpful when I started. Probably more options now, but the minigame was nice for training combat too. The gear ties in with later ac**
-  - comment · 8h ago · OldBitInTheObit · score 17
+  - comment · 9h ago · OldBitInTheObit · score 17
   - matched: void knight, pest control
   - re: membership tips
   - https://www.reddit.com/r/2007scape/comments/1wrrnoo/membership_tips/pcf5to0/
-- **I use mine not daily but for sure weekly. Mostly for toa, cm cox, previously anywhere I needed a decent melee spec (now I use dclaws), really good at regular cox as well as vorkath**
-  - comment · 23h ago · osrs_cinna · score 17
-  - matched: emberlight, darklight
-  - re: Fang needed?
-  - https://www.reddit.com/r/ironscape/comments/1wr8p1x/fang_needed/pcatmrc/
 
 ---
 
-Not included: 1305 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1306 findings older than 24h. Widen with `__osrs.report(48)` in the console.
