@@ -1,69 +1,76 @@
 # OSRS Signal — last 24h
 
-2026-09-30 17:30 UTC · 155 findings after merging duplicates (from 293 raw hits; 108 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 16:34Z) · 55m ago · search: ok · 2m ago · vanished: ok (checked 1) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (11 videos) · 18m ago
+2026-09-30 18:26 UTC · 160 findings after merging duplicates (from 315 raw hits; 119 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 8s ago · repo: ok (pushed 17:30Z) · 56m ago · search: ok · 4m ago · vanished: ok (checked 1) · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (12 videos) · 30m ago
 
-## Vanished — removed or deleted after posting  (10)
+## Vanished — removed or deleted after posting  (11)
 
+- **🗑 vanished from reddit — deleted by the author — I use the main to elder maul spec only and then I leave the room. If you want to sweat you can leave main in room and destroy on m**
+  - comment, vanished · 30m ago · Electronic_Chip2655 · seen 2x · score 43
+  - matched: vanished, spec only, maul spec
+  - was comment, posted 4m before it went
+  - https://www.reddit.com/r/ironscape/comments/1wuayd4/royal_titans_question/pd1qwr7/
+  - captured before it went:
+    > I use the main to elder maul spec only and then I leave the room. If you want to sweat you can leave main in room and destroy on main for per chance, you get pretty much full contribution on the iron as far as the regular loot and main can still destroy/loot as well. You could also consider soul flame horn spam.
 - **🗑 vanished from reddit — removed by a moderator — Brother thinks he’s cool. It must suck to tie your self worth to having a zuk helmet. Edit: your comment history has you looking **
-  - vanished · 12h ago · Ok-Life715 · score 48
+  - vanished · 13h ago · Ok-Life715 · score 48
   - matched: vanished, bugs, exploit
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1ws7tnx/the_elidinis_ward_shouldve_upgraded_the_arcane/pckuucn/
   - captured before it went:
     > Brother thinks he’s cool. It must suck to tie your self worth to having a zuk helmet. Edit: your comment history has you looking for bugs to exploit? Gonna send that one to Jagex.
 - **🗑 vanished from reddit — removed (deleted) — Another mobile bug?**
-  - r/2007scape, vanished · 4h ago · Chess2122 · seen 2x · score 45
+  - r/2007scape, vanished · 5h ago · Chess2122 · seen 2x · score 45
   - matched: vanished, bug
   - was r/2007scape, posted 4m before it went
   - https://www.reddit.com/r/2007scape/comments/1wu4hcx/another_mobile_bug/
   - captured before it went:
     > Just constant freezes/resets
 - **🗑 vanished from reddit — deleted by the author — Yea uims shouldn't be able to do this in the first place its just banking with extra steps**
-  - vanished · 12h ago · xProRaider · score 45
+  - vanished · 13h ago · xProRaider · score 45
   - matched: vanished, shouldn't be able
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/ironscape/comments/1ws30nv/it_was_a_bad_week_goodbye_so_much/pcj5am6/
   - captured before it went:
     > Yea uims shouldn't be able to do this in the first place its just banking with extra steps
 - **🗑 vanished from reddit — deleted by the author — the slight delay before the game registers what weapon you are using, you are technically not using a weapon (so fists) so it make**
-  - vanished · 12h ago · TenebriRS · score 45
+  - vanished · 13h ago · TenebriRS · score 45
   - matched: vanished, bug
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wsga0v/is_this_a_known_bug_i_panicked_so_friggen_hard/pcl2kjd/
   - captured before it went:
     > the slight delay before the game registers what weapon you are using, you are technically not using a weapon (so fists) so it makes you run towards instead. yes its known. is it a bug??? hmmm up for debate. CG is where you learn this pretty much
 - **🗑 vanished from reddit — removed (moderator) — 5 accounts splashing in Edgeville with matching stats and names. Bots or multiboxer?**
-  - vanished · 12h ago · _xKaiser_ · score 43
+  - vanished · 13h ago · _xKaiser_ · score 43
   - matched: vanished, splashing, banking in
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wseqh0/5_accounts_splashing_in_edgeville_with_matching/
 - **🗑 vanished from reddit — deleted by the author — Who will be the first youtuber to make "How fast can i make max cash starting from scratch?" video?**
-  - comment, vanished · 4h ago · Cauliflower_Cock · seen 2x · score 40
+  - comment, vanished · 5h ago · Cauliflower_Cock · seen 2x · score 40
   - matched: vanished, max cash
   - was comment, posted 2m before it went
   - https://www.reddit.com/r/2007scape/comments/1wu3q5v/new_max_cash_you_can_input_into_the_ge_is/pcztwvq/
   - captured before it went:
     > Who will be the first youtuber to make "How fast can i make max cash starting from scratch?" video?
 - **🗑 vanished from reddit — deleted by the author — The +12 attack over NM staff is pretty important for efficient tob frz setups. I understand that's really niche but its also endga**
-  - comment, vanished · 9h ago · wjh18 · seen 2x · score 40
+  - comment, vanished · 10h ago · wjh18 · seen 2x · score 40
   - matched: vanished, manual cast
   - was comment, posted 4m before it went
   - https://www.reddit.com/r/2007scape/comments/1wtjyh6/can_we_give_kodai_the_elder_maul_treatment/pcyio3e/
   - captured before it went:
     > The +12 attack over NM staff is pretty important for efficient tob frz setups. I understand that's really niche but its also endgame content fitting of a megarare item. Kodai allows you to hit the +84 guaranteed freeze threshold with just treads gauntlets ward f and kodai, only 1 of which actually takes up additional invy slots (gauntlets, treads are camped and ward is equippable). This allows you to bring extra items that aid in dps more than if you brought an occult or mage top such as zcb, surge pot, etc. You could also just manual cast with a toxic SoTD but that's 3 less attack than kodai and requires occult in the setup described above to hit 84. Some setups do use occult for the extra dmg I've seen it go both ways. The extra cushion is also nice in case you get drained tanking hits while freezing the clump.
 - **🗑 vanished from reddit — removed (deleted) — Blursed RNG**
-  - vanished · 12h ago · KDFoST · score 40
+  - vanished · 13h ago · KDFoST · score 40
   - matched: vanished, third age
   - was r/ironscape, posted 1d before it went
   - https://www.reddit.com/r/ironscape/comments/1wsfoe0/blursed_rng/
 - **🗑 vanished from reddit — deleted by the author — You're both correct. I believe dude you're replying to is saying the 1% wealth trading elite ARE the only people WANTING it to sta**
-  - vanished · 12h ago · Call_me_Tomcat · score 40
+  - vanished · 13h ago · Call_me_Tomcat · score 40
   - matched: vanished, uncapped
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wskf7e/max_cash_getting_uncapped_at_the_ge_this_week/pcmgp22/
 - **🗑 vanished from reddit — deleted by the author — I don’t think this statement confirms the update is this week. It says the API changes are happening on 9/30 but that doesn’t mean**
-  - vanished · 12h ago · CPU_LEO · score 40
+  - vanished · 13h ago · CPU_LEO · score 40
   - matched: vanished, max cash
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wskf7e/max_cash_getting_uncapped_at_the_ge_this_week/pcmiork/
@@ -76,125 +83,135 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (77 · 34 above the single-term floor, 43 at it)
+## Bugs & exploits  (82 · 35 above the single-term floor, 47 at it)
 
-- **https://oldschool.runescape.wiki/w/Rollback Coin pouch max cash bug was the first**
-  - comment · 1h ago · Gregkow · score 55
-  - matched: bug, rollback, coin pouch
-  - re: I love this game
-  - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pd141o3/
 - **Dear jagex. I promise I will not dupe or bug abuse today. You can rollback everyone else but me **
   - comment · 1h ago · AReally_Cool_Hat · score 48
   - matched: bug, rollback, dupe+breakage
   - re: PSA for OSRS players about Today's Update
   - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd16ru4/
+- **https://oldschool.runescape.wiki/w/Rollback Coin pouch max cash bug was the first**
+  - comment · 2h ago · Gregkow · score 55
+  - matched: bug, rollback, coin pouch
+  - re: I love this game
+  - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pd141o3/
 - **PSA for OSRS players about Today's Update**
-  - r/2007scape · 2h ago · Ok_Thing5957 · score 49
+  - r/2007scape · 3h ago · Ok_Thing5957 · score 49
   - matched: glitch, rollback, dupe+breakage
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/
 - **This is a huge update on the backend. They are changing how basically all items will work with this integer change. If the update goes smoothly and doesn't have a duplication glitc**
-  - comment · 5h ago · 0O00O0O00O · score 48
+  - comment · 6h ago · 0O00O0O00O · score 48
   - matched: glitch, rollback, dupe+breakage
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pczl304/
 - **For an actual, "oops we added a tbow spawn" rollback, no. There's no point if you're rolling everything back. For "oops, we need to adjust some accounts and fix a bug", yes. **
-  - comment · 44m ago · Jambo_dude · score 38
+  - comment · 1h ago · Jambo_dude · score 38
   - matched: bug, rollback
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd1aq7i/
+- **It depends on the severity of the issue. Tbow bush would still be a rollback. UIMs duping with the gem bag upgrade barely affected anyone. There hasn't been any issues warranting a**
+  - comment · 26m ago · Ghasois · score 37
+  - matched: rollback, gem bag
+  - re: PSA for OSRS players about Today's Update
+  - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd1suro/
 - **pretty high-risk change IMO, RS3 did something similar in 2024 (allowed coin pouch to go over max cash) which introduced an economy-breaking dupe in the case someone figures out so**
-  - comment · 6h ago · LaurenceLawliet · score 42
+  - comment · 7h ago · LaurenceLawliet · score 42
   - matched: rollback, coin pouch
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz41pi/
-- **Just go for it. If there is no server rollback you won’t have wasted a day. If there is a rollback, nothing was lost even if you got a drop. Your odds of getting a drop after the r**
-  - comment · 1h ago · General_BP · score 30
-  - matched: rollback, before the update
-  - re: PSA for OSRS players about Today's Update
-  - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd15jqq/
 - **Do nothing after this update im sure we're going to see a 2147 trillion gp dupe with a rollback**
-  - comment · 5h ago · Duch57 · score 37
+  - comment · 6h ago · Duch57 · score 37
   - matched: rollback, trillion gp
   - re: Can you please share how long an update MIGHT take
   - https://www.reddit.com/r/2007scape/comments/1wu39ki/can_you_please_share_how_long_an_update_might/pczlenm/
 - **POH Burners synchronization/ instance bug (grid master scroll)**
-  - r/2007scape · 10h ago · Zotic222 · score 37
+  - r/2007scape · 11h ago · Zotic222 · score 37
   - matched: bug, glitch, for some reason
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wtybio/poh_burners_synchronization_instance_bug_grid/
 - **Is this intended?**
-  - r/2007scape · 3h ago · Crafty-Head2613 · score 36
+  - r/2007scape · 4h ago · Crafty-Head2613 · score 36
   - matched: is this intended, intended?
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu5lrx/is_this_intended/
 - **Changing from 32 bit integer to 64 bit integer is a gigantic task. Its what Y2K was based around and took years of work to fix. RS3 did something similar (a workaround) and introdu**
-  - comment · 6h ago · corbear007 · score 35
+  - comment · 7h ago · corbear007 · score 35
   - matched: glitch, overflow, dupe+breakage
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz4jkr/
-- **Rollback when?**
-  - comment · 1h ago · SourceAwkward · score 25
+- **Just in time for the rollback!**
+  - comment · 43m ago · JustUppedTren · score 25
   - matched: rollback
-  - re: Max cash update unnecessarily converts plat tokens
-  - https://www.reddit.com/r/2007scape/comments/1wu8n7b/max_cash_update_unnecessarily_converts_plat/pd13w6z/
-- **Let’s keep tweaking with it until a forced rollback **
-  - comment · 1h ago · Bits_NPCs · score 25
-  - matched: rollback
-  - re: Max cash update unnecessarily converts plat tokens
-  - https://www.reddit.com/r/2007scape/comments/1wu8n7b/max_cash_update_unnecessarily_converts_plat/pd0z7rs/
-- **Like I said, very unlikely. Most updates, even major ones like this, get implemented without a single issue. If possible, I'd take a screenshot/timestamp of it. People in the comme**
-  - comment · 1h ago · Ok_Thing5957 · +3 more in this thread on the same terms · score 25
-  - matched: rollback
+  - re: Blessed by the RNG gods today
+  - https://www.reddit.com/r/2007scape/comments/1wubhxv/blessed_by_the_rng_gods_today/pd1ot8o/
+- **Just go for it. If there is no server rollback you won’t have wasted a day. If there is a rollback, nothing was lost even if you got a drop. Your odds of getting a drop after the r**
+  - comment · 2h ago · General_BP · score 30
+  - matched: rollback, before the update
   - re: PSA for OSRS players about Today's Update
-  - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd0wqyz/
+  - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd15jqq/
 - **Exactly what I was thinking. No shade to the devs, but odds are there's gonna be some oversight or bug that will get exploited with the GE changes**
-  - comment · 7h ago · Cedced40 · score 26
+  - comment · 8h ago · Cedced40 · score 26
   - matched: bug, exploited
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz1pus/
 - **No one is saying its weird that UIM's physically can use these alternative banking methods. They think it's weird that a playstyle exists where we remove the banking system and rep**
-  - comment · 12h ago · Interesting-Ad-3600 · score 26
+  - comment · 13h ago · Interesting-Ad-3600 · score 26
   - matched: exploits, unintended
   - re: It was a bad week, goodbye so much.
   - https://www.reddit.com/r/ironscape/comments/1ws30nv/it_was_a_bad_week_goodbye_so_much/pcxxh11/
+- **Rollback when?**
+  - comment · 2h ago · SourceAwkward · score 25
+  - matched: rollback
+  - re: Max cash update unnecessarily converts plat tokens
+  - https://www.reddit.com/r/2007scape/comments/1wu8n7b/max_cash_update_unnecessarily_converts_plat/pd13w6z/
+- **Let’s keep tweaking with it until a forced rollback **
+  - comment · 2h ago · Bits_NPCs · score 25
+  - matched: rollback
+  - re: Max cash update unnecessarily converts plat tokens
+  - https://www.reddit.com/r/2007scape/comments/1wu8n7b/max_cash_update_unnecessarily_converts_plat/pd0z7rs/
+- **Like I said, very unlikely. Most updates, even major ones like this, get implemented without a single issue. If possible, I'd take a screenshot/timestamp of it. People in the comme**
+  - comment · 2h ago · Ok_Thing5957 · +4 more in this thread on the same terms · score 25
+  - matched: rollback
+  - re: PSA for OSRS players about Today's Update
+  - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd0wqyz/
 - **timing on this might be an issue if rollback ends up happening. otherwise GZZZ**
-  - comment · 2h ago · Dependent_Twist5709 · score 25
+  - comment · 3h ago · Dependent_Twist5709 · score 25
   - matched: rollback
   - re: It finally happened!!!
   - https://www.reddit.com/r/2007scape/comments/1wu7gkz/it_finally_happened/pd0pj7c/
 - **Why would they do a countdown for a rollback**
-  - comment · 2h ago · Jambo_dude · score 25
+  - comment · 3h ago · Jambo_dude · score 25
   - matched: rollback
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0kf48/
 - **nah rollback countdowns are 10 minutes not 30**
-  - comment · 2h ago · AlmightyCo · score 25
+  - comment · 3h ago · AlmightyCo · score 25
   - matched: rollback
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0ke12/
 - **Wouldnt be a rollback without something juicy getting wiped**
-  - comment · 2h ago · Wildest12 · score 25
+  - comment · 3h ago · Wildest12 · score 25
   - matched: rollback
   - re: Rarest drop in OSRS history?
   - https://www.reddit.com/r/2007scape/comments/1wu4aap/rarest_drop_in_osrs_history/pd0jhpb/
 - **The QA team needs to preemptively investigate any and all edge cases that can happen after you have multiple placeholders. Nobody wants a rollback.**
-  - comment · 2h ago · WaveDashSpeedKick · score 25
+  - comment · 3h ago · WaveDashSpeedKick · score 25
   - matched: rollback
   - re: accidentally duped my coins in the bank
   - https://www.reddit.com/r/2007scape/comments/1wu4ngb/accidentally_duped_my_coins_in_the_bank/pd0ev6g/
 - **Wasn't it the first major rollback in osrs? I may be misremembering, it was a while ago.**
-  - comment · 2h ago · theLULRUS · score 25
+  - comment · 3h ago · theLULRUS · score 25
   - matched: rollback
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pd0e8qt/
 - **Guess im not playing today, rollback timeeee lol**
-  - comment · 3h ago · zxROLLTIDExz · score 25
+  - comment · 4h ago · zxROLLTIDExz · score 25
   - matched: rollback
   - re: accidentally duped my coins in the bank
   - https://www.reddit.com/r/2007scape/comments/1wu4ngb/accidentally_duped_my_coins_in_the_bank/pd05gk0/
 - **I was literally about to start a task of kurasks when I saw it, it would be my luck to get a heart through a rollback. **
-  - comment · 3h ago · YurpeeTheHerpee · score 25
+  - comment · 4h ago · YurpeeTheHerpee · score 25
   - matched: rollback
   - re: Rarest drop in OSRS history?
   - https://www.reddit.com/r/2007scape/comments/1wu4aap/rarest_drop_in_osrs_history/pd02wkk/
@@ -204,17 +221,12 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Game is back up!
   - https://www.reddit.com/r/2007scape/comments/1wu3lkm/game_is_back_up/pcznx1m/
 - **integer overflow hype, the platinum coin will somehow count as a gold coin due to a bug causing anyone with max gold to lose it all from the coin integer looping back around to zer**
-  - comment · 7h ago · Ok_Needleworker9454 · score 25
+  - comment · 8h ago · Ok_Needleworker9454 · score 25
   - matched: bug, overflow
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcyy87a/
-- **Empty Containers button doesn't empty the Seed Box**
-  - search · 23h ago · Turbo_Fresh · score 25
-  - matched: bug, herb sack, seed box
-  - 36c
-  - https://www.reddit.com/r/2007scape/comments/1wtgmsr/empty_containers_button_doesnt_empty_the_seed_box/
 - **Anyone else getting weird bugs since the update?**
-  - r/2007scape · 4h ago · Dcondcondcon · score 24
+  - r/2007scape · 5h ago · Dcondcondcon · score 24
   - matched: bugs, anyone else getting
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu4b3a/anyone_else_getting_weird_bugs_since_the_update/
@@ -224,52 +236,72 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: PSA for OSRS players about Today's Update
   - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd0rzd0/
 - **Aaah right, the coin pouch bug. Looks like there were a couple little ones before that one too. Thanks for the link.**
-  - comment · 56m ago · theLULRUS · score 18
+  - comment · 1h ago · theLULRUS · score 18
   - matched: bug, coin pouch
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pd17uym/
-- **The market was always open and fair. Technically anyone can get a 3rd age pic or druid robes or whatever any time. Just like anyone can literally win the lottery or have the right **
-  - comment · 1h ago · Motor-Resolution-524 · score 18
-  - matched: bug, 3rd age
-  - re: Let the crash begin... a 3rd age pickaxe was alrea
-  - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pd1460y/
 - **▶ 6 Glitch Courses Inside an MMO Arcade | New Custom RSPS**
-  - youtube · 4h ago · Loyal · seen 2x · score 19
+  - youtube · 5h ago · Loyal · seen 2x · score 19
   - matched: glitch
   - youtube
   - https://www.youtube.com/watch?v=1o2knC0YQuE
+- **The market was always open and fair. Technically anyone can get a 3rd age pic or druid robes or whatever any time. Just like anyone can literally win the lottery or have the right **
+  - comment · 2h ago · Motor-Resolution-524 · score 18
+  - matched: bug, 3rd age
+  - re: Let the crash begin... a 3rd age pickaxe was alrea
+  - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pd1460y/
 - **Yeah, I agree. I don't really see reddit as a monolith despite the common memes about it, but I do find it bizarre when suggestions to fix things which everyone seems to agree are **
-  - comment · 5h ago · coreyhh90 · score 18
+  - comment · 6h ago · coreyhh90 · score 18
   - matched: item loss, in rs3
   - re: Death coffers should not delete items on second de
   - https://www.reddit.com/r/2007scape/comments/1ws6u6p/death_coffers_should_not_delete_items_on_second/pczd4d0/
+- **They generally do fix them as they happen in most cases. But sometimes the interactions are not intuitive. I doubt anybody making this change would have had the thought "i wonder i**
+  - comment · 10m ago · GibbyG1100 · score 13
+  - matched: game breaking
+  - re: The good ol' load-bearing fletching knife
+  - https://www.reddit.com/r/2007scape/comments/1wu5ias/the_good_ol_loadbearing_fletching_knife/pd1ws3q/
+- **This was happening before today's update and also happening without using a dragon harpoon spec. I think its been happening since last weeks update. HOWEVER, it was fixed for me to**
+  - comment · 11m ago · nakedforever · score 13
+  - matched: bug
+  - re: Bug: using dragon harpoon spec while boat fishing 
+  - https://www.reddit.com/r/2007scape/comments/1wu5g4x/bug_using_dragon_harpoon_spec_while_boat_fishing/pd1wkvs/
+- **Except that not the only issue. Setting up the traps has weird tick delays because it's two items and picking up failed catches also drops two items. Especially with the bugs in th**
+  - comment · 14m ago · Habibipie · score 13
+  - matched: bugs
+  - re: Yet another week
+  - https://www.reddit.com/r/2007scape/comments/1wu6sr1/yet_another_week/pd1vt94/
+- **Imma be real, never had any issues in my 10 years of playing so idk what the report says. But a quick search of "osrs account hacked" does mention the Steam link. And for the bank **
+  - comment · 34m ago · Kaka-carrot-cake · score 13
+  - matched: shouldnt be able
+  - re: Hijacked account
+  - https://www.reddit.com/r/2007scape/comments/1wub9jk/hijacked_account/pd1qv77/
 - **this was clearly an exploit**
-  - comment · 24m ago · DM_ME_UR_PUBES · score 13
+  - comment · 1h ago · DM_ME_UR_PUBES · score 13
   - matched: exploit
   - re: Did Jagex stealth nerf deaths coffer with today's 
   - https://www.reddit.com/r/2007scape/comments/1wu9a1g/did_jagex_stealth_nerf_deaths_coffer_with_todays/pd1fnz8/
 - **Priest in peril bug**
-  - r/2007scape · 30m ago · Flat-Acanthisitta · score 13
+  - r/2007scape · 1h ago · Flat-Acanthisitta · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wuad1h/priest_in_peril_bug/
 - **huh. First time i've ever been called broke via bug before**
-  - comment · 1h ago · Lerched · score 13
+  - comment · 2h ago · Lerched · score 13
   - matched: bug
   - re: Max cash update unnecessarily converts plat tokens
   - https://www.reddit.com/r/2007scape/comments/1wu8n7b/max_cash_update_unnecessarily_converts_plat/pd151wv/
 - **I swear the past 10 frog random events for me have all been the prince. Either fairly rare, or perhaps bugged**
-  - comment · 1h ago · LordOrochimaru · score 13
+  - comment · 2h ago · LordOrochimaru · score 13
   - matched: bugged
   - re: Please add this setting for Frog Random Events
   - https://www.reddit.com/r/2007scape/comments/1wu5uin/please_add_this_setting_for_frog_random_events/pd10nv1/
 - **Honestly, not bad advice. I'm 110kc into ToA with no purples yet, and knowing my luck, I'll get it and the servers will be rolled back. Not worth the risk, no matter how slight.**
-  - comment · 1h ago · Diatain · score 13
+  - comment · 2h ago · Diatain · score 13
   - matched: rolled back
   - re: PSA for OSRS players about Today's Update
   - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd0v855/
 - **Yeah this is far from the most frustrating mobile bug rn lmao they’re probably trying to fix them but it’s pretty annoying atm**
-  - comment · 1h ago · X_OttersAreCute_X · score 13
+  - comment · 2h ago · X_OttersAreCute_X · score 13
   - matched: bug
   - re: Mobile Bug: Experience Box
   - https://www.reddit.com/r/2007scape/comments/1wu7unt/mobile_bug_experience_box/pd0tazu/
@@ -279,47 +311,47 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: PSA for OSRS players about Today's Update
   - https://www.reddit.com/r/2007scape/comments/1wu7vre/psa_for_osrs_players_about_todays_update/pd0rzl8/
 - **Mobile Bug: Experience Box**
-  - r/2007scape · 2h ago · IIcarusII · score 13
+  - r/2007scape · 3h ago · IIcarusII · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu7unt/mobile_bug_experience_box/
 - **God all i can imagine is some new bug where we're just yeeting bowfas at an npc like throwing knives**
-  - comment · 2h ago · pethobbit · score 13
+  - comment · 3h ago · pethobbit · score 13
   - matched: bug
   - re: Is the Bowfa stackable now?
   - https://www.reddit.com/r/2007scape/comments/1wu7561/is_the_bowfa_stackable_now/pd0q6z7/
 - **I'm praying for you that the cash stack increase doesn't have any dupes or glitches causing a server roll back**
-  - comment · 2h ago · Ok_Thing5957 · score 13
+  - comment · 3h ago · Ok_Thing5957 · score 13
   - matched: glitches
   - re: It finally happened!!!
   - https://www.reddit.com/r/2007scape/comments/1wu7gkz/it_finally_happened/pd0nldu/
 - **Afaik yes, I just don't know how did they discover the Dwarven cake exploit, crazy rendi level of qa**
-  - comment · 2h ago · SourceAwkward · score 13
+  - comment · 3h ago · SourceAwkward · score 13
   - matched: exploit
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0nexq/
 - **If a simple visual bug while fishing is ruining the game for you it may be time to log off**
-  - comment · 2h ago · Lunisare · score 13
+  - comment · 3h ago · Lunisare · score 13
   - matched: bug
   - re: Bug: using dragon harpoon spec while boat fishing 
   - https://www.reddit.com/r/2007scape/comments/1wu5g4x/bug_using_dragon_harpoon_spec_while_boat_fishing/pd0nefg/
 - **Don't feel bad. We've had some insane bugs over the years. With a ge related updated it wouldn't be too hard to believe something like that happened. **
-  - comment · 2h ago · thisshitsstupid · score 13
+  - comment · 3h ago · thisshitsstupid · score 13
   - matched: bugs
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0kmuz/
 - **Will they remove the items iron bought from the ge using the exploit?**
-  - comment · 2h ago · SourceAwkward · score 13
+  - comment · 3h ago · SourceAwkward · score 13
   - matched: exploit
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0k6l6/
 - **There’s a glitch where buying stuff on ge doubles your money if got platinum tokens in bank **
-  - comment · 2h ago · RY8N · score 13
+  - comment · 3h ago · RY8N · score 13
   - matched: glitch
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0ibuq/
 - **Update>new bugs> bug fix> repeat**
-  - comment · 2h ago · IncompetentEarl · score 13
+  - comment · 3h ago · IncompetentEarl · score 13
   - matched: bug
   - re: Rollback incoming ! !
   - https://www.reddit.com/r/2007scape/comments/1wu6lk2/rollback_incoming/pd0gwpq/
@@ -329,122 +361,122 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: accidentally duped my coins in the bank
   - https://www.reddit.com/r/2007scape/comments/1wu4ngb/accidentally_duped_my_coins_in_the_bank/pd0e2wt/
 - **For those wondering what I mean by toa gaslighting, so far my friend and I have seen both the memory an pillar puzzles fail despite being fed the correct solution, all the match pu**
-  - comment · 3h ago · IncompetentEarl · score 13
+  - comment · 4h ago · IncompetentEarl · score 13
   - matched: bugs
   - re: Favorite spaghetti?
   - https://www.reddit.com/r/2007scape/comments/1wu5icp/favorite_spaghetti/pd08j9k/
 - **I don’t play this game that much but rollbacks would be people discovering that there are bugs that this new update has introduced and Jagex literally rolling back people’s experie**
-  - comment · 3h ago · Federal_Coyote813 · score 13
+  - comment · 4h ago · Federal_Coyote813 · score 13
   - matched: bugs
   - re: accidentally duped my coins in the bank
   - https://www.reddit.com/r/2007scape/comments/1wu4ngb/accidentally_duped_my_coins_in_the_bank/pd08hpp/
 - **Bug: using dragon harpoon spec while boat fishing causes everyone's boat facilities to become visible**
-  - r/2007scape · 3h ago · Sneeglius · score 13
+  - r/2007scape · 4h ago · Sneeglius · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu5g4x/bug_using_dragon_harpoon_spec_while_boat_fishing/
 - **Fletching Bug**
-  - r/2007scape · 3h ago · MainMedic · score 13
+  - r/2007scape · 4h ago · MainMedic · score 13
   - matched: bug
   - 1c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu5epu/fletching_bug/
 - **Its a bug there have been a hundred posts on this past couple of days **
-  - comment · 3h ago · TenebriRS · +5 more in this thread on the same terms · score 13
+  - comment · 4h ago · TenebriRS · +5 more in this thread on the same terms · score 13
   - matched: bug
   - re: Numbers next to amulets today?
   - https://www.reddit.com/r/2007scape/comments/1wu595l/numbers_next_to_amulets_today/pd0454e/
 - **they definitely rolled back**
-  - comment · 3h ago · mhuugling · score 13
+  - comment · 4h ago · mhuugling · score 13
   - matched: rolled back
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pd03rcn/
 - **Yes its a bug There have been like a hundred posts on this past couple of daya**
-  - comment · 3h ago · TenebriRS · score 13
+  - comment · 4h ago · TenebriRS · score 13
   - matched: bug
   - re: Items that didn’t have counters now do after updat
   - https://www.reddit.com/r/2007scape/comments/1wu575p/items_that_didnt_have_counters_now_do_after_update/pd0356y/
 - **Looks like a possible bug, I just noticed it with ensouled heads and they don't stack**
-  - comment · 3h ago · mia_is_climbing · score 13
+  - comment · 4h ago · mia_is_climbing · score 13
   - matched: bug
   - re: Items that didn’t have counters now do after updat
   - https://www.reddit.com/r/2007scape/comments/1wu575p/items_that_didnt_have_counters_now_do_after_update/pd032nt/
 - **Youre getting rolled back bro. Someone just duped cash.**
-  - comment · 3h ago · YurpeeTheHerpee · score 13
+  - comment · 4h ago · YurpeeTheHerpee · score 13
   - matched: rolled back
   - re: Rarest drop in OSRS history?
   - https://www.reddit.com/r/2007scape/comments/1wu4aap/rarest_drop_in_osrs_history/pd01sxt/
 - **Could be a visual bug, can you take it out, log in and out to see if it’s still there?**
-  - comment · 3h ago · mattbrvc · score 13
+  - comment · 4h ago · mattbrvc · score 13
   - matched: bug
   - re: accidentally duped my coins in the bank
   - https://www.reddit.com/r/2007scape/comments/1wu4ngb/accidentally_duped_my_coins_in_the_bank/pd00v58/
 - **I think my favorite part of that whole debacle is they couldn’t immediately pinpoint the source of the bug, so their short term solution was to trap it between four tree stumps, wh**
-  - comment · 4h ago · The_Real_MikeOxlong · +10 more in this thread on the same terms · score 13
+  - comment · 5h ago · The_Real_MikeOxlong · +11 more in this thread on the same terms · score 13
   - matched: bug
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pczwsdx/
 - **Not a mobile bug, luckily. This affects all clients.**
-  - comment · 4h ago · NewAccountXYZ · score 13
+  - comment · 5h ago · NewAccountXYZ · score 13
   - matched: bug
   - re: Another mobile bug?
   - https://www.reddit.com/r/2007scape/comments/1wu4hcx/another_mobile_bug/pczvxgl/
 - **Sounds like a major bug that I discovered back in the day that let you sell any amount of items in the ge even if they weren't in your inventory**
-  - comment · 4h ago · ryanstarman123 · score 13
+  - comment · 5h ago · ryanstarman123 · score 13
   - matched: bug
   - re: tried to buy a spectral, game filled up my invento
   - https://www.reddit.com/r/2007scape/comments/1wu48o1/tried_to_buy_a_spectral_game_filled_up_my/pczv577/
 - **Not having to go via the middle man is very important because it allows for natural price discovery. Rather than a bunch of people you have to trade with saying "trust me bro". Mos**
-  - comment · 4h ago · BlackenedGem · score 13
+  - comment · 5h ago · BlackenedGem · score 13
   - matched: exploited
   - re: Let the crash begin... a 3rd age pickaxe was alrea
   - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pczrbhm/
 - **Fletching knife bug post update**
-  - r/2007scape · 4h ago · Grokk213 · score 13
+  - r/2007scape · 5h ago · Grokk213 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu3vvu/fletching_knife_bug_post_update/
 - **If they get it wrong they potentially introduce economy breaking bugs that let people dupe trillions of gp. I'd rather they take their time.**
-  - comment · 4h ago · PFhelpmePlan · score 13
+  - comment · 5h ago · PFhelpmePlan · score 13
   - matched: bugs
   - re: Can you please share how long an update MIGHT take
   - https://www.reddit.com/r/2007scape/comments/1wu39ki/can_you_please_share_how_long_an_update_might/pczph27/
 - **every week they release “fixes” that cause a whole new list of bugs. just hang it up atp it’s beyond annoying. **
-  - comment · 6h ago · Appropriate-War-6784 · score 13
+  - comment · 7h ago · Appropriate-War-6784 · score 13
   - matched: bugs
   - re: Mobile client not working?
   - https://www.reddit.com/r/2007scape/comments/1wu1c71/mobile_client_not_working/pcz8gyd/
 - **Will probably come back online within 2 hours - find a bug in the update - go down for another 6 hours Usually the case lol**
-  - comment · 6h ago · Fantastic-College227 · score 13
+  - comment · 7h ago · Fantastic-College227 · score 13
   - matched: bug
   - re: Mobile client not working?
   - https://www.reddit.com/r/2007scape/comments/1wu1c71/mobile_client_not_working/pcz6gw6/
 - **People are not dump, that's just bad game design. Teleporting away should cancel the trade window. That is how it works in other mmo's and no reason why it shouldn't work like that**
-  - comment · 6h ago · anomitesplays · score 13
+  - comment · 7h ago · anomitesplays · score 13
   - matched: shouldn't work
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz5pqm/
 - **report it as a bug ingame, the dev's dont read this thread (for the most part, some might do occationally) this is a qna thread where the community answers!**
-  - comment · 7h ago · TheIsaia · score 13
+  - comment · 8h ago · TheIsaia · score 13
   - matched: bug
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1wtx65r/have_a_question_about_the_game_or_the_subreddit/pcz0cvh/
 - **Hello, is there any theoretical timeline at the moment for the various bugs that were caused on PC and mobile by MES 2.0? I've submitted several bug reports but the same issues hav**
-  - comment · 8h ago · NoCurrencies · +4 more in this thread on the same terms · score 13
+  - comment · 8h ago · NoCurrencies · +5 more in this thread on the same terms · score 13
   - matched: bug
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcyvb7q/
 - **They removed a bug with nightmare and now it's lowkey impossible to get it on low cmb**
-  - comment · 9h ago · skyfarter · score 13
+  - comment · 10h ago · skyfarter · score 13
   - matched: bug
   - re: So what's a greater achievement than HC GIM Zuk He
   - https://www.reddit.com/r/2007scape/comments/1wsudz0/so_whats_a_greater_achievement_than_hc_gim_zuk/pcyn7p5/
 - **it must be bugged then cause i know i only got 5 kills (the 3 drops + 2 supply drops on the 2nd and 3rd)**
-  - comment · 12h ago · Javathun · score 13
+  - comment · 13h ago · Javathun · score 13
   - matched: bugged
   - re: Loot from completing perfect duke CA
   - https://www.reddit.com/r/2007scape/comments/1wtkmc3/loot_from_completing_perfect_duke_ca/pcxxfcu/
 - **POH layout bug**
-  - r/2007scape · 12h ago · Buxuh · score 13
+  - r/2007scape · 13h ago · Buxuh · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wtw1bu/poh_layout_bug/
@@ -454,12 +486,12 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - · top:runescape bug since:2026-09-20
   - https://x.com/insidersaga/status/2105092511798862324
 - **Basilisk Jaw is a Myth**
-  - r/2007scape · 19h ago · Ok-Discussion-5531 · score 13
+  - r/2007scape · 20h ago · Ok-Discussion-5531 · score 13
   - matched: bugged
   - 23c · 14↑
   - https://www.reddit.com/r/2007scape/comments/1wtnhty/basilisk_jaw_is_a_myth/
 - **Mobile bug or user error?**
-  - r/2007scape · 21h ago · sixteenbears16 · score 13
+  - r/2007scape · 22h ago · sixteenbears16 · score 13
   - matched: bug
   - 8c · 2↑
   - https://www.reddit.com/r/2007scape/comments/1wtjxsx/mobile_bug_or_user_error/
@@ -467,7 +499,7 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
 ## Jagex & J-Mod  (23 · 22 above the single-term floor, 1 at it)
 
 - **PSA: The work to get the Beyond Max Cash update out is still ongoing and the game worlds aren't coming back online just yet. We'll provide another update on the status by 30 minute**
-  - comment · 6h ago · JagexBlossom · score 48
+  - comment · 7h ago · JagexBlossom · score 48
   - matched: J-Mod, psa:, max cash
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz90aq/
@@ -477,107 +509,107 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Death coffers should not delete items on second de
   - https://www.reddit.com/r/2007scape/comments/1ws6u6p/death_coffers_should_not_delete_items_on_second/pcznmlr/
 - **Got you, thanks! I will make sure they're raised to the team but yeah it's today's update bugs that will be the priority today!**
-  - comment · 4h ago · JagexBlossom · score 38
+  - comment · 5h ago · JagexBlossom · score 38
   - matched: J-Mod, bugs
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pczvj8y/
 - **Long press on mobile**
-  - r/2007scape · 4h ago · qwinnnnnn · score 37
+  - r/2007scape · 5h ago · qwinnnnnn · score 37
   - matched: [J-Mod reply], anyone else having
   - 3c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wu4a5m/long_press_on_mobile/
 - **📰 Get Ready for RuneFest 2026**
-  - news · 21h ago · Spineweilder · score 34
+  - news · 22h ago · Spineweilder · score 34
   - matched: newspost
   - Created page with "{{Update|date=29 September 2026|url=https
   - https://oldschool.runescape.wiki/w/Update%3AGet_Ready_for_RuneFest_2026
 - **🟣 12 J-Mod replies — Which of these is the biggest reason you are (still) playing osrs today?**
-  - comment · 2h ago · JagexSween · score 30
+  - comment · 3h ago · JagexSween · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexSween: I made an account on launch in 2013, but quickly got too busy to keep 
   - https://www.reddit.com/comments/1wtz6h3
 - **🟣 12 J-Mod replies — I love this game**
-  - comment · 2h ago · JagexNin · score 30
+  - comment · 3h ago · JagexNin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexNin: This one is quite boring I'm afraid, but you're weirdly along the righ
   - https://www.reddit.com/comments/1wu4eb6
 - **🟣 226 J-Mod replies — GE Improvements: Beyond Max Cash**
-  - comment · 2h ago · JagexBlossom · score 30
+  - comment · 3h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 226, JagexBlossom: Can you make sure you're updated to version 241.2? You might need to g
   - https://www.reddit.com/comments/1wu0cwv
 - **🟣 12 J-Mod replies — accidentally duped my coins in the bank**
-  - comment · 3h ago · JagexBlossom · score 30
+  - comment · 4h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexBlossom: Hey thanks for flagging, this looks like you've just duped a placehold
   - https://www.reddit.com/comments/1wu4ngb
 - **🟣 12 J-Mod replies — Long press on mobile**
-  - comment · 4h ago · JagexBlossom · score 30
+  - comment · 5h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexBlossom: Hey did you update to 241.2? We put a fix out for this issue so you mi
   - https://www.reddit.com/comments/1wu4a5m
 - **🟣 11 J-Mod replies — Anyone else getting weird bugs since the update?**
-  - comment · 4h ago · JagexBlossom · score 30
+  - comment · 5h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 11, JagexBlossom: Hey! We're aware of this one and the team is actively investigating. I
   - https://www.reddit.com/comments/1wu4b3a
 - **🟣 10 J-Mod replies — Fletching makes me DC since update**
-  - comment · 4h ago · JagexBlossom · score 30
+  - comment · 5h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 10, JagexBlossom: Hey! The team is actively investigating this issue. In the meantime, y
   - https://www.reddit.com/comments/1wu4b5m
 - **🟣 6 J-Mod replies — i hope they are enjoying their time in game while we wait.**
-  - comment · 4h ago · JagexNin · score 30
+  - comment · 5h ago · JagexNin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 6, JagexNin: It was lovely thanks!
   - https://www.reddit.com/comments/1wu24mk
 - **🟣 7 J-Mod replies — connection lost every time I cut Bruma root in solo wintertodt**
-  - comment · 4h ago · JagexBlossom · score 30
+  - comment · 5h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 7, JagexBlossom: Hey! Thanks so much for flagging, our team's now investigating this.
   - https://www.reddit.com/comments/1wu3run
 - **🟣 12 J-Mod replies — I killed bots that were turning in zombie keys for 500m+ in just a few days**
-  - comment · 6h ago · JagexPheasant · score 30
+  - comment · 7h ago · JagexPheasant · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 12, JagexPheasant: Hi everyone, We understand how frustrating and concerning this situati
   - https://www.reddit.com/comments/1wtw2u1
 - **I found the change log you screenshotted. It's exclusively in the blood wave change log. Jagex never mentioned it in the patch notes. That points to it being a bug and someone just**
-  - comment · 2h ago · IncompetentEarl · score 28
+  - comment · 3h ago · IncompetentEarl · score 28
   - matched: bug, patch notes
   - re: Favorite spaghetti?
   - https://www.reddit.com/r/2007scape/comments/1wu5icp/favorite_spaghetti/pd0ffoq/
 - **I think Mod Ash used to respond to people on Twitter with explanations about the weirder bugs. its risky to do that because bug abusers and botters can use that information malicio**
-  - comment · 3h ago · Vid-Master · score 28
+  - comment · 4h ago · Vid-Master · score 28
   - matched: bug, mod ash
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pd0d3by/
 - **This week’s game update will include planned downtime in preparation for the launch of “Grand Exchange Improvements: Beyond Max Cash”. Game worlds will go offline at 10:06 UTC, wit**
-  - comment · 5h ago · Lazy_Inferno · seen 2x · score 27
+  - comment · 6h ago · Lazy_Inferno · seen 2x · score 27
   - matched: max cash, game update
   - re: Mobile client not working?
   - https://www.reddit.com/r/2007scape/comments/1wu1c71/mobile_client_not_working/pcz35ff/
 - **Idk man, I'm just copy pasting the status page: [https://secure.runescape.com/m=news/game-status-information-centre?oldschool=1](https://secure.runescape.com/m=news/game-status-inf**
-  - comment · 5h ago · Lazy_Inferno · score 27
+  - comment · 6h ago · Lazy_Inferno · score 27
   - matched: max cash, game update
   - re: IT IS BEYOND 11:00 UTC WHERE JAGEC
   - https://www.reddit.com/r/2007scape/comments/1wu21cb/it_is_beyond_1100_utc_where_jagec/pcze8nx/
 - **Status page was updated: 20 more min from now his week’s game update will include planned downtime in preparation for the launch of “Grand Exchange Improvements: Beyond Max Cash”. **
-  - comment · 6h ago · Lazy_Inferno · score 27
+  - comment · 7h ago · Lazy_Inferno · score 27
   - matched: max cash, game update
   - re: IT IS BEYOND 11:00 UTC WHERE JAGEC
   - https://www.reddit.com/r/2007scape/comments/1wu21cb/it_is_beyond_1100_utc_where_jagec/pczarrr/
 - **[Game Update] GE Improvements: Beyond Max Cash**
-  - r/ironscape · 7h ago · TDFrijole · score 27
+  - r/ironscape · 8h ago · TDFrijole · score 27
   - matched: max cash, game update
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wu0mys/game_update_ge_improvements_beyond_max_cash/
 - **GE Improvements: Beyond Max Cash**
-  - r/2007scape · 8h ago · JagexBlossom · score 26
+  - r/2007scape · 9h ago · JagexBlossom · score 26
   - matched: J-Mod, max cash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/
 - **Payment is being refused for bond purchase. Membership purchase was ok. Silence from the support.**
-  - r/2007scape · 21h ago · grundrisze · score 15
+  - r/2007scape · 22h ago · grundrisze · score 15
   - matched: known issue
   - 15c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wtktcg/payment_is_being_refused_for_bond_purchase/
@@ -585,140 +617,130 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
 ## "You can do this" finds  (5 · 4 above the single-term floor, 1 at it)
 
 - **Overall it's less efficient than just getting the ancient icon from phantom muspah. But it's not too horrible of a detour if you're at MTA already. Infinity boots, bones to peaches**
-  - comment · 9m ago · PhatSoxx · score 26
+  - comment · 1h ago · PhatSoxx · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What is your current “Iron Path”? That’s what I ca
   - https://www.reddit.com/r/ironscape/comments/1wu4nnb/what_is_your_current_iron_path_thats_what_i_call/pd1jf7i/
 - **i did solos no mage swap out of sheer laziness so i just ate like 3-4 fish per kill and ferox -> giantsoul reset each kill so inventory management was never an issue for me but tha**
-  - comment · 1h ago · ScruffyScruffz · score 26
+  - comment · 2h ago · ScruffyScruffz · score 26
   - matched: ⚡ food per inventory slot, seed box
   - re: Royal Titans is going good so far 🥹
   - https://www.reddit.com/r/ironscape/comments/1wty4e1/royal_titans_is_going_good_so_far/pd0xe63/
 - **Aren't these cases similar enough though? I mean, both are nothing more of a prestigious unlock, both (should) take a serious amount of effort and time unless you're specifically l**
-  - comment · 5h ago · ArtOptimal1931 · score 26
+  - comment · 6h ago · ArtOptimal1931 · score 26
   - matched: ⚡ food per inventory slot, fish sack
   - re: So will we just be doomed to do Penguin Agility fo
   - https://www.reddit.com/r/2007scape/comments/1wjq3lp/so_will_we_just_be_doomed_to_do_penguin_agility/pczhv6m/
 - **Gives access to "Omni-burst" at 99 magic. Burst spells that freeze, heal, poison, and debuff attack all at once. Costs the combined rune total of all the other burst spells for one**
-  - comment · 11h ago · GigaEel · score 26
+  - comment · 12h ago · GigaEel · score 26
   - matched: ⚡ food per inventory slot
   - re: Let us attach all 4 DT2 quartz to Kodai wand — may
   - https://www.reddit.com/r/2007scape/comments/1wtwyis/let_us_attach_all_4_dt2_quartz_to_kodai_wand/pcy4l12/
 - **For sure should've said gear and extra BS. Gridmaster was super easy because of those sunfire gloves and infinite triple eats. Infinite food was good for learning the higher invos **
-  - comment · 1h ago · IncompetentEarl · score 12
+  - comment · 2h ago · IncompetentEarl · score 12
   - matched: infinite food
   - re: Favorite spaghetti?
   - https://www.reddit.com/r/2007scape/comments/1wu5icp/favorite_spaghetti/pd10uv9/
 
-## Mechanics & wiki corrections  (39 · 35 above the single-term floor, 4 at it)
+## Mechanics & wiki corrections  (38 · 34 above the single-term floor, 4 at it)
 
 - **Smoke spells are the same way. What's even crazier is they totally could be used in a piece of content it just isn't. To kill the respiratory systems at sire you stun with a shadow**
-  - comment · 12h ago · itslilythedog · score 28
+  - comment · 13h ago · itslilythedog · score 28
   - matched: for some reason, respiratory, demonbane
   - re: Grasp Spells in a Nutshell
   - https://www.reddit.com/r/2007scape/comments/1wth02y/grasp_spells_in_a_nutshell/pcxsp00/
-- **Is this normal?**
-  - r/2007scape · 1h ago · vwvk · score 21
-  - matched: is this normal
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wu90jp/is_this_normal/
 - **Very happy to see the chat range increase. Most people didn't know the range, and it was frustrating trying to stay in range of people you are talking to. Especially when doing sla**
-  - comment · 6h ago · neilharbin0 · score 26
+  - comment · 7h ago · neilharbin0 · score 26
   - matched: accept aid, tele other
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz83rb/
-- **Tiger Shark double safespot**
-  - r/2007scape · 23h ago · ahhhhhhhhAlt · score 26
-  - matched: aggro range, safespot
-  - 1c · 15↑
-  - https://www.reddit.com/r/2007scape/comments/1wthwg6/tiger_shark_double_safespot/
-- **I did it with sunlight antelope and karams with 80 magic for blood blitz, was pretty easy, you heal up most of the way before you get the max hit move and can combo eat to recover **
-  - comment · 1h ago · SeptumValley · score 20
-  - matched: max hit, combo eat
-  - re: What is your current “Iron Path”? That’s what I ca
-  - https://www.reddit.com/r/ironscape/comments/1wu4nnb/what_is_your_current_iron_path_thats_what_i_call/pd143hi/
-- **You don't get the max hit guarantee on core in p2 warden. You'll also contribute literally nothing in cum phase akkha. You will absolutely be sandbagging your team, but you can get**
-  - comment · 1h ago · iBrowseAtStarbucks · score 20
-  - matched: max hit, sandbagging
-  - re: TOA not asking for anyone to help me here just ask
-  - https://www.reddit.com/r/2007scape/comments/1wu88dk/toa_not_asking_for_anyone_to_help_me_here_just/pd0vafr/
+- **You may be standing in the wrong spot. Which rev are you trying to safespot?**
+  - comment · 26m ago · robertsjj · score 20
+  - matched: safespot
+  - re: Revenant safespotting not working?
+  - https://www.reddit.com/r/ironscape/comments/1wu1fpo/revenant_safespotting_not_working/pd1sx1x/
 - **you can cannon the hill giants in Giants Den, uniquely they also drop catacomb of kourend Ancient Shards and Totem pieces. Its single target so you gotta safespot only running out **
-  - comment · 12h ago · ScruffyScruffz · score 25
+  - comment · 13h ago · ScruffyScruffz · score 25
   - matched: safespot, telegrab
   - re: best place to farm long/curved bones
   - https://www.reddit.com/r/2007scape/comments/1wtvncb/best_place_to_farm_longcurved_bones/pcxtkec/
 - **Whats the number based on? The old max cash was based on 32 bit integer limit**
-  - comment · 2h ago · LoveFener · score 24
+  - comment · 3h ago · LoveFener · score 24
   - matched: max cash, integer limit
   - re: New max cash you can input into the GE is official
   - https://www.reddit.com/r/2007scape/comments/1wu3q5v/new_max_cash_you_can_input_into_the_ge_is/pd0m091/
 - **Sad to see this not higher up on the list. I am doing this now too and with the sailing cape, greater teleport focus, and crafting cape it’s really chill. Sailing cape to Lunar doc**
-  - comment · 2h ago · Hobodaklown · score 24
+  - comment · 3h ago · Hobodaklown · score 24
   - matched: teleport focus, greater teleport focus
   - re: What method would you recommend to get 99 Runecraf
   - https://www.reddit.com/r/2007scape/comments/1vqhc0g/what_method_would_you_recommend_to_get_99/pd0ee0f/
 - **I don't say this to be rude but Irons are only Irons for one of two reasons: 1. They have very little impulse control and want to experience "all of the mechanics" using their Iron**
-  - comment · 3h ago · LastTourniquet · score 24
+  - comment · 4h ago · LastTourniquet · score 24
   - matched: accept aid, soulflame horn
   - re: Starting out OSRS for the first time ever, should 
   - https://www.reddit.com/r/ironscape/comments/1wtawtf/starting_out_osrs_for_the_first_time_ever_should/pd08j3z/
 - **It's not a new item it's just one that was heavily price manipulated and gatekept by ultra wealthy players so it had a somewhat vague market price of "at or around 10b" for the pas**
-  - comment · 3h ago · Itachi-san1 · score 24
+  - comment · 4h ago · Itachi-san1 · score 24
   - matched: max cash, 2.1 billion
   - re: Let the crash begin... a 3rd age pickaxe was alrea
   - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pd064v8/
 - **I don't like minigame teleports either. They were forced into the game to ostensibly get rid of the friction of players wanting to play minigames but not being able to reach them. **
-  - comment · 5h ago · NessaMagick · score 24
+  - comment · 6h ago · NessaMagick · score 24
   - matched: rat pits, rat catchers
   - re: Death coffers should not delete items on second de
   - https://www.reddit.com/r/2007scape/comments/1ws6u6p/death_coffers_should_not_delete_items_on_second/pczfzyu/
 - **Yama's lockboxes have a flat chance to drop per player per kill. So more kills = more lockboxes. That, combined with Soulflame Horn specials only being available in a duo, and the **
-  - comment · 6h ago · Smooth_One · score 24
+  - comment · 7h ago · Smooth_One · score 24
   - matched: soulflame horn, specials only
   - re: How do you guys fund the rune costs for Yama grind
   - https://www.reddit.com/r/ironscape/comments/1wisctw/how_do_you_guys_fund_the_rune_costs_for_yama_grind/pcz8bs3/
 - **Instackable items showing stack counts?**
-  - r/2007scape · 2h ago · iskelebones · score 23
+  - r/2007scape · 3h ago · iskelebones · score 23
   - matched: for some reason, plank sack
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu7sa0/instackable_items_showing_stack_counts/
 - **Blue partyhat went from 150b to 80b on rs3 after the max cash limit update. That's the equivalent of 15b down to 8b. Expect the same with the 3rd age pickaxe.**
-  - comment · 3h ago · AltKeyblade · score 22
+  - comment · 4h ago · AltKeyblade · score 22
   - matched: on rs3, max cash
   - re: Let the crash begin... a 3rd age pickaxe was alrea
   - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pd0atsn/
 - **Holy shit. I was in... I think middle school if not fifth grade in elementary when my friend told me about "Runescape" (that being Runescape Classic, now). I remember getting in an**
-  - comment · 4h ago · Setari · score 22
+  - comment · 5h ago · Setari · score 22
   - matched: in rs3, classic
   - re: As a kid, my parents wouldn't let me buy membershi
   - https://www.reddit.com/r/2007scape/comments/1wpf59i/as_a_kid_my_parents_wouldnt_let_me_buy_membership/pczsp5y/
 - **When they uncapped the ge on rs3, rares crashed hard and never fully recovered. When merchers cant keep control of the supply by selling them amongst themselves they cant artificia**
-  - comment · 7h ago · Broue · score 22
+  - comment · 8h ago · Broue · score 22
   - matched: on rs3, uncapped
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pcz1btp/
 - **I currently have about 2.273b in gp. I keep most of it in platinum tokens, and keep about 100m in gp for buying supplies. Currently, whenever I buy something off of the GE, even so**
-  - comment · 30m ago · Odd-Conversation3279 · score 17
+  - comment · 1h ago · Odd-Conversation3279 · score 17
   - matched: token, max cash
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pd1ea0x/
-- **yes 100% will. it also happened in RS3 when they uncapped there. Turns out merchers were artificially holding the price up for ages**
-  - comment · 1h ago · MrRightHanded · score 17
-  - matched: in rs3, uncapped
-  - re: New max cash you can input into the GE is official
-  - https://www.reddit.com/r/2007scape/comments/1wu3q5v/new_max_cash_you_can_input_into_the_ge_is/pd14gdc/
-- **Why can't we have multiple pets?**
-  - r/2007scape · 1h ago · LeLa_Biff · score 16
-  - matched: for some reason, multiple pets
+- **Is this normal?**
+  - r/2007scape · 2h ago · vwvk · score 21
+  - matched: is this normal
   - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wu93ys/why_cant_we_have_multiple_pets/
+  - https://www.reddit.com/r/2007scape/comments/1wu90jp/is_this_normal/
+- **I did it with sunlight antelope and karams with 80 magic for blood blitz, was pretty easy, you heal up most of the way before you get the max hit move and can combo eat to recover **
+  - comment · 2h ago · SeptumValley · score 20
+  - matched: max hit, combo eat
+  - re: What is your current “Iron Path”? That’s what I ca
+  - https://www.reddit.com/r/ironscape/comments/1wu4nnb/what_is_your_current_iron_path_thats_what_i_call/pd143hi/
+- **You don't get the max hit guarantee on core in p2 warden. You'll also contribute literally nothing in cum phase akkha. You will absolutely be sandbagging your team, but you can get**
+  - comment · 2h ago · iBrowseAtStarbucks · score 20
+  - matched: max hit, sandbagging
+  - re: TOA not asking for anyone to help me here just ask
+  - https://www.reddit.com/r/2007scape/comments/1wu88dk/toa_not_asking_for_anyone_to_help_me_here_just/pd0vafr/
 - **The issue with sarachnis spawning 1t slower in instance has been an issue ever since the initial fix to sarachnis instance spawn timer, when it was way slower The other issue for n**
   - comment · 4h ago · glory_poster · score 20
   - matched: spawn timer
   - re: GE Improvements: Beyond Max Cash
   - https://www.reddit.com/r/2007scape/comments/1wu0cwv/ge_improvements_beyond_max_cash/pczzz0i/
 - **Oh fuck, at first Vard especially in the enrage phase seems to do 20 million things at once and you all have to handle them in the same tick, but once you learn the axe skip, timin**
-  - comment · 7h ago · TheSwissPirate · score 20
+  - comment · 8h ago · TheSwissPirate · score 20
   - matched: prayer flick, same tick
   - re: What are your top 5 bosses ranked by repeatability
   - https://www.reddit.com/r/2007scape/comments/1wtnawx/what_are_your_top_5_bosses_ranked_by_repeatability/pcz22t8/
@@ -727,87 +749,92 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - matched: safespot
   - 34c · 0↑
   - https://www.reddit.com/r/ironscape/comments/1wto5c9/afk_demonic_gorillas/
+- **yes 100% will. it also happened in RS3 when they uncapped there. Turns out merchers were artificially holding the price up for ages**
+  - comment · 2h ago · MrRightHanded · score 17
+  - matched: in rs3, uncapped
+  - re: New max cash you can input into the GE is official
+  - https://www.reddit.com/r/2007scape/comments/1wu3q5v/new_max_cash_you_can_input_into_the_ge_is/pd14gdc/
 - **Let me give an example of when I typically do it: Shockwave colossus and javelin double south spawn, manticore and ranger on north side. I’ll often camp pray mage to free up my APM**
-  - comment · 2h ago · Stunning-Show127 · score 17
+  - comment · 3h ago · Stunning-Show127 · score 17
   - matched: javelin, manticore
   - re: Minimum items to do Colosseum?
   - https://www.reddit.com/r/2007scape/comments/1wth4rl/minimum_items_to_do_colosseum/pd0gjvq/
-- **The same exact thing happened in rs3 once max cash was removed and max gp limited on ge was removed. You remove the third party in the trade and also handicap people trying to merc**
-  - comment · 3h ago · speedy_19 · score 17
-  - matched: in rs3, max cash
-  - re: Let the crash begin... a 3rd age pickaxe was alrea
-  - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pd02k83/
 - **In rs3 every rare permanently decreased and weapons that were hoarded over max cash made much bigger crashes. People will genuinely take a 30-50% hit when they can just put up an o**
-  - comment · 3h ago · Dumpsterman4 · score 17
+  - comment · 4h ago · Dumpsterman4 · +2 more in this thread on the same terms · score 17
   - matched: in rs3, max cash
   - re: Let the crash begin... a 3rd age pickaxe was alrea
   - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pd01dx3/
 - **It’ll be interesting to see if the 3rd age items that were over max cash crash in value **
-  - comment · 4h ago · pigboy222 · score 17
+  - comment · 5h ago · pigboy222 · score 17
   - matched: max cash, 3rd age
   - re: New max cash you can input into the GE is official
   - https://www.reddit.com/r/2007scape/comments/1wu3q5v/new_max_cash_you_can_input_into_the_ge_is/pczvqra/
 - **I did my first 50 or so ToA with undead grasp! The warped sceptre wasn't out yet and I didn't have the level for a Trident. The game still had auto cast delay so I had to manual ca**
-  - comment · 4h ago · sawyerwelden · score 17
+  - comment · 5h ago · sawyerwelden · score 17
   - matched: thralls, manual cast
   - re: Grasp Spells in a Nutshell
   - https://www.reddit.com/r/2007scape/comments/1wth02y/grasp_spells_in_a_nutshell/pcztgff/
 - **I have all BiS max gear and an overflow of gp to spare from all the bossing and raiding I've done over the last few years. Nex and ToA in particular were very kind to me. I'm basic**
-  - comment · 4h ago · Itachi-san1 · score 17
+  - comment · 5h ago · Itachi-san1 · score 17
   - matched: overflow, 3rd age
   - re: Let the crash begin... a 3rd age pickaxe was alrea
   - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pczt22x/
 - **The price was still very artificial and arbitrary though, the 3rd age pickaxe is no more rare than a 3rd age druidic staff which is 500m on the GE. The 3rd age pickaxe only became **
-  - comment · 4h ago · Itachi-san1 · +3 more in this thread on the same terms · score 17
+  - comment · 5h ago · Itachi-san1 · +3 more in this thread on the same terms · score 17
   - matched: max cash, 3rd age
   - re: Let the crash begin... a 3rd age pickaxe was alrea
   - https://www.reddit.com/r/2007scape/comments/1wu3uqw/let_the_crash_begin_a_3rd_age_pickaxe_was_already/pczrmqd/
 - **Actually trading beyond max cash is kinda pointless considering only 3rd age crossed that mark ? **
-  - comment · 5h ago · smtsai · score 17
+  - comment · 6h ago · smtsai · score 17
   - matched: max cash, 3rd age
   - re: Mainscape is killing the game
   - https://www.reddit.com/r/2007scape/comments/1wu2v8i/mainscape_is_killing_the_game/pczielx/
 - **> Chambers is a bit different since the big upside of thralls is increasing your chances of hitting the mage hand and staying in cycle. Not necessarily dps. It's the one place you **
-  - comment · 10h ago · DivineInsanityReveng · score 17
+  - comment · 11h ago · DivineInsanityReveng · score 17
   - matched: thralls, stacked
   - re: Why do thralls exist?
   - https://www.reddit.com/r/2007scape/comments/1wpu3vp/why_do_thralls_exist/pcyf1xn/
 - **Can you show something that confirms the "lower hit delay", never heard anything about that in thralls.. wiki says they all attack every 4 tick / 2.4 seconds.**
-  - comment · 10h ago · telmoxt · score 17
+  - comment · 11h ago · telmoxt · score 17
   - matched: thralls, wiki says
   - re: Grasp Spells in a Nutshell
   - https://www.reddit.com/r/2007scape/comments/1wth02y/grasp_spells_in_a_nutshell/pcyc6tb/
+- **Why can't we have multiple pets?**
+  - r/2007scape · 2h ago · LeLa_Biff · score 16
+  - matched: for some reason, multiple pets
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wu93ys/why_cant_we_have_multiple_pets/
 - **connection lost every time I cut Bruma root in solo wintertodt**
-  - r/2007scape · 4h ago · login_limit · score 14
+  - r/2007scape · 5h ago · login_limit · score 14
   - matched: J-Mod reply · no bug content, wintertodt
   - 3c · 4↑
   - https://www.reddit.com/r/2007scape/comments/1wu3run/connection_lost_every_time_i_cut_bruma_root_in/
 - **Connection problem**
-  - r/2007scape · 5h ago · Vagijnoloog · score 14
+  - r/2007scape · 6h ago · Vagijnoloog · score 14
   - matched: ⚡ connection event
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wu3dm5/connection_problem/
 - **accidentally duped my coins in the bank**
-  - r/2007scape · 4h ago · Pekek · score 13
+  - r/2007scape · 5h ago · Pekek · score 13
   - matched: J-Mod reply · no bug content
   - 20c · 70↑
   - https://www.reddit.com/r/2007scape/comments/1wu4ngb/accidentally_duped_my_coins_in_the_bank/
 - **Fletching makes me DC since update**
-  - r/2007scape · 4h ago · ForeverElectronic466 · score 13
+  - r/2007scape · 5h ago · ForeverElectronic466 · score 13
   - matched: J-Mod reply · no bug content
   - 4c · 3↑
   - https://www.reddit.com/r/2007scape/comments/1wu4b5m/fletching_makes_me_dc_since_update/
 - **I killed bots that were turning in zombie keys for 500m+ in just a few days**
-  - r/2007scape · 12h ago · According_Promise_95 · score 13
+  - r/2007scape · 13h ago · According_Promise_95 · score 13
   - matched: J-Mod reply · no bug content
   - 60c · 415↑
   - https://www.reddit.com/r/2007scape/comments/1wtw2u1/i_killed_bots_that_were_turning_in_zombie_keys/
 - **- T3 prep is overkill. T2 still has plenty of leeway for making mistakes and still being able to clear. Once you get more comfortable you can easily go for 16 fish + T1 prep. - Don**
-  - comment · 8h ago · lilyofthedragon · score 12
+  - comment · 9h ago · lilyofthedragon · score 12
   - matched: you don't need, tick eating, plugin, safety
   - re: Advice making corrupted gauntlet feel better and f
   - https://www.reddit.com/r/2007scape/comments/1wttuev/advice_making_corrupted_gauntlet_feel_better_and/pcyu3gc/
 
 ---
 
-Not included: 1107 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1085 findings older than 24h. Widen with `__osrs.report(48)` in the console.
