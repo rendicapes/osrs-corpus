@@ -1,97 +1,102 @@
 # OSRS Signal — last 24h
 
-2026-10-02 16:09 UTC · 76 findings after merging duplicates (from 136 raw hits; 54 single-term floor rows filtered)
-collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 15:13Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (15 videos) · 27m ago
+2026-10-02 17:05 UTC · 69 findings after merging duplicates (from 129 raw hits; 52 single-term floor rows filtered)
+collector health · bugpages: ok (177 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 16:09Z) · 56m ago · search: ok · 3m ago · vanished: ok (checked 1) · 4m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (16 videos) · 39m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — removed (deleted) — Travelled to Castle Wars via Hot Air Balloon; but It didn't unlock? Am I missing something?**
-  - r/2007scape, vanished · 4h ago · Outrageous-Bag-8090 · seen 2x · score 40
+  - r/2007scape, vanished · 5h ago · Outrageous-Bag-8090 · seen 2x · score 40
   - matched: vanished, entrana
   - was r/2007scape, posted 1m before it went
   - https://www.reddit.com/r/2007scape/comments/1wvrqpe/travelled_to_castle_wars_via_hot_air_balloon_but/
   - captured before it went:
     > I'm currently into the process of catching up on Achievement Diaries as I've spent the last year just afking stuff at work and not really caring about anything else; I just did the Hot Air Baloon from Entrana to Castle Wars and it didn't unlock. Am i missing something? Screenshot to show I safely arrived. https://preview.redd.it/t0wfvxgbl1th1.png?width=1415&format=png&auto=webp&s=b7e962ae970799093730f4da9579733c71364af9
 
-## Bugs & exploits  (40 · 5 above the single-term floor, 35 at it)
+## Bugs & exploits  (36 · 5 above the single-term floor, 31 at it)
 
 - **Game bug/Stuck character**
-  - r/2007scape · 2h ago · Ejaburns · score 41
+  - r/2007scape · 3h ago · Ejaburns · score 41
   - matched: bug, turns out you can, cargo, too big to fit
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvtt7b/game_bugstuck_character/
 - **Setup is a bit cherrypicked since you're not using like any tradeables. Like are you really not using a Master Scroll Book, Teleport Jewelery (Eternal), or such when you do clues? **
-  - comment · 8m ago · BioMasterZap · score 30
+  - comment · 1h ago · BioMasterZap · score 30
   - matched: bugged, kept on death, max cape
   - re: Wildy Clue Steps Risk
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/pdfp570/
 - **Wildy Clue Steps Risk**
-  - r/2007scape · 50m ago · OwMyCandle · score 23
+  - r/2007scape · 1h ago · OwMyCandle · score 23
   - matched: bugged, gravestone, max cape
   - 22c · 10↑
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/
 - **▶ Player yang Berhasil Jadi GM tapi hanya 30 detik**
-  - youtube · 5h ago · Galole · score 24
+  - youtube · 6h ago · Galole · score 24
   - matched: bug, rotten potato
   - youtube
   - https://www.youtube.com/watch?v=qxBHGiRQBZg
 - **https://preview.redd.it/dmcrsxcto2th1.jpeg?width=1334&format=pjpg&auto=webp&s=271126bd73af393407cda6bf53ae2baa3713f8ac Guide risk value is notoriously bugged guys. It says Im riski**
-  - comment · 37m ago · OwMyCandle · score 18
+  - comment · 1h ago · OwMyCandle · score 18
   - matched: bugged, gravestone
   - re: Wildy Clue Steps Risk
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/pdfif0x/
+- **I mean nothing serious about nieve. It was just modeled after his girlfriend at the time lol Reach himself got into some controversy that lead to getting fired but idk if jagex eve**
+  - comment · 34m ago · LiveTwinReaction · score 13
+  - matched: bug
+  - re: Never would have completed MM2 if I knew this…
+  - https://www.reddit.com/r/2007scape/comments/1wvwyde/never_would_have_completed_mm2_if_i_knew_this/pdfw8sr/
 - **Right before this post, they were commenting in another thread about Wildy clues saying ["just dont degear because there’s no risk"](https://www.reddit.com/r/2007scape/comments/1wv**
-  - comment · 1m ago · BioMasterZap · score 13
+  - comment · 57m ago · BioMasterZap · +2 more in this thread on the same terms · score 13
   - matched: bugged
   - re: Wildy Clue Steps Risk
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/pdfqumc/
 - **c'mon if you got a Bowfa you're not a 2/10 anything. My issue is bosses, skills, and BiS items hidden behind a PvP barrier for people that might want to train/do content but never **
-  - comment · 12m ago · Marsvin11 · score 13
+  - comment · 1h ago · Marsvin11 · score 13
   - matched: bugs
   - re: It do be like that
   - https://www.reddit.com/r/2007scape/comments/1wvbp3k/it_do_be_like_that/pdfo9h3/
 - **Sorry, Jamflex says they need to raise membership to 18$ a month to start fixing years old known bugs **
-  - comment · 46m ago · False_Ideal_5140 · score 13
+  - comment · 1h ago · False_Ideal_5140 · score 13
   - matched: bugs
   - re: Is this a known bug? I panicked so friggen hard
   - https://www.reddit.com/r/2007scape/comments/1wsga0v/is_this_a_known_bug_i_panicked_so_friggen_hard/pdfg9nq/
 - **Keeps happening to me, you do get logged in but the screen bugs out. You need to close the app and open it again.**
-  - comment · 1h ago · sirblibblob · score 13
+  - comment · 2h ago · sirblibblob · score 13
   - matched: bugs
   - re: Anyone else cant log in?
   - https://www.reddit.com/r/2007scape/comments/1wvtg89/anyone_else_cant_log_in/pdf6wbu/
 - **I'm getting tired of every single person that rallies against literally any changes based on ironman gameplay using the "oOh BuT dId YoU fOrGeT tHaT y0u DiD tHiS tO yOuRsElF" argum**
-  - comment · 2h ago · KingKj52 · score 13
+  - comment · 3h ago · KingKj52 · score 13
   - matched: bug
   - re: It do be like that
   - https://www.reddit.com/r/2007scape/comments/1wvbp3k/it_do_be_like_that/pdep4xi/
 - **I will say it every time i see a nox post. Its bugged. Took me 1800 kills for one piece. Sitting at 2300 with 1 hally done. **
-  - comment · 2h ago · cygamessucks · score 13
+  - comment · 3h ago · cygamessucks · score 13
   - matched: bugged
   - re: I just want the hally.....
   - https://www.reddit.com/r/2007scape/comments/1wvs0v2/i_just_want_the_hally/pdemxmy/
 - **I completed this last week and it definitely did not fail it. It is either a recent bug or you got hit by something and didnt realise.**
-  - comment · 3h ago · Loonyluke5 · score 13
+  - comment · 4h ago · Loonyluke5 · score 13
   - matched: bug
   - re: Ruby Bolt(e) proc fails perfect Leviathan
   - https://www.reddit.com/r/2007scape/comments/1wvsi8n/ruby_bolte_proc_fails_perfect_leviathan/pdefr85/
 - **Harmless Hunter Bug Discovered? | Crab traps auto reset despite dropping below level requirement**
-  - r/2007scape · 4h ago · edyme · score 13
+  - r/2007scape · 5h ago · edyme · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvrzeu/harmless_hunter_bug_discovered_crab_traps_auto/
 - **showing the bug**
-  - comment · 4h ago · cshag · +3 more in this thread on the same terms · score 13
+  - comment · 5h ago · cshag · +3 more in this thread on the same terms · score 13
   - matched: bug
   - re: Let attack be restored to normal level in LMS
   - https://www.reddit.com/r/2007scape/comments/1wvr96j/let_attack_be_restored_to_normal_level_in_lms/pde5g8a/
 - **I know it’s a terrible idea, because just thinking about it as a dev would make me cry, But you should just publish a dashboard that links to your Jira Bug Board, or at least the c**
-  - comment · 4h ago · JorgiEagle · score 13
+  - comment · 5h ago · JorgiEagle · score 13
   - matched: bug
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pde2u0h/
 - **Yes it took me 1350 kc I thought my account was bugged and Jagex shadowbanned me. Rng**
-  - comment · 5h ago · Aviaton1 · score 13
+  - comment · 6h ago · Aviaton1 · score 13
   - matched: bugged
   - re: 1k+ cave krakens without trident
   - https://www.reddit.com/r/ironscape/comments/1wva5fl/1k_cave_krakens_without_trident/pddyfv1/
@@ -101,305 +106,265 @@ collector health · bugpages: ok (177 flagged · coverage: continuous) · 1s ago
   - re: Formalize PvP Body Guards
   - https://www.reddit.com/r/2007scape/comments/1wvk80o/formalize_pvp_body_guards/pddlhoa/
 - **It's not supposed to be the order that the typical iron does things. It's the order that's most recommended if you're trying to get max gear fast.**
-  - comment · 7h ago · ShoogleHS · score 13
+  - comment · 8h ago · ShoogleHS · score 13
   - matched: not supposed to
   - re: I'm almost out of the Mid Game
   - https://www.reddit.com/r/ironscape/comments/1wvh7zi/im_almost_out_of_the_mid_game/pddjp40/
 - **You’re not supposed to get every single drop man. This isn’t the right game for you if you feel entitled to getting a drop after x amount of time.**
-  - comment · 7h ago · KeuningLewie · score 13
+  - comment · 8h ago · KeuningLewie · score 13
   - matched: not supposed to
   - re: Rank 1 dry Vardorvis
   - https://www.reddit.com/r/2007scape/comments/1wvnw2y/rank_1_dry_vardorvis/pddidtg/
 - **i do think you shouldn't be able to log into the alter, like maybe outside**
-  - comment · 8h ago · the_riesen · score 13
+  - comment · 9h ago · the_riesen · score 13
   - matched: shouldn't be able
   - re: It do be like that
   - https://www.reddit.com/r/2007scape/comments/1wvbp3k/it_do_be_like_that/pddbwgr/
 - **I would love to know what causes every bug from now on, honestly**
-  - comment · 9h ago · CaptainBoj · score 13
+  - comment · 10h ago · CaptainBoj · score 13
   - matched: bug
   - re: I love this game
   - https://www.reddit.com/r/2007scape/comments/1wu4eb6/i_love_this_game/pdd4ahe/
 - **>would necessarily have other effects that would make the game worse and much more unintuitive and clunky How? (And I guess I have to clarify this for you, I'm asking because I wan**
-  - comment · 9h ago · VorkiPls · score 13
+  - comment · 10h ago · VorkiPls · score 13
   - matched: bug
   - re: Is this a known bug? I panicked so friggen hard
   - https://www.reddit.com/r/2007scape/comments/1wsga0v/is_this_a_known_bug_i_panicked_so_friggen_hard/pdd1xkw/
 - **She mentions "That cabbage was a normal cabbage, it spoilt the whole thing", but she seems to think it was Greldo who got the wrong one and not us who sabotaged it, at least in the**
-  - comment · 13h ago · BioMasterZap · score 13
+  - comment · 14h ago · BioMasterZap · score 13
   - matched: not supposed to
   - re: The black knights fortress has been out way longer
   - https://www.reddit.com/r/2007scape/comments/1wv9u45/the_black_knights_fortress_has_been_out_way/pdbzoe3/
 - **Yes, exactly. That thing slaps. Also, what order of rooms are you doing and do you take power first chance? I’d recommend baba first then bug, then you get salts for akkah and fina**
-  - comment · 17h ago · RatCatDog904 · score 13
+  - comment · 18h ago · RatCatDog904 · score 13
   - matched: bug
   - re: What to buy next for TOA?
   - https://www.reddit.com/r/2007scape/comments/1wv66vv/what_to_buy_next_for_toa/pdax1w6/
 - **They literally did make it easier not too long ago...if you still can't complete it or grind it out now, that's a skill issue on your part. Stop cooking.**
-  - comment · 18h ago · Serithraz · score 13
+  - comment · 19h ago · Serithraz · score 13
   - matched: can't complete
   - re: CG should be easier
   - https://www.reddit.com/r/2007scape/comments/1wvcgsk/cg_should_be_easier/pdang4r/
 - **has some good trivia The quest point requirement was added to discourage players from creating new accounts to do the quest and transfer the 2,500 coins to their main characters. I**
-  - comment · 18h ago · MazrimReddit · score 13
+  - comment · 19h ago · MazrimReddit · score 13
   - matched: not supposed to
   - re: The black knights fortress has been out way longer
   - https://www.reddit.com/r/2007scape/comments/1wv9u45/the_black_knights_fortress_has_been_out_way/pdafnxc/
 - **I've heard plenty of other suggestions out there. Replacing dropping items with a death coffee that just costs you money for the items instead, removing item loss from the wildy al**
-  - comment · 19h ago · PizzaDlvBoy · score 13
+  - comment · 20h ago · PizzaDlvBoy · score 13
   - matched: item loss
   - re: Suggestion: Buff the Retribution prayer so PvMers 
   - https://www.reddit.com/r/2007scape/comments/1wv9ban/suggestion_buff_the_retribution_prayer_so_pvmers/pdaafed/
 - **Help! My XP Counter is Bugged!**
-  - r/2007scape · 19h ago · ExtremeWindyMan · score 13
+  - r/2007scape · 20h ago · ExtremeWindyMan · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvavkb/help_my_xp_counter_is_bugged/
 - **Thought it might be a bug but after reading some other comments its probably a “feature”**
-  - comment · 19h ago · FartingHero56 · score 13
+  - comment · 20h ago · FartingHero56 · score 13
   - matched: bug
   - re: You seem to click through the ore veins in MLM on 
   - https://www.reddit.com/r/2007scape/comments/1wva6jb/you_seem_to_click_through_the_ore_veins_in_mlm_on/pda5krf/
 - **Locked out of legacy account via 'Not eligible to play' bug - Web login gives error**
-  - r/2007scape · 19h ago · Zestyclose_Art_9026 · score 13
+  - r/2007scape · 20h ago · Zestyclose_Art_9026 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvalab/locked_out_of_legacy_account_via_not_eligible_to/
 - **That's "normal", you could see some form of this bug in some way shape or form since sailing has come out**
-  - comment · 19h ago · Nwyrh · score 13
+  - comment · 20h ago · Nwyrh · score 13
   - matched: bug
   - re: New sailing (z scaling?) bug just dropped
   - https://www.reddit.com/r/2007scape/comments/1wuvsp5/new_sailing_z_scaling_bug_just_dropped/pda0gzx/
 - **It's been like this for forever. I don't think it's a bug. I've always considered it a QOL feature.**
-  - comment · 20h ago · Vanilla-Bryce_ · score 13
+  - comment · 21h ago · Vanilla-Bryce_ · score 13
   - matched: bug
   - re: Possibly Explorer Ring Bug?
   - https://www.reddit.com/r/2007scape/comments/1wv851q/possibly_explorer_ring_bug/pd9qx0m/
 - **Possibly Explorer Ring Bug?**
-  - r/2007scape · 21h ago · Wonderful-Kale-109 · score 13
+  - r/2007scape · 22h ago · Wonderful-Kale-109 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wv851q/possibly_explorer_ring_bug/
 - **Why this bug then? **
-  - comment · 21h ago · JordhanMK · +2 more in this thread on the same terms · score 13
+  - comment · 22h ago · JordhanMK · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: New AFK Activity - Holding Doom bots hostage with 
   - https://www.reddit.com/r/2007scape/comments/1wv7k4k/new_afk_activity_holding_doom_bots_hostage_with/pd9eux8/
 - **- there should be a setting to mute+hide all ironmen - reddit shouldn't be able to have such influence on OSRS developments downvotes incoming will prove this is unpopular opinion **
-  - comment · 22h ago · JuudidAhjuPls · score 13
+  - comment · 23h ago · JuudidAhjuPls · score 13
   - matched: shouldn't be able
   - re: What are your unpopular OSRS takes?
   - https://www.reddit.com/r/2007scape/comments/1wuk852/what_are_your_unpopular_osrs_takes/pd9093m/
-- **Golems All Over?**
-  - r/2007scape · 23h ago · Free-Stomach-699 · score 13
-  - matched: bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wv4yg2/golems_all_over/
-- **You can experience gamebreaking bugs and some clowns on this sub will just blame you for it, insane.**
-  - comment · 23h ago · BabaRoomFan · score 13
-  - matched: bugs
-  - re: My coins disapeared and my platium stack turend in
-  - https://www.reddit.com/r/2007scape/comments/1wuyqhw/my_coins_disapeared_and_my_platium_stack_turend/pd8nynq/
-- **IMO you just shouldn't be able to not play the game for 10 minutes at a time and still be making progress. Like, sailing anglers doesn't even register to me as 20k xp/hr. It regist**
-  - comment · 23h ago · SinceBecausePickles · score 13
-  - matched: shouldn't be able
-  - re: What are your unpopular OSRS takes?
-  - https://www.reddit.com/r/2007scape/comments/1wuk852/what_are_your_unpopular_osrs_takes/pd8hpzh/
-- **These items and bugs are just completely unrelated? Is the first column not just useless, leaving the second column as a simple prediction of future bugs? I smell slop.**
-  - comment · 23h ago · TheRagingBrit · score 13
-  - matched: bugs
-  - re: In light of the fletching knife debacle...
-  - https://www.reddit.com/r/2007scape/comments/1wv3b7d/in_light_of_the_fletching_knife_debacle/pd8flzu/
-- **There is 1 comment from Jagex mods in this post: **[u/​JagexLenny commented:](/r/2007scape/comments/1wuyqhw/comment/pd8dkf3/)** > This might sound a stupid question, but when you s**
-  - comment · 23h ago · vip-bot · score 13
-  - matched: bug
-  - re: My coins disapeared and my platium stack turend in
-  - https://www.reddit.com/r/2007scape/comments/1wuyqhw/my_coins_disapeared_and_my_platium_stack_turend/pd8dl56/
 
-## Jagex & J-Mod  (4 · 3 above the single-term floor, 1 at it)
+## Jagex & J-Mod  (2 · 1 above the single-term floor, 1 at it)
 
-- **This might sound a stupid question, but when you say you think around 20m in platinum, are you certain it wasn't just 2m in platinum, and that have now been converted into coins? T**
-  - comment · 23h ago · JagexLenny · score 38
-  - matched: J-Mod, bug
-  - re: My coins disapeared and my platium stack turend in
-  - https://www.reddit.com/r/2007scape/comments/1wuyqhw/my_coins_disapeared_and_my_platium_stack_turend/pd8dkf3/
 - **🟣 19 J-Mod replies — Golden Gnomes 2026 Running Order**
-  - comment · 1h ago · JagexBlossom · score 30
+  - comment · 2h ago · JagexBlossom · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 19, JagexBlossom: He will be presenting the Main Stage show!
   - https://www.reddit.com/comments/1wvu6n2
-- **🟣 15 J-Mod replies — My coins disapeared and my platium stack turend into my coin stack.**
-  - comment · 23h ago · JagexAyiza · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 15, JagexAyiza: Funnily enough I was just chatting with someone else in the team about
-  - https://www.reddit.com/comments/1wuyqhw
 - **How do you tend to tell the composers apart by ear?**
-  - r/2007scape · 15h ago · Next_Scientist2966 · score 15
+  - r/2007scape · 16h ago · Next_Scientist2966 · score 15
   - matched: mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvfv72/how_do_you_tend_to_tell_the_composers_apart_by_ear/
 
-## "You can do this" finds  (8 · 7 above the single-term floor, 1 at it)
+## "You can do this" finds  (8 · 6 above the single-term floor, 2 at it)
 
 - **Rock Cake + Final hit from Zammy Wine + PvP world for the bank at respawn**
-  - comment · 11h ago · SeaBootsOSRS · score 26
+  - comment · 12h ago · SeaBootsOSRS · score 26
   - matched: ⚡ food per inventory slot, rock cake
   - re: It do be like that
   - https://www.reddit.com/r/2007scape/comments/1wvbp3k/it_do_be_like_that/pdcky26/
 - **I use expeditious. Don’t have many topaz so I’m stingy with slaughter, I would pretty much only use one if I get jellies or stalkers at this point. Bones to peaches is interesting,**
-  - comment · 17h ago · ApothecaryAlyth · score 26
+  - comment · 18h ago · ApothecaryAlyth · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: How to make early Slayer less of a slog?
   - https://www.reddit.com/r/ironscape/comments/1wvchvn/how_to_make_early_slayer_less_of_a_slog/pdauxnw/
 - **I bring a bones to peaches tab with me**
-  - comment · 17h ago · NoobPipe · score 26
+  - comment · 18h ago · NoobPipe · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: It do be like that
   - https://www.reddit.com/r/2007scape/comments/1wvbp3k/it_do_be_like_that/pdarjtn/
 - **Are you using bracelets of slaughter and expeditious bracelets to extend good tasks and shorten bad ones? I’d probably skip spending points on blocking at this stage since there’s **
-  - comment · 17h ago · Megabyte_Messiah · score 26
+  - comment · 18h ago · Megabyte_Messiah · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: How to make early Slayer less of a slog?
   - https://www.reddit.com/r/ironscape/comments/1wvchvn/how_to_make_early_slayer_less_of_a_slog/pdap5co/
 - **Sometimes vorky just rips your shit like that too but atleast you can eat through it if you don’t wait too long. My worst record at vorky was one trip where I ate my entire invento**
-  - comment · 18h ago · Dry-Swordfish1710 · score 26
+  - comment · 19h ago · Dry-Swordfish1710 · score 26
   - matched: ⚡ food per inventory slot
   - re: Is Zulrah actually considered easier than Vorkath?
   - https://www.reddit.com/r/2007scape/comments/1wugx70/is_zulrah_actually_considered_easier_than_vorkath/pdahmo9/
-- **If you want really hard food! Dark crabs never move are 40k/hr afk and you always keep everything in your fish barrel if you get pked. If you make edgville your respawn it's actual**
-  - comment · 23h ago · Dadoxiii · score 26
-  - matched: ⚡ food per inventory slot, fish barrel
-  - re: what are some of the most afk training methods?
-  - https://www.reddit.com/r/ironscape/comments/1wug4s1/what_are_some_of_the_most_afk_training_methods/pd8pk04/
+- **So that really depends on your ranarr and gear situation. Earlier on I used to piety flick. Now I have SGS and endless supply of ppots that I always piety almost everything. The ti**
+  - comment · 3m ago · Artyoma92 · score 12
+  - matched: endless supply
+  - re: Do you piety for general slayer tasks?
+  - https://www.reddit.com/r/ironscape/comments/1wvyv5t/do_you_piety_for_general_slayer_tasks/pdg3lp9/
 - **Im 99 herb and havent planted kwuarm in ages, I still have 1700+ grimy kwuarm that is never getting made into pots because I have effictively an endless supply of it since I was ab**
-  - comment · 26m ago · NPC_Number_9852785 · score 12
+  - comment · 1h ago · NPC_Number_9852785 · score 12
   - matched: endless supply
   - re: Is it worth making divine super strengths?
   - https://www.reddit.com/r/ironscape/comments/1wvvdb0/is_it_worth_making_divine_super_strengths/pdfl39b/
 - **For Mox, use any herb. All the lowest tier herbs are expendable. Harralander gives the most though, and is used for goading potions and compost potions which you might need a few o**
-  - comment · 7h ago · Shaeress · score 14
+  - comment · 8h ago · Shaeress · score 14
   - matched: pro tip, you don't need
   - re: Mixology herbs + seed vault
   - https://www.reddit.com/r/ironscape/comments/1wvodca/mixology_herbs_seed_vault/pddidz1/
 
-## Mechanics & wiki corrections  (23 · 22 above the single-term floor, 1 at it)
+## Mechanics & wiki corrections  (22 · 21 above the single-term floor, 1 at it)
 
 - **Tithe Farm 25x Combo Method**
-  - r/2007scape · 30m ago · xuehas · score 26
+  - r/2007scape · 1h ago · xuehas · score 26
   - matched: tick perfect, extra tick, corner tile
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvx15c/tithe_farm_25x_combo_method/
-- **Max cape is always kept on pvp death, key ring and giantsoul are always kept on death, BP, scepter, and ring are my 3 items**
-  - comment · 1h ago · OwMyCandle · score 26
-  - matched: kept on death, always kept on death
-  - re: Remove wilderness steps from clues and add wildern
-  - https://www.reddit.com/r/2007scape/comments/1wvvrkx/remove_wilderness_steps_from_clues_and_add/pdfbkol/
+- **Personally I’ve got emberlight so I’m leaning towards stronghold or deepfin to cannon faster, but haven’t tried it yet. From wiki it looks like I can cannon multiple from a safe sp**
+  - comment · 53m ago · RyukenSaab · score 25
+  - matched: safe spot, emberlight
+  - re: Favourite place for Spectre Task
+  - https://www.reddit.com/r/ironscape/comments/1wvxnp3/favourite_place_for_spectre_task/pdfrq9u/
 - **Does a greater teleportation focus allow you to cast both teleport to boat AND summon boat? Or do I need one of each on my boat?**
-  - r/2007scape · 38m ago · smawskrt · score 24
+  - r/2007scape · 1h ago · smawskrt · score 24
   - matched: summon boat, teleport to boat
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvwtom/does_a_greater_teleportation_focus_allow_you_to/
-- **✎ Dragon Slayer II/Speedrun guide — Priff is no longer available in Speedrun worlds. You now need to use a different method for sawmill & pestle and mortar.**
-  - wiki · 23h ago · Youthful · score 27
-  - matched: behaviour edit
-  - edit
-  - https://oldschool.runescape.wiki/w/Dragon_Slayer_II%2FSpeedrun_guide
-- **The Coins in the Shilo village dungeon cause enemies to spawn when you try picking them up, but you can telegrab them. They’re a different item ID. Which makes it possible to have **
-  - comment · 23h ago · andrew_calcs · score 26
-  - matched: item id, telegrab
-  - re: My coins disapeared and my platium stack turend in
-  - https://www.reddit.com/r/2007scape/comments/1wuyqhw/my_coins_disapeared_and_my_platium_stack_turend/pd8k626/
+- **Max cape is always kept on pvp death, key ring and giantsoul are always kept on death, BP, scepter, and ring are my 3 items**
+  - comment · 2h ago · OwMyCandle · score 26
+  - matched: kept on death, always kept on death
+  - re: Remove wilderness steps from clues and add wildern
+  - https://www.reddit.com/r/2007scape/comments/1wvvrkx/remove_wilderness_steps_from_clues_and_add/pdfbkol/
+- **What the other fella said, you only kill Rex in a safe spot. Check out a YouTube video and the “Rex only” section on the rs wiki. super easy to setup. I can also help you with my m**
+  - comment · 5m ago · Ok_Cellist_5064 · score 20
+  - matched: safe spot
+  - re: I'm almost out of the Mid Game
+  - https://www.reddit.com/r/ironscape/comments/1wvh7zi/im_almost_out_of_the_mid_game/pdg30rb/
+- **You mainly just safe spot Rex in a way that the other two kings aren’t attacking you. Basic mage and some tank gear can get you really long trips and so B ring is achievable super **
+  - comment · 11m ago · HtownIron · score 20
+  - matched: safe spot
+  - re: I'm almost out of the Mid Game
+  - https://www.reddit.com/r/ironscape/comments/1wvh7zi/im_almost_out_of_the_mid_game/pdg1ovk/
 - **You can safespot dragons in taverly dungeon with a cannon if you have 70 agility, bring fally TPs for bank and it's only like 30-40s to get back to your spot (you can also reload a**
-  - comment · 30m ago · WWTFSMD · score 20
+  - comment · 1h ago · WWTFSMD · score 20
   - matched: safespot
   - re: Dwarf Multi Cannon Help
   - https://www.reddit.com/r/2007scape/comments/1wv9igj/dwarf_multi_cannon_help/pdfk565/
 - **In multi there are a million ways to do this, the below included. Go watch the bot nuke videos for your enjoyment. In singles; 1. You get frozen by PKer, then a retribution alt kil**
-  - comment · 16h ago · steele578 · score 25
+  - comment · 17h ago · steele578 · score 25
   - matched: max hit, retribution, araxyte venom sack
   - re: Suggestion: Buff the Retribution prayer so PvMers 
   - https://www.reddit.com/r/2007scape/comments/1wv9ban/suggestion_buff_the_retribution_prayer_so_pvmers/pdb413j/
-- **Pkrs need nothing more. Frankly get rid of loot keys and you will instantly revive the wilderness. Want to know why nobody likes it? Because now when you die some guy waits 10 seco**
-  - comment · 1h ago · DmYourTanLinesPls · score 17
-  - matched: looting bag, multi combat
-  - re: Remove wilderness steps from clues and add wildern
-  - https://www.reddit.com/r/2007scape/comments/1wvvrkx/remove_wilderness_steps_from_clues_and_add/pdfamcs/
 - **How do I min max wildy slayer?**
-  - r/ironscape · 15h ago · TrojanXP96 · score 21
+  - r/ironscape · 16h ago · TrojanXP96 · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wvfgmi/how_do_i_min_max_wildy_slayer/
 - **Or people who dont like PvP can just use a gilded alter or something. If you have the gold and want to pay someone to protect you then go for it. But it shouldn't be a game mechani**
-  - comment · 6h ago · Visual_Seaweed8292 · score 20
+  - comment · 7h ago · Visual_Seaweed8292 · score 20
   - matched: game mechanic, cant be attacked
   - re: Formalize PvP Body Guards
   - https://www.reddit.com/r/2007scape/comments/1wvk80o/formalize_pvp_body_guards/pddq0v8/
 - **Can't really compare inferno to raids. It's going to be most comparable to ToB. And ToB at its core is very simple rooms with each boss having only 3 core mechanics you have to kno**
-  - comment · 6h ago · Tuxxa · score 20
+  - comment · 7h ago · Tuxxa · score 20
   - matched: line of sight
   - re: So is the new raid going to have adjustable diffic
   - https://www.reddit.com/r/2007scape/comments/1wvp0sw/so_is_the_new_raid_going_to_have_adjustable/pddp2f8/
 - **Revs Safespot Help**
-  - r/2007scape · 10h ago · Select-Internal-3141 · score 20
+  - r/2007scape · 11h ago · Select-Internal-3141 · score 20
   - matched: safespot
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvlb9z/revs_safespot_help/
 - **Dwarf Multi Cannon Help**
-  - r/2007scape · 20h ago · Antarcaticaschwea · score 20
+  - r/2007scape · 21h ago · Antarcaticaschwea · score 20
   - matched: safespot
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wv9igj/dwarf_multi_cannon_help/
 - **I strongly disagree that its ridiculous exp in either magic or slayer. Its single way combat. Ice blitz/barrage has been in the game since 2005, and can give over 400k magic exp/hr**
-  - comment · 21h ago · Available_Layer4546 · score 20
+  - comment · 22h ago · Available_Layer4546 · score 20
   - matched: max hit, single way
   - re: You can fire surge 100+ on spiritual creatures in 
   - https://www.reddit.com/r/2007scape/comments/1wuoy77/you_can_fire_surge_100_on_spiritual_creatures_in/pd9hmjb/
 - **This is a horrible way to kill the boss. Freeze it with ice barrage/blitz whatever is your highest, and then safespot it with a trident (or equivalent) by outranging it. You can do**
-  - comment · 21h ago · goddangol · score 20
+  - comment · 22h ago · goddangol · score 20
   - matched: safespot
   - re: For those of you who do Thermy, do you do the rede
   - https://www.reddit.com/r/ironscape/comments/1wv75w3/for_those_of_you_who_do_thermy_do_you_do_the/pd9gjtv/
+- **Pkrs need nothing more. Frankly get rid of loot keys and you will instantly revive the wilderness. Want to know why nobody likes it? Because now when you die some guy waits 10 seco**
+  - comment · 2h ago · DmYourTanLinesPls · score 17
+  - matched: looting bag, multi combat
+  - re: Remove wilderness steps from clues and add wildern
+  - https://www.reddit.com/r/2007scape/comments/1wvvrkx/remove_wilderness_steps_from_clues_and_add/pdfamcs/
 - **Bots will know exactly how many tiles the range of your weapon is, and as long as they click on the boss on the same tick as the player reaches their true tile, you wont lose a tic**
-  - comment · 17h ago · Firm-Cause2449 · score 17
+  - comment · 18h ago · Firm-Cause2449 · score 17
   - matched: same tick, true tile
   - re: New AFK Activity - Holding Doom bots hostage with 
   - https://www.reddit.com/r/2007scape/comments/1wv7k4k/new_afk_activity_holding_doom_bots_hostage_with/pday9ke/
 - **... no? Runescape 2 was the release of the 3d model version of the game in 2004, succeeding what's now known as RuneScape Classic. The only dragon items that existed at the start o**
-  - comment · 17h ago · kirbyfreek33 · score 17
+  - comment · 18h ago · kirbyfreek33 · score 17
   - matched: classic, runescape classic
   - re: What is the most iconic item in all of OSRS?
   - https://www.reddit.com/r/2007scape/comments/1wvbykj/what_is_the_most_iconic_item_in_all_of_osrs/pday9f2/
 - **One of the oldest botting softwares on RuneScape that has existed since RuneScape classic is color hex botting. The bots detect different colors in the game to decide where to clic**
-  - comment · 18h ago · Sudden_Wind_8636 · score 17
+  - comment · 19h ago · Sudden_Wind_8636 · score 17
   - matched: classic, runescape classic
   - re: New AFK Activity - Holding Doom bots hostage with 
   - https://www.reddit.com/r/2007scape/comments/1wv7k4k/new_afk_activity_holding_doom_bots_hostage_with/pdadwcj/
 - **How about no? First of all, there's no benefit to you, you're just being grumpy. Two, as suggested you could basically generate double death in almost any PvP fight with extra rest**
-  - comment · 20h ago · trollcat2012 · score 17
+  - comment · 21h ago · trollcat2012 · score 17
   - matched: retribution, multi combat
   - re: Suggestion: Buff the Retribution prayer so PvMers 
   - https://www.reddit.com/r/2007scape/comments/1wv9ban/suggestion_buff_the_retribution_prayer_so_pvmers/pd9ult3/
 - **If you guys are looking for the method to make a second coin placeholder, the method I found yesterday was this. Take out all gp from bank, leave placeholder in. Turn all gp to tok**
-  - comment · 21h ago · WalnutsGaming · score 17
+  - comment · 22h ago · WalnutsGaming · score 17
   - matched: token, decoration
   - re: My coins disapeared and my platium stack turend in
   - https://www.reddit.com/r/2007scape/comments/1wuyqhw/my_coins_disapeared_and_my_platium_stack_turend/pd9h47k/
-- **Rework is 100% in place, the levels needed and ore gathering was for a different time in runescape classic, when rune 2h was best in slot weapon. Nothing has changed since classic,**
-  - comment · 23h ago · Havusaurus · score 17
-  - matched: classic, runescape classic
-  - re: Smithing is just loot crafting. Runescape is about
-  - https://www.reddit.com/r/2007scape/comments/1wv4n4s/smithing_is_just_loot_crafting_runescape_is_about/pd8pep9/
-- **Vengeance does. Taking advantage of elemental weakness does. Being able to Alch, etc does. Barraging also does. Thralls you can even Spellbook swap for if you really want more free**
-  - comment · 23h ago · Tumblrrito · score 17
-  - matched: spellbook swap, thralls
-  - re: Has jagex ever expressed any interest in diversify
-  - https://www.reddit.com/r/2007scape/comments/1wv3wy1/has_jagex_ever_expressed_any_interest_in/pd8p695/
 - **Anyone else cant log in?**
-  - r/2007scape · 2h ago · Expensive_Outside_70 · score 14
+  - r/2007scape · 3h ago · Expensive_Outside_70 · score 14
   - matched: ⚡ connection event
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wvtg89/anyone_else_cant_log_in/
 
 ---
 
-Not included: 1264 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1271 findings older than 24h. Widen with `__osrs.report(48)` in the console.
