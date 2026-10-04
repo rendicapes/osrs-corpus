@@ -1,161 +1,166 @@
 # OSRS Signal — last 24h
 
-2026-10-04 19:33 UTC · 115 findings after merging duplicates (from 194 raw hits; 68 single-term floor rows filtered)
-collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago · firehose: ok · 14s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 6s ago · posts: ok · 18s ago · repo: ok (pushed 18:35Z) · 57m ago · search: ok · 6m ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 10s ago · youtube: ok (21 videos) · 13m ago
+2026-10-04 20:28 UTC · 106 findings after merging duplicates (from 178 raw hits; 64 single-term floor rows filtered)
+collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 19:33Z) · 55m ago · search: ok · 0s ago · vanished: ok (checked 1) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (22 videos) · 21m ago
 
-## Vanished — removed or deleted after posting  (19)
+## Vanished — removed or deleted after posting  (20)
 
-- **🗑 vanished from reddit — removed by a moderator — Idk man but you left out the recent 7 trillion gp swap in the first story then edited your comment. Good luck!**
-  - vanished · 1h ago · KingDarkTurtle · score 40
-  - matched: vanished, trillion gp
-  - was comment, posted 1d before it went
-  - https://www.reddit.com/r/2007scape/comments/1ww66sg/psa_irons_cant_raid_with_mains/pdi6msh/
-- **🗑 vanished from reddit — deleted by the author — People hate him cus he's wearing third age gear and so doesn't fit the aesthetic of the starting area, At this point hes been in t**
-  - comment, vanished · 1h ago · Cold-Management1073 · seen 2x · score 40
-  - matched: vanished, third age
-  - was comment, posted 12h before it went
-  - https://www.reddit.com/r/2007scape/comments/1wx0wh6/previous_failed_polls_should_not_be_unpolled/pdr5kwn/
 - **🗑 vanished from reddit — removed (moderator) — Wildy Clue Steps Risk**
-  - vanished · 16h ago · OwMyCandle · score 48
+  - vanished · 17h ago · OwMyCandle · score 48
   - matched: vanished, bugged, gravestone
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/
   - captured before it went:
     > Hey guys fyi there was an update about half a year ago that made most untradeables safe on pvp death. Posting for awareness! EDIT: Because I knew it would come up: **guide risk value is notoriously bugged**. The same gear in a pvm setup says my risk value is 300k (max cape is always kept on pvp death but not pvm death, that’s where the extra value comes from). But the screen says everything is free to reclaim from death/gravestone. I **can confirm** that everything is free to reclaim from death/gravestone.
 - **🗑 vanished from reddit — deleted by the author — Setup is a bit cherrypicked since you're not using like any tradeables. Like are you really not using a Master Scroll Book, Telepo**
-  - vanished · 16h ago · BioMasterZap · score 48
+  - vanished · 17h ago · BioMasterZap · score 48
   - matched: vanished, bugged, kept on death
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/pdfp570/
   - captured before it went:
     > Setup is a bit cherrypicked since you're not using like any tradeables. Like are you really not using a Master Scroll Book, Teleport Jewelery (Eternal), or such when you do clues? And its kinda silly to assume anyone doing clues will have a max cape that is kept on death instead of a Rune Pouch or such... You also will kill the wizards faster if you bring more than just a BP in full Diary gear... Like if you're running around like this, you'll have a rough time with a Brassican Mage. But if you included more DPS gear or supplies, that would add risk. So you can get low risk setups, but not every setup will be low risk, even if it included untradebles. And the fact you have to note the interface is "notoriously bugged" probably doesn't give a lot of confidence... For example, it doesn't show the repair cost of locked items in the risk and acts like they are kept with no cost. And I honestly don't even know how runes in a locked Rune Pouch work now.
 - **🗑 vanished from reddit — removed (deleted) — Possible Ranged Damage Bug at Araxxor**
-  - vanished · 16h ago · Scaymore · score 48
+  - vanished · 17h ago · Scaymore · score 48
   - matched: vanished, bug, anyone else having
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1ww25u7/possible_ranged_damage_bug_at_araxxor/
   - captured before it went:
     > I am not getting guaranteed max hits while shooting the minions with Sunlight Hunter Crossbow, looks like its rolling normal damage hits/misses. Was just at the boss yesterday with no issues, is anyone else having this problem or am I somehow doing something wrong/different?
 - **🗑 vanished from reddit — removed by a moderator — So it wasn’t spaghetti! I’ll see if I can summarise it properly. \- Totem shrunk slightly I think for mobile \- Totem behaviour f**
-  - vanished · 16h ago · NotaSirWeatherstone · score 48
+  - vanished · 17h ago · NotaSirWeatherstone · score 48
   - matched: vanished, bug, regression
   - was comment, posted 7h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwtfb1/god_ash/pdnwkpg/
   - captured before it went:
     > So it wasn’t spaghetti! I’ll see if I can summarise it properly. \- Totem shrunk slightly I think for mobile \- Totem behaviour for mobile and desktop different (look at totem the default option on desktop, charge jewellery the default on mobile) \- a bug was raised because when it was tested, they could see the totem sticking through the ceiling (side note, I didn’t realise the basements are actually directly under the world and not in a separate area) \-the only acceptance criteria on the ticket was that the totem wasn’t sticking through the ceiling and that was it \- I don’t think it was tested on both platforms but it wasn’t even checked above to see if the totem still worked (a simple regression test) So it was just a total cock up. Who altered the totem didn’t check their merge correctly either. Pretty funny really
 - **🗑 vanished from reddit — deleted by the author — I'm getting tired of every single person that rallies against literally any changes based on ironman gameplay using the "oOh BuT d**
-  - vanished · 16h ago · KingKj52 · score 45
+  - vanished · 17h ago · KingKj52 · score 45
   - matched: vanished, bug
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvbp3k/it_do_be_like_that/pdep4xi/
   - captured before it went:
     > I'm getting tired of every single person that rallies against literally any changes based on ironman gameplay using the "oOh BuT dId YoU fOrGeT tHaT y0u DiD tHiS tO yOuRsElF" argument. Like yeah, the game itself presented an option, and I picked it. That doesn't mean the game can't be improved for people playing within that option, the two aren't mutually exclusive. There isn't another game in existence where developers that see stuff that's actually just dogshit mechanics/gameplay for a specific difficulty level and think "Oh, well yeah we COULD fix this shitty mechanic, but the people playing on very hard difficulty CHOSE to play on this difficulty, and so frankly we can just be lazy and leave it being imbalanced dogshit because if they don't like it they can just change their difficulty". Like, no, they'd fucking fix it. It'd be the same as me saying "Well sorry you dumb fucks CHOSE to NOT play an iron, so that bug with the new GE update that wipes your bank if you try to buy anything in the GE honestly isn't a problem that needs to be fixed, it could just have been designed to do that now, don't waste dev time catering to your specific playstyle, you could've picked an ironman 
 - **🗑 vanished from reddit — deleted by the author — Right before this post, they were commenting in another thread about Wildy clues saying ["just dont degear because there’s no risk**
-  - vanished · 16h ago · BioMasterZap · score 45
+  - vanished · 17h ago · BioMasterZap · score 45
   - matched: vanished, bugged
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/pdfqumc/
   - captured before it went:
     > Right before this post, they were commenting in another thread about Wildy clues saying ["just dont degear because there’s no risk"](https://www.reddit.com/r/2007scape/comments/1wvvrkx/remove_wilderness_steps_from_clues_and_add/pdfdqt9/?context=3). You can keep untradeables and your setup may not need regear, but it shouldn't be assumed as a default. Especially when the guide is bugged for some items.
 - **🗑 vanished from reddit — deleted by the author — You definitely can get a low-risk setup that works for wildy. You just should be a bit more wary than OP is making it out to be. T**
-  - vanished · 16h ago · BioMasterZap · score 45
+  - vanished · 17h ago · BioMasterZap · score 45
   - matched: vanished, bugged
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvwimr/wildy_clue_steps_risk/pdfu22k/
   - captured before it went:
     > You definitely can get a low-risk setup that works for wildy. You just should be a bit more wary than OP is making it out to be. There are still untradeables that will add notable risk, so them spam posting this saying stuff like "just dont degear because there’s no risk" isn't going to be accurate for everyone. Especially when that interface is "notoriously bugged".
 - **🗑 vanished from reddit — removed (deleted) — Vardorviz 3x dry For Vestige**
-  - vanished · 16h ago · LobsterHot131 · score 45
+  - vanished · 17h ago · LobsterHot131 · score 45
   - matched: vanished, bugged
   - was r/ironscape, posted 18h before it went
   - https://www.reddit.com/r/ironscape/comments/1wwif3s/vardorviz_3x_dry_for_vestige/
   - captured before it went:
     > Guys is my fucking acc bugged or somth went dry at araxxor for the fang 2625 and now i am since kc 1600 2/3 gold ring dry at Vardorviz for the Vestige current kc 2800 lmao
 - **🗑 vanished from reddit — deleted by the author — It’s not just max cash - it’s any amount of plat tokens - it all gets turned into gold - basically no more platinum tokens - prett**
-  - vanished · 16h ago · scurvy93 · score 45
+  - vanished · 17h ago · scurvy93 · score 45
   - matched: vanished, bug
   - was comment, posted 13h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwlr03/how_its_been_recently/pdlq4lb/
   - captured before it went:
     > It’s not just max cash - it’s any amount of plat tokens - it all gets turned into gold - basically no more platinum tokens - pretty stupid bug
 - **🗑 vanished from reddit — deleted by the author — It 100% is a bug - you basically can’t use platinum tokens anymore - unless you withdraw gold coins from your bank when do grand e**
-  - vanished · 16h ago · scurvy93 · score 45
+  - vanished · 17h ago · scurvy93 · score 45
   - matched: vanished, bug
   - was comment, posted 13h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwg9v3/platinum_tokens_randomly_being_converted_into_gp/pdlrbrs/
   - captured before it went:
     > It 100% is a bug - you basically can’t use platinum tokens anymore - unless you withdraw gold coins from your bank when do grand exchange transactions - and many years ago they did a quality of life update to ADD the ability to use gold coins from your bank - so this is reverse quality of life
 - **🗑 vanished from reddit — deleted by the author — That's misleading. Game companies that make an MMO almost exclusively work on that MMO due to how much work and upkeep it takes. T**
-  - comment, vanished · 16h ago · yoyo5113 · seen 2x · score 45
+  - comment, vanished · 17h ago · yoyo5113 · seen 2x · score 45
   - matched: vanished, bugs
   - was comment, posted 6h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwwpl7/its_2026_and_jagex/pdoj6c5/
   - captured before it went:
     > That's misleading. Game companies that make an MMO almost exclusively work on that MMO due to how much work and upkeep it takes. This is likely due to the pressures of private equity. They've raised the membership prices as high as they think they can get away with, but now they need to start another branch to bring in fresh profits to appease the investment group. Remember it's not really about making a profit. It's about making increasing larger profits so that the holding group can sell it for a profit later on. What you are talking about are regular game studios. Like big boys like Bethesda, or EA, to smaller studies like Team Cherry. They work on development of a game, release it, upkeep it, fix bugs and release DLC, then move on. That's because it's almost always a single time purchase. MMO's have a monthly fee, so they need to constantly work on the game to justify the price to its players.
 - **🗑 vanished from reddit — removed (deleted) — Desert Treasure 2 - Stuck on Shadow Key**
-  - r/2007scape, vanished · 16h ago · Sassen8 · seen 2x · score 45
+  - r/2007scape, vanished · 17h ago · Sassen8 · seen 2x · score 45
   - matched: vanished, bugged
   - was r/2007scape, posted 2h before it went
   - https://www.reddit.com/r/2007scape/comments/1wx1uue/desert_treasure_2_stuck_on_shadow_key/
   - captured before it went:
     > I'm stuck on desert treasure 2. Quest helper says retrieve the shadow key from the room i've just unlocked, but I can't enter. However, when I enter the shadow realm it says my torch isn't strong enough to destroy the tentacles? Is my quest bugged?
 - **🗑 vanished from reddit — removed by a moderator — Yeah, so thankfully they put him there instead. I also wanted to know how he got on as a QA but he was only in that role for 3 mo**
-  - vanished · 16h ago · NotaSirWeatherstone · score 45
+  - vanished · 17h ago · NotaSirWeatherstone · score 45
   - matched: vanished, bug
   - was comment, posted 8h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwtfb1/god_ash/pdntf0b/
   - captured before it went:
     > Yeah, so thankfully they put him there instead. I also wanted to know how he got on as a QA but he was only in that role for 3 months. The most interesting conversation for me from an osrs perspective was the totem bug that happened recently
 - **🗑 vanished from reddit — removed (deleted) — Is this spooned?**
-  - vanished · 16h ago · Centermid8 · score 44
+  - vanished · 17h ago · Centermid8 · score 44
   - matched: vanished, is this normal, wintertodt
   - was r/2007scape, posted 12h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwp4go/is_this_spooned/
   - captured before it went:
     > Level 3 skiller Ironman, never done Wintertodt before. Feel like I’m pulling a clog every time I cash in at the rewards cart. Is this normal for Wintertodt?
 - **🗑 vanished from reddit — removed (deleted) — Does a greater teleportation focus allow you to cast both teleport to boat AND summon boat? Or do I need one of each on my boat?**
-  - vanished · 16h ago · smawskrt · score 43
+  - vanished · 17h ago · smawskrt · score 43
   - matched: vanished, summon boat, teleport to boat
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvwtom/does_a_greater_teleportation_focus_allow_you_to/
 - **🗑 vanished from reddit — removed (deleted) — Revs Safespot Help**
-  - vanished · 16h ago · Select-Internal-3141 · score 42
+  - vanished · 17h ago · Select-Internal-3141 · score 42
   - matched: vanished, safespot
   - was r/2007scape, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvlb9z/revs_safespot_help/
+- **🗑 vanished from reddit — removed by a moderator — Idk man but you left out the recent 7 trillion gp swap in the first story then edited your comment. Good luck!**
+  - vanished · 2h ago · KingDarkTurtle · score 40
+  - matched: vanished, trillion gp
+  - was comment, posted 1d before it went
+  - https://www.reddit.com/r/2007scape/comments/1ww66sg/psa_irons_cant_raid_with_mains/pdi6msh/
+- **🗑 vanished from reddit — deleted by the author — People hate him cus he's wearing third age gear and so doesn't fit the aesthetic of the starting area, At this point hes been in t**
+  - comment, vanished · 2h ago · Cold-Management1073 · seen 2x · score 40
+  - matched: vanished, third age
+  - was comment, posted 12h before it went
+  - https://www.reddit.com/r/2007scape/comments/1wx0wh6/previous_failed_polls_should_not_be_unpolled/pdr5kwn/
 - **🗑 vanished from reddit — removed by a moderator — Items kept on death screen in equipment tab**
-  - vanished · 16h ago · OwMyCandle · score 40
+  - vanished · 17h ago · OwMyCandle · score 40
   - matched: vanished, kept on death
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1wvvrkx/remove_wilderness_steps_from_clues_and_add/pdfbnpk/
+- **🗑 vanished from reddit — removed (deleted) — Not a single sailing update**
+  - vanished · 17h ago · PuddingWitty · score 40
+  - matched: vanished, J-Mod reply · no bug content
+  - was r/2007scape, posted 6h before it went
+  - https://www.reddit.com/r/2007scape/comments/1wwwry5/not_a_single_sailing_update/
 
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel was blind for 8.3h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 1h ago · score 30
+  - bugs · 2h ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (41 · 12 above the single-term floor, 29 at it)
+## Bugs & exploits  (42 · 13 above the single-term floor, 29 at it)
 
 - ** > I don't think the rag skull makes any meaningful difference to get people interested. That's why it's listed as an extra solution rather than main one. It's meant to improve a l**
-  - comment · 14h ago · Chdata · score 35
+  - comment · 15h ago · Chdata · score 35
   - matched: exploit, void knight, pest control
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdr1evx/
 - **I originally wasn't going to respond to this one tonight since the last one was so long, but I managed to be under 10k characters. It is 1am so after I'm done lazily formatting I'm**
-  - comment · 11h ago · Tyoccial · score 30
+  - comment · 12h ago · Tyoccial · score 30
   - matched: exploit, void knight, pest control
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdro8wl/
 - **Osrs has no integrity becuase of years of bug abuse and botting. Swapping gold Fuckwit**
-  - x · 14h ago · @Kouvaau · score 28
+  - x · 15h ago · @Kouvaau · score 28
   - matched: bug, integrity, gate:named
   - 2♥ 1c · live:osrs bug since:2026-09-24
   - https://x.com/Kouvaau/status/2106606197914861803
 - **I've never engaged with BH so I had no idea. I don't think you can take gear out of BH though, can you? Or is it still just your gear? I'm proposing new corrupt gear that can exist**
-  - comment · 22h ago · Tyoccial · score 28
+  - comment · 23h ago · Tyoccial · score 28
   - matched: shouldn't work, you can still, anchor scroll
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdol4wt/
@@ -165,52 +170,67 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - re: Which new MMO's have succeeded in the last decade?
   - https://www.reddit.com/r/2007scape/comments/1wxaoej/which_new_mmos_have_succeeded_in_the_last_decade/pduhtyn/
 - **If you click a pot and boss on the same tick, there's this bug that the character will run up instead of attacking. I'm pretty sure this has claimed a few GIMs **
-  - comment · 14h ago · vato20071 · +3 more in this thread on the same terms · score 25
+  - comment · 15h ago · vato20071 · +3 more in this thread on the same terms · score 25
   - matched: bug, same tick
   - re: Why did my character run into the boss?
   - https://www.reddit.com/r/2007scape/comments/1wx73pw/why_did_my_character_run_into_the_boss/pdr0nk7/
 - **Why did my character run into the boss?**
-  - r/2007scape · 14h ago · AggressiveAnywhere72 · score 25
+  - r/2007scape · 15h ago · AggressiveAnywhere72 · score 25
   - matched: bug, same tick
   - 14c · 5↑
   - https://www.reddit.com/r/2007scape/comments/1wx73pw/why_did_my_character_run_into_the_boss/
 - **Ever since the max cash grand exchange update this stuff has been bugged. It's kinda crazy how long this has been going on**
-  - comment · 17h ago · wowurcoolful · score 25
+  - comment · 18h ago · wowurcoolful · score 25
   - matched: bugged, max cash
   - re: Why are degradable items showing numbers like they
   - https://www.reddit.com/r/2007scape/comments/1wx3eg8/why_are_degradable_items_showing_numbers_like/pdq3z4u/
+- **▶ My AI co-host explains the OSRS Tempoross pet odds #shorts**
+  - youtube · 1h ago · BareSebb · score 19
+  - matched: glitch
+  - youtube
+  - https://www.youtube.com/watch?v=o48B5UcnWaw
 - **Yep. Safespotting is intended. Tick manipulation is just an exploit that got accepted as normal and even balanced around for some bizarre reason. All it adds to your experience is **
-  - comment · 10h ago · Ok-Statistician-9607 · score 21
+  - comment · 11h ago · Ok-Statistician-9607 · score 21
   - matched: exploit, tick manipulation
   - re: Roadmap from Runefest
   - https://www.reddit.com/r/2007scape/comments/1wwwa79/roadmap_from_runefest/pdrvy8b/
+- **TzHaar Fight Cave Bug**
+  - r/2007scape · 36m ago · icy466 · score 13
+  - matched: bug
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1wxoue8/tzhaar_fight_cave_bug/
+- **GPU completely trounces 117 HD. I've had a myriad of issues & glitches that necessitate turning off 117. After switching to "GPU", I haven't had so much as a single hiccup.**
+  - comment · 53m ago · vidulan · score 13
+  - matched: glitches
+  - re: Looks like Jagex forgot something from last Runefe
+  - https://www.reddit.com/r/2007scape/comments/1wx6ed4/looks_like_jagex_forgot_something_from_last/pdvcrk0/
 - **Low defense is just the same as pvp builds, they just don't pvp. If you wanted to mention actual snowflakes, then you'd mention level 3 skillers that could gain access to new areas**
-  - comment · 1h ago · Oniichanplsstop · score 13
+  - comment · 2h ago · Oniichanplsstop · score 13
   - matched: bug
   - re: A bold ask, but is it time to have a conversation 
   - https://www.reddit.com/r/2007scape/comments/1wxcuea/a_bold_ask_but_is_it_time_to_have_a_conversation/pdun1lx/
 - **Is Giant's Foundry bugged for anyone else**
-  - r/osrs · 4h ago · Alarming_Bandicoot60 · score 13
+  - r/osrs · 5h ago · Alarming_Bandicoot60 · score 13
   - matched: bugged
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wxhn00/is_giants_foundry_bugged_for_anyone_else/
 - **Can't enter nature altar after playing lms**
-  - r/2007scape · 4h ago · Rushbym8 · score 13
+  - r/2007scape · 5h ago · Rushbym8 · score 13
   - matched: bugged
   - 4c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wxhfja/cant_enter_nature_altar_after_playing_lms/
 - **Will people be able to make mule accounts to hold items in case they die, so they can trade them back to their new HC? How does item loss on death work**
-  - comment · 11h ago · Durian321 · score 13
+  - comment · 12h ago · Durian321 · score 13
   - matched: item loss
   - re: Hardcore worlds will be all hype at the start, the
   - https://www.reddit.com/r/2007scape/comments/1wx2qr9/hardcore_worlds_will_be_all_hype_at_the_start/pdrljsg/
 - **I think they are wildly exaggerating. Fresh start on osrs fizzled out very quickly. Rs3 has more legitimate reasons to do fresh servers like their trillions of duped gold, duped it**
-  - comment · 12h ago · WaveDashSpeedKick · score 13
+  - comment · 13h ago · WaveDashSpeedKick · score 13
   - matched: exploits
   - re: PSA for those who thought RS3 Reignited might be y
   - https://www.reddit.com/r/2007scape/comments/1wx94p2/psa_for_those_who_thought_rs3_reignited_might_be/pdrgg7b/
 - **All the botting and gp swapping and bug abusing in osrs doesn’t exist?**
-  - x · 13h ago · @Kouvaau · score 13
+  - x · 14h ago · @Kouvaau · score 13
   - matched: bug, gate:named
   - 1♥ · live:osrs bug since:2026-09-24
   - https://x.com/Kouvaau/status/2106627904436388067
@@ -225,72 +245,72 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - re: The Tower of Xophoros - Cinematic Trailer - statue
   - https://www.reddit.com/r/2007scape/comments/1wx76k2/the_tower_of_xophoros_cinematic_trailer_statue/pdr4eoi/
 - **So people who swapped gp or botted or bug abused in osrs get a free pass? Hilarious**
-  - x · 14h ago · @Kouvaau · score 13
+  - x · 15h ago · @Kouvaau · score 13
   - matched: bug, gate:named
   - · live:osrs bug since:2026-09-24
   - https://x.com/Kouvaau/status/2106615238351323475
 - **Is it not that weapon swap bug? That makes u run into melee bosses after a quick swap **
-  - comment · 14h ago · chizo92 · score 13
+  - comment · 15h ago · chizo92 · score 13
   - matched: bug
   - re: Why did my character run into the boss?
   - https://www.reddit.com/r/2007scape/comments/1wx73pw/why_did_my_character_run_into_the_boss/pdr05wq/
 - **its a server with reset mechanics to say theres 0 bugs that will happen and no one will spend time on them then sure we can just let the gamemode be bugged **
-  - comment · 14h ago · LordAwesomeguy · score 13
+  - comment · 15h ago · LordAwesomeguy · score 13
   - matched: bugs
   - re: How do you feel about Hardcore worlds not being su
   - https://www.reddit.com/r/2007scape/comments/1wx6bap/how_do_you_feel_about_hardcore_worlds_not_being/pdqxskp/
 - **Are you able to take a video of the issue? Not sure that I could help with the bug, but it would be interesting to see. Sounds frustrating, good luck on the fight!**
-  - comment · 15h ago · lqpwc · score 13
+  - comment · 16h ago · lqpwc · score 13
   - matched: bug
   - re: Issues- The blood moon rises - Drakan fight.
   - https://www.reddit.com/r/2007scape/comments/1wx2wz8/issues_the_blood_moon_rises_drakan_fight/pdquc8r/
 - **They are tidying up the game and moving an completely irrelevant npc to a different place. This is not the time and place to rant about customer compliance, nor does it give any in**
-  - comment · 15h ago · wozzwoz · score 13
+  - comment · 16h ago · wozzwoz · score 13
   - matched: game breaking
   - re: Previous failed polls should not be unpolled chang
   - https://www.reddit.com/r/2007scape/comments/1wx0wh6/previous_failed_polls_should_not_be_unpolled/pdqovme/
 - **New World was insanely good until all the glitches happened and lack of content. Both being because they rushed that game out. **
-  - comment · 16h ago · Zelanor · score 13
+  - comment · 17h ago · Zelanor · score 13
   - matched: glitches
   - re: SO HYPED FOR RS4
   - https://www.reddit.com/r/2007scape/comments/1wwxsoa/so_hyped_for_rs4/pdqk4cx/
 - **You have to start as a fresh level 3, with the whole economy started fresh. It's a 'Fresh Start' world. I've mentioned it in many of the comments, and will make an edit after reply**
-  - comment · 16h ago · huey_plag · score 13
+  - comment · 17h ago · huey_plag · score 13
   - matched: bugs
   - re: Jagex is introducing New Servers for both RS3 and 
   - https://www.reddit.com/r/2007scape/comments/1wwxt1f/jagex_is_introducing_new_servers_for_both_rs3_and/pdqjb6c/
 - **I don't think either of your routes would fix the issues you've acknowledged above. Firstly, how do you "fix the Wilderness?" Secondly, how are you going to make PvP minigames real**
-  - comment · 16h ago · Tyoccial · score 13
+  - comment · 17h ago · Tyoccial · score 13
   - matched: exploit
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdqj5nc/
 - **itll save like 2 mins of banking every 10-15mins for nechs, idk if that is to game breaking**
-  - comment · 16h ago · Optimal-Nobody · score 13
+  - comment · 17h ago · Optimal-Nobody · score 13
   - matched: game breaking
   - re: Fairytale 3 and dramen staff
   - https://www.reddit.com/r/2007scape/comments/1wwyp8t/fairytale_3_and_dramen_staff/pdqg1t6/
 - **Pretty sure the devs intended to make it so you can see charges remaining on those kinds of items on the vanilla/mobile client, but they've got a bug where it's being treated as nu**
-  - comment · 17h ago · Seeggul · score 13
+  - comment · 18h ago · Seeggul · score 13
   - matched: bug
   - re: Why are degradable items showing numbers like they
   - https://www.reddit.com/r/2007scape/comments/1wx3eg8/why_are_degradable_items_showing_numbers_like/pdqajiz/
 - **I stepped out at work for my break and pulled my phone out to look at reddit for a sec and the first post I saw was the Runescape 4 Announcement trailer. I let out a gasp and went **
-  - comment · 17h ago · CrackPipeBilly · score 13
+  - comment · 18h ago · CrackPipeBilly · score 13
   - matched: bugged
   - re: New RS MMO In Development & What This Means For Yo
   - https://www.reddit.com/r/2007scape/comments/1wwwmnj/new_rs_mmo_in_development_what_this_means_for_you/pdq7dh7/
 - **It does say it's not intended to replace Dragonwilds (or OSRS or RS3), so I'm doubtful. It'll probably be more like a conventional MMO utilizing the tank/dps/heal trinity with a fo**
-  - comment · 17h ago · Aaaromp · score 13
+  - comment · 18h ago · Aaaromp · score 13
   - matched: not intended
   - re: Expecting RS4 to be like a Dragonwilds 2. If the j
   - https://www.reddit.com/r/2007scape/comments/1wwy6jd/expecting_rs4_to_be_like_a_dragonwilds_2_if_the/pdq6s2n/
 - **Yeah that's probably why dragonwilds has had 4 or 5 game and character deleting bugs since launch. Jagex, famous for having worst-in-class QA, is definitely the company I want rely**
-  - comment · 18h ago · macnar · score 13
+  - comment · 19h ago · macnar · score 13
   - matched: bugs
   - re: Jagex Seemingly Used AI for the RS3 Dragon Slayer 
   - https://www.reddit.com/r/2007scape/comments/1wx25xv/jagex_seemingly_used_ai_for_the_rs3_dragon_slayer/pdptvwl/
 - **Guess we’ll see how many bugs vibe coding adds**
-  - comment · 18h ago · NotTheFBIorNSA · score 13
+  - comment · 19h ago · NotTheFBIorNSA · score 13
   - matched: bugs
   - re: Jagex Seemingly Used AI for the RS3 Dragon Slayer 
   - https://www.reddit.com/r/2007scape/comments/1wx25xv/jagex_seemingly_used_ai_for_the_rs3_dragon_slayer/pdpsrr4/
@@ -300,55 +320,45 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - re: RuneFest 2026 Summit Overview
   - https://www.reddit.com/r/2007scape/comments/1wwwfkx/runefest_2026_summit_overview/pdpsbuz/
 - **Edicts only works on gods ejected by Guthix. So Bandos shouldnt be able to return anyway. Any god remaining on Gielinor would still be able to do their thing. Technically Seren cou**
-  - comment · 19h ago · MrRightHanded · score 13
+  - comment · 20h ago · MrRightHanded · score 13
   - matched: shouldnt be able
   - re: Say no to The Chosen Commander
   - https://www.reddit.com/r/2007scape/comments/1wx10fl/say_no_to_the_chosen_commander/pdppxxo/
 - **No text for the Tower?**
-  - r/2007scape · 19h ago · Alternative_Flow3536 · score 13
+  - r/2007scape · 20h ago · Alternative_Flow3536 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wx20fx/no_text_for_the_tower/
 - **They couldn’t even release a bug fix patch, Summer Sweep Up, in a timely manner. So let’s not expect them to be on time on any of this for brand new content.**
-  - comment · 19h ago · JimmerFredJune2026 · score 13
+  - comment · 20h ago · JimmerFredJune2026 · score 13
   - matched: bug
   - re: The best RuneFest Summit ever
   - https://www.reddit.com/r/2007scape/comments/1wwxa5o/the_best_runefest_summit_ever/pdpnwv3/
 - **Aldarin Windmill Birds Nest Bug**
-  - r/2007scape · 20h ago · ComicBooks_ · score 13
+  - r/2007scape · 21h ago · ComicBooks_ · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wx0b45/aldarin_windmill_birds_nest_bug/
 - **Is that blog gonna feature a follow-up to whatever they mentioned in January about a "workaround" for players who can't complete WGS? My personal expectations are zero, mind, but p**
-  - comment · 22h ago · NoCurrencies · score 13
+  - comment · 23h ago · NoCurrencies · score 13
   - matched: can't complete
   - re: The Fractured Archive - Raids 4 Cinematic Trailer 
   - https://www.reddit.com/r/2007scape/comments/1wwvvfx/the_fractured_archive_raids_4_cinematic_trailer/pdop77r/
 - **I already foresee a bug where it rewrites someone's main on osrs lol**
-  - comment · 22h ago · Ilikegreenpens · score 13
+  - comment · 23h ago · Ilikegreenpens · score 13
   - matched: bug
   - re: Hardcore Worlds - Trailer
   - https://www.reddit.com/r/2007scape/comments/1wwwahc/hardcore_worlds_trailer/pdonvu1/
 - **INFORMATION NOT AVAILABLE CORRUPTED DATA HAS BEEN REMOVED THIS IS A WARNING The surrounding text is deliberate visual “corruption” / glitch styling (repeating symbol sequences like**
-  - comment · 22h ago · SourceAwkward · score 13
+  - comment · 23h ago · SourceAwkward · score 13
   - matched: glitch
   - re: Hidden message in Tower of Xophoros blog section
   - https://www.reddit.com/r/2007scape/comments/1wwx24j/hidden_message_in_tower_of_xophoros_blog_section/pdohxap/
-- **Full time phone player here. I would not be playing without mobile. Life is too busy now. Super grateful for mobile, but also wish it had more technical support instead of new cont**
-  - comment · 23h ago · Lamb_of_the_freefolk · score 13
-  - matched: bugs
-  - re: I love OSRS, but honestly I don’t know how I’d pla
-  - https://www.reddit.com/r/2007scape/comments/1wwpsk4/i_love_osrs_but_honestly_i_dont_know_how_id_play/pdoclrz/
-- **I was thinking the same thing. They may have started with RS3 because they needed to retain their playerbase for the years it will take for them to actually make RS4 so they couldn**
-  - comment · 23h ago · vince129 · score 13
-  - matched: bugs
-  - re: New RS MMO In Development & What This Means For Yo
-  - https://www.reddit.com/r/2007scape/comments/1wwwmnj/new_rs_mmo_in_development_what_this_means_for_you/pdocl31/
 
-## Jagex & J-Mod  (20 · 17 above the single-term floor, 3 at it)
+## Jagex & J-Mod  (18 · 15 above the single-term floor, 3 at it)
 
 - **I think maybe the real question is, what constitues content having to be polled? *According to wiki, these are the different criteria of polls:* *Changes that must pass a poll incl**
-  - comment · 12h ago · Valediction191 · score 46
+  - comment · 13h ago · Valediction191 · score 46
   - matched: bug, glitch, tutorial island, integrity
   - re: Hardcore Worlds aren't being polled
   - https://www.reddit.com/r/2007scape/comments/1wx8q8e/hardcore_worlds_arent_being_polled/pdrdte6/
@@ -358,57 +368,52 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - latest of 11, Mod_Jerv: LOVE killerwatts, and this is so creative! 
   - https://www.reddit.com/comments/1wxhgwb
 - **📰 Quest Month - RuneFest 2026**
-  - news · 12h ago · Shayani · score 34
+  - news · 13h ago · Shayani · score 34
   - matched: newspost
   - GET REKT HATIUS
   - https://oldschool.runescape.wiki/w/Update%3AQuest_Month_-_RuneFest_2026
-- **📰 RuneFest 2026 Summit Overview**
-  - r/2007scape, news · 23h ago · Shayani · seen 2x · score 34
-  - matched: newspost
-  - Created page with "{{Update|date=03 October 2026|url=https:/
-  - https://oldschool.runescape.wiki/w/Update%3ARuneFest_2026_Summit_Overview
 - **🟣 17 J-Mod replies — GOD ASH**
-  - comment · 21h ago · JagexAsh6079 · score 30
+  - comment · 22h ago · JagexAsh6079 · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 17, JagexAsh6079: Thanks!
   - https://www.reddit.com/comments/1wwtfb1
 - **🟣 34 J-Mod replies — The GOAT**
-  - comment · 21h ago · JagexAsh6079 · score 30
+  - comment · 22h ago · JagexAsh6079 · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 34, JagexAsh6079: We met through RuneScape as forum mods, before I started work at Jagex
   - https://www.reddit.com/comments/1wwj315
 - **🟣 33 J-Mod replies — RuneFest 2026 Summit Overview**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 33, JagexGoblin: Not at all, just more cool content (bosses, creatures, skilling resour
   - https://www.reddit.com/comments/1wwwfkx
 - **🟣 7 J-Mod replies — The only item reward in the Dev Blog is Zanik's Modified Crossbow**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 7, JagexGoblin: Not *guaranteed* but it means that the backend calc that's rolling acc
   - https://www.reddit.com/comments/1wwx4rh
 - **🟣 16 J-Mod replies — The Fractured Archive - Raids 4 Cinematic Trailer - Coming October 20th**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 16, JagexGoblin: Not everything shown maps on like-for-like to the voiceover, just some
   - https://www.reddit.com/comments/1wwvvfx
 - **🟣 4 J-Mod replies — Menaphos finally coming to OSRS!**
-  - comment · 22h ago · JagexRach · score 30
+  - comment · 23h ago · JagexRach · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 4, JagexRach: LETS GOOOOOOOOOOOOO <3
   - https://www.reddit.com/comments/1www3ar
 - **🟣 3 J-Mod replies — The best RuneFest Summit ever**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 3, JagexGoblin: Excited for question month! On a real, glad you enjoyed the show, hope
   - https://www.reddit.com/comments/1wwxa5o
 - **🟣 3 J-Mod replies — Raids 4**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 3, JagexGoblin: To be realistic, I'd say TFA is probably a good bit beyond you at the 
   - https://www.reddit.com/comments/1wwxavk
 - **🟣 11 J-Mod replies — Dungeons of Gielinor - Cinematic Trailer**
-  - comment · 22h ago · JagexGoblin · score 30
+  - comment · 23h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 11, JagexGoblin: We noticed an issue at one point where YouTube was detecting the video
   - https://www.reddit.com/comments/1wwvw91
@@ -422,13 +427,8 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - matched: J-Mod · rolled up, no bug content
   - latest of 6, JagexGoblin: More to come soon, just not enough time to get through much in an hour
   - https://www.reddit.com/comments/1wwvulj
-- **🟣 3 J-Mod replies — Not a single sailing update**
-  - comment · 23h ago · JagexGoblin · score 30
-  - matched: J-Mod · rolled up, no bug content
-  - latest of 3, JagexGoblin: If you look at the bottom of the roadmap image, you'll see Diving Expa
-  - https://www.reddit.com/comments/1wwwry5
 - **It’s just annoying when their argument for increasing membership prices are “we are shipping great updates!” And then their main game update is “we uncapped GE max price” or “we ar**
-  - comment · 21h ago · FreakDJ · score 27
+  - comment · 22h ago · FreakDJ · score 27
   - matched: uncapped, game update
   - re: Is there a reason hardcore server isn’t getting po
   - https://www.reddit.com/r/2007scape/comments/1wwyc7v/is_there_a_reason_hardcore_server_isnt_getting/pdozfgt/
@@ -443,30 +443,25 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wx5ln7/hc_main_coming_completely_unpolled/
 - **The Ever Elusive Prince Black Dragon.**
-  - r/2007scape · 20h ago · Key_Appointment_2315 · score 15
+  - r/2007scape · 21h ago · Key_Appointment_2315 · score 15
   - matched: mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wx0aon/the_ever_elusive_prince_black_dragon/
 
-## "You can do this" finds  (7)
+## "You can do this" finds  (6)
 
-- **🗑 vanished from reddit — removed (deleted) — Not a single sailing update**
-  - r/2007scape, vanished · 16h ago · PuddingWitty · seen 2x · score 40
-  - matched: vanished, J-Mod reply · no bug content
-  - was r/2007scape, posted 6h before it went
-  - https://www.reddit.com/r/2007scape/comments/1wwwry5/not_a_single_sailing_update/
 - **🗑 vanished from reddit — removed (deleted) — Raids 4**
-  - r/2007scape, vanished · 16h ago · BeneficialEbb8410 · seen 2x · score 40
+  - r/2007scape, vanished · 17h ago · BeneficialEbb8410 · seen 2x · score 40
   - matched: vanished, J-Mod reply · no bug content
   - was r/2007scape, posted 6h before it went
   - https://www.reddit.com/r/2007scape/comments/1wwxavk/raids_4/
 - **I learned it during Gridmaster with the infinite shark. The void flares heal Yama if they explode so I just camped on the final phase and kept trying until I got the pattern down. **
-  - comment · 14h ago · snowhusky5 · score 26
+  - comment · 15h ago · snowhusky5 · score 26
   - matched: ⚡ food per inventory slot, the void
   - re: Is Solo Yama reasonable if you melee p1/2 and mage
   - https://www.reddit.com/r/ironscape/comments/1wue3jw/is_solo_yama_reasonable_if_you_melee_p12_and_mage/pdqyg5r/
 - **The grind for the bottomless milk bucket continues......**
-  - r/2007scape · 19h ago · 94c73 · score 26
+  - r/2007scape · 20h ago · 94c73 · score 26
   - matched: ⚡ food per inventory slot, bottomless
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wx14ih/the_grind_for_the_bottomless_milk_bucket_continues/
@@ -476,40 +471,45 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - re: Suggestion for replacement reward in Lummy Elite.
   - https://www.reddit.com/r/2007scape/comments/1wx0h8n/suggestion_for_replacement_reward_in_lummy_elite/pdqwews/
 - **There was 1 single tormented demon in the Raids 4 video. (I dont even think its worth the single inventory slot, at least at launch)**
-  - comment · 22h ago · MrRightHanded · score 17
+  - comment · 23h ago · MrRightHanded · score 17
   - matched: inventory slot, single inventory slot
   - re: Synapse GE price
   - https://www.reddit.com/r/2007scape/comments/1www1uy/synapse_ge_price/pdokyg2/
 - **Stepping from vorkath > zulrah > muspah > dt2 bosses > doom is probably a good path nowadays to becoming a good player without needing a team to practice pvm mechanics like overhea**
-  - comment · 10h ago · Nova_main · score 16
+  - comment · 11h ago · Nova_main · score 16
   - matched: without needing, overheads
   - re: Has Jagex ever explained why they add a lot of mid
   - https://www.reddit.com/r/2007scape/comments/1wxap9a/has_jagex_ever_explained_why_they_add_a_lot_of/pdru69t/
 
-## Mechanics & wiki corrections  (27 · 17 above the single-term floor, 10 at it)
+## Mechanics & wiki corrections  (19 · 16 above the single-term floor, 3 at it)
 
 - **✎ Gecko (Buccaneers' Haven) — Confirmed at rf**
-  - wiki · 7h ago · Use · score 27
+  - wiki · 8h ago · Use · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Gecko_(Buccaneers'_Haven)
 - **✎ Mod Gecko — Confirmed at rf**
-  - wiki · 7h ago · Use · score 27
+  - wiki · 8h ago · Use · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Mod_Gecko
+- **You can recharge at altar and do the ones which need prayer first. Dh, ahrim, karil Gothan, Torag, Verac can be tanked with food If you get a bad tunnel, try to safe spot or use ha**
+  - comment · 1m ago · RyukenSaab · score 20
+  - matched: safe spot
+  - re: Morytania hard
+  - https://www.reddit.com/r/ironscape/comments/1wxp1tk/morytania_hard/pdvpe74/
+- **His videos are ai slop now. A recent dag Kings safe spot video shows him using clips and gear from like 2018 with an obviously AI voice over **
+  - comment · 14m ago · cardgamesareforplay · score 20
+  - matched: safe spot
+  - re: Old School 2026 Golden Gnome Winners
+  - https://www.reddit.com/r/2007scape/comments/1wxd8l1/old_school_2026_golden_gnome_winners/pdvmedi/
 - **# Part two: >\> Also, PKers are not desparate for loot pinatas. They are, though. PKers aren't looking to engage in PvP, that's why they're PKers. PvP is always a two-way fight (or**
-  - comment · 12h ago · Tyoccial · score 25
+  - comment · 13h ago · Tyoccial · score 25
   - matched: safe spot, chaos elemental
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdriyn4/
-- **Wouldn't changing the levels of 90% of the items made through the smithing skill be a rework? All people want is the ability to make equipment at a level that is relevant, instead **
-  - comment · 1h ago · SleepyFreli · score 17
-  - matched: classic, runescape classic
-  - re: Mining and smithing doesnt need a rework.
-  - https://www.reddit.com/r/2007scape/comments/1wxlqx8/mining_and_smithing_doesnt_need_a_rework/pduq09r/
 - **I lost mine to the Dramen tree guy. I thought I was in the safe spot. Safe to day I didn't restart, my deaths dink channel is now over 2,000 screenshots so I think I made the right**
-  - comment · 2h ago · WasV3 · score 20
+  - comment · 3h ago · WasV3 · score 20
   - matched: safe spot
   - re: HCIM died to a DC — restart or continue as a regul
   - https://www.reddit.com/r/ironscape/comments/1wxj7gp/hcim_died_to_a_dc_restart_or_continue_as_a/pdugov4/
@@ -519,111 +519,66 @@ collector health · bugpages: ok (178 flagged · coverage: BLIND 3m) · 4s ago �
   - re: Loot from Voidwaker grind... Get me outta the wild
   - https://www.reddit.com/r/ironscape/comments/1wx0st4/loot_from_voidwaker_grind_get_me_outta_the_wildy/pdrrhdv/
 - **Yes, whenever you click to attack, it essentially is split into 2 commands. The first command is to move towards the target, and the second is to attack as soon as you're on a tile**
-  - comment · 14h ago · MrStealYoBeef · score 20
+  - comment · 15h ago · MrStealYoBeef · score 20
   - matched: line of sight
   - re: Why did my character run into the boss?
   - https://www.reddit.com/r/2007scape/comments/1wx73pw/why_did_my_character_run_into_the_boss/pdr3lwh/
 - **https://www.reddit.com/r/2007scape/s/durpvZW1w8 Read the comments in this post. I thought I was going fucking crazy dying at Cg. Turns out osrs has shit pathing that no one explain**
-  - comment · 14h ago · bohhob-2h · score 20
+  - comment · 15h ago · bohhob-2h · score 20
   - matched: pathing
   - re: Why did my character run into the boss?
   - https://www.reddit.com/r/2007scape/comments/1wx73pw/why_did_my_character_run_into_the_boss/pdr1jrx/
-- **They're gonna patch the "known issues" that let us tick manipulate and safe spot**
-  - comment · 23h ago · RoryPond · score 20
-  - matched: safe spot
-  - re: Roadmap from Runefest
-  - https://www.reddit.com/r/2007scape/comments/1wwwa79/roadmap_from_runefest/pdobn30/
-- **can safespot dragon with range/mage def bonus higher than melee, with slaughters. no setup, same droprate as knight. it can heal though so depends on your dps. I'd recommend safesp**
-  - comment · 23h ago · omgfineillsignupjeez · score 20
-  - matched: safespot
-  - re: Fastest way to revs weapon?
-  - https://www.reddit.com/r/ironscape/comments/1wwil2z/fastest_way_to_revs_weapon/pdo9u43/
-- **If you try to kite or safespot TDs while they are on melee, they will start attacking with ranged or mage at random. I think that's what happened here, not "he attacked an extra ti**
-  - comment · 23h ago · Technomancerer · score 20
-  - matched: safespot
-  - re: Tormented demon pulled a fast one on me
-  - https://www.reddit.com/r/2007scape/comments/1wwvodw/tormented_demon_pulled_a_fast_one_on_me/pdo88gf/
+- **Wouldn't changing the levels of 90% of the items made through the smithing skill be a rework? All people want is the ability to make equipment at a level that is relevant, instead **
+  - comment · 2h ago · SleepyFreli · score 17
+  - matched: classic, runescape classic
+  - re: Mining and smithing doesnt need a rework.
+  - https://www.reddit.com/r/2007scape/comments/1wxlqx8/mining_and_smithing_doesnt_need_a_rework/pduq09r/
 - **Need more heal other options**
-  - r/osrs · 3h ago · room4one · score 17
+  - r/osrs · 4h ago · room4one · score 17
   - matched: heal other, barbarian assault
   - 8c · 0↑
   - https://www.reddit.com/r/osrs/comments/1wxioba/need_more_heal_other_options/
 - **Remember RuneScape Classic? I do. How much longer for those veteran worlds before same thing? We have an emotional trigger response because we’re experienced enough to see the resu**
-  - comment · 13h ago · Status-Range8223 · seen 2x · score 17
+  - comment · 14h ago · Status-Range8223 · seen 2x · score 17
   - matched: classic, runescape classic
   - re: The Sunsetting of our 25 Year Old Accounts
   - https://www.reddit.com/r/2007scape/comments/1wx7oeq/the_sunsetting_of_our_25_year_old_accounts/pdr8k7u/
 - **It's a very disappointing ending in RS3. >!Essentially, you're shown joke war propaganda films by the tooth fairy explaining how she's learned to grow teeth creatures out of any to**
-  - comment · 19h ago · Maatix12 · score 17
+  - comment · 20h ago · Maatix12 · score 17
   - matched: in rs3, self inflicted damage
   - re: WE ARE GETTING THE FINALE TO THE FAIRY TALES QUEST
   - https://www.reddit.com/r/2007scape/comments/1wwvqgc/we_are_getting_the_finale_to_the_fairy_tales/pdpqvt2/
 - **In RS3's timeline of events, the desert gods Icthlarin, Amascut, as well as Bau of Tumeken were never asked to leave, only Elidnis. So that isn't out of line with the Edicts as we **
-  - comment · 19h ago · Forged-Signatures · score 17
+  - comment · 20h ago · Forged-Signatures · score 17
   - matched: in rs3, entrana
   - re: Say no to The Chosen Commander
   - https://www.reddit.com/r/2007scape/comments/1wx10fl/say_no_to_the_chosen_commander/pdpoqde/
 - **I'm not scared at all, mining and smithing are basically worthless and offer nothing except for achievement diarys, and amethyst mining at 92. They were skills designed for runesca**
-  - comment · 20h ago · Cold-Management1073 · score 17
+  - comment · 21h ago · Cold-Management1073 · score 17
   - matched: classic, runescape classic
   - re: RuneFest 2026 Summit Overview
   - https://www.reddit.com/r/2007scape/comments/1wwwfkx/runefest_2026_summit_overview/pdp8elo/
 - **Check out the lore from the og quest on rs3 wiki **
-  - comment · 22h ago · rsbentley · score 17
+  - comment · 23h ago · rsbentley · score 17
   - matched: rs3 wiki, on rs3
   - re: The only item reward in the Dev Blog is Zanik's Mo
   - https://www.reddit.com/r/2007scape/comments/1wwx4rh/the_only_item_reward_in_the_dev_blog_is_zaniks/pdop7ei/
 - **RuneScape’s Position On Gen AI**
-  - r/2007scape · 5h ago · JagexSween · score 14
+  - r/2007scape · 6h ago · JagexSween · score 14
   - matched: J-Mod · no bug content
   - 670c · 3604↑
   - https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/
-- **New RS MMO In Development & What This Means For You**
-  - r/2007scape · 23h ago · JagexBlossom · score 14
-  - matched: J-Mod · no bug content
-  - 0c · 11↑
-  - https://www.reddit.com/r/2007scape/comments/1wwwmnj/new_rs_mmo_in_development_what_this_means_for_you/
 - **Jagex Seemingly Used AI for the RS3 Dragon Slayer 2 Reveal Trailer**
-  - r/2007scape · 19h ago · Omen_Darkly · score 13
+  - r/2007scape · 20h ago · Omen_Darkly · score 13
   - matched: J-Mod reply · no bug content
   - 971c · 3993↑
   - https://www.reddit.com/r/2007scape/comments/1wx25xv/jagex_seemingly_used_ai_for_the_rs3_dragon_slayer/
 - **The best RuneFest Summit ever**
-  - r/2007scape · 22h ago · Taiyafung · score 13
+  - r/2007scape · 23h ago · Taiyafung · score 13
   - matched: J-Mod reply · no bug content
   - 14c · 17↑
   - https://www.reddit.com/r/2007scape/comments/1wwxa5o/the_best_runefest_summit_ever/
-- **The only item reward in the Dev Blog is Zanik's Modified Crossbow**
-  - r/2007scape · 23h ago · LieV2 · score 13
-  - matched: J-Mod reply · no bug content
-  - 2c · 2↑
-  - https://www.reddit.com/r/2007scape/comments/1wwx4rh/the_only_item_reward_in_the_dev_blog_is_zaniks/
-- **Why not incorporate the Dungeons of Gielinor with Sailing?**
-  - r/2007scape · 23h ago · Ayevera · score 13
-  - matched: J-Mod reply · no bug content
-  - 11c · 8↑
-  - https://www.reddit.com/r/2007scape/comments/1wwwwde/why_not_incorporate_the_dungeons_of_gielinor_with/
-- **Menaphos finally coming to OSRS!**
-  - r/2007scape · 23h ago · H3X4RY · score 13
-  - matched: J-Mod reply · no bug content
-  - 28c · 196↑
-  - https://www.reddit.com/r/2007scape/comments/1www3ar/menaphos_finally_coming_to_osrs/
-- **Dungeons of Gielinor - Cinematic Trailer**
-  - r/2007scape · 23h ago · YuumiMain9974 · score 13
-  - matched: J-Mod reply · no bug content
-  - 21c · 40↑
-  - https://www.reddit.com/r/2007scape/comments/1wwvw91/dungeons_of_gielinor_cinematic_trailer/
-- **The Fractured Archive - Raids 4 Cinematic Trailer - Coming October 20th**
-  - r/2007scape · 23h ago · YuumiMain9974 · score 13
-  - matched: J-Mod reply · no bug content
-  - 57c · 175↑
-  - https://www.reddit.com/r/2007scape/comments/1wwvvfx/the_fractured_archive_raids_4_cinematic_trailer/
-- **The Chosen Commander - Cinematic Trailer**
-  - r/2007scape · 23h ago · YuumiMain9974 · score 13
-  - matched: J-Mod reply · no bug content
-  - 8c · 46↑
-  - https://www.reddit.com/r/2007scape/comments/1wwvulj/the_chosen_commander_cinematic_trailer/
 
 ---
 
-Not included: 918 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 940 findings older than 24h. Widen with `__osrs.report(48)` in the console.
