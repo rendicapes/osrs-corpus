@@ -1,7 +1,7 @@
 # OSRS Signal — last 24h
 
-2026-10-04 02:38 UTC · 106 findings after merging duplicates (from 198 raw hits; 82 single-term floor rows filtered)
-collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago · firehose: ok · 6s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 2s ago · news: ok (30 posts) · 4s ago · posts: ok · 10s ago · repo: ok (pushed 01:43Z) · 55m ago · search: ok · 1m ago · vanished: ok (nothing pending) · 2m ago · wiki: ok (250 edits) · 5s ago · youtube: ok (16 videos) · 42m ago
+2026-10-04 02:47 UTC · 106 findings after merging duplicates (from 197 raw hits; 81 single-term floor rows filtered)
+collector health · bugpages: ok (178 flagged · coverage: continuous) · 7s ago · firehose: ok · 8s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 7s ago · posts: ok · 10s ago · search: ok · 0s ago · wiki: ok (250 edits) · 8s ago · youtube: ok (16 videos) · 1s ago
 
 ## Vanished — removed or deleted after posting  (1)
 
@@ -65,22 +65,22 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: buying anything on the ge is causing issues with c
   - https://www.reddit.com/r/2007scape/comments/1wwcb5m/buying_anything_on_the_ge_is_causing_issues_with/pdjn4he/
 - **Pretty sure the devs intended to make it so you can see charges remaining on those kinds of items on the vanilla/mobile client, but they've got a bug where it's being treated as nu**
-  - comment · 23m ago · Seeggul · score 13
+  - comment · 32m ago · Seeggul · score 13
   - matched: bug
   - re: Why are degradable items showing numbers like they
   - https://www.reddit.com/r/2007scape/comments/1wx3eg8/why_are_degradable_items_showing_numbers_like/pdqajiz/
 - **I stepped out at work for my break and pulled my phone out to look at reddit for a sec and the first post I saw was the Runescape 4 Announcement trailer. I let out a gasp and went **
-  - comment · 41m ago · CrackPipeBilly · score 13
+  - comment · 50m ago · CrackPipeBilly · score 13
   - matched: bugged
   - re: New RS MMO In Development & What This Means For Yo
   - https://www.reddit.com/r/2007scape/comments/1wwwmnj/new_rs_mmo_in_development_what_this_means_for_you/pdq7dh7/
 - **It does say it's not intended to replace Dragonwilds (or OSRS or RS3), so I'm doubtful. It'll probably be more like a conventional MMO utilizing the tank/dps/heal trinity with a fo**
-  - comment · 45m ago · Aaaromp · score 13
+  - comment · 53m ago · Aaaromp · score 13
   - matched: not intended
   - re: Expecting RS4 to be like a Dragonwilds 2. If the j
   - https://www.reddit.com/r/2007scape/comments/1wwy6jd/expecting_rs4_to_be_like_a_dragonwilds_2_if_the/pdq6s2n/
 - **Yeah that's probably why dragonwilds has had 4 or 5 game and character deleting bugs since launch. Jagex, famous for having worst-in-class QA, is definitely the company I want rely**
-  - comment · 1h ago · macnar · score 13
+  - comment · 2h ago · macnar · score 13
   - matched: bugs
   - re: Jagex Seemingly Used AI for the RS3 Dragon Slayer 
   - https://www.reddit.com/r/2007scape/comments/1wx25xv/jagex_seemingly_used_ai_for_the_rs3_dragon_slayer/pdptvwl/
@@ -130,7 +130,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: Hardcore Worlds - Trailer
   - https://www.reddit.com/r/2007scape/comments/1wwwahc/hardcore_worlds_trailer/pdonvu1/
 - **That's misleading. Game companies that make an MMO almost exclusively work on that MMO due to how much work and upkeep it takes. This is likely due to the pressures of private equi**
-  - comment · 5h ago · yoyo5113 · score 13
+  - comment · 6h ago · yoyo5113 · score 13
   - matched: bugs
   - re: It's 2026 and Jagex...
   - https://www.reddit.com/r/2007scape/comments/1wwwpl7/its_2026_and_jagex/pdoj6c5/
@@ -155,7 +155,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: PvP RoadMap
   - https://www.reddit.com/r/2007scape/comments/1wwuoew/pvp_roadmap/pdnw4gq/
 - **Yeah, so thankfully they put him there instead. I also wanted to know how he got on as a QA but he was only in that role for 3 months. The most interesting conversation for me from**
-  - comment · 7h ago · NotaSirWeatherstone · +2 more in this thread on the same terms · score 13
+  - comment · 8h ago · NotaSirWeatherstone · +2 more in this thread on the same terms · score 13
   - matched: bug
   - re: GOD ASH
   - https://www.reddit.com/r/2007scape/comments/1wwtfb1/god_ash/pdntf0b/
@@ -180,7 +180,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: 📣 Old School Runefest Summit Megathread 📣
   - https://www.reddit.com/r/2007scape/comments/1wwpww6/old_school_runefest_summit_megathread/pdnistl/
 - **Austin's job is to banter in between the real segments and keep the crowd engaged. He's not supposed to be the buttoned up one. **
-  - comment · 9h ago · ShangoMango · score 13
+  - comment · 10h ago · ShangoMango · score 13
   - matched: not supposed to
   - re: 📣 Old School Runefest Summit Megathread 📣
   - https://www.reddit.com/r/2007scape/comments/1wwpww6/old_school_runefest_summit_megathread/pdn0smp/
@@ -278,12 +278,12 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - latest of 33, JagexGoblin: Not at all, just more cool content (bosses, creatures, skilling resour
   - https://www.reddit.com/comments/1wwwfkx
 - **🟣 7 J-Mod replies — The only item reward in the Dev Blog is Zanik's Modified Crossbow**
-  - comment · 5h ago · JagexGoblin · score 30
+  - comment · 6h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 7, JagexGoblin: Not *guaranteed* but it means that the backend calc that's rolling acc
   - https://www.reddit.com/comments/1wwx4rh
 - **🟣 16 J-Mod replies — The Fractured Archive - Raids 4 Cinematic Trailer - Coming October 20th**
-  - comment · 5h ago · JagexGoblin · score 30
+  - comment · 6h ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 16, JagexGoblin: Not everything shown maps on like-for-like to the voiceover, just some
   - https://www.reddit.com/comments/1wwvvfx
@@ -374,7 +374,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
 ## Mechanics & wiki corrections  (36 · 25 above the single-term floor, 11 at it)
 
 - **✎ Ore stlal — redirected to [[Ore stall (disambiguation)]] via [[Special:SearchDigest|SearchDigest]] [rf2026]**
-  - wiki · 13h ago · ~2026-MeilyrCasketWeathervane19454 · score 27
+  - wiki · 14h ago · ~2026-MeilyrCasketWeathervane19454 · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Ore_stlal
@@ -439,7 +439,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: PSA: Do NOT complete Blood Moon Rises if you regul
   - https://www.reddit.com/r/2007scape/comments/1ujxw3i/psa_do_not_complete_blood_moon_rises_if_you/pdlo51x/
 - **The benefit of the knight safe spot is higher when your lower range. Out damaging the healing is legit quite hard early, the safe spot method doesn’t have any healing **
-  - comment · 15h ago · Spam250 · score 20
+  - comment · 16h ago · Spam250 · score 20
   - matched: safe spot
   - re: Fastest way to revs weapon?
   - https://www.reddit.com/r/ironscape/comments/1wwil2z/fastest_way_to_revs_weapon/pdl4ui7/
@@ -469,7 +469,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: Say no to The Chosen Commander
   - https://www.reddit.com/r/2007scape/comments/1wx10fl/say_no_to_the_chosen_commander/pdpoqde/
 - **I'm not scared at all, mining and smithing are basically worthless and offer nothing except for achievement diarys, and amethyst mining at 92. They were skills designed for runesca**
-  - comment · 3h ago · Cold-Management1073 · score 17
+  - comment · 4h ago · Cold-Management1073 · score 17
   - matched: classic, runescape classic
   - re: RuneFest 2026 Summit Overview
   - https://www.reddit.com/r/2007scape/comments/1wwwfkx/runefest_2026_summit_overview/pdp8elo/
@@ -489,7 +489,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - re: Question for people who've been playing OSRS for y
   - https://www.reddit.com/r/2007scape/comments/1wwis3k/question_for_people_whove_been_playing_osrs_for/pdlsvah/
 - **It’s literally like RuneScape classic but maybe hd **
-  - comment · 21h ago · Armadylio · score 17
+  - comment · 22h ago · Armadylio · score 17
   - matched: classic, runescape classic
   - re: UPDATE: I made the game 2d lol
   - https://www.reddit.com/r/2007scape/comments/1ww9e3a/update_i_made_the_game_2d_lol/pdjwh1y/
@@ -529,7 +529,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
   - 7c · 0↑
   - https://www.reddit.com/r/2007scape/comments/1wwwry5/not_a_single_sailing_update/
 - **Menaphos finally coming to OSRS!**
-  - r/2007scape · 6h ago · H3X4RY · score 13
+  - r/2007scape · 7h ago · H3X4RY · score 13
   - matched: J-Mod reply · no bug content
   - 28c · 196↑
   - https://www.reddit.com/r/2007scape/comments/1www3ar/menaphos_finally_coming_to_osrs/
@@ -556,4 +556,4 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 3s ago
 
 ---
 
-Not included: 1202 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 987 findings older than 24h. Widen with `__osrs.report(48)` in the console.
