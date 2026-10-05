@@ -1,7 +1,7 @@
 # OSRS Signal — last 24h
 
-2026-10-05 19:44 UTC · 125 findings after merging duplicates (from 213 raw hits; 71 single-term floor rows filtered)
-collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 18:48Z) · 55m ago · search: ok · 0s ago · vanished: ok (checked 2) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 31m ago
+2026-10-05 19:53 UTC · 124 findings after merging duplicates (from 213 raw hits; 72 single-term floor rows filtered)
+collector health · bugpages: ok (178 flagged · coverage: continuous) · 8s ago · firehose: ok · 9s ago · jmod: ok (50 flaired · 6 J-Mod comments · 5 threads read) · 1s ago · news: ok (30 posts) · 8s ago · posts: ok · 11s ago · search: ok · 0s ago · wiki: ok (250 edits) · 8s ago · youtube: ok (25 videos) · 1s ago
 
 ## Vanished — removed or deleted after posting  (1)
 
@@ -13,7 +13,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - captured before it went:
     > You can safe spot the ones in taverly dungeon and the one in the hero’s guild for sure. Not sure about the ones in Varlamore.
 
-## Bugs & exploits  (57 · 12 above the single-term floor, 45 at it)
+## Bugs & exploits  (56 · 12 above the single-term floor, 44 at it)
 
 - **and preist in peril and fremmy trails was just examples. point being nowadays if someone bug abuses a quest they would get rolled back or outright banned while you did the same and**
   - comment · 1h ago · Mochikitsune1 · score 38
@@ -76,22 +76,22 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Some mind blowing spoons 🥄
   - https://www.reddit.com/r/2007scape/comments/1wxqmkt/some_mind_blowing_spoons/pdzncx7/
 - **How do you get soft locked?**
-  - comment · 20m ago · Templar2k7 · score 13
+  - comment · 29m ago · Templar2k7 · score 13
   - matched: soft locked
   - re: This is an easy quest but if you follow quest help
   - https://www.reddit.com/r/2007scape/comments/1wyhlp8/this_is_an_easy_quest_but_if_you_follow_quest/pe2qntq/
 - **This is an easy quest but if you follow quest helper on full assistance 100% on murder mystery you will get soft locked when you talk to bob near the end**
-  - r/2007scape · 23m ago · Stock_Sprinkles_7394 · score 13
+  - r/2007scape · 33m ago · Stock_Sprinkles_7394 · score 13
   - matched: soft locked
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wyhlp8/this_is_an_easy_quest_but_if_you_follow_quest/
 - **Thank you, exactly what I meant. Jagex strongly implied, if not outright stated, that rewards per person per hour would be significantly better as duo/group vs. solo. I wish I had **
-  - comment · 31m ago · st1r · score 13
+  - comment · 40m ago · st1r · score 13
   - matched: not intended
   - re: Im confident the Fractured Archive will be easily 
   - https://www.reddit.com/r/2007scape/comments/1wydg9m/im_confident_the_fractured_archive_will_be_easily/pe2o09v/
 - **Fair enough, this is pretty much where I’ve landed. I’ll be real I forgot there was even a report a bug tool lol, I’ll definitely do that. **
-  - comment · 46m ago · Firm_Olive · score 13
+  - comment · 56m ago · Firm_Olive · score 13
   - matched: bug
   - re: Can’t log into F2P?
   - https://www.reddit.com/r/2007scape/comments/1wye5m7/cant_log_into_f2p/pe2kd5q/
@@ -176,7 +176,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: I’m really starting to hate when quest NPCs hold o
   - https://www.reddit.com/r/ironscape/comments/1wxslje/im_really_starting_to_hate_when_quest_npcs_hold/pe0332r/
 - **PvM like what? For reward space in Menaphos, I was hoping for a repeatable instanced boss similar in difficulty to Phosani's nightmare that requires stab and ranged to kill, or an **
-  - comment · 7h ago · mmdts · +2 more in this thread on the same terms · score 13
+  - comment · 8h ago · mmdts · +2 more in this thread on the same terms · score 13
   - matched: bugs
   - re: [Suggestion] The Desert and the Soul Altar
   - https://www.reddit.com/r/2007scape/comments/1wy6bfp/suggestion_the_desert_and_the_soul_altar/pdzv285/
@@ -246,7 +246,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Stop the count!
   - https://www.reddit.com/r/2007scape/comments/1wxywix/stop_the_count/pdy7d56/
 - **What if 117 was instead an official HD mode where those issues and glitches don't exist? Would you still have switched to GPU? The official client already scales like GPU so there **
-  - comment · 16h ago · Vrkth · score 13
+  - comment · 17h ago · Vrkth · score 13
   - matched: glitches
   - re: Looks like Jagex forgot something from last Runefe
   - https://www.reddit.com/r/2007scape/comments/1wx6ed4/looks_like_jagex_forgot_something_from_last/pdxuk0w/
@@ -256,7 +256,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wxwluh/green_dragons_are_going_invisible/
 - **You are not supposed to be able to \*wear\* armour. That is the singular restriction. Locking players who have hundreds or thousands of hours of playtime behind a quest is stupid, **
-  - comment · 17h ago · OSRSTheRicer · score 13
+  - comment · 18h ago · OSRSTheRicer · score 13
   - matched: not supposed to
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdxk2t2/
@@ -286,35 +286,30 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: The Tower of Xophoros - Cinematic Trailer - statue
   - https://www.reddit.com/r/2007scape/comments/1wx76k2/the_tower_of_xophoros_cinematic_trailer_statue/pdwbpzg/
 - **There was no def requirement on adamant gloves originally but was added after people had glitched themselves through RFD subquests and they added a 13 def req for addy gloves.**
-  - comment · 21h ago · M33k41 · score 13
+  - comment · 22h ago · M33k41 · score 13
   - matched: glitched
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdw7rvs/
 - **I'm not on the full AI hate bandwagon but come the fuck on, any company of this size should not use it for actual promotional material. Use it as a tool to help with coding/debuggi**
-  - comment · 21h ago · HealthyResolution399 · score 13
+  - comment · 22h ago · HealthyResolution399 · score 13
   - matched: bug
   - re: OSRS PLAYERS WHEN AI IS USED
   - https://www.reddit.com/r/2007scape/comments/1wxr9t8/osrs_players_when_ai_is_used/pdw7bry/
-- **TzHaar Fight Cave Bug**
-  - r/2007scape · 23h ago · icy466 · score 13
-  - matched: bug
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1wxoue8/tzhaar_fight_cave_bug/
 
 ## Jagex & J-Mod  (17 · 15 above the single-term floor, 2 at it)
 
-- **🟣 9 J-Mod replies — Im confident the Fractured Archive will be easily soloable**
-  - comment · 8m ago · JagexGoblin · score 30
+- **🟣 13 J-Mod replies — Im confident the Fractured Archive will be easily soloable**
+  - comment · 17m ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
-  - latest of 9, JagexGoblin: https://preview.redd.it/e5881edbbpth1.png?width=1326&format=png&auto=w
+  - latest of 13, JagexGoblin: https://preview.redd.it/e5881edbbpth1.png?width=1326&format=png&auto=w
   - https://www.reddit.com/comments/1wydg9m
 - **🟣 35 J-Mod replies — Got my whole set of OSRS cards signed at Runefest!**
-  - comment · 14m ago · JagexAyiza · score 30
+  - comment · 23m ago · JagexAyiza · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 35, JagexGoblin: Adding 'casually joyful' to my CV! Thank you so much beast, it was lov
   - https://www.reddit.com/comments/1wxy22r
 - **🟣 11 J-Mod replies — Golden Gnomes 2026 Winners**
-  - comment · 34m ago · JagexGoblin · score 30
+  - comment · 43m ago · JagexGoblin · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 11, JagexGoblin: it was bonkers in person too, crazy detailed. So many elite cosplays t
   - https://www.reddit.com/comments/1wybbhj
@@ -334,7 +329,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - latest of 15, JagexGoblin: Just to jump in, we're still not planning one of those.
   - https://www.reddit.com/comments/1wy5ibx
 - **🟣 9 J-Mod replies — Give this guy a hug.**
-  - comment · 5h ago · JagexSween · score 30
+  - comment · 6h ago · JagexSween · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 9, JagexSween: We will be uploading the Data Deep Dive panel onto YouTube (and sharin
   - https://www.reddit.com/comments/1wxhu1b
@@ -359,7 +354,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - latest of 15, JagexAyiza: Loved seeing all the names on there I was in awe at how many you manag
   - https://www.reddit.com/comments/1wxpxof
 - **🟣 9 J-Mod replies — The Fractured Archive (Raids 4) will have randomised layouts**
-  - comment · 22h ago · JagexArcane · score 30
+  - comment · 23h ago · JagexArcane · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 9, JagexArcane: There'll be a blog out soon that expands on this better than I can in 
   - https://www.reddit.com/comments/1wxmxq5
@@ -379,7 +374,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - 30c · 189↑
   - https://www.reddit.com/r/2007scape/comments/1wxwcuj/mod_ayiza_reaction_to_his_nfl_jersey/
 - **From cosplaying to Mod Ash signing my bow: RuneFest 2026 highlights**
-  - r/2007scape · 1h ago · mykablue · score 15
+  - r/2007scape · 2h ago · mykablue · score 15
   - matched: mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wyf2l4/from_cosplaying_to_mod_ash_signing_my_bow/
@@ -397,7 +392,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: With Quest Month and monthly quests next year, que
   - https://www.reddit.com/r/2007scape/comments/1wy5tnf/with_quest_month_and_monthly_quests_next_year/pe1culn/
 - **Bones to peaches in one sitting**
-  - comment · 5h ago · andy2704 · score 26
+  - comment · 6h ago · andy2704 · score 26
   - matched: ⚡ food per inventory slot, bones to peaches, one sitting
   - re: What is the LEAST fun you've ever had on OSRS?
   - https://www.reddit.com/r/2007scape/comments/1wy0f7s/what_is_the_least_fun_youve_ever_had_on_osrs/pe0jktl/
@@ -417,7 +412,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Are seeking rune arrows really basically as good a
   - https://www.reddit.com/r/ironscape/comments/1wxosa1/are_seeking_rune_arrows_really_basically_as_good/pdwfrce/
 - **The cakes have nothing to do with wintertodt though. You don't eat them in there. Lol. Get with the times old man. Look up how wintertodt works. Why on earth would you ever waste t**
-  - comment · 20m ago · Electronic_Chip2655 · score 17
+  - comment · 29m ago · Electronic_Chip2655 · score 17
   - matched: wintertodt, infinite food
   - re: The journey begins… any tips welcome
   - https://www.reddit.com/r/ironscape/comments/1wy2z03/the_journey_begins_any_tips_welcome/pe2qmh2/
@@ -432,7 +427,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdwlzw6/
 - **The richest is obviously the Ardy Knight at the Ardough bank who has 500 people robbing him. Never seen an NPC so rich, it’s like he never runs out of money. **
-  - comment · 54m ago · Mifflion · score 12
+  - comment · 1h ago · Mifflion · score 12
   - matched: never runs out
   - re: Who is the richest NPC in OSRS?
   - https://www.reddit.com/r/2007scape/comments/1wy5215/who_is_the_richest_npc_in_osrs/pe2iggh/
@@ -475,7 +470,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Morytania hard
   - https://www.reddit.com/r/ironscape/comments/1wxp1tk/morytania_hard/pe0km25/
 - **To add onto this -- if I'm on my boat \*within disembark range of a port or a mooring point\*, and I teleport away, my boat should not be lost at sea, especially if it's crewed, es**
-  - comment · 2h ago · ThinkAboutHowUFeel · score 24
+  - comment · 3h ago · ThinkAboutHowUFeel · score 24
   - matched: lost at sea, mooring point
   - re: Crewmates should be able to sail to ports when you
   - https://www.reddit.com/r/2007scape/comments/1wyd1wu/crewmates_should_be_able_to_sail_to_ports_when/pe1pbl8/
@@ -495,7 +490,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: How to: glyphic attenuation
   - https://www.reddit.com/r/ironscape/comments/1wy0zs0/how_to_glyphic_attenuation/pdyvber/
 - **Yeah. Otherwise you could like hardcore afk for blood shards or something but I've found all that type of alting to be more trouble than it's worth. You could look up chaos element**
-  - comment · 12h ago · noobtablet · score 23
+  - comment · 13h ago · noobtablet · score 23
   - matched: stall, red x, chaos elemental
   - re: Alt suggestions
   - https://www.reddit.com/r/2007scape/comments/1wxv5ks/alt_suggestions/pdyst2e/
@@ -510,7 +505,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Raids 4 final boss prediction
   - https://www.reddit.com/r/2007scape/comments/1wydkfi/raids_4_final_boss_prediction/pe2fifg/
 - **Am I lucky or is this normal?**
-  - r/ironscape · 6h ago · ComprehensiveMix335 · score 21
+  - r/ironscape · 7h ago · ComprehensiveMix335 · score 21
   - matched: is this normal
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wy7ocn/am_i_lucky_or_is_this_normal/
@@ -550,7 +545,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Is there anywhere to safe spot Black Knights?
   - https://www.reddit.com/r/2007scape/comments/1wy7tf3/is_there_anywhere_to_safe_spot_black_knights/pe098i3/
 - **Yeah I think I’m with you on this one. Annoying walk back, risking getting crashed/PK attempts from a guy with dinhs, and obnoxious to set up the safe spot. At least the prayer XP **
-  - comment · 12h ago · ethangeli0n · score 20
+  - comment · 13h ago · ethangeli0n · score 20
   - matched: safe spot
   - re: What is the LEAST fun you've ever had on OSRS?
   - https://www.reddit.com/r/2007scape/comments/1wy0f7s/what_is_the_least_fun_youve_ever_had_on_osrs/pdysr5q/
@@ -585,7 +580,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
   - re: Osrs data from runefest
   - https://www.reddit.com/r/2007scape/comments/1wxg1s1/osrs_data_from_runefest/pdwxmd1/
 - **Ive been doing vampyre krakens with the safespot (soundrs on yt) and its been pretty chill. Especially with both bounty tasks. The safespot is a bit annoying to get, but it often t**
-  - comment · 19h ago · emptylore_ · score 20
+  - comment · 20h ago · emptylore_ · score 20
   - matched: safespot
   - re: Vampyre vs Armored Kraken for uniques?
   - https://www.reddit.com/r/ironscape/comments/1wxtwwh/vampyre_vs_armored_kraken_for_uniques/pdwwp28/
@@ -647,4 +642,4 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago
 
 ---
 
-Not included: 1116 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 711 findings older than 24h. Widen with `__osrs.report(48)` in the console.
