@@ -1,12 +1,12 @@
 # OSRS Signal — last 24h
 
-2026-10-05 05:46 UTC · 62 findings after merging duplicates (from 103 raw hits; 37 single-term floor rows filtered)
-collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 04:50Z) · 55m ago · search: ok · 2m ago · vanished: ok (checked 2) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 12m ago
+2026-10-05 06:42 UTC · 63 findings after merging duplicates (from 104 raw hits; 36 single-term floor rows filtered)
+collector health · bugpages: ok (178 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 05:46Z) · 56m ago · search: ok · 0s ago · vanished: ok (checked 1) · 1m ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 21m ago
 
 ## Vanished — removed or deleted after posting  (2)
 
 - **🗑 vanished from reddit — removed by a moderator — Idk man but you left out the recent 7 trillion gp swap in the first story then edited your comment. Good luck!**
-  - vanished · 11h ago · KingDarkTurtle · score 40
+  - vanished · 12h ago · KingDarkTurtle · score 40
   - matched: vanished, trillion gp
   - was comment, posted 1d before it went
   - https://www.reddit.com/r/2007scape/comments/1ww66sg/psa_irons_cant_raid_with_mains/pdi6msh/
@@ -19,65 +19,75 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago
 ## Active bug notices (wiki)  (1)
 
 - **⚠ wiki notice channel was blind for 8.3h — a notice ADDED AND REMOVED inside that window leaves no trace**
-  - bugs · 12h ago · score 30
+  - bugs · 13h ago · score 30
   - matched: notice coverage gap
   - snapshot diff cannot see a round trip — check the page histories by hand for that window
   - https://oldschool.runescape.wiki/w/Template:Bug
 
-## Bugs & exploits  (26 · 7 above the single-term floor, 19 at it)
+## Bugs & exploits  (27 · 5 above the single-term floor, 22 at it)
 
 - **I originally wasn't going to respond to this one tonight since the last one was so long, but I managed to be under 10k characters. It is 1am so after I'm done lazily formatting I'm**
-  - comment · 21h ago · Tyoccial · score 30
+  - comment · 22h ago · Tyoccial · score 30
   - matched: exploit, void knight, pest control
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdro8wl/
 - **a lot of the best players in the game play restricted pure builds for fun, look at all the no prayer colo/inferno stuff lately, and look at lowgoat and now moongoat hc. I dont play**
-  - comment · 7h ago · Kaydie · score 26
+  - comment · 8h ago · Kaydie · score 26
   - matched: bug, exploits
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdwb3yo/
 - **Well it was also an absolute total fucking mess on release independent of the amount of content it had. There were genuinely game breaking bugs that iirc took way longer to get fix**
-  - comment · 12h ago · larryjerry1 · score 26
+  - comment · 13h ago · larryjerry1 · score 26
   - matched: bugs, game breaking
   - re: Which new MMO's have succeeded in the last decade?
   - https://www.reddit.com/r/2007scape/comments/1wxaoej/which_new_mmos_have_succeeded_in_the_last_decade/pduhtyn/
-- **It’s the potting + attack in the same tick bug **
-  - comment · 23h ago · Thin_Salamander8469 · score 25
-  - matched: bug, same tick
-  - re: Why did my character run into the boss?
-  - https://www.reddit.com/r/2007scape/comments/1wx73pw/why_did_my_character_run_into_the_boss/pdr7b6r/
 - **Yep. Safespotting is intended. Tick manipulation is just an exploit that got accepted as normal and even balanced around for some bizarre reason. All it adds to your experience is **
-  - comment · 20h ago · Ok-Statistician-9607 · score 21
+  - comment · 21h ago · Ok-Statistician-9607 · score 21
   - matched: exploit, tick manipulation
   - re: Roadmap from Runefest
   - https://www.reddit.com/r/2007scape/comments/1wwwa79/roadmap_from_runefest/pdrvy8b/
 - **▶ My AI co-host explains the OSRS Tempoross pet odds #shorts**
-  - youtube · 4h ago · BareSebb · seen 4x · score 19
+  - youtube · 5h ago · BareSebb · seen 4x · score 19
   - matched: glitch
   - youtube
   - https://www.youtube.com/watch?v=o48B5UcnWaw
+- **Psychological bug? More like psychotic brake **
+  - comment · 7m ago · Onyxnidalee · score 13
+  - matched: bug
+  - re: Are things like this really worth it?
+  - https://www.reddit.com/r/2007scape/comments/1wy1blr/are_things_like_this_really_worth_it/pdyrfod/
+- **And you shouldnt be able to bring any of ur friends into the raid, because ur supposed to stand alone.**
+  - comment · 29m ago · kutleven · score 13
+  - matched: shouldnt be able
+  - re: Why accommodate
+  - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdyomj0/
+- **Agreed man, same with ironman. Iroman stand alone, they choose to restrict theirself so they shouldnt be able to have friends in the raids. Ironman should solo raid only**
+  - comment · 30m ago · kutleven · score 13
+  - matched: shouldnt be able
+  - re: Why accommodate
+  - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdyohr6/
 - **It's been 10 years , multiple exploits have existed , multiple bots have existed. It's time for osrs reignited **
-  - comment · 48m ago · Thatweknowof · score 13
+  - comment · 1h ago · Thatweknowof · score 13
   - matched: exploits
   - re: Our weird cousins across the fence are not taking 
   - https://www.reddit.com/r/2007scape/comments/1wxz6zc/our_weird_cousins_across_the_fence_are_not_taking/pdyep63/
 - **Maybe. First try exiting the client and starting on one of those “disabled” worlds first. I bet it’s rather some sort of bug that you trigger by world hopping.**
-  - comment · 1h ago · jigajigga · score 13
+  - comment · 2h ago · jigajigga · score 13
   - matched: bug
   - re: Stop the count!
   - https://www.reddit.com/r/2007scape/comments/1wxywix/stop_the_count/pdy7d56/
 - **What if 117 was instead an official HD mode where those issues and glitches don't exist? Would you still have switched to GPU? The official client already scales like GPU so there **
-  - comment · 2h ago · Vrkth · score 13
+  - comment · 3h ago · Vrkth · score 13
   - matched: glitches
   - re: Looks like Jagex forgot something from last Runefe
   - https://www.reddit.com/r/2007scape/comments/1wx6ed4/looks_like_jagex_forgot_something_from_last/pdxuk0w/
 - **Green dragons are going invisible!**
-  - r/2007scape · 3h ago · legotitas · score 13
+  - r/2007scape · 4h ago · legotitas · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wxwluh/green_dragons_are_going_invisible/
 - **You are not supposed to be able to \*wear\* armour. That is the singular restriction. Locking players who have hundreds or thousands of hours of playtime behind a quest is stupid, **
-  - comment · 3h ago · OSRSTheRicer · score 13
+  - comment · 4h ago · OSRSTheRicer · score 13
   - matched: not supposed to
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdxk2t2/
@@ -87,27 +97,27 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago
   - re: It's okay Sween, we know this wasn't your fault
   - https://www.reddit.com/r/2007scape/comments/1wxqojg/its_okay_sween_we_know_this_wasnt_your_fault/pdx731k/
 - **I trust the mods to handle the nuance, I don't expect pures doing the new raid will lead to them wearing Torva or anything actually game breaking**
-  - comment · 7h ago · GetsThruBuckner · score 13
+  - comment · 8h ago · GetsThruBuckner · score 13
   - matched: game breaking
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdwet22/
 - **Mobile login bugged**
-  - r/2007scape · 7h ago · Ok_Razzmatazz_619 · score 13
+  - r/2007scape · 8h ago · Ok_Razzmatazz_619 · score 13
   - matched: bugged
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wxs3c0/mobile_login_bugged/
 - **watch out in wilderness just almost died from an exploit?**
-  - r/osrs · 7h ago · Pale-Instruction-996 · score 13
+  - r/osrs · 8h ago · Pale-Instruction-996 · score 13
   - matched: exploit
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wxs0a7/watch_out_in_wilderness_just_almost_died_from_an/
 - **I was actively following those hints as they came out and when I noticed it was the stick bug I was mad about it for like 2 days. Mostly because I 100% fell for it being some sort **
-  - comment · 7h ago · mellophone11 · score 13
+  - comment · 8h ago · mellophone11 · score 13
   - matched: bug
   - re: The Tower of Xophoros - Cinematic Trailer - statue
   - https://www.reddit.com/r/2007scape/comments/1wx76k2/the_tower_of_xophoros_cinematic_trailer_statue/pdwbpzg/
 - **There was no def requirement on adamant gloves originally but was added after people had glitched themselves through RFD subquests and they added a 13 def req for addy gloves.**
-  - comment · 7h ago · M33k41 · score 13
+  - comment · 8h ago · M33k41 · score 13
   - matched: glitched
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdw7rvs/
@@ -117,22 +127,22 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago
   - re: OSRS PLAYERS WHEN AI IS USED
   - https://www.reddit.com/r/2007scape/comments/1wxr9t8/osrs_players_when_ai_is_used/pdw7bry/
 - **TzHaar Fight Cave Bug**
-  - r/2007scape · 9h ago · icy466 · score 13
+  - r/2007scape · 10h ago · icy466 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1wxoue8/tzhaar_fight_cave_bug/
 - **GPU completely trounces 117 HD. I've had a myriad of issues & glitches that necessitate turning off 117. After switching to "GPU", I haven't had so much as a single hiccup.**
-  - comment · 10h ago · vidulan · score 13
+  - comment · 11h ago · vidulan · score 13
   - matched: glitches
   - re: Looks like Jagex forgot something from last Runefe
   - https://www.reddit.com/r/2007scape/comments/1wx6ed4/looks_like_jagex_forgot_something_from_last/pdvcrk0/
 - **Low defense is just the same as pvp builds, they just don't pvp. If you wanted to mention actual snowflakes, then you'd mention level 3 skillers that could gain access to new areas**
-  - comment · 11h ago · Oniichanplsstop · score 13
+  - comment · 12h ago · Oniichanplsstop · score 13
   - matched: bug
   - re: A bold ask, but is it time to have a conversation 
   - https://www.reddit.com/r/2007scape/comments/1wxcuea/a_bold_ask_but_is_it_time_to_have_a_conversation/pdun1lx/
 - **Is Giant's Foundry bugged for anyone else**
-  - r/osrs · 14h ago · Alarming_Bandicoot60 · score 13
+  - r/osrs · 15h ago · Alarming_Bandicoot60 · score 13
   - matched: bugged
   - 1c · 1↑
   - https://www.reddit.com/r/osrs/comments/1wxhn00/is_giants_foundry_bugged_for_anyone_else/
@@ -147,15 +157,10 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago
   - re: Hardcore worlds will be all hype at the start, the
   - https://www.reddit.com/r/2007scape/comments/1wx2qr9/hardcore_worlds_will_be_all_hype_at_the_start/pdrljsg/
 - **I think they are wildly exaggerating. Fresh start on osrs fizzled out very quickly. Rs3 has more legitimate reasons to do fresh servers like their trillions of duped gold, duped it**
-  - comment · 22h ago · WaveDashSpeedKick · score 13
+  - comment · 23h ago · WaveDashSpeedKick · score 13
   - matched: exploits
   - re: PSA for those who thought RS3 Reignited might be y
   - https://www.reddit.com/r/2007scape/comments/1wx94p2/psa_for_those_who_thought_rs3_reignited_might_be/pdrgg7b/
-- **All the botting and gp swapping and bug abusing in osrs doesn’t exist?**
-  - x · 23h ago · @Kouvaau · score 13
-  - matched: bug, gate:named
-  - 1♥ · live:osrs bug since:2026-09-24
-  - https://x.com/Kouvaau/status/2106627904436388067
 
 ## Jagex & J-Mod  (5 · 4 above the single-term floor, 1 at it)
 
@@ -165,7 +170,7 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago
   - re: Hardcore Worlds aren't being polled
   - https://www.reddit.com/r/2007scape/comments/1wx8q8e/hardcore_worlds_arent_being_polled/pdrdte6/
 - **📰 Quest Month - RuneFest 2026**
-  - news · 22h ago · Shayani · score 34
+  - news · 23h ago · Shayani · score 34
   - matched: newspost
   - GET REKT HATIUS
   - https://oldschool.runescape.wiki/w/Update%3AQuest_Month_-_RuneFest_2026
@@ -175,162 +180,162 @@ collector health · bugpages: ok (178 flagged · coverage: continuous) · 1s ago
   - latest of 9, JagexArcane: There'll be a blog out soon that expands on this better than I can in 
   - https://www.reddit.com/comments/1wxmxq5
 - **🟣 11 J-Mod replies — Dungeons of Gielinor: Terrorwatt boss**
-  - comment · 11h ago · Mod_Jerv · score 30
+  - comment · 12h ago · Mod_Jerv · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 11, Mod_Jerv: LOVE killerwatts, and this is so creative! 
   - https://www.reddit.com/comments/1wxhgwb
 - **Couldn't make it to RuneFest, but got the best surprise instead**
-  - r/2007scape · 16h ago · lexie-atlantis · score 15
+  - r/2007scape · 17h ago · lexie-atlantis · score 15
   - matched: mod ash
   - 4c · 45↑
   - https://www.reddit.com/r/2007scape/comments/1wxfrbf/couldnt_make_it_to_runefest_but_got_the_best/
 
-## "You can do this" finds  (4)
+## "You can do this" finds  (5)
 
+- **I really wanted this shovel specifically for COX. TOA and TOB you just get supplies, no hassle. COX, we have to pick an entire inventory of herbs for challenge modes. This spade wo**
+  - comment · 22m ago · gilt3t · score 26
+  - matched: ⚡ food per inventory slot
+  - re: Gnomonkey is (not) sorry
+  - https://www.reddit.com/r/2007scape/comments/1wy0xep/gnomonkey_is_not_sorry/pdypk2j/
 - **I hate the graveyard room. Bones too peaches gets you more points, but in order to get bones to peaches you need a lot of points as it is**
-  - comment · 7m ago · According_Device9227 · score 26
+  - comment · 1h ago · According_Device9227 · +2 more in this thread on the same terms · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What is the LEAST fun you've ever had on OSRS?
   - https://www.reddit.com/r/2007scape/comments/1wy0f7s/what_is_the_least_fun_youve_ever_had_on_osrs/pdyk9ya/
 - **Wiki says there is no requirement, you can attach seeking headless arrows directly to dragon arrows with 1 fletching only attaching to arrowtips requires 90 fletching**
-  - comment · 7h ago · Extra-Anteater-3754 · score 23
+  - comment · 8h ago · Extra-Anteater-3754 · score 23
   - matched: no requirement, wiki says
   - re: Are seeking rune arrows really basically as good a
   - https://www.reddit.com/r/ironscape/comments/1wxosa1/are_seeking_rune_arrows_really_basically_as_good/pdwfrce/
 - **Turns out you can still use all those teleports even without the Max Cape. Your crappy example fully failed.**
-  - comment · 6h ago · FriendlyHerbMan · score 19
+  - comment · 7h ago · FriendlyHerbMan · score 19
   - matched: you can still, turns out you can, max cape
   - re: Why accommodate
   - https://www.reddit.com/r/2007scape/comments/1wxpm3l/why_accommodate/pdwlzw6/
 - **Stepping from vorkath > zulrah > muspah > dt2 bosses > doom is probably a good path nowadays to becoming a good player without needing a team to practice pvm mechanics like overhea**
-  - comment · 20h ago · Nova_main · score 16
+  - comment · 21h ago · Nova_main · score 16
   - matched: without needing, overheads
   - re: Has Jagex ever explained why they add a lot of mid
   - https://www.reddit.com/r/2007scape/comments/1wxap9a/has_jagex_ever_explained_why_they_add_a_lot_of/pdru69t/
 
-## Mechanics & wiki corrections  (24 · 22 above the single-term floor, 2 at it)
+## Mechanics & wiki corrections  (23 · 21 above the single-term floor, 2 at it)
 
 - **✎ Gecko (Buccaneers' Haven) — Confirmed at rf**
-  - wiki · 17h ago · Use · score 27
+  - wiki · 18h ago · Use · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Gecko_(Buccaneers'_Haven)
 - **✎ Mod Gecko — Confirmed at rf**
-  - wiki · 17h ago · Use · score 27
+  - wiki · 18h ago · Use · score 27
   - matched: behaviour edit
   - edit
   - https://oldschool.runescape.wiki/w/Mod_Gecko
-- **i forget, is there a ranged safespot for the blue dragons? might do it on mobile at work from occasion for the passive tooth halves**
-  - comment · 1h ago · ANGEL-PSYCHOSIS · score 20
-  - matched: safespot
-  - re: Morytania hard
-  - https://www.reddit.com/r/ironscape/comments/1wxp1tk/morytania_hard/pdy9l2z/
 - **# Part two: >\> Also, PKers are not desparate for loot pinatas. They are, though. PKers aren't looking to engage in PvP, that's why they're PKers. PvP is always a two-way fight (or**
-  - comment · 22h ago · Tyoccial · score 25
+  - comment · 23h ago · Tyoccial · score 25
   - matched: safe spot, chaos elemental
   - re: Westham explains to Mod Archie what makes pvp so d
   - https://www.reddit.com/r/2007scape/comments/1wwpedo/westham_explains_to_mod_archie_what_makes_pvp_so/pdriyn4/
 - **Same boat as you, I got to experience holiday event item drops as a 9 or 10yo kid in RuneScape classic. Stopped playing when EoC came out and all my friends quit. It was fun during**
-  - comment · 4h ago · _Bike_Hunt · score 22
+  - comment · 5h ago · _Bike_Hunt · score 22
   - matched: classic, runescape classic
   - re: When did it stop being fun?
   - https://www.reddit.com/r/2007scape/comments/1wxuu1k/when_did_it_stop_being_fun/pdx99ey/
+- **i forget, is there a ranged safespot for the blue dragons? might do it on mobile at work from occasion for the passive tooth halves**
+  - comment · 2h ago · ANGEL-PSYCHOSIS · score 20
+  - matched: safespot
+  - re: Morytania hard
+  - https://www.reddit.com/r/ironscape/comments/1wxp1tk/morytania_hard/pdy9l2z/
 - **If you want to do a 100% safe method, you can safespot red dragons in the Forthos dungeon. It's got the Sacred Bone Burner for 300% xp right there, and banking is a short walk out **
-  - comment · 2h ago · dotnetmonke · score 20
+  - comment · 3h ago · dotnetmonke · score 20
   - matched: safespot
   - re: Morytania hard
   - https://www.reddit.com/r/ironscape/comments/1wxp1tk/morytania_hard/pdxv6k9/
 - **I was so afraid to die I would only do combat if I could safe spot monsters with ranged or a halberd and made no account progress **
-  - comment · 3h ago · BuffaloSp0rts · score 20
+  - comment · 4h ago · BuffaloSp0rts · score 20
   - matched: safe spot
   - re: What dumb things did younger you do in the game th
   - https://www.reddit.com/r/2007scape/comments/1wxi79c/what_dumb_things_did_younger_you_do_in_the_game/pdxojkv/
 - **I feel like the known safespot (or at least since the last time I looked into it) for Vampyres is, for me, outside the spirit of the game, as it feels unintentional and overlooked **
-  - comment · 4h ago · Ill-Application-9284 · score 20
+  - comment · 5h ago · Ill-Application-9284 · score 20
   - matched: safespot
   - re: Vampyre vs Armored Kraken for uniques?
   - https://www.reddit.com/r/ironscape/comments/1wxtwwh/vampyre_vs_armored_kraken_for_uniques/pdxag8c/
 - **I just face tanked vampyres, couldn’t be bothered with the safe spot. Me on one cannon crewmate on the other. Making the repair kits takes no time, as long as you’ve done the red r**
-  - comment · 5h ago · eek_a_shark · score 20
+  - comment · 6h ago · eek_a_shark · score 20
   - matched: safe spot
   - re: Vampyre vs Armored Kraken for uniques?
   - https://www.reddit.com/r/ironscape/comments/1wxtwwh/vampyre_vs_armored_kraken_for_uniques/pdx521u/
 - **Can I mage the safe spot or is twinflame too slow ? I think they have earth weakness ? Something about the kraken under the boat ? **
-  - comment · 5h ago · RyukenSaab · score 20
+  - comment · 6h ago · RyukenSaab · score 20
   - matched: safe spot
   - re: Vampyre vs Armored Kraken for uniques?
   - https://www.reddit.com/r/ironscape/comments/1wxtwwh/vampyre_vs_armored_kraken_for_uniques/pdx2668/
 - **A lot of bots die to that tree, can’t remember the activity exactly but sometimes their pathing runs them into it**
-  - comment · 5h ago · rumpusrouser · score 20
+  - comment · 6h ago · rumpusrouser · score 20
   - matched: pathing
   - re: Osrs data from runefest
   - https://www.reddit.com/r/2007scape/comments/1wxg1s1/osrs_data_from_runefest/pdwxmd1/
 - **Ive been doing vampyre krakens with the safespot (soundrs on yt) and its been pretty chill. Especially with both bounty tasks. The safespot is a bit annoying to get, but it often t**
-  - comment · 5h ago · emptylore_ · score 20
+  - comment · 6h ago · emptylore_ · score 20
   - matched: safespot
   - re: Vampyre vs Armored Kraken for uniques?
   - https://www.reddit.com/r/ironscape/comments/1wxtwwh/vampyre_vs_armored_kraken_for_uniques/pdwwp28/
 - **Vampyre vs Armored Kraken for uniques?**
-  - r/ironscape · 6h ago · toastwitheggs · score 20
+  - r/ironscape · 7h ago · toastwitheggs · score 20
   - matched: safe spot
   - 0c · 1↑
   - https://www.reddit.com/r/ironscape/comments/1wxtwwh/vampyre_vs_armored_kraken_for_uniques/
 - **No different than 1 hour clue scroll despawn timer **
-  - comment · 7h ago · LoLReiver · score 20
+  - comment · 8h ago · LoLReiver · score 20
   - matched: despawn timer
   - re: If you think about it, adding Hatius Cosaintus to 
   - https://www.reddit.com/r/2007scape/comments/1wxr12a/if_you_think_about_it_adding_hatius_cosaintus_to/pdwaxmk/
 - **You can recharge at altar and do the ones which need prayer first. Dh, ahrim, karil Gothan, Torag, Verac can be tanked with food If you get a bad tunnel, try to safe spot or use ha**
-  - comment · 9h ago · RyukenSaab · score 20
+  - comment · 10h ago · RyukenSaab · score 20
   - matched: safe spot
   - re: Morytania hard
   - https://www.reddit.com/r/ironscape/comments/1wxp1tk/morytania_hard/pdvpe74/
 - **His videos are ai slop now. A recent dag Kings safe spot video shows him using clips and gear from like 2018 with an obviously AI voice over **
-  - comment · 9h ago · cardgamesareforplay · score 20
+  - comment · 10h ago · cardgamesareforplay · score 20
   - matched: safe spot
   - re: Old School 2026 Golden Gnome Winners
   - https://www.reddit.com/r/2007scape/comments/1wxd8l1/old_school_2026_golden_gnome_winners/pdvmedi/
 - **I lost mine to the Dramen tree guy. I thought I was in the safe spot. Safe to day I didn't restart, my deaths dink channel is now over 2,000 screenshots so I think I made the right**
-  - comment · 12h ago · WasV3 · score 20
+  - comment · 13h ago · WasV3 · score 20
   - matched: safe spot
   - re: HCIM died to a DC — restart or continue as a regul
   - https://www.reddit.com/r/ironscape/comments/1wxj7gp/hcim_died_to_a_dc_restart_or_continue_as_a/pdugov4/
 - **D claws requires slash/stab weakness, Kiston requires crush weakness, whereas unless your opponent is praying mage or some weird mechanic the VW is a guaranteed hit, including high**
-  - comment · 21h ago · TheMalteseMisfit · score 20
+  - comment · 22h ago · TheMalteseMisfit · score 20
   - matched: max hit, max hit of
   - re: Loot from Voidwaker grind... Get me outta the wild
   - https://www.reddit.com/r/ironscape/comments/1wx0st4/loot_from_voidwaker_grind_get_me_outta_the_wildy/pdrrhdv/
 - **Lmao, you lost the status from that? I've been crazy lucky with all my mistakes, there was the hill giant, then the other close call was doing a clue where I got poisoned by a sara**
-  - comment · 6h ago · Sudden_Wind_8636 · score 18
+  - comment · 7h ago · Sudden_Wind_8636 · score 18
   - matched: stall, got poisoned by
   - re: Osrs data from runefest
   - https://www.reddit.com/r/2007scape/comments/1wxg1s1/osrs_data_from_runefest/pdwnzrg/
 - **Wouldn't changing the levels of 90% of the items made through the smithing skill be a rework? All people want is the ability to make equipment at a level that is relevant, instead **
-  - comment · 11h ago · SleepyFreli · score 17
+  - comment · 12h ago · SleepyFreli · score 17
   - matched: classic, runescape classic
   - re: Mining and smithing doesnt need a rework.
   - https://www.reddit.com/r/2007scape/comments/1wxlqx8/mining_and_smithing_doesnt_need_a_rework/pduq09r/
 - **Need more heal other options**
-  - r/osrs · 14h ago · room4one · score 17
+  - r/osrs · 15h ago · room4one · score 17
   - matched: heal other, barbarian assault
   - 8c · 0↑
   - https://www.reddit.com/r/osrs/comments/1wxioba/need_more_heal_other_options/
-- **Remember RuneScape Classic? I do. How much longer for those veteran worlds before same thing? We have an emotional trigger response because we’re experienced enough to see the resu**
-  - comment · 23h ago · Status-Range8223 · seen 2x · score 17
-  - matched: classic, runescape classic
-  - re: The Sunsetting of our 25 Year Old Accounts
-  - https://www.reddit.com/r/2007scape/comments/1wx7oeq/the_sunsetting_of_our_25_year_old_accounts/pdr8k7u/
 - **RuneScape’s Position On Gen AI**
-  - r/2007scape · 16h ago · JagexSween · score 14
+  - r/2007scape · 17h ago · JagexSween · score 14
   - matched: J-Mod · no bug content
   - 670c · 3604↑
   - https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/
 - **The Fractured Archive (Raids 4) will have randomised layouts**
-  - r/2007scape · 11h ago · bleeak · score 13
+  - r/2007scape · 12h ago · bleeak · score 13
   - matched: J-Mod reply · no bug content
   - 66c · 98↑
   - https://www.reddit.com/r/2007scape/comments/1wxmxq5/the_fractured_archive_raids_4_will_have/
 
 ---
 
-Not included: 1065 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1076 findings older than 24h. Widen with `__osrs.report(48)` in the console.
