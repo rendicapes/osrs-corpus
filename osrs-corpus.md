@@ -1,47 +1,57 @@
 # OSRS Signal — last 24h
 
-2026-10-11 21:27 UTC · 91 findings after merging duplicates (from 191 raw hits; 99 single-term floor rows filtered)
-collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago · firehose: ok · 6s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 8s ago · repo: ok (pushed 20:31Z) · 56m ago · search: ok · 1m ago · vanished: ok (checked 1) · 2m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 44m ago
+2026-10-11 22:23 UTC · 91 findings after merging duplicates (from 191 raw hits; 99 single-term floor rows filtered)
+collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago · firehose: ok · 4s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 0s ago · news: ok (30 posts) · 2s ago · posts: ok · 6s ago · repo: ok (pushed 21:27Z) · 55m ago · search: ok · 2m ago · vanished: ok (nothing pending) · 3m ago · wiki: ok (250 edits) · 3s ago · youtube: ok (25 videos) · 39m ago
 
-## Bugs & exploits  (40 · 10 above the single-term floor, 30 at it)
+## Bugs & exploits  (42 · 12 above the single-term floor, 30 at it)
 
+- **As long as they follow through with the nerfs they mention, and ideally some on top of that, the fight will be in a better place. He shouldn't be triple eating, while 4 way faking,**
+  - comment · 9m ago · DivineInsanityReveng · score 57
+  - matched: exploits, pathing, brewed down, same tick
+  - re: Jagex PLEASE do not nerf pete, it would devalue my
+  - https://www.reddit.com/r/2007scape/comments/1x3hkkf/jagex_please_do_not_nerf_pete_it_would_devalue_my/pfc1bbv/
 - **Tackle box?**
-  - r/2007scape · 17h ago · mmmmcheeese · score 59
+  - r/2007scape · 18h ago · mmmmcheeese · score 59
   - matched: stated quantity mismatch, ⚡ container misbehaving, bug, fish barrel, tackle box
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2yac5/tackle_box/
 - **Red x is just part of the game, same way the pathing system makes mini puzzles to solve like in inferno or coliseum, even though smart pathing does exist for the game like at tds. **
-  - comment · 22h ago · OW_FUCK · score 45
+  - comment · 23h ago · OW_FUCK · score 45
   - matched: bugs, pathing, red x
   - re: People don't care about pvp, just the cape
   - https://www.reddit.com/r/2007scape/comments/1x2a893/people_dont_care_about_pvp_just_the_cape/pf4yaoh/
-- **✎ The Giant Dwarf — Adding documentation of a minor glitch during the ending cutscene**
-  - wiki · 1h ago · NaughtiestNurse · score 28
-  - matched: bug edit, no notice on page — edit summary only
-  - edit
-  - https://oldschool.runescape.wiki/w/The_Giant_Dwarf
 - **Everything in colo is 5 tick instead of 4 like fight caves or inferno. Also helps with running from the start tile at start of waves**
-  - comment · 2h ago · TheDubuGuy · score 32
+  - comment · 3h ago · TheDubuGuy · score 32
   - matched: stated quantity mismatch, start tile
   - re: I’m starting my OSRS journey! Please give me some 
   - https://www.reddit.com/r/2007scape/comments/1x3e90y/im_starting_my_osrs_journey_please_give_me_some/pfapedt/
+- **Rollback incoming **
+  - comment · 52m ago · snowmunkey · score 25
+  - matched: rollback
+  - re: tree gone:(
+  - https://www.reddit.com/r/2007scape/comments/1x3jv6i/tree_gone/pfbs9t5/
+- **✎ The Giant Dwarf — Adding documentation of a minor glitch during the ending cutscene**
+  - wiki · 2h ago · NaughtiestNurse · score 28
+  - matched: bug edit, no notice on page — edit summary only
+  - edit
+  - https://oldschool.runescape.wiki/w/The_Giant_Dwarf
 - **You're seriously pretending there's nothing wrong with the best method for DWH farming to be multilogging with multiple paid for memberships to exploit a bug?**
-  - comment · 13h ago · XtoraX · score 26
+  - comment · 14h ago · XtoraX · score 26
   - matched: bug, exploit
   - re: People don't care about pvp, just the cape
   - https://www.reddit.com/r/2007scape/comments/1x2a893/people_dont_care_about_pvp_just_the_cape/pf77n3u/
 - **The fight is still a AHK terminator bot, he doesn’t play by the game rules. Has more healing capabilities than his inventory can hold, insta-freezes. 1-tick 4 way swap into an atta**
-  - comment · 7h ago · MillerBlade2 · score 25
+  - comment · 8h ago · MillerBlade2 · score 25
   - matched: exploit, infinite prayer
   - re: You don't use half the tutorial during the Pete Ka
   - https://www.reddit.com/r/2007scape/comments/1x2ln3t/you_dont_use_half_the_tutorial_during_the_pete/pf8o3wb/
 - **they shouldn't be able to smuggle in the first place, but it would definitely suck to lose all that gear**
-  - comment · 14h ago · blazik · score 25
+  - comment · 15h ago · blazik · score 25
   - matched: shouldn't be able, smuggle
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf75hjp/
 - **Even if you do consider the grave smuggling a bug, one bug is a victimless crime, the other is fucking people out of hundreds of hours of gear, there's a little bit of a severity d**
-  - comment · 15h ago · JeffTheHobo · score 25
+  - comment · 16h ago · JeffTheHobo · score 25
   - matched: bug, smuggling
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6u79t/
@@ -51,17 +61,22 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6rysc/
 - **▶ Magic Flying Carpet Glitch in Skyrim #skyrim #vtuberclips**
-  - youtube · 10h ago · Prees Ch. · score 19
+  - youtube · 11h ago · Prees Ch. · score 19
   - matched: glitch
   - youtube
   - https://www.youtube.com/watch?v=6Y_gdjO7ixU
+- **He’s not supposed to be telegraphed as it’s supposed to represent a high level NH fight. Good pkers won’t telegraph what they’ll hit you with. If you’ve been bolted 3 times in a ro**
+  - comment · 24m ago · ThekidHache · score 13
+  - matched: not supposed to
+  - re: Jagex PLEASE do not nerf pete, it would devalue my
+  - https://www.reddit.com/r/2007scape/comments/1x3hkkf/jagex_please_do_not_nerf_pete_it_would_devalue_my/pfby95a/
 - **Just remove item loss from PvP and you would get a lot more buy in. **
-  - comment · 1h ago · Zibbi-Akbar · score 13
+  - comment · 2h ago · Zibbi-Akbar · score 13
   - matched: item loss
   - re: Adding a "Teach me how to PK" doesn't fix anything
   - https://www.reddit.com/r/2007scape/comments/1x3gzfq/adding_a_teach_me_how_to_pk_doesnt_fix_anything/pfb0asl/
 - **My trio GIM team had B3b purples from 50 invo ToA. All of us got fangs on the same night. We thought it was bugged lol **
-  - comment · 3h ago · icome2stealsouls · score 13
+  - comment · 4h ago · icome2stealsouls · score 13
   - matched: bugged
   - re: craziest luck your account has ever had?
   - https://www.reddit.com/r/2007scape/comments/1x30iue/craziest_luck_your_account_has_ever_had/pfai5n2/
@@ -71,12 +86,12 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago
   - re: Doom bug
   - https://www.reddit.com/r/2007scape/comments/1x3axcx/doom_bug/pfa4jik/
 - **Where's the bug? You're only in the 98.59th percentile of dryness. And if my math is right, the chance of getting all 3 uniques in 4 total drops is only about 40.8%.**
-  - comment · 4h ago · snowhusky5 · score 13
+  - comment · 5h ago · snowhusky5 · score 13
   - matched: bug
   - re: Doom bug
   - https://www.reddit.com/r/2007scape/comments/1x3axcx/doom_bug/pf9sbwq/
 - **And now you feel like you cant leave cause surely youre gonna be able to use up these 5 mixalots soon, youve been here forever, oh theres another digweed**
-  - comment · 4h ago · mechlordx · score 13
+  - comment · 5h ago · mechlordx · score 13
   - matched: cant leave
   - re: More of this please
   - https://www.reddit.com/r/2007scape/comments/1x0hz8y/more_of_this_please/pf9qgaq/
@@ -86,145 +101,140 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago
   - re: 21.6 seconds hueycoatl world record with the boys
   - https://www.reddit.com/r/2007scape/comments/1x2qz2r/216_seconds_hueycoatl_world_record_with_the_boys/pf9put4/
 - **The fight is too easy you don't even have to mage him. They need in increase the difficulty of the fight so you actually have to tribrid. You shouldn't be able to just zbow/nox him**
-  - comment · 5h ago · Candid-East4808 · score 13
+  - comment · 6h ago · Candid-East4808 · score 13
   - matched: shouldn't be able
   - re: Don’t change how Pete Kayer rewards the cape
   - https://www.reddit.com/r/2007scape/comments/1x3bdwy/dont_change_how_pete_kayer_rewards_the_cape/pf9h4cu/
 - **It’s so annoying, on loads all of my items what have charges etc, 1 mobile fix seems to lead to another bug. Shambles lately for mobile players **
-  - comment · 5h ago · Bubbly_Leather_6937 · score 13
+  - comment · 6h ago · Bubbly_Leather_6937 · score 13
   - matched: bug
   - re: Why does every pay-dirt have a ‘1’ next to them no
   - https://www.reddit.com/r/2007scape/comments/1x3b4y3/why_does_every_paydirt_have_a_1_next_to_them_now/pf9e6jg/
 - **It's a bug that was introduced a few weeks ago. I assume they're working on it. **
-  - comment · 5h ago · HighlightFun8419 · score 13
+  - comment · 6h ago · HighlightFun8419 · score 13
   - matched: bug
   - re: Why does every pay-dirt have a ‘1’ next to them no
   - https://www.reddit.com/r/2007scape/comments/1x3b4y3/why_does_every_paydirt_have_a_1_next_to_them_now/pf9ddd8/
 - **Doom bug**
-  - r/2007scape · 6h ago · TheWeTodd · score 13
+  - r/2007scape · 7h ago · TheWeTodd · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x3axcx/doom_bug/
 - **I take it off for bug tasks to get the crush bonus from mythical.**
-  - comment · 7h ago · BirdofWhite · score 13
+  - comment · 8h ago · BirdofWhite · score 13
   - matched: bug
   - re: 1/51.2K drop rate. Jesus.
   - https://www.reddit.com/r/2007scape/comments/1x35018/1512k_drop_rate_jesus/pf8s8wd/
 - **Auto Hot Keys on MacOS**
-  - r/2007scape · 8h ago · Junior_Zone7690 · score 13
+  - r/2007scape · 9h ago · Junior_Zone7690 · score 13
   - matched: not intended
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x382ph/auto_hot_keys_on_macos/
 - **You shitters dont realize you're not supposed to beat the final boss, not untill you've become a good pker anyway**
-  - comment · 8h ago · Vital_Granade · score 13
+  - comment · 9h ago · Vital_Granade · score 13
   - matched: not supposed to
   - re: pete kayer
   - https://www.reddit.com/r/2007scape/comments/1x36z78/pete_kayer/pf8c23k/
 - **Avernic Treads (max) depleted from game after depositing worn items.**
-  - r/2007scape · 9h ago · Dry_Confidence_7805 · score 13
+  - r/2007scape · 10h ago · Dry_Confidence_7805 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x360og/avernic_treads_max_depleted_from_game_after/
 - **If we continue using nails as the example, I dont think an extra 10 - 15 nails is game breaking. You can do port tasks and farm them from the loot bags there already. This would ju**
-  - comment · 13h ago · Hopeful-Lynx8330 · score 13
+  - comment · 14h ago · Hopeful-Lynx8330 · score 13
   - matched: game breaking
   - re: Smithing could be so much better
   - https://www.reddit.com/r/2007scape/comments/1x31wqk/smithing_could_be_so_much_better/pf7a7n9/
 - **What's the glitch?**
-  - comment · 15h ago · The_God_of_Biscuits · score 13
+  - comment · 16h ago · The_God_of_Biscuits · score 13
   - matched: glitch
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6uzfe/
 - **I feel like that's falling pretty hard into glitch abuse territory, I'd be unsurprised if this gets patched out.**
-  - comment · 16h ago · JeffTheHobo · score 13
+  - comment · 17h ago · JeffTheHobo · score 13
   - matched: glitch
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6rq7w/
 - **It got nerfed didn’t it? It’s not supposed to be done in 2-3 tries. It takes people dozens of runs to get the hang of inferno or colo, so why is this top tier challenge meant to be**
-  - comment · 18h ago · sellmethishouse · score 13
+  - comment · 19h ago · sellmethishouse · score 13
   - matched: not supposed to
   - re: You don't use half the tutorial during the Pete Ka
   - https://www.reddit.com/r/2007scape/comments/1x2ln3t/you_dont_use_half_the_tutorial_during_the_pete/pf677vf/
 - **The fight was a little too easy in my opinion. Most people can easily win the last fight without even using mage. The final fight you shouldn't be able to win if you don't tribrid.**
-  - comment · 18h ago · Candid-East4808 · score 13
+  - comment · 19h ago · Candid-East4808 · score 13
   - matched: shouldn't be able
   - re: BLOG UPDATE: Pete Kayer's Challenges
   - https://www.reddit.com/r/2007scape/comments/1x0rvh9/blog_update_pete_kayers_challenges/pf61cd0/
 - **I camped magic, and the game just to troll me had the npc mage 90% of the time and still beat me... idk if my npc is glitched...but i can't fool it on prayer and weapon switches. i**
-  - comment · 19h ago · Lrig69 · score 13
+  - comment · 20h ago · Lrig69 · score 13
   - matched: glitched
   - re: Pete Kayer Final Challenge - Post Patch Method (No
   - https://www.reddit.com/r/2007scape/comments/1x20wat/pete_kayer_final_challenge_post_patch_method_no/pf5yv0c/
 - **How did you submit the bug reports? Jagex only reads bug reports you submit on reddit. The ingame reports get automatically deleted, along with customer service requests.**
-  - comment · 21h ago · Clan-Chat-Op · score 13
+  - comment · 22h ago · Clan-Chat-Op · score 13
   - matched: bug
   - re: Don't let stackable net traps distract you from th
   - https://www.reddit.com/r/2007scape/comments/1x2l1x0/dont_let_stackable_net_traps_distract_you_from/pf5ex96/
 - **I was doing garden of death on my iron last night… theres so much old ones lore from that quest that makes it into varlamore, the word for water was Ates, the word for bug was Ayak**
-  - comment · 21h ago · chooglemaster3000 · score 13
+  - comment · 22h ago · chooglemaster3000 · score 13
   - matched: bug
   - re: Best Quest series?
   - https://www.reddit.com/r/2007scape/comments/1x2b5hu/best_quest_series/pf5dvlf/
 - **Real bug here is this account hasnt been perm banned yet. That an awfully suspicious number of bosses killed to be completing inferno.**
-  - comment · 21h ago · stealthy0_0 · score 13
+  - comment · 22h ago · stealthy0_0 · score 13
   - matched: bug
   - re: How??
   - https://www.reddit.com/r/2007scape/comments/1x2tc5b/how/pf5blx6/
 - **How??**
-  - r/2007scape · 21h ago · LwjFangirl · score 13
+  - r/2007scape · 22h ago · LwjFangirl · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2tc5b/how/
 - **Returning veteran**
-  - r/2007scape · 21h ago · Myk3Hunt · score 13
+  - r/2007scape · 22h ago · Myk3Hunt · score 13
   - matched: glitch
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2t8u2/returning_veteran/
 - **I feel like that's intended? Ornament kits are meant to change the color of things**
-  - comment · 22h ago · Trash-Forever · score 13
+  - comment · 23h ago · Trash-Forever · score 13
   - matched: intended?
   - re: Deadman VW cosmetic issue
   - https://www.reddit.com/r/2007scape/comments/1x2s7cd/deadman_vw_cosmetic_issue/pf50zt7/
 - **We joke but grass is actually really fuckin cool. It has bugs in it and you can hang with them for free. Almost all of them are chillers **
-  - comment · 22h ago · kylezillionaire · score 13
+  - comment · 23h ago · kylezillionaire · score 13
   - matched: bugs
   - re: Deadman VW cosmetic issue
   - https://www.reddit.com/r/2007scape/comments/1x2s7cd/deadman_vw_cosmetic_issue/pf50un8/
 - **Underground pass was so difficult. I had to bug my cousin to come rescue/duel me so I wouldn’t lose my stuff. I couldn’t complete until RS2 came out. **
-  - comment · 22h ago · ow_ound_round_ground · score 13
+  - comment · 23h ago · ow_ound_round_ground · score 13
   - matched: bug
   - re: How ana in a barrel looked like in runescape class
   - https://www.reddit.com/r/2007scape/comments/1x2oq37/how_ana_in_a_barrel_looked_like_in_runescape/pf4y5gr/
 - **Fossil Island Mobile Crashing**
-  - r/2007scape · 22h ago · thegx7 · score 13
+  - r/2007scape · 23h ago · thegx7 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2s0ra/fossil_island_mobile_crashing/
-- **Sure but there are still plenty of places where prayer **does** work that way, including in end-game content. Colo, Maggot King (sans melee hit), Yama pre-phase 3, Leviathan, Whisp**
-  - comment · 23h ago · LastTourniquet · score 13
-  - matched: bugs
-  - re: This guy hits constant 40s with barrage and never 
-  - https://www.reddit.com/r/2007scape/comments/1x1vwhs/this_guy_hits_constant_40s_with_barrage_and_never/pf4kd7i/
 
 ## Jagex & J-Mod  (4 · 3 above the single-term floor, 1 at it)
 
 - **I know the farming plants any of them fs your yield if planted I reported it to osrs 7 yrs ago and tweeted mod ash, was basically bug made by spaghetti code **
-  - comment · 58m ago · Qardos · score 28
+  - comment · 1h ago · Qardos · score 28
   - matched: bug, mod ash
   - re: PSA. Farming bug that affects herb yield!
   - https://www.reddit.com/r/2007scape/comments/1wyya02/psa_farming_bug_that_affects_herb_yield/pfbe5ey/
 - **🟣 17 J-Mod replies — Not giving Sol Heredit any lore was lazy**
-  - comment · 9h ago · Mod_West · score 30
+  - comment · 10h ago · Mod_West · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 17, Mod_West: Art discuss lore and background whenever we need to make something as 
   - https://www.reddit.com/comments/1x32oje
 - **It's integrity breaking when people leverage exploits to get a cosmetic i'm not remotely capable of getting anyway.**
-  - comment · 4h ago · NotAnotha1 · score 28
+  - comment · 5h ago · NotAnotha1 · score 28
   - matched: exploits, integrity
   - re: SHOULD JAGEX REMOVE ALL CHEESE’D PETE KAYER CAPES?
   - https://www.reddit.com/r/2007scape/comments/1x0l1vl/should_jagex_remove_all_cheesed_pete_kayer_capes/pf9vcx5/
 - **Fairytale Part 3's reward of using fairy rings without the dramen staff doesn't fix the core issue of egregious diary tasks**
-  - r/2007scape · 19h ago · Level3BALD · score 15
+  - r/2007scape · 20h ago · Level3BALD · score 15
   - matched: mod ash
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2vqok/fairytale_part_3s_reward_of_using_fairy_rings/
@@ -232,12 +242,12 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago
 ## "You can do this" finds  (8)
 
 - **That's the best advice yet --- dunno why I wouldn't put firemaking higher for that exact reason jeeze Won't be able to burst for xp since I can't unlock burst spells but library is**
-  - comment · 16m ago · mermicide · score 26
+  - comment · 1h ago · mermicide · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Help with 1 99 at a time plan
   - https://www.reddit.com/r/2007scape/comments/1x3j8qi/help_with_1_99_at_a_time_plan/pfbnyq8/
 - **Time for a wall of text... Mining: Honestly, I think mining as a general concept is fine. Go to rock. Mine rock. Get ore. I think RS3's idea of mining is ok, but flawed. However, i**
-  - comment · 3h ago · jordsta95 · score 26
+  - comment · 4h ago · jordsta95 · score 26
   - matched: ⚡ food per inventory slot, no xp
   - re: Since the poll passed, what is your ideal changes 
   - https://www.reddit.com/r/2007scape/comments/1x1xqu1/since_the_poll_passed_what_is_your_ideal_changes/pfai9oy/
@@ -247,80 +257,75 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago
   - re: Pretty good rng
   - https://www.reddit.com/r/ironscape/comments/1x334zv/pretty_good_rng/pf8xvqz/
 - **Bones to Peaches already exists my guy. Enjoy the fruit snacking!**
-  - comment · 9h ago · Dead_Methods · score 26
+  - comment · 10h ago · Dead_Methods · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What would be wrong with this? Imo OSRS needs othe
   - https://www.reddit.com/r/2007scape/comments/1x35win/what_would_be_wrong_with_this_imo_osrs_needs/pf84rvu/
 - **Or worries about those poor pkers not able to hunt down resource area fishermen for their lobster pot and bait when they can double smuggle with tackle box + fish barrel I'd say /s**
-  - comment · 15h ago · Cyberslasher · score 26
+  - comment · 16h ago · Cyberslasher · score 26
   - matched: ⚡ food per inventory slot, smuggle, fish barrel, tackle box
   - re: Don't let stackable net traps distract you from th
   - https://www.reddit.com/r/2007scape/comments/1x2l1x0/dont_let_stackable_net_traps_distract_you_from/pf6yf5g/
 - **Honestly shocking they did, but I'm glad they did. I like trawling, and honestly it isn't that game changing compared to buying sharks in piscarillus or using noted sharks. Early s**
-  - comment · 4h ago · PangolinPalantir · score 17
+  - comment · 5h ago · PangolinPalantir · score 17
   - matched: cargo, using noted
   - re: Would it be OP to allow us to store ore and logs i
   - https://www.reddit.com/r/2007scape/comments/1x3cgyk/would_it_be_op_to_allow_us_to_store_ore_and_logs/pf9uq22/
 - **So many triggered/bad responses to what seems like a genuine question from a new player. To answer your questions: 1. You can't buy xp, achievement diaries, combat achievements, qu**
-  - comment · 2h ago · Annual_Discussion_20 · score 16
+  - comment · 3h ago · Annual_Discussion_20 · score 16
   - matched: you can skip, max cape
   - re: What is the point of playing when everything can b
   - https://www.reddit.com/r/2007scape/comments/1x39pjy/what_is_the_point_of_playing_when_everything_can/pfaqif4/
 - **Can't believe this still works after 2 years. This is great, thanks man! **
-  - comment · 3h ago · crovan-tan · score 16
+  - comment · 4h ago · crovan-tan · score 16
   - matched: still works after, still works
   - re: Runelite GPU Plugin Turns Off
   - https://www.reddit.com/r/2007scape/comments/vpy4aq/runelite_gpu_plugin_turns_off/pfa9onb/
 
-## Mechanics & wiki corrections  (39 · 38 above the single-term floor, 1 at it)
+## Mechanics & wiki corrections  (37 · 36 above the single-term floor, 1 at it)
 
-- **Sailing is ass, why not let me fucking tp to boat and vice verca without greater teleport focus. It's annoying as fuck jesus christ.**
-  - comment · 1h ago · Haalandinhoe · score 24
-  - matched: teleport focus, greater teleport focus
-  - re: Sailing remains comfy
-  - https://www.reddit.com/r/ironscape/comments/1x1qciw/sailing_remains_comfy/pfb9mc3/
 - **10% is certainly too strong. But a nerfed version would be interesting. Not being able to use protection paryers with soul split is a huge downside. It would be a helpful form of s**
-  - comment · 9h ago · HacksMe · score 28
+  - comment · 10h ago · HacksMe · score 28
   - matched: you don't need, tick eating, overheads
   - re: What would be wrong with this? Imo OSRS needs othe
   - https://www.reddit.com/r/2007scape/comments/1x35win/what_would_be_wrong_with_this_imo_osrs_needs/pf86igo/
 - **If they're using a greater teleport focus, they're almost certainly able to use sailor's amulet for Deepfin Point or rings of duelling for Castle Wars. I've not seen the Char Islan**
-  - comment · 4h ago · JeffTheHobo · score 26
+  - comment · 5h ago · JeffTheHobo · score 26
   - matched: teleport focus, greater teleport focus
   - re: Would it be OP to allow us to store ore and logs i
   - https://www.reddit.com/r/2007scape/comments/1x3cgyk/would_it_be_op_to_allow_us_to_store_ore_and_logs/pf9vts9/
 - **It’s not tick eating, jsyk. Tick eating it the action of eating on the same tick as incoming pve damage, which keeps you alive. You can’t tick eat in PvP, only combo eat. **
-  - comment · 6h ago · ThrowawayBcScaredlol · score 26
+  - comment · 7h ago · ThrowawayBcScaredlol · score 26
   - matched: tick eat, combo eat
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf95zqe/
 - **You do know red x doesn’t work in PvP so being able to do it to Pete will not be good practice. It’s all about simulating PvP as closely as possible to be a sandbox to practice in.**
-  - comment · 9h ago · DifferentSecurity555 · score 26
+  - comment · 10h ago · DifferentSecurity555 · score 26
   - matched: stall, red x, red xing
   - re: People don't care about pvp, just the cape
   - https://www.reddit.com/r/2007scape/comments/1x2a893/people_dont_care_about_pvp_just_the_cape/pf81yk0/
 - **How do I solve this wave of the Inferno?**
-  - r/2007scape · 18h ago · Plaid_To_The_Bone · score 26
+  - r/2007scape · 19h ago · Plaid_To_The_Bone · score 26
   - matched: safespot, same tick
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2wpax/how_do_i_solve_this_wave_of_the_inferno/
 - **I love training range/mage at black knights fortress north of falador and east of edgeville. You can hide behind some spears making a safe spot for range/mage. There are 3 black kn**
-  - comment · 15m ago · Woodeus3 · score 20
+  - comment · 1h ago · Woodeus3 · score 20
   - matched: safe spot
   - re: I’m starting my OSRS journey! Please give me some 
   - https://www.reddit.com/r/2007scape/comments/1x3e90y/im_starting_my_osrs_journey_please_give_me_some/pfbo42k/
-- **Just here to say - enjoy it brother! I moved away in September 2023 after I lost all faith in combat with necro and I haven’t looked back. OSRS combat has a lot more nuance than yo**
-  - comment · 1h ago · FellowGWEnjoyer712 · score 20
-  - matched: pathing
-  - re: Long time Rs3 hardcore moving to give OSRS hardcor
-  - https://www.reddit.com/r/ironscape/comments/1x3fuie/long_time_rs3_hardcore_moving_to_give_osrs/pfb0drg/
+- **Sailing is ass, why not let me fucking tp to boat and vice verca without greater teleport focus. It's annoying as fuck jesus christ.**
+  - comment · 2h ago · Haalandinhoe · score 24
+  - matched: teleport focus, greater teleport focus
+  - re: Sailing remains comfy
+  - https://www.reddit.com/r/ironscape/comments/1x1qciw/sailing_remains_comfy/pfb9mc3/
 - **You can’t, he’s referring to combo eating in the same tick**
-  - comment · 6h ago · M-R-buddha · score 24
+  - comment · 7h ago · M-R-buddha · score 24
   - matched: combo eating, same tick
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf9ar4v/
 - **Just don’t even attempt until there’s another nerf. The guys on this sub defending the cape cheesed it with strats that have been hot fixed. He’s a terminator AHK bot and you need **
-  - comment · 6h ago · MillerBlade2 · score 24
+  - comment · 7h ago · MillerBlade2 · score 24
   - matched: infinite prayer, brewed down
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf92qis/
@@ -330,142 +335,137 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 1s ago
   - re: Is pete kayer meant to train us against AHkers or 
   - https://www.reddit.com/r/2007scape/comments/1x2qaql/is_pete_kayer_meant_to_train_us_against_ahkers_or/pf54jsj/
 - **The serpent and jaguar mobs are just humans in costumes. The jav colossus and mager are both robots, but the mage is white for some reason, probably painted for gameplay reasons ra**
-  - comment · 7h ago · Raicoron2 · score 23
+  - comment · 8h ago · Raicoron2 · score 23
   - matched: for some reason, manticore
   - re: Not giving Sol Heredit any lore was lazy
   - https://www.reddit.com/r/2007scape/comments/1x32oje/not_giving_sol_heredit_any_lore_was_lazy/pf8t3sr/
+- **Just here to say - enjoy it brother! I moved away in September 2023 after I lost all faith in combat with necro and I haven’t looked back. OSRS combat has a lot more nuance than yo**
+  - comment · 2h ago · FellowGWEnjoyer712 · score 20
+  - matched: pathing
+  - re: Long time Rs3 hardcore moving to give OSRS hardcor
+  - https://www.reddit.com/r/ironscape/comments/1x3fuie/long_time_rs3_hardcore_moving_to_give_osrs/pfb0drg/
 - **Howdy! Hope you enjoy your attempt at OSRS. What I like about early game Iron is that there really isn’t a wrong way to start. Just find what you like and branch out from there. Yo**
-  - comment · 2h ago · Bratt342 · score 20
+  - comment · 3h ago · Bratt342 · score 20
   - matched: max hit, max hit of
   - re: Long time Rs3 hardcore moving to give OSRS hardcor
   - https://www.reddit.com/r/ironscape/comments/1x3fuie/long_time_rs3_hardcore_moving_to_give_osrs/pfas8ws/
 - **Best bet is high prayer bonus and just afk it. Or safespot with scobow. Since it's a Konar task**
-  - comment · 2h ago · djjomon · score 20
+  - comment · 3h ago · djjomon · score 20
   - matched: safespot
   - re: Greater demons have to be one of the worst slayer 
   - https://www.reddit.com/r/2007scape/comments/1x3f218/greater_demons_have_to_be_one_of_the_worst_slayer/pfapv29/
 - **safespot blue dragons in varlamore dragon nest. Do it for like 2-3 hours and then do wilderness altar. you'll have 43 prayer in no time**
-  - comment · 3h ago · OSRSPlayerGuy · score 20
+  - comment · 4h ago · OSRSPlayerGuy · score 20
   - matched: safespot
   - re: What is the point of playing when everything can b
   - https://www.reddit.com/r/2007scape/comments/1x39pjy/what_is_the_point_of_playing_when_everything_can/pfaijtf/
 - **Probably better to tag them all and break line of sight so they clump near each other for a venator bow. Better would be to skip em.**
-  - comment · 4h ago · SoundboardTroll · score 20
+  - comment · 5h ago · SoundboardTroll · score 20
   - matched: line of sight
   - re: Is this Tech?
   - https://www.reddit.com/r/2007scape/comments/1x39a76/is_this_tech/pf9z36u/
 - **You can’t tick eating in pvp, even if the damage is the same as the healing. **
-  - comment · 4h ago · ThrowawayBcScaredlol · score 20
+  - comment · 5h ago · ThrowawayBcScaredlol · score 20
   - matched: tick eating
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf9rbi0/
 - **Yeah, tick eating would only work in PvP in the very rare case that you just randomly take equal damage to your HP. Unlike in most PvM, incoming damage isn't capped by your remaini**
-  - comment · 5h ago · Nebuli2 · score 20
+  - comment · 6h ago · Nebuli2 · score 20
   - matched: tick eating, tick eat
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf9oijj/
 - **the biggest tip from Pete kayer is that you WILL run into someone that is using AHK or botting to do things that aren't (consistently) humanly possible and you WILL struggle to be **
-  - comment · 6h ago · LifeAd5019 · score 20
+  - comment · 7h ago · LifeAd5019 · score 20
   - matched: line of sight
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf97y0a/
 - **Dont do stuff that you dont find fun. Chaos druids is pretty boring and if your main goal is prayer exp you can just do hunter rumors which give bone shards or kill blue dragons wi**
-  - comment · 6h ago · InterestingCell5247 · score 20
+  - comment · 7h ago · InterestingCell5247 · score 20
   - matched: safe spot
   - re: What is the point of playing when everything can b
   - https://www.reddit.com/r/2007scape/comments/1x39pjy/what_is_the_point_of_playing_when_everything_can/pf94nft/
 - **Most impactful? Tick eating. But most useful/best to learn? Freeze logging**
-  - comment · 6h ago · Revlos7 · score 20
+  - comment · 7h ago · Revlos7 · score 20
   - matched: tick eating
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf91svf/
 - **Bro I cant even make it past the tick eating. **
-  - comment · 11h ago · ThisTimeForRealYo · score 20
+  - comment · 12h ago · ThisTimeForRealYo · score 20
   - matched: tick eating
   - re: 50 Pete Kayer KC
   - https://www.reddit.com/r/2007scape/comments/1x2wysg/50_pete_kayer_kc/pf7pjmg/
 - **This is only really true for darts because its to prevent you just being able to literally run through them. You can't tile skip the flame traps too, but thats fine because they ar**
-  - comment · 16h ago · DivineInsanityReveng · score 20
+  - comment · 17h ago · DivineInsanityReveng · score 20
   - matched: pathing
   - re: The Late-Game Agility Experience
   - https://www.reddit.com/r/2007scape/comments/1x2iidd/the_lategame_agility_experience/pf6ke34/
 - **basically what others said; old man brain and fingers bad at swapping and tick eating 8 times in a row. can brute force through the fight eventually**
-  - comment · 21h ago · MrDinksVibrator · score 20
+  - comment · 22h ago · MrDinksVibrator · score 20
   - matched: tick eating
   - re: I am so shit at Pete Kayer's challenges that I ran
   - https://www.reddit.com/r/2007scape/comments/1x2jhs0/i_am_so_shit_at_pete_kayers_challenges_that_i_ran/pf5ajen/
-- **I get an early RCB from crazy archaeologist, and then go to safespot Rev Knights.**
-  - comment · 23h ago · goddangol · score 20
-  - matched: safespot
-  - re: How do Ironmen normally get magic logs for desert 
-  - https://www.reddit.com/r/ironscape/comments/1x2qnda/how_do_ironmen_normally_get_magic_logs_for_desert/pf4o90w/
 - **Its actually not easy to share in a single screenshot. Custom Menu swap has "Custom Swaps (hotkeys)" I've set those to 1, 2, 3...9 and A,B,C...H. I have some others set like Ctrl, **
-  - comment · 14h ago · DivineInsanityReveng · score 18
+  - comment · 15h ago · DivineInsanityReveng · score 18
   - matched: plugin, spellbook swap, digsite pendant
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1x27mpv/have_a_question_about_the_game_or_the_subreddit/pf72gfo/
 - **Jarvis remove the magic defence from the civilians armour, my barrages are splashing too often **
-  - comment · 2h ago · itsahorsemate · score 17
+  - comment · 3h ago · itsahorsemate · score 17
   - matched: splashing, magic defence
   - re: PVE players when one piece of PVP content comes ou
   - https://www.reddit.com/r/2007scape/comments/1x3cob6/pve_players_when_one_piece_of_pvp_content_comes/pfavjpx/
 - **More stuff similar to the ring of elements. Very great teleport item but ppl are sleeping on it. **
-  - comment · 3h ago · witchking782 · score 17
+  - comment · 4h ago · witchking782 · score 17
   - matched: ring of elements, teleport item
   - re: What are some good early/midgame rewards you'd be 
   - https://www.reddit.com/r/2007scape/comments/1x3d80v/what_are_some_good_earlymidgame_rewards_youd_be/pfabxev/
 - **well yeah, it not being relevant enough is half the reason people are asking for a rework. But i will say, personally i use classic smithing semi often for quests and clue steps an**
-  - comment · 4h ago · Nick543b · score 17
+  - comment · 5h ago · Nick543b · score 17
   - matched: stash units, classic
   - re: My prediction for 30 seconds after a Mining/Smithi
   - https://www.reddit.com/r/2007scape/comments/1x2d4rd/my_prediction_for_30_seconds_after_a/pf9z8kj/
 - **Depends on your HP XP, but you could Ancient Godsword spec while brewed down to 1 strength and super attack so you don't miss but hit a 1. Use an alt with a serp + toxic Trident an**
-  - comment · 6h ago · CueNoLife · score 17
+  - comment · 7h ago · CueNoLife · score 17
   - matched: partner slayer, brewed down
   - re: We did it, Untrimmed.
   - https://www.reddit.com/r/2007scape/comments/1x3a3yz/we_did_it_untrimmed/pf98y6u/
 - **>nally run in/out to force overhead off prayer The nally run in/out method is complete garbage. See my comment about it here: [https://www.reddit.com/r/2007scape/comments/1x1q284/c**
-  - comment · 17h ago · ShakimTheClown · score 17
+  - comment · 18h ago · ShakimTheClown · score 17
   - matched: re-equip, metronome
   - re: Over 24 Hours And Still Can't Beat Pete
   - https://www.reddit.com/r/2007scape/comments/1x2so0w/over_24_hours_and_still_cant_beat_pete/pf6hihy/
 - **is my Pete a secret rogue ai that has achieved flow state?**
-  - r/2007scape · 19h ago · Lrig69 · score 17
+  - r/2007scape · 20h ago · Lrig69 · score 17
   - matched: overheads, grace period
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2whrz/is_my_pete_a_secret_rogue_ai_that_has_achieved/
 - **East Coast worlds stalling out?**
-  - r/2007scape · 19h ago · SkeletonKing959 · score 17
+  - r/2007scape · 20h ago · SkeletonKing959 · score 17
   - matched: anyone else having, stalling
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2w3aq/east_coast_worlds_stalling_out/
 - **When I did it, I would run in one direction in the arena to kite the drones, then run back under the spawn point. It makes the workers form a pen to help push the queen to one of t**
-  - comment · 21h ago · JacobOSRS89 · score 17
+  - comment · 22h ago · JacobOSRS89 · score 17
   - matched: spawn point, flinch
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1x27mpv/have_a_question_about_the_game_or_the_subreddit/pf5833j/
 - **Yeah it's a quest item and quests back then were hell. There was no bank, it only stored coins and you needed to make another account to hold your stuff. Plus the sleeping mechanic**
-  - comment · 22h ago · pichael289 · score 17
+  - comment · 23h ago · pichael289 · score 17
   - matched: classic, sleeping bag
   - re: How ana in a barrel looked like in runescape class
   - https://www.reddit.com/r/2007scape/comments/1x2oq37/how_ana_in_a_barrel_looked_like_in_runescape/pf4xbp8/
 - **For the KQ head grind (for elite diary) is flinching the thing most people do still? I’ve been doing that with thralls, melee gear and breaching partisan but it’s still so slow. Al**
-  - comment · 22h ago · No-Kitchen-7832 · score 17
+  - comment · 23h ago · No-Kitchen-7832 · score 17
   - matched: thralls, flinching
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1x27mpv/have_a_question_about_the_game_or_the_subreddit/pf4vgez/
 - **This. Rune was the best armor when it released... in Runescape Classic. It simply has no business being Level 90s in Smithing. It'll feel more rewarding to Smith yourself Rune gear**
-  - comment · 22h ago · MinusMentality · score 17
+  - comment · 23h ago · MinusMentality · score 17
   - matched: classic, runescape classic
   - re: My prediction for 30 seconds after a Mining/Smithi
   - https://www.reddit.com/r/2007scape/comments/1x2d4rd/my_prediction_for_30_seconds_after_a/pf4ucpu/
-- **We all used quests guides in classic. That’s how the RuneScape websites all started. Tip.it, Zybez, Sals Realm.**
-  - comment · 23h ago · fastforwardfunction · score 17
-  - matched: classic, tip.it
-  - re: How ana in a barrel looked like in runescape class
-  - https://www.reddit.com/r/2007scape/comments/1x2oq37/how_ana_in_a_barrel_looked_like_in_runescape/pf4n6jt/
 - **Not giving Sol Heredit any lore was lazy**
-  - r/2007scape · 13h ago · Hot-Ad-3362 · score 13
+  - r/2007scape · 14h ago · Hot-Ad-3362 · score 13
   - matched: J-Mod reply · no bug content
   - 75c · 145↑
   - https://www.reddit.com/r/2007scape/comments/1x32oje/not_giving_sol_heredit_any_lore_was_lazy/
