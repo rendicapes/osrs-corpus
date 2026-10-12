@@ -1,308 +1,373 @@
 # OSRS Signal — last 24h
 
-2026-10-12 01:10 UTC · 96 findings after merging duplicates (from 212 raw hits; 94 single-term floor rows filtered)
-collector health · bugpages: ok (181 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 00:14Z) · 55m ago · search: ok · 3m ago · vanished: ok (checked 4) · 0s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 24m ago
+2026-10-12 02:06 UTC · 112 findings after merging duplicates (from 284 raw hits; 100 single-term floor rows filtered)
+collector health · bugpages: ok (181 flagged · coverage: continuous) · 2s ago · firehose: ok · 5s ago · jmod: ok (50 flaired · 0 J-Mod comments · 0 threads read) · 1s ago · news: ok (30 posts) · 3s ago · posts: ok · 7s ago · repo: ok (pushed 01:10Z) · 55m ago · search: ok · 0s ago · vanished: ok (checked 8) · 59s ago · wiki: ok (250 edits) · 4s ago · youtube: ok (25 videos) · 36m ago
 
 ## Vanished — removed or deleted after posting  (1)
 
 - **🗑 vanished from reddit — removed (deleted) — Platinum Token Glitch**
-  - r/2007scape, vanished · 1h ago · pk_hellz · seen 2x · score 47
+  - r/2007scape, vanished · 2h ago · pk_hellz · seen 2x · score 47
   - matched: vanished, glitch, token
   - was r/2007scape, posted 5m before it went
   - https://www.reddit.com/r/2007scape/comments/1x3n6nb/platinum_token_glitch/
   - captured before it went:
     > Every time i buy anything on the grand exchange now, it keeps creating another placeholder stack of coins in the bank. It will keep adding another stack and another stack, I need to keep releasing this slot. Jagex please help. https://preview.redd.it/w42bfbu6exuh1.png?width=292&format=png&auto=webp&s=6f96ff364e30b4f0f98ef374c0cc0870770f55af
 
-## Bugs & exploits  (44 · 22 above the single-term floor, 22 at it)
+## Bugs & exploits  (56 · 31 above the single-term floor, 25 at it)
 
 - **Tackle box?**
-  - r/2007scape · 21h ago · mmmmcheeese · score 59
+  - r/2007scape · 22h ago · mmmmcheeese · score 59
   - matched: stated quantity mismatch, ⚡ container misbehaving, bug, fish barrel, tackle box
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2yac5/tackle_box/
 - **As long as they follow through with the nerfs they mention, and ideally some on top of that, the fight will be in a better place. He shouldn't be triple eating, while 4 way faking,**
-  - comment · 2h ago · DivineInsanityReveng · score 57
+  - comment · 3h ago · DivineInsanityReveng · score 57
   - matched: exploits, pathing, brewed down, same tick
   - re: Jagex PLEASE do not nerf pete, it would devalue my
   - https://www.reddit.com/r/2007scape/comments/1x3hkkf/jagex_please_do_not_nerf_pete_it_would_devalue_my/pfc1bbv/
+- **So bug abusers die to a bug abusers. Sounds deserves to me. If a streamer playing a shooting game was killed by a bug abuser who was out of bounds shooting them through a wall deci**
+  - comment · 8m ago · thomas2026 · score 39
+  - matched: bug, glitch
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd704q/
 - **Okay and we're handwaving the bug that the pvmers are doing by smuggling the gear in, because pvp is bad or something? I cant believe pvp allows pvmers to use gravestones to smuggl**
-  - comment · 7m ago · BuffKangaroo_390 · score 37
+  - comment · 1h ago · BuffKangaroo_390 · score 37
   - matched: bug, smuggle, smuggling
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcx3vi/
+- **Right, so lets remove prayer flicking, any tick manipulation, red x, step under, etc, etc after all those are bug abuse. **
+  - comment · 38m ago · loudrogue · score 33
+  - matched: bug, tick manipulation, red x
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd1o40/
 - **I actually hope he gets banned for this. This isn't "outsmarting the kbd smugglers". It's literally bug abusing the game to force losses. Sure, the gravestone bug might be annoying**
-  - comment · 27m ago · NzRedditor762 · score 31
+  - comment · 1h ago · NzRedditor762 · score 31
   - matched: bug, unintended, gravestone
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfctbwd/
+- **They wouldnt have lost their items if they didnt transfer their items into the pvm area to begin with? Way to blame the cart for the horse pulling it. >You can make an argument tha**
+  - comment · 45m ago · BuffKangaroo_390 · score 30
+  - matched: bug, smuggle, gravestone
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd0ebl/
 - **Pker logs out right as the pvmer dies, which forces a PvM death instead of a PvP death and places their gravestone in the wild where they died. They already have a gravestone in KB**
-  - comment · 18m ago · Pecan_Millionaire · score 30
+  - comment · 1h ago · Pecan_Millionaire · score 30
   - matched: bug, smuggled, gravestone
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcv1cl/
 - **"bug abusing" the ones smuggling the loot are the bug abusers lol, the people losing their loot to this are willingly looting a gravestone with all their expensive gear while in th**
-  - comment · 25m ago · neighborlyhorse · score 30
+  - comment · 1h ago · neighborlyhorse · score 30
   - matched: bug, smuggling, gravestone
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfctsmf/
 - **PSA: PKers are abusing a gravestone bug in the wilderness, already over 5B has been pked in just the last week.**
-  - r/2007scape · 40m ago · Messmers · score 29
+  - r/2007scape · 1h ago · Messmers · score 29
   - matched: bug, psa:, gravestone
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/
+- **The PvMer isnt abusing a bug, this is intended behaviour of the gravestones. The unintended behaviour (bug) is that a death entirely caused by PvP damage is changed to a PvM death **
+  - comment · 17m ago · DivineInsanityReveng · score 26
+  - matched: bug, unintended
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd5fq9/
+- **Two wrongs don't make a right. The only good thing this brings is the spotlight on the exploits. Both exploits needs to be patched first and foremost. Killing KBD quicker with BIS **
+  - comment · 38m ago · Advanced-Yam-9985 · score 26
+  - matched: bug, exploits
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd1nbm/
 - **The ones who are getting exploited are also bug abusing, cry more 🥴**
-  - comment · 2m ago · ocfan122 · score 26
+  - comment · 58m ago · ocfan122 · score 26
   - matched: bug, exploited
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcxxxp/
 - **Okay so a bug abuser is killing an exploiter. Both are unintended interactions used for monetary gain. Two sides of the same coin**
-  - comment · 11m ago · umbreon912 · score 26
+  - comment · 1h ago · umbreon912 · score 26
   - matched: bug, unintended
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcwd4m/
 - **Everything in colo is 5 tick instead of 4 like fight caves or inferno. Also helps with running from the start tile at start of waves**
-  - comment · 6h ago · TheDubuGuy · score 32
+  - comment · 7h ago · TheDubuGuy · score 32
   - matched: stated quantity mismatch, start tile
   - re: I’m starting my OSRS journey! Please give me some 
   - https://www.reddit.com/r/2007scape/comments/1x3e90y/im_starting_my_osrs_journey_please_give_me_some/pfapedt/
+- **Pvmer bug abuses KBD to smuggle bis there with 0 risk, that’s fine, pker finds a way to mess that up, pvmer doesn’t want to pay death fees instead loots it and dies losing it. Yeah**
+  - comment · 30m ago · one_shuckle_boy · score 25
+  - matched: bug, smuggle
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd2zzn/
 - **A grave that without the pker abusing a bug would only have what you died in the wildy with which is literally the entire problem. They abuse a bug to move your items from your pvm**
-  - comment · 7m ago · Wonderful-Help4554 · score 25
+  - comment · 1h ago · Wonderful-Help4554 · score 25
   - matched: bug, smuggle
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcx5fh/
 - **i mean to be fair....its no more of a bug than what the pvmers are doing by smuggling the gear in. can't be mad at one but not the other **
-  - comment · 28m ago · Wambo_Tuff · score 25
+  - comment · 1h ago · Wambo_Tuff · score 25
   - matched: bug, smuggling
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfct5tr/
+- **You are confidently wrong. This can be done with literally any pvm grave. You could die to Cerberus and then decide to go to the wildy before reclaiming your grave for some reason **
+  - comment · 49m ago · Wonderful-Help4554 · score 24
+  - matched: bug, for some reason
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfczk03/
 - **How is this bug abusing to steal from players. They are going into the wilderness and collecting their items . You can argue that the grave shouldn't be there, but it's not like th**
-  - comment · 14m ago · Hot-Bread1723 · +12 more in this thread on the same terms · score 23
+  - comment · 1h ago · Hot-Bread1723 · +51 more in this thread on the same terms · score 23
   - matched: bug
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcvrg0/
 - **✎ The Giant Dwarf — Adding documentation of a minor glitch during the ending cutscene**
-  - wiki · 5h ago · NaughtiestNurse · score 28
+  - wiki · 6h ago · NaughtiestNurse · score 28
   - matched: bug edit, no notice on page — edit summary only
   - edit
   - https://oldschool.runescape.wiki/w/The_Giant_Dwarf
+- **What do you call an unintended game mechanic due to oversight. I feel like there's a word for it. **
+  - comment · 16m ago · Dramatic_Hand6016 · score 21
+  - matched: unintended, game mechanic
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd5k5b/
 - **You're seriously pretending there's nothing wrong with the best method for DWH farming to be multilogging with multiple paid for memberships to exploit a bug?**
-  - comment · 17h ago · XtoraX · score 26
+  - comment · 18h ago · XtoraX · score 26
   - matched: bug, exploit
   - re: People don't care about pvp, just the cape
   - https://www.reddit.com/r/2007scape/comments/1x2a893/people_dont_care_about_pvp_just_the_cape/pf77n3u/
 - **Rollback incoming **
-  - comment · 3h ago · snowmunkey · score 25
+  - comment · 4h ago · snowmunkey · score 25
   - matched: rollback
   - re: tree gone:(
   - https://www.reddit.com/r/2007scape/comments/1x3jv6i/tree_gone/pfbs9t5/
 - **The fight is still a AHK terminator bot, he doesn’t play by the game rules. Has more healing capabilities than his inventory can hold, insta-freezes. 1-tick 4 way swap into an atta**
-  - comment · 11h ago · MillerBlade2 · score 25
+  - comment · 12h ago · MillerBlade2 · score 25
   - matched: exploit, infinite prayer
   - re: You don't use half the tutorial during the Pete Ka
   - https://www.reddit.com/r/2007scape/comments/1x2ln3t/you_dont_use_half_the_tutorial_during_the_pete/pf8o3wb/
 - **they shouldn't be able to smuggle in the first place, but it would definitely suck to lose all that gear**
-  - comment · 17h ago · blazik · score 25
+  - comment · 18h ago · blazik · score 25
   - matched: shouldn't be able, smuggle
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf75hjp/
 - **Even if you do consider the grave smuggling a bug, one bug is a victimless crime, the other is fucking people out of hundreds of hours of gear, there's a little bit of a severity d**
-  - comment · 19h ago · JeffTheHobo · score 25
+  - comment · 20h ago · JeffTheHobo · score 25
   - matched: bug, smuggling
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6u79t/
 - **Well, to be fair the ppl smuggling gear into KBD are also glitch abusing**
-  - comment · 19h ago · Kurumi_Shadowfall · score 25
+  - comment · 20h ago · Kurumi_Shadowfall · score 25
   - matched: glitch, smuggling
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6rysc/
+- **Bros about to lose his max cape for bug abusing lmao**
+  - comment · 46m ago · blueguy211 · score 18
+  - matched: bug, max cape
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd08c7/
 - **No no you dont get it. Using gravestone mechanics to get your items to a gravestone is the bug abuse even though Jagex has said theyd have to poll changing it because that's how it**
-  - comment · 21m ago · Ilovemyangelsomuch · +8 more in this thread on the same terms · score 18
+  - comment · 1h ago · Ilovemyangelsomuch · +19 more in this thread on the same terms · score 18
   - matched: bug, gravestone
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcugu4/
 - **▶ Magic Flying Carpet Glitch in Skyrim #skyrim #vtuberclips**
-  - youtube · 14h ago · Prees Ch. · score 19
+  - youtube · 15h ago · Prees Ch. · score 19
   - matched: glitch
   - youtube
   - https://www.youtube.com/watch?v=6Y_gdjO7ixU
+- **The KBD grave thing is not really bug abuse since graves are intended to function that way. It is certainly an exploit though.**
+  - comment · 7m ago · Doctorsl1m · score 13
+  - matched: exploit
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd758f/
+- **Jagex has said the items going to your original grave is intended, it's not a bug but more like exploit/oversight because the game is behaving as expected**
+  - comment · 40m ago · Double_Dog208 · score 13
+  - matched: exploit
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd16mg/
+- **Special attack bug?**
+  - r/2007scape · 52m ago · No-Leading-4232 · score 13
+  - matched: bug
+  - 0c · 1↑
+  - https://www.reddit.com/r/2007scape/comments/1x3osoe/special_attack_bug/
 - **I'm thinking this is bug abuse. There's no way you chopped down a tree and then had it just regrow without waiting years. I'm gonna have to ask jagex to ban you.**
-  - comment · 2h ago · Far_Cry1757 · score 13
+  - comment · 3h ago · Far_Cry1757 · score 13
   - matched: bug
   - re: tree gone:(
   - https://www.reddit.com/r/2007scape/comments/1x3jv6i/tree_gone/pfc3n2f/
 - **He’s not supposed to be telegraphed as it’s supposed to represent a high level NH fight. Good pkers won’t telegraph what they’ll hit you with. If you’ve been bolted 3 times in a ro**
-  - comment · 3h ago · ThekidHache · score 13
+  - comment · 4h ago · ThekidHache · score 13
   - matched: not supposed to
   - re: Jagex PLEASE do not nerf pete, it would devalue my
   - https://www.reddit.com/r/2007scape/comments/1x3hkkf/jagex_please_do_not_nerf_pete_it_would_devalue_my/pfby95a/
 - **Just remove item loss from PvP and you would get a lot more buy in. **
-  - comment · 5h ago · Zibbi-Akbar · score 13
+  - comment · 6h ago · Zibbi-Akbar · score 13
   - matched: item loss
   - re: Adding a "Teach me how to PK" doesn't fix anything
   - https://www.reddit.com/r/2007scape/comments/1x3gzfq/adding_a_teach_me_how_to_pk_doesnt_fix_anything/pfb0asl/
 - **My trio GIM team had B3b purples from 50 invo ToA. All of us got fangs on the same night. We thought it was bugged lol **
-  - comment · 6h ago · icome2stealsouls · score 13
+  - comment · 7h ago · icome2stealsouls · score 13
   - matched: bugged
   - re: craziest luck your account has ever had?
   - https://www.reddit.com/r/2007scape/comments/1x30iue/craziest_luck_your_account_has_ever_had/pfai5n2/
 - **Confirm doom is bug**
-  - comment · 7h ago · C2theM · score 13
+  - comment · 8h ago · C2theM · score 13
   - matched: bug
   - re: Doom bug
   - https://www.reddit.com/r/2007scape/comments/1x3axcx/doom_bug/pfa4jik/
 - **Where's the bug? You're only in the 98.59th percentile of dryness. And if my math is right, the chance of getting all 3 uniques in 4 total drops is only about 40.8%.**
-  - comment · 8h ago · snowhusky5 · score 13
+  - comment · 9h ago · snowhusky5 · score 13
   - matched: bug
   - re: Doom bug
   - https://www.reddit.com/r/2007scape/comments/1x3axcx/doom_bug/pf9sbwq/
 - **And now you feel like you cant leave cause surely youre gonna be able to use up these 5 mixalots soon, youve been here forever, oh theres another digweed**
-  - comment · 8h ago · mechlordx · score 13
+  - comment · 9h ago · mechlordx · score 13
   - matched: cant leave
   - re: More of this please
   - https://www.reddit.com/r/2007scape/comments/1x0hz8y/more_of_this_please/pf9qgaq/
 - **i notice the tail had two healthbars, did you do something special to kill the "alternate" health bar or was it just a ui glitch when you kill it so fast**
-  - comment · 8h ago · ProfessionalSea2296 · score 13
+  - comment · 9h ago · ProfessionalSea2296 · score 13
   - matched: glitch
   - re: 21.6 seconds hueycoatl world record with the boys
   - https://www.reddit.com/r/2007scape/comments/1x2qz2r/216_seconds_hueycoatl_world_record_with_the_boys/pf9put4/
 - **The fight is too easy you don't even have to mage him. They need in increase the difficulty of the fight so you actually have to tribrid. You shouldn't be able to just zbow/nox him**
-  - comment · 9h ago · Candid-East4808 · score 13
+  - comment · 10h ago · Candid-East4808 · score 13
   - matched: shouldn't be able
   - re: Don’t change how Pete Kayer rewards the cape
   - https://www.reddit.com/r/2007scape/comments/1x3bdwy/dont_change_how_pete_kayer_rewards_the_cape/pf9h4cu/
 - **It’s so annoying, on loads all of my items what have charges etc, 1 mobile fix seems to lead to another bug. Shambles lately for mobile players **
-  - comment · 9h ago · Bubbly_Leather_6937 · score 13
+  - comment · 10h ago · Bubbly_Leather_6937 · score 13
   - matched: bug
   - re: Why does every pay-dirt have a ‘1’ next to them no
   - https://www.reddit.com/r/2007scape/comments/1x3b4y3/why_does_every_paydirt_have_a_1_next_to_them_now/pf9e6jg/
 - **It's a bug that was introduced a few weeks ago. I assume they're working on it. **
-  - comment · 9h ago · HighlightFun8419 · score 13
+  - comment · 10h ago · HighlightFun8419 · score 13
   - matched: bug
   - re: Why does every pay-dirt have a ‘1’ next to them no
   - https://www.reddit.com/r/2007scape/comments/1x3b4y3/why_does_every_paydirt_have_a_1_next_to_them_now/pf9ddd8/
 - **Doom bug**
-  - r/2007scape · 9h ago · TheWeTodd · score 13
+  - r/2007scape · 10h ago · TheWeTodd · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x3axcx/doom_bug/
 - **I take it off for bug tasks to get the crush bonus from mythical.**
-  - comment · 11h ago · BirdofWhite · score 13
+  - comment · 12h ago · BirdofWhite · score 13
   - matched: bug
   - re: 1/51.2K drop rate. Jesus.
   - https://www.reddit.com/r/2007scape/comments/1x35018/1512k_drop_rate_jesus/pf8s8wd/
 - **Auto Hot Keys on MacOS**
-  - r/2007scape · 11h ago · Junior_Zone7690 · score 13
+  - r/2007scape · 12h ago · Junior_Zone7690 · score 13
   - matched: not intended
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x382ph/auto_hot_keys_on_macos/
 - **You shitters dont realize you're not supposed to beat the final boss, not untill you've become a good pker anyway**
-  - comment · 12h ago · Vital_Granade · score 13
+  - comment · 13h ago · Vital_Granade · score 13
   - matched: not supposed to
   - re: pete kayer
   - https://www.reddit.com/r/2007scape/comments/1x36z78/pete_kayer/pf8c23k/
 - **Avernic Treads (max) depleted from game after depositing worn items.**
-  - r/2007scape · 13h ago · Dry_Confidence_7805 · score 13
+  - r/2007scape · 14h ago · Dry_Confidence_7805 · score 13
   - matched: bug
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x360og/avernic_treads_max_depleted_from_game_after/
 - **If we continue using nails as the example, I dont think an extra 10 - 15 nails is game breaking. You can do port tasks and farm them from the loot bags there already. This would ju**
-  - comment · 17h ago · Hopeful-Lynx8330 · score 13
+  - comment · 18h ago · Hopeful-Lynx8330 · score 13
   - matched: game breaking
   - re: Smithing could be so much better
   - https://www.reddit.com/r/2007scape/comments/1x31wqk/smithing_could_be_so_much_better/pf7a7n9/
 - **What's the glitch?**
-  - comment · 19h ago · The_God_of_Biscuits · score 13
+  - comment · 20h ago · The_God_of_Biscuits · score 13
   - matched: glitch
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6uzfe/
 - **I feel like that's falling pretty hard into glitch abuse territory, I'd be unsurprised if this gets patched out.**
-  - comment · 19h ago · JeffTheHobo · score 13
+  - comment · 20h ago · JeffTheHobo · score 13
   - matched: glitch
   - re: How I Tricked Runescape Item Smugglers into Losing
   - https://www.reddit.com/r/2007scape/comments/1x2zm59/how_i_tricked_runescape_item_smugglers_into/pf6rq7w/
 - **It got nerfed didn’t it? It’s not supposed to be done in 2-3 tries. It takes people dozens of runs to get the hang of inferno or colo, so why is this top tier challenge meant to be**
-  - comment · 22h ago · sellmethishouse · score 13
+  - comment · 23h ago · sellmethishouse · score 13
   - matched: not supposed to
   - re: You don't use half the tutorial during the Pete Ka
   - https://www.reddit.com/r/2007scape/comments/1x2ln3t/you_dont_use_half_the_tutorial_during_the_pete/pf677vf/
 - **The fight was a little too easy in my opinion. Most people can easily win the last fight without even using mage. The final fight you shouldn't be able to win if you don't tribrid.**
-  - comment · 22h ago · Candid-East4808 · score 13
+  - comment · 23h ago · Candid-East4808 · score 13
   - matched: shouldn't be able
   - re: BLOG UPDATE: Pete Kayer's Challenges
   - https://www.reddit.com/r/2007scape/comments/1x0rvh9/blog_update_pete_kayers_challenges/pf61cd0/
 - **I camped magic, and the game just to troll me had the npc mage 90% of the time and still beat me... idk if my npc is glitched...but i can't fool it on prayer and weapon switches. i**
-  - comment · 22h ago · Lrig69 · score 13
+  - comment · 23h ago · Lrig69 · score 13
   - matched: glitched
   - re: Pete Kayer Final Challenge - Post Patch Method (No
   - https://www.reddit.com/r/2007scape/comments/1x20wat/pete_kayer_final_challenge_post_patch_method_no/pf5yv0c/
 
-## Jagex & J-Mod  (4 · 3 above the single-term floor, 1 at it)
+## Jagex & J-Mod  (3)
 
 - **🟣 17 J-Mod replies — Not giving Sol Heredit any lore was lazy**
-  - comment · 13h ago · Mod_West · score 30
+  - comment · 14h ago · Mod_West · score 30
   - matched: J-Mod · rolled up, no bug content
   - latest of 17, Mod_West: Art discuss lore and background whenever we need to make something as 
   - https://www.reddit.com/comments/1x32oje
 - **I know the farming plants any of them fs your yield if planted I reported it to osrs 7 yrs ago and tweeted mod ash, was basically bug made by spaghetti code **
-  - comment · 4h ago · Qardos · score 28
+  - comment · 5h ago · Qardos · score 28
   - matched: bug, mod ash
   - re: PSA. Farming bug that affects herb yield!
   - https://www.reddit.com/r/2007scape/comments/1wyya02/psa_farming_bug_that_affects_herb_yield/pfbe5ey/
 - **It's integrity breaking when people leverage exploits to get a cosmetic i'm not remotely capable of getting anyway.**
-  - comment · 8h ago · NotAnotha1 · score 28
+  - comment · 9h ago · NotAnotha1 · score 28
   - matched: exploits, integrity
   - re: SHOULD JAGEX REMOVE ALL CHEESE’D PETE KAYER CAPES?
   - https://www.reddit.com/r/2007scape/comments/1x0l1vl/should_jagex_remove_all_cheesed_pete_kayer_capes/pf9vcx5/
-- **Fairytale Part 3's reward of using fairy rings without the dramen staff doesn't fix the core issue of egregious diary tasks**
-  - r/2007scape · 23h ago · Level3BALD · score 15
-  - matched: mod ash
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1x2vqok/fairytale_part_3s_reward_of_using_fairy_rings/
 
-## "You can do this" finds  (8)
+## "You can do this" finds  (10)
 
 - **That's the best advice yet --- dunno why I wouldn't put firemaking higher for that exact reason jeeze Won't be able to burst for xp since I can't unlock burst spells but library is**
-  - comment · 3h ago · mermicide · score 26
+  - comment · 4h ago · mermicide · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: Help with 1 99 at a time plan
   - https://www.reddit.com/r/2007scape/comments/1x3j8qi/help_with_1_99_at_a_time_plan/pfbnyq8/
 - **Time for a wall of text... Mining: Honestly, I think mining as a general concept is fine. Go to rock. Mine rock. Get ore. I think RS3's idea of mining is ok, but flawed. However, i**
-  - comment · 6h ago · jordsta95 · score 26
+  - comment · 7h ago · jordsta95 · score 26
   - matched: ⚡ food per inventory slot, no xp
   - re: Since the poll passed, what is your ideal changes 
   - https://www.reddit.com/r/2007scape/comments/1x1xqu1/since_the_poll_passed_what_is_your_ideal_changes/pfai9oy/
 - **Hell yeah lol that's wild, go get that bottomless milk bucket 💪🏻**
-  - comment · 10h ago · Tylerr1789 · score 26
+  - comment · 11h ago · Tylerr1789 · score 26
   - matched: ⚡ food per inventory slot, bottomless
   - re: Pretty good rng
   - https://www.reddit.com/r/ironscape/comments/1x334zv/pretty_good_rng/pf8xvqz/
 - **Bones to Peaches already exists my guy. Enjoy the fruit snacking!**
-  - comment · 13h ago · Dead_Methods · score 26
+  - comment · 14h ago · Dead_Methods · score 26
   - matched: ⚡ food per inventory slot, bones to peaches
   - re: What would be wrong with this? Imo OSRS needs othe
   - https://www.reddit.com/r/2007scape/comments/1x35win/what_would_be_wrong_with_this_imo_osrs_needs/pf84rvu/
 - **Or worries about those poor pkers not able to hunt down resource area fishermen for their lobster pot and bait when they can double smuggle with tackle box + fish barrel I'd say /s**
-  - comment · 18h ago · Cyberslasher · score 26
+  - comment · 19h ago · Cyberslasher · score 26
   - matched: ⚡ food per inventory slot, smuggle, fish barrel, tackle box
   - re: Don't let stackable net traps distract you from th
   - https://www.reddit.com/r/2007scape/comments/1x2l1x0/dont_let_stackable_net_traps_distract_you_from/pf6yf5g/
+- **I used my money to skip the midgame grinds that are horrible I still locked myself in the red prison I have 45m in the bank and still went over drop rate grinding the enhanced tele**
+  - comment · 52m ago · Aleventen · score 18
+  - matched: ⚡ container misbehaving, herb sack, drop-rate complaint
+  - re: New player.Starting to think I am not cut out to b
+  - https://www.reddit.com/r/ironscape/comments/1x2rsdf/new_playerstarting_to_think_i_am_not_cut_out_to/pfcz5et/
+- **I personally think it’s funny as fuck yall crying that someone found a way to stop gravestone bullshit mechanics. Remove dumbass gravestones and make gear always go to death, but I**
+  - comment · 8m ago · Throwawaystartover · score 16
+  - matched: found a way to, gravestone
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd6zc1/
 - **Honestly shocking they did, but I'm glad they did. I like trawling, and honestly it isn't that game changing compared to buying sharks in piscarillus or using noted sharks. Early s**
-  - comment · 8h ago · PangolinPalantir · score 17
+  - comment · 9h ago · PangolinPalantir · score 17
   - matched: cargo, using noted
   - re: Would it be OP to allow us to store ore and logs i
   - https://www.reddit.com/r/2007scape/comments/1x3cgyk/would_it_be_op_to_allow_us_to_store_ore_and_logs/pf9uq22/
 - **So many triggered/bad responses to what seems like a genuine question from a new player. To answer your questions: 1. You can't buy xp, achievement diaries, combat achievements, qu**
-  - comment · 6h ago · Annual_Discussion_20 · score 16
+  - comment · 7h ago · Annual_Discussion_20 · score 16
   - matched: you can skip, max cape
   - re: What is the point of playing when everything can b
   - https://www.reddit.com/r/2007scape/comments/1x39pjy/what_is_the_point_of_playing_when_everything_can/pfaqif4/
 - **Can't believe this still works after 2 years. This is great, thanks man! **
-  - comment · 7h ago · crovan-tan · score 16
+  - comment · 8h ago · crovan-tan · score 16
   - matched: still works after, still works
   - re: Runelite GPU Plugin Turns Off
   - https://www.reddit.com/r/2007scape/comments/vpy4aq/runelite_gpu_plugin_turns_off/pfa9onb/
 
-## Mechanics & wiki corrections  (39 · 38 above the single-term floor, 1 at it)
+## Mechanics & wiki corrections  (42 · 41 above the single-term floor, 1 at it)
 
 - **✎ Money making guide/Crafting blood runes through the Abyss — Colossal pouch no longer requires level 85.**
   - wiki · 1h ago · Mobiwan · score 27
@@ -310,52 +375,62 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 2s ago
   - edit
   - https://oldschool.runescape.wiki/w/Money_making_guide%2FCrafting_blood_runes_through_the_Abyss
 - **It requires you to abuse the gravestone mechanics to smuggle gear into the wildy, die naked without fighting back, come back and pick up all your smuggled gear, then get killed aga**
-  - comment · 1m ago · Local-Cicada2173 · score 26
+  - comment · 57m ago · Local-Cicada2173 · score 26
   - matched: smuggle, smuggled
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcy3tp/
 - **1) woodcutting . Its afk and you can access woodcutting guild with basically no other requirements, getting a rune axe (which is effectively bis for you until mostly max). 2) fire **
-  - comment · 32m ago · whatitzresha · score 25
+  - comment · 1h ago · whatitzresha · score 25
   - matched: safespot, wintertodt
   - re: Help with 1 99 at a time plan
   - https://www.reddit.com/r/2007scape/comments/1x3j8qi/help_with_1_99_at_a_time_plan/pfcskft/
 - **10% is certainly too strong. But a nerfed version would be interesting. Not being able to use protection paryers with soul split is a huge downside. It would be a helpful form of s**
-  - comment · 13h ago · HacksMe · score 28
+  - comment · 14h ago · HacksMe · score 28
   - matched: you don't need, tick eating, overheads
   - re: What would be wrong with this? Imo OSRS needs othe
   - https://www.reddit.com/r/2007scape/comments/1x35win/what_would_be_wrong_with_this_imo_osrs_needs/pf86igo/
 - **I'm hopeful for maybe some viable earlygame demonbane and dragonbane weapons. Dragonbane doesn't really enter the conversation until Dragon Hunter Wand from Huey, and then MUCH lat**
-  - comment · 2h ago · DivineInsanityReveng · score 26
+  - comment · 3h ago · DivineInsanityReveng · score 26
   - matched: demonbane, darklight
   - re: What are some good early/midgame rewards you'd be 
   - https://www.reddit.com/r/2007scape/comments/1x3d80v/what_are_some_good_earlymidgame_rewards_youd_be/pfc3j7v/
 - **If they're using a greater teleport focus, they're almost certainly able to use sailor's amulet for Deepfin Point or rings of duelling for Castle Wars. I've not seen the Char Islan**
-  - comment · 8h ago · JeffTheHobo · score 26
+  - comment · 9h ago · JeffTheHobo · score 26
   - matched: teleport focus, greater teleport focus
   - re: Would it be OP to allow us to store ore and logs i
   - https://www.reddit.com/r/2007scape/comments/1x3cgyk/would_it_be_op_to_allow_us_to_store_ore_and_logs/pf9vts9/
 - **It’s not tick eating, jsyk. Tick eating it the action of eating on the same tick as incoming pve damage, which keeps you alive. You can’t tick eat in PvP, only combo eat. **
-  - comment · 10h ago · ThrowawayBcScaredlol · score 26
+  - comment · 11h ago · ThrowawayBcScaredlol · score 26
   - matched: tick eat, combo eat
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf95zqe/
 - **You do know red x doesn’t work in PvP so being able to do it to Pete will not be good practice. It’s all about simulating PvP as closely as possible to be a sandbox to practice in.**
-  - comment · 13h ago · DifferentSecurity555 · score 26
+  - comment · 14h ago · DifferentSecurity555 · score 26
   - matched: stall, red x, red xing
   - re: People don't care about pvp, just the cape
   - https://www.reddit.com/r/2007scape/comments/1x2a893/people_dont_care_about_pvp_just_the_cape/pf81yk0/
 - **How do I solve this wave of the Inferno?**
-  - r/2007scape · 22h ago · Plaid_To_The_Bone · score 26
+  - r/2007scape · 23h ago · Plaid_To_The_Bone · score 26
   - matched: safespot, same tick
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2wpax/how_do_i_solve_this_wave_of_the_inferno/
+- **Pete kayer. Been stuck in gear switching and combo eating for 2 hours now/ idk why jagex expects us to be tick perfect to the micro millisecond , no one does that shit in PvP. Havi**
+  - comment · 11m ago · CommercialTwo1359 · score 20
+  - matched: tick perfect, combo eating
+  - re: In your opinion, what was the worst update OSRS ev
+  - https://www.reddit.com/r/2007scape/comments/1x3p4u8/in_your_opinion_what_was_the_worst_update_osrs/pfd6ja6/
+- **If only there was a way to make them to zero damage that is stressed by every inferno guide ever... Like I said. There is no bad spawn before the 50s. Safespot the melee and altern**
+  - comment · 24m ago · WindHawkeye · score 20
+  - matched: safespot
+  - re: Whoever says this is harder than inferno is lying.
+  - https://www.reddit.com/r/2007scape/comments/1x2mt3r/whoever_says_this_is_harder_than_inferno_is_lying/pfd41nk/
 - **Venom can launch at your feet, bad pathing (skill issue) can get you venomed Stay mad**
-  - comment · 15m ago · redrumyliad · score 20
+  - comment · 1h ago · redrumyliad · score 20
   - matched: pathing
   - re: 404 KC to green log doom with dupe treads (0 deep 
   - https://www.reddit.com/r/ironscape/comments/1x2y96g/404_kc_to_green_log_doom_with_dupe_treads_0_deep/pfcvnc9/
 - **found a safespot that is also on a triple salvage**
-  - r/2007scape · 18m ago · kahrum · score 20
+  - r/2007scape · 1h ago · kahrum · score 20
   - matched: safespot
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x3ocrd/found_a_safespot_that_is_also_on_a_triple_salvage/
@@ -365,117 +440,127 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 2s ago
   - re: Sailing remains comfy
   - https://www.reddit.com/r/ironscape/comments/1x1qciw/sailing_remains_comfy/pfb9mc3/
 - **You can’t, he’s referring to combo eating in the same tick**
-  - comment · 9h ago · M-R-buddha · score 24
+  - comment · 10h ago · M-R-buddha · score 24
   - matched: combo eating, same tick
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf9ar4v/
 - **Just don’t even attempt until there’s another nerf. The guys on this sub defending the cape cheesed it with strats that have been hot fixed. He’s a terminator AHK bot and you need **
-  - comment · 10h ago · MillerBlade2 · score 24
+  - comment · 11h ago · MillerBlade2 · score 24
   - matched: infinite prayer, brewed down
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf92qis/
 - **The serpent and jaguar mobs are just humans in costumes. The jav colossus and mager are both robots, but the mage is white for some reason, probably painted for gameplay reasons ra**
-  - comment · 11h ago · Raicoron2 · score 23
+  - comment · 12h ago · Raicoron2 · score 23
   - matched: for some reason, manticore
   - re: Not giving Sol Heredit any lore was lazy
   - https://www.reddit.com/r/2007scape/comments/1x32oje/not_giving_sol_heredit_any_lore_was_lazy/pf8t3sr/
+- **When the answer was just to hop worlds first I think the fault still lies with the pvmer. No one is getting banned for this. This should still be fixed but then so should the grave**
+  - comment · 38m ago · rsn_alchemistry · score 17
+  - matched: smuggle, gravestone
+  - re: PSA: PKers are abusing a gravestone bug in the wil
+  - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfd1kq0/
+- **Successfully is a strong word here. Smithing was created and balanced around RuneScape classic. The core promise of the skill as presented to the player was that you could make ite**
+  - comment · 39m ago · IM_GOOD_AT_THE_CYBER · score 17
+  - matched: classic, runescape classic
+  - re: Only reason I mained RS3 for as long as I did
+  - https://www.reddit.com/r/2007scape/comments/1x3l35p/only_reason_i_mained_rs3_for_as_long_as_i_did/pfd1hke/
 - **How is that shitty? That's what the wilderness is about and you take that risk when entering the wildy. If you're using a gravestone mechanic to smuggle items into the wilderness r**
-  - comment · 10m ago · infra_low · score 17
+  - comment · 1h ago · infra_low · score 17
   - matched: smuggle, gravestone
   - re: PSA: PKers are abusing a gravestone bug in the wil
   - https://www.reddit.com/r/2007scape/comments/1x3nxa8/psa_pkers_are_abusing_a_gravestone_bug_in_the/pfcwl8d/
 - **Does this skew OPs calculation somehow? His assumption is a regression to the mean and yet we know that everyone who has one must have been spooned - nobody got a 3rd age pickaxe o**
-  - comment · 34m ago · jiffapiffa · score 17
+  - comment · 1h ago · jiffapiffa · score 17
   - matched: regression, 3rd age
   - re: With the release of the new pet totals we can esti
   - https://www.reddit.com/r/2007scape/comments/1wzt0yr/with_the_release_of_the_new_pet_totals_we_can/pfcs2rx/
 - **I love training range/mage at black knights fortress north of falador and east of edgeville. You can hide behind some spears making a safe spot for range/mage. There are 3 black kn**
-  - comment · 3h ago · Woodeus3 · score 20
+  - comment · 4h ago · Woodeus3 · score 20
   - matched: safe spot
   - re: I’m starting my OSRS journey! Please give me some 
   - https://www.reddit.com/r/2007scape/comments/1x3e90y/im_starting_my_osrs_journey_please_give_me_some/pfbo42k/
 - **Just here to say - enjoy it brother! I moved away in September 2023 after I lost all faith in combat with necro and I haven’t looked back. OSRS combat has a lot more nuance than yo**
-  - comment · 5h ago · FellowGWEnjoyer712 · score 20
+  - comment · 6h ago · FellowGWEnjoyer712 · score 20
   - matched: pathing
   - re: Long time Rs3 hardcore moving to give OSRS hardcor
   - https://www.reddit.com/r/ironscape/comments/1x3fuie/long_time_rs3_hardcore_moving_to_give_osrs/pfb0drg/
 - **Howdy! Hope you enjoy your attempt at OSRS. What I like about early game Iron is that there really isn’t a wrong way to start. Just find what you like and branch out from there. Yo**
-  - comment · 6h ago · Bratt342 · score 20
+  - comment · 7h ago · Bratt342 · score 20
   - matched: max hit, max hit of
   - re: Long time Rs3 hardcore moving to give OSRS hardcor
   - https://www.reddit.com/r/ironscape/comments/1x3fuie/long_time_rs3_hardcore_moving_to_give_osrs/pfas8ws/
 - **Best bet is high prayer bonus and just afk it. Or safespot with scobow. Since it's a Konar task**
-  - comment · 6h ago · djjomon · score 20
+  - comment · 7h ago · djjomon · score 20
   - matched: safespot
   - re: Greater demons have to be one of the worst slayer 
   - https://www.reddit.com/r/2007scape/comments/1x3f218/greater_demons_have_to_be_one_of_the_worst_slayer/pfapv29/
 - **safespot blue dragons in varlamore dragon nest. Do it for like 2-3 hours and then do wilderness altar. you'll have 43 prayer in no time**
-  - comment · 6h ago · OSRSPlayerGuy · score 20
+  - comment · 7h ago · OSRSPlayerGuy · score 20
   - matched: safespot
   - re: What is the point of playing when everything can b
   - https://www.reddit.com/r/2007scape/comments/1x39pjy/what_is_the_point_of_playing_when_everything_can/pfaijtf/
 - **Probably better to tag them all and break line of sight so they clump near each other for a venator bow. Better would be to skip em.**
-  - comment · 8h ago · SoundboardTroll · score 20
+  - comment · 9h ago · SoundboardTroll · score 20
   - matched: line of sight
   - re: Is this Tech?
   - https://www.reddit.com/r/2007scape/comments/1x39a76/is_this_tech/pf9z36u/
 - **You can’t tick eating in pvp, even if the damage is the same as the healing. **
-  - comment · 8h ago · ThrowawayBcScaredlol · score 20
+  - comment · 9h ago · ThrowawayBcScaredlol · score 20
   - matched: tick eating
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf9rbi0/
 - **Yeah, tick eating would only work in PvP in the very rare case that you just randomly take equal damage to your HP. Unlike in most PvM, incoming damage isn't capped by your remaini**
-  - comment · 8h ago · Nebuli2 · score 20
+  - comment · 9h ago · Nebuli2 · score 20
   - matched: tick eating, tick eat
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf9oijj/
 - **the biggest tip from Pete kayer is that you WILL run into someone that is using AHK or botting to do things that aren't (consistently) humanly possible and you WILL struggle to be **
-  - comment · 9h ago · LifeAd5019 · score 20
+  - comment · 10h ago · LifeAd5019 · score 20
   - matched: line of sight
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf97y0a/
 - **Dont do stuff that you dont find fun. Chaos druids is pretty boring and if your main goal is prayer exp you can just do hunter rumors which give bone shards or kill blue dragons wi**
-  - comment · 10h ago · InterestingCell5247 · score 20
+  - comment · 11h ago · InterestingCell5247 · score 20
   - matched: safe spot
   - re: What is the point of playing when everything can b
   - https://www.reddit.com/r/2007scape/comments/1x39pjy/what_is_the_point_of_playing_when_everything_can/pf94nft/
 - **Most impactful? Tick eating. But most useful/best to learn? Freeze logging**
-  - comment · 10h ago · Revlos7 · score 20
+  - comment · 11h ago · Revlos7 · score 20
   - matched: tick eating
   - re: What tips from Pete Kayer tutorials are the most i
   - https://www.reddit.com/r/2007scape/comments/1x39x04/what_tips_from_pete_kayer_tutorials_are_the_most/pf91svf/
 - **Bro I cant even make it past the tick eating. **
-  - comment · 15h ago · ThisTimeForRealYo · score 20
+  - comment · 16h ago · ThisTimeForRealYo · score 20
   - matched: tick eating
   - re: 50 Pete Kayer KC
   - https://www.reddit.com/r/2007scape/comments/1x2wysg/50_pete_kayer_kc/pf7pjmg/
 - **This is only really true for darts because its to prevent you just being able to literally run through them. You can't tile skip the flame traps too, but thats fine because they ar**
-  - comment · 20h ago · DivineInsanityReveng · score 20
+  - comment · 21h ago · DivineInsanityReveng · score 20
   - matched: pathing
   - re: The Late-Game Agility Experience
   - https://www.reddit.com/r/2007scape/comments/1x2iidd/the_lategame_agility_experience/pf6ke34/
 - **Its actually not easy to share in a single screenshot. Custom Menu swap has "Custom Swaps (hotkeys)" I've set those to 1, 2, 3...9 and A,B,C...H. I have some others set like Ctrl, **
-  - comment · 18h ago · DivineInsanityReveng · score 18
+  - comment · 19h ago · DivineInsanityReveng · score 18
   - matched: plugin, spellbook swap, digsite pendant
   - re: Have a question about the game or the subreddit? A
   - https://www.reddit.com/r/2007scape/comments/1x27mpv/have_a_question_about_the_game_or_the_subreddit/pf72gfo/
 - **Jarvis remove the magic defence from the civilians armour, my barrages are splashing too often **
-  - comment · 5h ago · itsahorsemate · score 17
+  - comment · 6h ago · itsahorsemate · score 17
   - matched: splashing, magic defence
   - re: PVE players when one piece of PVP content comes ou
   - https://www.reddit.com/r/2007scape/comments/1x3cob6/pve_players_when_one_piece_of_pvp_content_comes/pfavjpx/
 - **More stuff similar to the ring of elements. Very great teleport item but ppl are sleeping on it. **
-  - comment · 7h ago · witchking782 · score 17
+  - comment · 8h ago · witchking782 · score 17
   - matched: ring of elements, teleport item
   - re: What are some good early/midgame rewards you'd be 
   - https://www.reddit.com/r/2007scape/comments/1x3d80v/what_are_some_good_earlymidgame_rewards_youd_be/pfabxev/
 - **well yeah, it not being relevant enough is half the reason people are asking for a rework. But i will say, personally i use classic smithing semi often for quests and clue steps an**
-  - comment · 8h ago · Nick543b · score 17
+  - comment · 9h ago · Nick543b · score 17
   - matched: stash units, classic
   - re: My prediction for 30 seconds after a Mining/Smithi
   - https://www.reddit.com/r/2007scape/comments/1x2d4rd/my_prediction_for_30_seconds_after_a/pf9z8kj/
 - **Depends on your HP XP, but you could Ancient Godsword spec while brewed down to 1 strength and super attack so you don't miss but hit a 1. Use an alt with a serp + toxic Trident an**
-  - comment · 9h ago · CueNoLife · score 17
+  - comment · 10h ago · CueNoLife · score 17
   - matched: partner slayer, brewed down
   - re: We did it, Untrimmed.
   - https://www.reddit.com/r/2007scape/comments/1x3a3yz/we_did_it_untrimmed/pf98y6u/
@@ -485,21 +570,16 @@ collector health · bugpages: ok (181 flagged · coverage: continuous) · 2s ago
   - re: Over 24 Hours And Still Can't Beat Pete
   - https://www.reddit.com/r/2007scape/comments/1x2so0w/over_24_hours_and_still_cant_beat_pete/pf6hihy/
 - **is my Pete a secret rogue ai that has achieved flow state?**
-  - r/2007scape · 22h ago · Lrig69 · score 17
+  - r/2007scape · 23h ago · Lrig69 · score 17
   - matched: overheads, grace period
   - 0c · 1↑
   - https://www.reddit.com/r/2007scape/comments/1x2whrz/is_my_pete_a_secret_rogue_ai_that_has_achieved/
-- **East Coast worlds stalling out?**
-  - r/2007scape · 23h ago · SkeletonKing959 · score 17
-  - matched: anyone else having, stalling
-  - 0c · 1↑
-  - https://www.reddit.com/r/2007scape/comments/1x2w3aq/east_coast_worlds_stalling_out/
 - **Not giving Sol Heredit any lore was lazy**
-  - r/2007scape · 16h ago · Hot-Ad-3362 · score 13
+  - r/2007scape · 17h ago · Hot-Ad-3362 · score 13
   - matched: J-Mod reply · no bug content
   - 75c · 145↑
   - https://www.reddit.com/r/2007scape/comments/1x32oje/not_giving_sol_heredit_any_lore_was_lazy/
 
 ---
 
-Not included: 1188 findings older than 24h. Widen with `__osrs.report(48)` in the console.
+Not included: 1116 findings older than 24h. Widen with `__osrs.report(48)` in the console.
